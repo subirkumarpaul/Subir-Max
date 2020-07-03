@@ -958,6 +958,8 @@ http://103.49.168.172:8081/ebox/in_bbc_earth_hd/chunks.m3u8
 http://103.135.208.14/live/ibox/bd/61.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 http://43.230.123.21:8080/live/natg.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic*
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg",National Geographic
