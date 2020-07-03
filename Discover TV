@@ -1435,6 +1435,9 @@ https://cdnbpp1.useetv.com/joss/14/cartoonnetwork/chunklist_w1073351013_b684100_
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU",Cartoon Network (India)
 http://202.163.117.6:9981/stream/channelid/630600262.srt
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLOEaJzz0ZUx0ZZLX69N0WjQgn-fEMxehy1g&usqp=CAU",Tom & Jarry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju0SN74.png",Disney Channel
 http://103.141.66.36/bpk-tv/10476/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU",Disney Junior
@@ -1652,5 +1655,3 @@ http://103.141.66.36/bpk-tv/10134/default/index.m3u8
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
-#EXTINF:-1 tvg-logo="",Tom & Jarry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
