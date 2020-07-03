@@ -1652,3 +1652,5 @@ http://103.141.66.36/bpk-tv/10134/default/index.m3u8
 http://103.141.66.36/bpk-tv/10141/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmhyed1uDPzoTRpCMPlnRjmH7qdZPtO3fmvMOE43N-fnisrJSu&usqp=CAU",Sangeet Marathi
 http://103.141.66.36/bpk-tv/10334/default/index.m3u8
+#EXTINF:-1 tvg-logo="",Tom & Jarry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
