@@ -1006,6 +1006,8 @@ https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU",History TV 18 HD
 http://103.135.208.14/live/ibox/bd/91.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
+http://103.81.104.222:80/live/history-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png",History TV 18
 https://cdnbpp1.useetv.com/joss/15/history/chunklist_w2034260863_b1344100_sleng_460814.m3u8
