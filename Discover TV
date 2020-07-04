@@ -836,6 +836,8 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:-1,Ten Cricket HD [TEST]
 http://107.152.234.10:8080/indian/TENCRICKET/index.m3u8
+#EXTINF:-1,Ten Cricket HD
+http://103.81.104.222:80/live/ten-cricket/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
