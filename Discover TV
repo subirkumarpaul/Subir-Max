@@ -312,7 +312,15 @@ http://103.205.133.20/hls/chsp.m3u8
 #EXTINF:-1,Sony TV HD
 http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1,Sony TV
+http://103.205.133.14/hls/chs.m3u8
+#EXTINF:-1,Sony TV
+http://103.205.133.19/hls/chs.m3u8
+#EXTINF:-1,Sony TV
 http://103.205.133.20/hls/chs.m3u8
+#EXTINF:-1,Sony TV
+http://103.205.133.21/hls/chs.m3u8
+#EXTINF:-1,Sony TV
+http://103.205.133.50/hls/chs.m3u8
 #EXTINF:-1,Sony TV
 https://ccntv.anytv.live/sony/index.m3u8
 #EXTINF:-1,Sony SAB HD
