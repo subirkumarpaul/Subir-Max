@@ -411,6 +411,8 @@ http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 https://z5amshls.akamaized.net/zzesthd/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Colors Cineplex UK
 http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1,UTV Action
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1,BTV Kadak
