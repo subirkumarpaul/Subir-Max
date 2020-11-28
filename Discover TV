@@ -14,9 +14,9 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,ATN Bangla
 http://103.205.133.20/hls/atnbangla.m3u8
 #EXTINF:-1,ATN Bangla
-http://master.beeiptv.com:8081/colorsiptv/atnbangla/playlist.m3u8
+http://103.132.180.245:8080/8/index.m3u8
 #EXTINF:-1,Channel I HD
-http://master.beeiptv.com:8081/colorsiptv/channeli/playlist.m3u8
+http://103.132.180.245:8080/5/index.m3u8
 #EXTINF:-1,Channel I HD
 http://103.205.133.20/hls/ichannel.m3u8
 #EXTINF:-1,Ekushey TV
@@ -26,13 +26,13 @@ http://103.205.133.20/hls/ekushey.m3u8
 #EXTINF:-1,Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,NTV
-http://master.beeiptv.com:8081/colorsiptv/ntv/playlist.m3u8
+http://103.132.180.245:8080/12/index.m3u8
 #EXTINF:-1,NTV
 http://103.205.133.20/hls/ntv.m3u8
 #EXTINF:-1,NTV EK
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,RTV
-http://master.beeiptv.com:8081/colorsiptv/rtv/playlist.m3u8
+http://103.132.180.245:8080/11/index.m3u8
 #EXTINF:-1,RTV
 http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
@@ -52,7 +52,7 @@ http://master.beeiptv.com:8081/colorsiptv/channel9/playlist.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vision
-http://master.beeiptv.com:8081/colorsiptv/banglavision/playlist.m3u8
+http://103.132.180.245:8080/10/index.m3u8
 #EXTINF:-1,Duronto TV
 http://master.beeiptv.com:8081/colorsiptv/duronto/playlist.m3u8
 #EXTINF:-1,Duronto TV
@@ -88,7 +88,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,SATV
 http://103.205.133.20/hls/satv.m3u8
 #EXTINF:-1,SATV
-http://master.beeiptv.com:8081/colorsiptv/satv/playlist.m3u8
+http://103.132.180.245:8080/4/index.m3u8
 #EXTINF:-1,Nagorik TV
 http://master.beeiptv.com:8081/colorsiptv/nagoriktv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
@@ -164,7 +164,7 @@ http://103.205.133.20/hls/atnnews.m3u8
 #EXTINF:-1,ATN News
 https://ccntv.anytv.live/atnnews/index.m3u8
 #EXTINF:-1,ATN News
-http://master.beeiptv.com:8081/colorsiptv/atnnews/playlist.m3u8
+http://103.132.180.245:8080/9/index.m3u8
 #EXTINF:-1,Ekattor TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1,Ekattor TV
@@ -172,11 +172,13 @@ http://103.205.133.20/hls/ekatoortv.m3u8
 #EXTINF:-1,News 24
 http://103.205.133.20/hls/news24.m3u8
 #EXTINF:-1,News 24
-http://master.beeiptv.com:8081/colorsiptv/news24/playlist.m3u8
+http://103.132.180.245:8080/3/index.m3u8
 #EXTINF:-1,DBC News
 http://103.205.133.20/hls/dbcnews.m3u8
 #EXTINF:-1,DBC News
-http://master.beeiptv.com:8081/colorsiptv/dbcnews/playlist.m3u8
+http://103.132.180.245:8080/2/index.m3u8
+#EXTINF:-1,Independent TV
+http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1,Independent TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
@@ -186,11 +188,13 @@ http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
+http://103.132.180.245:8080/13/index.m3u8
+#EXTINF:-1,Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1,Jamuna TV
 https://ccntv.anytv.live/jamuna/index.m3u8
 #EXTINF:-1,Channel 24
-http://master.beeiptv.com:8081/colorsiptv/channel24/playlist.m3u8
+http://103.132.180.245:8080/7/index.m3u8
 #EXTINF:-1,Channel 24
 http://103.205.133.20/hls/channel24.m3u8
 #EXTINF:-1,TBN 24
@@ -212,7 +216,9 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:-1,Gaan Bangla
 http://103.205.133.20/hls/gaanbangla.m3u8
 #EXTINF:-1,Gaan Bangla
-http://master.beeiptv.com:8081/colorsiptv/gaanbangla/playlist.m3u8
+http://103.132.180.245:8080/15/index.m3u8
+#EXTINF:-1,RTV Music
+http://103.132.180.245:8080/14/index.m3u8
 #EXTINF:-1,RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Music Choice
