@@ -6,7 +6,7 @@ http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
 #EXTINF:-1,BTV World
 http://103.205.133.20/hls/btvworld.m3u8
 #EXTINF:-1,BTV World
-http://master.beeiptv.com:8081/colorsiptv/btv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/btv/chunks.m3u8
 #EXTINF:-1,BTV Chottogram
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1,Sangsad TV
@@ -36,7 +36,7 @@ http://103.132.180.245:8080/11/index.m3u8
 #EXTINF:-1,RTV
 http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
-http://master.beeiptv.com:8081/colorsiptv/gtv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/gtv/playlist.m3u8
 #EXTINF:-1,Gazi TV
 http://43.251.86.6:8080/hls/channel_1.m3u8
 #EXTINF:-1,Gazi TV
@@ -44,17 +44,17 @@ http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Gazi TV
 http://103.132.180.245:8080/1/index.m3u8
 #EXTINF:-1,Maasranga TV
-http://master.beeiptv.com:8081/colorsiptv/maasranga/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/maasranga/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 #EXTINF:-1,Channel 9 HD BD
-http://master.beeiptv.com:8081/colorsiptv/channel9/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/channel9/playlist.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.132.180.245:8080/10/index.m3u8
 #EXTINF:-1,Duronto TV
-http://master.beeiptv.com:8081/colorsiptv/duronto/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/duronto/playlist.m3u8
 #EXTINF:-1,Duronto TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1,Bijoy TV
@@ -62,27 +62,27 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,Deepto TV HD
 http://103.205.133.20/hls/deeptotv.m3u8
 #EXTINF:-1,Deepto TV HD
-http://master.beeiptv.com:8081/colorsiptv/deeptotv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/deeptotv/playlist.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1,Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Asian TV
-http://master.beeiptv.com:8081/colorsiptv/asian/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/asian/playlist.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
-http://master.beeiptv.com:8081/colorsiptv/boishakhi/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/boishakhi/playlist.m3u8
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1,Bangla TV
 http://103.205.133.20/hls/banglatv.m3u8
 #EXTINF:-1,Bangla TV
-http://master.beeiptv.com:8081/colorsiptv/banglatv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/banglatv/playlist.m3u8
 #EXTINF:-1,Desh TV
-http://master.beeiptv.com:8081/colorsiptv/desh/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/desh/playlist.m3u8
 #EXTINF:-1,Desh TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:-1,SATV
@@ -90,7 +90,7 @@ http://103.205.133.20/hls/satv.m3u8
 #EXTINF:-1,SATV
 http://103.132.180.245:8080/4/index.m3u8
 #EXTINF:-1,Nagorik TV
-http://master.beeiptv.com:8081/colorsiptv/nagoriktv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/nagoriktv/playlist.m3u8
 #EXTINF:-1,Nagorik TV
 http://103.205.133.20/hls/nagorik.m3u8
 #EXTINF:-1,Mohona TV
@@ -98,11 +98,11 @@ http://103.205.133.20/hls/mohonatv.m3u8
 #EXTINF:-1,Mohona TV
 https://ccntv.anytv.live/mohona/index.m3u8
 #EXTINF:-1,Mohona TV
-http://master.beeiptv.com:8081/colorsiptv/mohona/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/mohona/playlist.m3u8
 #EXTINF:-1,MY TV
 http://103.205.133.20/hls/mytv.m3u8
 #EXTINF:-1,MY TV
-http://master.beeiptv.com:8081/colorsiptv/mytv/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/mytv/playlist.m3u8
 #EXTINF:-1,Channel S BD
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/chunks.m3u8
 #EXTINF:-1,Channel S UK
@@ -184,7 +184,7 @@ https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Somoy News
 https://ccntv.anytv.live/somoy/index.m3u8
 #EXTINF:-1,Somoy News
-http://master.beeiptv.com:8081/MB/somoy/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/somoy/playlist.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
@@ -228,7 +228,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://ccntv.anytv.live/starjalsha/index.m3u8
 #EXTINF:-1,Star Jslsha
-http://master.beeiptv.com:8081/colorsiptv/starjalsha/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/starjalsha/playlist.m3u8
 #EXTINF:-1,Star Jalsha
 http://103.205.133.20/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha
@@ -236,13 +236,13 @@ http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
 #EXTINF:-1,Zee Bangla HD
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
 #EXTINF:-1,Zee Bangla
-http://master.beeiptv.com:8081/colorsiptv/zeebangla/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/zeebangla/playlist.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.20/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
 http://163.172.29.246:8081/globalbd/zeebangla/chunks.m3u8?@asfaiptv
 #EXTINF:-1,Sony Aath
-http://master.beeiptv.com:8081/colorsiptv/sonyaath/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/sonyaath/playlist.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.21/0/hls/sony8.m3u8
 #EXTINF:-1,Sony Aath
@@ -250,7 +250,7 @@ https://ccntv.anytv.live/sonyaath/index.m3u8
 #EXTINF:-1,Sony Aath
 http://163.172.29.246:8081/globalbd/sonyaath/chunks.m3u8
 #EXTINF:-1,Colors Bangla HD
-http://master.beeiptv.com:8081/colorsiptv/colorsbangla/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/colorsbangla/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.20/hls/etvbangla.m3u8
 #EXTINF:-1,Colors Bangla
@@ -270,7 +270,7 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1,DD Bangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Jalsha Movies
-http://master.beeiptv.com:8081/colorsiptv/starjalshamovies/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/starjalshamovies/playlist.m3u8
 #EXTINF:-1,Jalsha Movies
 https://ccntv.anytv.live/jalshamovise/index.m3u8
 #EXTINF:-1,Jalsha Movies
@@ -278,7 +278,7 @@ http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
-http://master.beeiptv.com:8081/colorsiptv/zeebanglacinema/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/zeebanglacinema/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1,Khusbo Bangla 
@@ -628,7 +628,7 @@ https://delivery.ghanacloud.ga/LiveApp/streams/842293636447220341220267.m3u8
 #EXTINF:-1,Star Movies HD (UAE)
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 #EXTINF:-1,Star Movies (India)
-http://master.beeiptv.com:8081/colorsiptv/starmovies/playlist.m3u8
+http://master.beeiptv.com:8081/LAW/starmovies/playlist.m3u8
 #EXTINF:-1,Star Movies (India)
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1,And Prive HD
