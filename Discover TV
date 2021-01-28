@@ -342,115 +342,36 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1,T Sports BD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1,Star Sports 1 HD
-http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1,Star Sports 1
 https://ccntv.anytv.live/starsp1/index.m3u8
-#EXTINF:-1,Star Sports 1 Hindi
-http://10.100.100.134/live/skyfeed1001/index.m3u8
-#EXTINF:-1,Star Sports 1 Hindi
-http://dx3.gcdn.co/STARSPORTS3/index.m3u8?@asfaiptv
-#EXTINF:-1,Star Sports 2 HD
-http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.20/hls/chss2.m3u8
 #EXTINF:-1,Star Sports 2
 https://ccntv.anytv.live/starsp2/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1 HD
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
-#EXTINF:-1,Sony Ten 1
-https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Sony Ten 2 HD
-http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.20/hls/ten2.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
-#EXTINF:-1,Sony Ten 3
-https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Sony Six HD
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Six HD
-https://load.airtelxstream.in/sonysixhd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:-1,D Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1,Live Sports
-http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PTV Sports
 https://streams.simpaisa.com:8443/pitvlive3/ptvsports.smil/chunklist.m3u8
 #EXTINF:-1,Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Geo Super HD
-http://dx3.gcdn.co/GEOSUPER/index.m3u8
 #EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1,Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1,Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,Ad Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,Ad Sports 3
-https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,Ad Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
-#EXTINF:-1,Euro Sports 1
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1,Euro Sports 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Fox Sports
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
-#EXTINF:-1,BT Sports 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1,BT Sports 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1,BT Sports 3
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1,PPTV HD36
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1,Bein Sports USA
-http://dx3.gcdn.co/BEINSPORTSES/index.m3u8
-#EXTINF:-1,Bein Sports 1
-http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
-#EXTINF:-1,Bein Sports 2
-http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
-#EXTINF:-1,Bein Sports 4
-http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
-#EXTINF:-1,Bein Sports 5
-http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
-#EXTINF:-1,Bein Sports Xtra (720p)
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1,FC Bayern TV Live
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-#EXTINF:-1,Real Madrid TV 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1,Titas Sports
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1,Discovery HD (Bangla)
-https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-#EXTINF:-1,Discovery (Bangla)
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1,Discovery (Bangla)CCNTV
-https://ccntv.anytv.live/discovery/index.m3u8
+
 #EXTINF:-1,Discovery (Bangla)
 http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1,Discovery (English)
@@ -477,14 +398,6 @@ http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
 #EXTINF:-1,Nat Geo People
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
-#EXTINF:-1,TLC HD
-https://streamitv.multitvsolution.in/idvo/tlchd.m3u8
-#EXTINF:-1,TLC HD (Hindi)
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
-#EXTINF:-1,TLC (English)
-https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-#EXTINF:-1,GOOD TiMES
-https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,FOOD 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,Food Network
@@ -540,7 +453,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1,Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1,9xM
-https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8
+http://103.205.133.20/hls/9xm.m3u8
 #EXTINF:-1,9xM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9X Jalwa
@@ -589,8 +502,6 @@ http://dx3.gcdn.co/kids-POGO/index.m3u8
 https://ccntv.anytv.live/nick/index.m3u8
 #EXTINF:-1,Nick Jr
 http://dx3.gcdn.co/kids-NICKJR/index.m3u8
-#EXTINF:-1,Discovery Kids (Hindi)
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1,Star Movies
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 #EXTINF:-1,OSN Yahala Cinema
