@@ -243,78 +243,34 @@ https://ccntv.anytv.live/colorsbangla/index.m3u8
 http://103.205.133.20/hls/ruposhibangla.m3u8
 #EXTINF:-1,Jalsha Movies
 https://ccntv.anytv.live/jalshamovise/index.m3u8
-#EXTINF:-1,Jalsha Movies
-http://163.172.29.246:8081/globalbd/starjalshamovies/chunks.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-http://master.beeiptv.com:8081/LAW/zeebanglacinema/playlist.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1,Khusbo Bangla 
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.20/hls/dhoommusic.m3u8
 #EXTINF:-1,Dhoom Music
 https://ccntv.anytv.live/dhoom/index.m3u8
-#EXTINF:-1,Dhoom Music
-https://load.airtelxstream.in/dhoommusic/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Zee 24 Ghonta
 http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
 #EXTINF:-1,Bangla Time
 http://103.205.133.20/hls/banglatime.m3u8
-#EXTINF:-1,Bangla Time
-https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 #EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1,ABP Ananda
-https://load.airtelxstream.in/abpananda/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-,Kolkata TV
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,News Time Bangla
-https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
-#EXTINF:-1,Calcutta News
-https://d39iawgzv3h0yo.cloudfront.net:443/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8
-#EXTINF:-1,Star Plus HD
-https://dx3.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HD
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Plus HD
-http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.20/hls/chsp.m3u8
-#EXTINF:-1,Sony TV HD
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
 #EXTINF:-1,Sony TV
-http://103.205.133.14/hls/chs.m3u8
-#EXTINF:-1,Sony TV
-http://103.205.133.19/hls/chs.m3u8
-#EXTINF:-1,Sony TV
-http://103.205.133.20/hls/chs.m3u8
+http://103.205.133.48/hls/chs.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
-http://103.205.133.50/hls/chs.m3u8
-#EXTINF:-1,Sony TV
-https://ccntv.anytv.live/sony/index.m3u8
-#EXTINF:-1,Sony SAB HD
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+http://103.205.133.20/hls/chs.m3u8
 #EXTINF:-1,Sony SAB
 http://103.205.133.20/hls/sonysab.m3u8
-#EXTINF:-1,Sony SAB
-https://ccntv.anytv.live/sonysab/index.m3u8
-#EXTINF:-1,Sony Pal
-http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
-#EXTINF:-1,Zee TV HD
-http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
-#EXTINF:-1,Zee TV
-http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
-#EXTINF:-1,Zee TV
-https://ccntv.anytv.live/zeetv/index.m3u8
 #EXTINF:-1,Zee TV
 http://103.205.133.20/hls/zeetv.m3u8
 #EXTINF:-1,Zee TV
@@ -327,43 +283,13 @@ http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Colors HD
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
-#EXTINF:-1,Colors HD
-http://208.115.215.42/Colors_TV_HD/index.m3u8
-#EXTINF:-1,Colors
-http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.20/hls/chc.m3u8
 #EXTINF:-1,And TV
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andtvhd/index.m3u8
-#EXTINF:-1,And TV
 http://103.205.133.20/hls/andtv.m3u8
-#EXTINF:-1,Star Bharat
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
-#EXTINF:-1,Colors Rishtey
-http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
-#EXTINF:-1,Big Magic
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigmagic/index.m3u8
-#EXTINF:-1,Big Ganga
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/bigganga/index.m3u8
-#EXTINF:-1,DD National
-https://load.airtelxstream.in/dd1/smil:common.smil/manifest.m3u8 op
-#EXTINF:-1,Star Gold HD
-http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD
-https://ccntv.anytv.live/stargold/index.m3u8
-#EXTINF:-1,Star Gold Select
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-#EXTINF:-1,Sony Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1,Sony Max
-https://ccntv.anytv.live/sonymax/index.m3u8
-#EXTINF:-1,Sony Max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Sony Max 2
+
 https://ccntv.anytv.live/sonymax2/index.m3u8
 #EXTINF:-1,Sony Max 2
 https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
