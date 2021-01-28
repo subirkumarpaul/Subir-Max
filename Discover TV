@@ -285,12 +285,16 @@ http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.20/hls/chc.m3u8
+#EXTINF:-1,Colors Ristay
+http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.20/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://z5amshls.akamaized.net:80/zcinema/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema
@@ -307,18 +311,12 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1,BTV Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
-#EXTINF:-1,UTV Movies
-http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1,Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Bollywood
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
 #EXTINF:-1,Zee Anmol Cinema
 https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
-#EXTINF:-1,Zee Anmol Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zanmolcnm/index.m3u8
-#EXTINF:-1,Zee Bioscop
-http://210.210.155.35/session/5bd7d0b2-aa4e-11ea-8523-b6c08614c524/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,And Picture HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,And Picture 
@@ -327,32 +325,14 @@ http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
 https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1,B4U Movies
 http://103.205.133.20/hls/b4umovies.m3u8
-#EXTINF:-1,Enter 10
-https://load.airtelxstream.in/enterr10/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1,Manoranjan TV
-https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:-1,Housefull Movies
-https://streamitv.multitvsolution.in/idvo/housefullmovies.m3u8
 #EXTINF:-1,Wow Cinema
 http://103.205.133.20/hls/wowcinema.m3u8
-#EXTINF:-1,Moha Movies
-https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,Mini Plax
-https://streamitv.multitvsolution.in/idvo/multiplexcinema.m3u8
-#EXTINF:-1,SHEMAROO CLASSIC
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1,BOLLYWOOD HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1,BOLLYWOOD CLASSIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1,T Sports BD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1,T Sports BD
@@ -390,7 +370,7 @@ https://load.airtelxstream.in/sonyten1/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 HD
-https://load.airtelxstream.in/sonyten2hd/smil:common.smil/chunklist.m3u8
+http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.20/hls/ten2.m3u8
 #EXTINF:-1,Sony Ten 3 HD
@@ -554,7 +534,7 @@ https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+http://10.100.100.134/live/skyfeed1002/index.m3u8
 #EXTINF:-1,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1,Music India
