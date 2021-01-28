@@ -289,16 +289,6 @@ http://103.205.133.20/hls/chc.m3u8
 http://103.205.133.20/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
-
-https://ccntv.anytv.live/sonymax2/index.m3u8
-#EXTINF:-1,Sony Max 2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Sony Max 2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1,Sony WAH
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist.m3u8
-#EXTINF:-1,Zee Cinema HD
-http://dx3.gcdn.co/hindimovies-ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema HD
 http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Zee Cinema
@@ -311,8 +301,6 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Zest
 https://z5amshls.akamaized.net/zzesthd/tracks-v5a1/mono.m3u8
-#EXTINF:-1,Colors Cineplex UK
-http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1,UTV Action
