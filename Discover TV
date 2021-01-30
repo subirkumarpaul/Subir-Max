@@ -330,6 +330,8 @@ https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1,B4U Movies
 http://103.205.133.20/hls/b4umovies.m3u8
 #EXTINF:-1,Bflix
+http://103.49.168.171:8081/ebox/in_bflix/chunks.m3u8
+#EXTINF:-1,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
