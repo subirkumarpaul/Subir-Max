@@ -211,8 +211,6 @@ http://otv.ftpbd.net/streams/1015/index.m3u8
 http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.20/hls/dhoommusic.m3u8
-#EXTINF:-1,Dhoom Music
-https://ccntv.anytv.live/dhoom/index.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1,Zee 24 Ghonta
@@ -237,16 +235,6 @@ http://103.205.133.20/hls/sonysab.m3u8
 http://103.205.133.20/hls/zeetv.m3u8
 #EXTINF:-1,Zee TV
 http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee TV
-http://z5amshls.akamaized.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee TV HD Canada
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee TV HD USA
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Anmol
-http://z5amshls.akamaized.net/zeeanmol/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Smile
-http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.20/hls/chc.m3u8
 #EXTINF:-1,Colors Ristay
@@ -256,37 +244,15 @@ http://103.205.133.20/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema HD
-http://z5amshls.akamaized.net:80/zcinemahd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Zee Cinema HD
 http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1,Zee Cinema
-http://z5amshls.akamaized.net:80/zcinema/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Zee Cinema
 http://103.205.133.20/hls/zeecinema.m3u8
-#EXTINF:-1,Zee Cinema USA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cinema UK
-http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Zest
-https://z5amshls.akamaized.net/zzesthd/tracks-v5a1/mono.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1,UTV Action
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1,BTV Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
-#EXTINF:-1,Zee Action
-http://z5amshls.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Bollywood
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/classic/index.m3u8
-#EXTINF:-1,Zee Anmol Cinema
-https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
-#EXTINF:-1,And Picture HD
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:-1,And Picture 
-http://z5amshls.akamaized.net/andpicssd/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Cinema TV
-https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8
 #EXTINF:-1,B4U Movies
 http://103.205.133.20/hls/b4umovies.m3u8
 #EXTINF:-1,Bflix
@@ -313,8 +279,6 @@ http://otv.ftpbd.net/streams/104/index.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.20/hls/chss2.m3u8
-#EXTINF:-1,Star Sports 2
-https://ccntv.anytv.live/starsp2/index.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2 HD
@@ -327,8 +291,6 @@ http://103.205.133.20/hls/ten3.m3u8
 http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:-1,Sony Six
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,D Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,PTV Sports
@@ -351,22 +313,6 @@ http://103.205.133.20/hls/sonypix.m3u8
 http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.48/hls/sonypix.m3u8
-#EXTINF:-1,Star Movies HD (UAE)
-http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
-#EXTINF:-1,Star Movies (India)
-http://master.beeiptv.com:8081/LAW/starmovies/playlist.m3u8
-#EXTINF:-1,Star Movies (India)
-http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1,And Prive HD
-http://z5amshls.akamaized.net/andprivehd/playlist.m3u8
-#EXTINF:-1,And Flix HD
-http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
-#EXTINF:-1,And Flix
-http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF:-1,Zee Cafe
-http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
-#EXTINF:-1,HBO
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/45.m3u8
 #EXTINF:-1,HBO
 http://103.205.133.20/hls/hbo.m3u8
 #EXTINF:-1,HBO
@@ -381,18 +327,6 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1,Star World (UAE)
-http://digitalxpress.gcdn.co/live1/OSNSTARWORLD/index.m3u8
-#EXTINF:-1,Kadak Hits
-https://live.hungama.com/linear/kadak-hits/chunklist.m3u8
-#EXTINF:-1,DIL SE
-https://live.hungama.com/linear/dil-se/chunklist.m3u8
-#EXTINF:-1,Bol Hadippa
-https://live.hungama.com/linear/bol-hadippa/chunklist.m3u8
-#EXTINF:-1,Zoom
-https://ccntv.anytv.live/zoom/index.m3u8
 #EXTINF:-1,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,B4U Music
