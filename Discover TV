@@ -243,6 +243,8 @@ https://ccntv.anytv.live/colorsbangla/index.m3u8
 http://103.205.133.20/hls/ruposhibangla.m3u8
 #EXTINF:-1,Jalsha Movies
 https://ccntv.anytv.live/jalshamovise/index.m3u8
+#EXTINF:-1,Jalsha Movies
+http://otv.ftpbd.net/streams/1015/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://z5amshls.akamaized.net:80/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -375,6 +377,10 @@ http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.20/hls/sonypix.m3u8
+#EXTINF:-1,Sony Pix
+http://103.205.133.21/hls/sonypix.m3u8
+#EXTINF:-1,Sony Pix
+http://103.205.133.48/hls/sonypix.m3u8
 #EXTINF:-1,Star Movies HD (UAE)
 http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
 #EXTINF:-1,Star Movies (India)
