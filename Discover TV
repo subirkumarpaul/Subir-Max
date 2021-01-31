@@ -14,13 +14,13 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1,ATN Bangla
 http://103.205.133.20/hls/atnbangla.m3u8
 #EXTINF:-1,ATN Bangla
+http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1,ATN Bangla
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel I HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel I HD
 http://103.205.133.20/hls/ichannel.m3u8
-#EXTINF:-1,Ekushey TV
-https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Ekushey TV
 http://103.205.133.20/hls/ekushey.m3u8
 #EXTINF:-1,Ekushey TV
@@ -61,6 +61,8 @@ http://103.132.180.245:8080/6/index.m3u8
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1,Ananda TV
+http://103.49.168.171:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
@@ -144,7 +146,7 @@ http://103.205.133.20/hls/atnnews.m3u8
 #EXTINF:-1,ATN News
 https://ccntv.anytv.live/atnnews/index.m3u8
 #EXTINF:-1,Ekattor TV
-http://103.205.133.20/hls/ekatoortv.m3u8
+http://103.49.168.171:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1,News 24
 http://103.205.133.20/hls/news24.m3u8
 #EXTINF:-1,News 24
@@ -157,6 +159,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://103.49.168.171:8081/ebox/bd_independent_tv/chunks.m3u8
 #EXTINF:-1,Independent TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1,Somoy News
+http://103.49.168.171:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1,Somoy News
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
