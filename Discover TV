@@ -243,6 +243,8 @@ http://103.205.133.48/hls/chs.m3u8
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.20/hls/chs.m3u8
+#EXTINF:-1,Sony TV
+http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1,Sony SAB
 http://103.205.133.20/hls/sonysab.m3u8
 #EXTINF:-1,Zee TV
