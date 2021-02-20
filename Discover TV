@@ -46,6 +46,8 @@ http://master.beeiptv.com:8081/mob/maasranga/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 #EXTINF:-1,Channel 9 HD BD
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 9 HD BD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,Bangla Vision
 http://103.49.168.171:8081/ebox/bd_banglavision/chunks.m3u8
@@ -175,6 +177,8 @@ http://103.205.133.20/hls/jamunatv.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
+#EXTINF:-1,Channel 24
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
