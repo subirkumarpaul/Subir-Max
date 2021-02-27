@@ -354,7 +354,7 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1,Discovery (Bangla)
-http://otv.ftpbd.net/streams/121/index.m3u8
+http://103.80.70.59/hls/stream9.m3u8
 #EXTINF:-1,Travel XP
 http://103.49.168.171:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF:-1,Sony Pix
