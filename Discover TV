@@ -419,5 +419,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 http://103.49.168.171:8081/ebox/in_dw/chunks.m3u8
 #EXTINF:-1,Nick
 http://103.80.70.59/hls/stream23.m3u8
+#EXTINF:-1,Sony Yay
+http://103.80.70.59/hls/stream32.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1003/index.m3u8
