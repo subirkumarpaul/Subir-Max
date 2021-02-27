@@ -323,6 +323,8 @@ http://tv.neobd.net:1935/live/tv1/playlist.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.20/hls/chss2.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://103.80.70.59/hls/stream12.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2 HD
@@ -353,8 +355,10 @@ http://103.80.70.59/hls/stream11.m3u8
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Sports PK
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1,Discovery (Bangla)
+#EXTINF:-1,Discovery HD(Bangla)
 http://103.80.70.59/hls/stream9.m3u8
+#EXTINF:-1,Nat Geo Channel HD(Bangla)
+http://103.80.70.59/hls/stream13.m3u8
 #EXTINF:-1,Travel XP
 http://103.49.168.171:8081/ebox/in_sat_max/chunks.m3u8
 #EXTINF:-1,Sony Pix
