@@ -229,8 +229,8 @@ http://209.126.120.153/hls/colorsbangla.m3u8
 http://103.205.133.20/hls/ruposhibangla.m3u8
 #EXTINF:-1,Enter 10 Bangla
 http://103.80.70.59/hls/stream26.m3u8
-#EXTINF:-1,Jalsha Movies
-http://otv.ftpbd.net/streams/1015/index.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://103.80.70.59/hls/stream27.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.20/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
