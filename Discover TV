@@ -222,7 +222,7 @@ http://103.80.70.59/hls/stream30.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.20/hls/zeebangla.m3u8
 #EXTINF:-1,Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1,Colors Bangla HD
