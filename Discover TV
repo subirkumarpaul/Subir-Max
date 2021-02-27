@@ -349,8 +349,12 @@ http://103.80.70.59/hls/stream12.m3u8
 http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2 HD
 http://10.100.100.134/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://103.80.70.59/hls/stream39.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.20/hls/ten2.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://103.80.70.59/hls/stream39.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
 #EXTINF:-1,Sony Six
