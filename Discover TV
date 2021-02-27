@@ -250,6 +250,8 @@ http://103.205.133.20/hls/banglatime.m3u8
 #EXTINF:-1,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,Star Plus HD
+http://103.80.70.59/hls/stream38.m3u8
+#EXTINF:-1,Star Plus HD
 http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.20/hls/chsp.m3u8
