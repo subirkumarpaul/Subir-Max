@@ -180,7 +180,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1,Jamuna TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1,Channel 24
-http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+http://103.80.70.59/hls/stream22.m3u8
 #EXTINF:-1,Channel 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
@@ -405,3 +405,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,DW
 http://103.49.168.171:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1,Nick
+http://103.80.70.59/hls/stream23.m3u8
+
+
