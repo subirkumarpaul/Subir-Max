@@ -422,9 +422,9 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1,9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,Al Jazeera 
-http://103.80.70.59/hls/stream34.m3u8
-#EXTINF:-1,BBC World News
 http://103.80.70.59/hls/stream35.m3u8
+#EXTINF:-1,BBC World News
+http://103.80.70.59/hls/stream36.m3u8
 #EXTINF:-1,Nick
 http://103.80.70.59/hls/stream23.m3u8
 #EXTINF:-1,Sony Yay
