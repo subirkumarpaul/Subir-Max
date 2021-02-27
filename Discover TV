@@ -377,8 +377,8 @@ http://103.80.70.59/hls/stream34.m3u8
 http://103.80.70.59/hls/stream9.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
 http://103.80.70.59/hls/stream13.m3u8
-#EXTINF:-1,Travel XP
-http://103.49.168.171:8081/ebox/in_sat_max/chunks.m3u8
+#EXTINF:-1,Travel XP (Bangla)
+http://103.80.70.59/hls/stream36.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.20/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
