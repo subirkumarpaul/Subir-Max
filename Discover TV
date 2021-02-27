@@ -334,6 +334,8 @@ http://103.205.133.20/hls/ten3.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:-1,Sony Six
+http://103.80.70.59/hls/stream10.m3u8
+#EXTINF:-1,Sony Six
 http://tv.neobd.net:1935/live/tv3/playlist.m3u8
 #EXTINF:-1,Sony Six
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
