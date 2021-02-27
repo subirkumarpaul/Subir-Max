@@ -14,7 +14,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1,ATN Bangla
 http://103.205.133.20/hls/atnbangla.m3u8
 #EXTINF:-1,ATN Bangla
-http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8
+http://103.80.70.59/hls/stream17.m3u8
 #EXTINF:-1,ATN Bangla
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel I HD
@@ -318,11 +318,13 @@ http://51.159.4.21:3135/Cric/9/index.m3u8
 #EXTINF:-1,Live 10
 http://51.159.4.21:3135/Cric/10/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
-http://otv.ftpbd.net/streams/104/index.m3u8
+http://103.80.70.59/hls/stream15.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://tv.neobd.net:1935/live/tv1/playlist.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.80.70.59/hls/stream16.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.20/hls/chss2.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
