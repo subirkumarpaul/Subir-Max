@@ -433,8 +433,8 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,B4U Music
-http://10.100.100.134/live/skyfeed1002/index.m3u8
+#EXTINF:-1,I Love Music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1,Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1,Music India
