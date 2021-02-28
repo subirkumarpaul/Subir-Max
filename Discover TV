@@ -40,7 +40,7 @@ http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
 http://tv.neobd.net:1935/live/tv2/playlist.m3u8
 #EXTINF:-1,Gazi TV
-http://43.251.86.6:8080/hls/channel_1.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1,Gazi TV
 http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Maasranga TV
