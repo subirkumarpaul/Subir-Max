@@ -455,5 +455,3 @@ http://103.80.70.59/hls/stream23.m3u8
 http://103.80.70.59/hls/stream32.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1003/index.m3u8
-#EXTINF:-1,Bd Movies
-https://live.bongobd.com/hls/ke8izquI-ZV0vN8QMQq7xA/1614498641/bongo_movies_low/index.m3u8
