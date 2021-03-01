@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BTV National
-http://103.205.133.20/hls/btv.m3u8p
+http://103.205.133.20/hls/btv.m3u8
 #EXTINF:-1,BTV World
 http://103.205.133.20/hls/btvworld.m3u8
 #EXTINF:-1,BTV World
