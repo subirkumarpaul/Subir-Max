@@ -306,7 +306,7 @@ http://103.80.70.59/hls/stream12.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 #EXTINF:-1,Star Sports Select 2 HD
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
 #EXTINF:-1,Sony Ten 1 HD
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 #EXTINF:-1,Sony Ten 1
