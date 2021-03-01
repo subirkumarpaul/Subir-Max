@@ -262,8 +262,6 @@ http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.20/hls/chsp.m3u8
 #EXTINF:-1,Sony TV
-http://103.205.133.48/hls/chs.m3u8
-#EXTINF:-1,Sony TV
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
@@ -317,34 +315,12 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://103.205.133.20/hls/wowcinema.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,T Sports BD
-http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1,T Sports Bp 
 http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1,T Sports BD
 http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1,T Sports BD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1,Live 1
-http://51.159.4.21:3135/Cric/1/index.m3u8
-#EXTINF:-1,Live 2
-http://51.159.4.21:3135/Cric/2/index.m3u8
-#EXTINF:-1,Live 3
-http://51.159.4.21:3135/Cric/3/index.m3u8
-#EXTINF:-1,Live 4
-http://51.159.4.21:3135/Cric/4/index.m3u8
-#EXTINF:-1,Live 5
-http://51.159.4.21:3135/Cric/5/index.m3u8
-#EXTINF:-1,Live 6
-http://51.159.4.21:3135/Cric/6/index.m3u8
-#EXTINF:-1,Live 7
-http://51.159.4.21:3135/Cric/7/index.m3u8
-#EXTINF:-1,Live 8
-http://51.159.4.21:3135/Cric/8/index.m3u8
-#EXTINF:-1,Live 9
-http://51.159.4.21:3135/Cric/9/index.m3u8
-#EXTINF:-1,Live 10
-http://51.159.4.21:3135/Cric/10/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.80.70.59/hls/stream15.m3u8
 #EXTINF:-1,Star Sports 1 HD
@@ -354,7 +330,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://103.80.70.59/hls/stream16.m3u8
 #EXTINF:-1,Star Sports 2
-http://103.205.133.20/hls/chss2.m3u8
+http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
 http://103.80.70.59/hls/stream12.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
