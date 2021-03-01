@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BTV National
-http://103.205.133.20/hls/btv.m3u8
-#EXTINF:-1,BTV National
-http://103.205.133.48/hls/btv.m3u8
+http://103.205.133.20/hls/btv.m3u8p
 #EXTINF:-1,BTV World
 http://103.205.133.20/hls/btvworld.m3u8
 #EXTINF:-1,BTV World
@@ -38,8 +36,6 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1,RTV
 http://103.205.133.20/hls/rtv.m3u8
 #EXTINF:-1,Gazi TV
-http://tv.neobd.net:1935/live/tv2/playlist.m3u8
-#EXTINF:-1,Gazi TV
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1,Gazi TV
 http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
@@ -52,8 +48,6 @@ http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 9 HD BD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1,Bangla Vision
-http://103.49.168.171:8081/ebox/bd_banglavision/chunks.m3u8
-#EXTINF:-1,Bangla Vision
 http://103.205.133.20/hls/banglavision.m3u8
 #EXTINF:-1,Bangla Vision
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
@@ -63,18 +57,12 @@ http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.205.133.20/hls/deeptotv.m3u8
-#EXTINF:-1,Deepto TV HD
-http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1,Asian TV
 https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1,Ananda TV
-http://103.49.168.171:8081/ebox/bd_anando_tv/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,Boishakhi TV
-http://103.49.168.171:8081/ebox/bd_boishakhi/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1,Boishakhi Plus TV
@@ -157,8 +145,6 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ATN News
 http://103.205.133.20/hls/atnnews.m3u8
-#EXTINF:-1,ATN News
-https://ccntv.anytv.live/atnnews/index.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.49.168.171:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1,News 24
@@ -181,8 +167,6 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,Jamuna TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
 #EXTINF:-1,Channel 24
 http://103.80.70.59/hls/stream22.m3u8
 #EXTINF:-1,Channel 24
@@ -191,8 +175,6 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://103.205.133.20/hls/channel24.m3u8
 #EXTINF:-1,TBN 24
 http://fingerme.dg21bd.com/TBN24/index.m3u8
-#EXTINF:-1,TBN 24
-http://fingerme.dg21bd.com:80/TBN24/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,My Cinema
@@ -202,15 +184,9 @@ http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,ATN Islamic TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,ATN Music
-http://103.49.168.171:8081/ebox/bd_atn_music/chunks.m3u8
-#EXTINF:-1,ATN Music
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,Gaan Bangla
 http://103.205.133.20/hls/gaanbangla.m3u8
-#EXTINF:-1,Gaan Bangla
-http://103.132.180.245:8080/15/index.m3u8
-#EXTINF:-1,RTV Music
-http://103.132.180.245:8080/14/index.m3u8
 #EXTINF:-1,RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1,Music Choice
@@ -257,8 +233,6 @@ http://103.205.133.20/hls/banglatime.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,Star Plus HD
 http://103.80.70.59/hls/stream38.m3u8
-#EXTINF:-1,Star Plus HD
-http://208.115.215.42/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.20/hls/chsp.m3u8
 #EXTINF:-1,Sony TV
@@ -283,8 +257,6 @@ http://10.100.100.134/live/skyfeed1004/index.m3u8
 http://103.205.133.20/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://103.80.70.59/hls/stream19.m3u8
-#EXTINF:-1,Star Gold HD
-http://208.115.215.42/Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max
 http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
 #EXTINF:-1,Zee Cinema HD
@@ -306,8 +278,6 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-1,B4U Movies
 http://103.205.133.20/hls/b4umovies.m3u8
 #EXTINF:-1,Bflix
-http://103.49.168.171:8081/ebox/in_bflix/chunks.m3u8
-#EXTINF:-1,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
@@ -315,7 +285,7 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://103.205.133.20/hls/wowcinema.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,T Sports Bp 
+#EXTINF:-1,T Sports BD
 http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1,T Sports BD
 http://103.49.168.171:8081/live/tsports/chunks.m3u8
