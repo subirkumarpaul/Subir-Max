@@ -42,6 +42,8 @@ http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
 #EXTINF:-1,Maasranga TV
 http://103.80.70.59/hls/stream20.m3u8
 #EXTINF:-1,Maasranga TV
+https://tempx.jagobd.com/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:-1,Maasranga TV
 http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
