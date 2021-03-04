@@ -403,3 +403,19 @@ http://103.80.70.59/hls/stream23.m3u8
 http://103.80.70.59/hls/stream32.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1003/index.m3u8
+#EXTINF:-1,Channel 1
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 2
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 3
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 4
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 5
+http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 6
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 7
+http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 8
+http://103.102.27.172:6464/Channel-8/tracks-v1a1/mono.m3u8
