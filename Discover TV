@@ -292,7 +292,7 @@ http://209.126.120.153/hls/tsports.m3u8
 #EXTINF:-1,T Sports BD
 http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1,T Sports BD
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.80.70.59/hls/stream15.m3u8
 #EXTINF:-1,Star Sports 1 HD
