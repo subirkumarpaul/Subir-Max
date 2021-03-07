@@ -251,7 +251,7 @@ http://209.126.120.153/hls/chs.m3u8
 http://103.205.133.20/hls/sonysab.m3u8
 #EXTINF:-1,Zee TV
 http://103.205.133.20/hls/zeetv.m3u8
-#EXTINF:-1,Zee TV
+#EXTINF:-1,Zee TV Asia
 http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.20/hls/chc.m3u8
