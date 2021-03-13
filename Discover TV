@@ -367,6 +367,8 @@ http://103.80.70.59/hls/stream9.m3u8
 http://103.80.70.59/hls/stream13.m3u8
 #EXTINF:-1,Travel XP (Bangla)
 http://103.80.70.59/hls/stream37.m3u8
+#EXTINF:-1,AXN
+http://103.153.175.254:8080/hls/stream1.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.20/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
