@@ -372,7 +372,7 @@ http://103.205.133.20/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
-http://103.205.133.48/hls/sonypix.m3u8
+http://103.153.175.254:8080/hls/stream1.m3u8
 #EXTINF:-1,Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
 #EXTINF:-1,HBO
