@@ -369,6 +369,8 @@ http://103.153.175.254:8080/hls/stream9.m3u8
 http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1,Travel XP (Bangla)
 http://103.153.175.254:8080/hls/stream37.m3u8
+#EXTINF:-1,Star Movies
+http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:-1,AXN
 http://103.153.175.254:8080/hls/stream2.m3u8
 #EXTINF:-1,Sony Pix
