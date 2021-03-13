@@ -294,7 +294,7 @@ http://103.205.133.20/hls/wowcinema.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1,T Sports BD
-http://209.126.120.153/hls/tsports.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BD
 http://103.49.168.171:8081/live/tsports/chunks.m3u8
 #EXTINF:-1,T Sports BD
