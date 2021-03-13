@@ -213,6 +213,8 @@ http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 http://103.205.133.20/hls/sony8.m3u8
 #EXTINF:-1,Colors Bangla HD
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
+#EXTINF:-1,Colors Bangla HD
+http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.48/hls/etvbangla.m3u8
 #EXTINF:-1,Colors Bangla
