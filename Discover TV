@@ -280,7 +280,7 @@ http://103.153.175.254:8080/hls/stream29.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1,UTV Action
-http://103.153.175.254:8080/hls/streamPlanet HD
+http://103.153.175.254:8080/hls/stream7.m3u8
 #EXTINF:-1,BTV Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF:-1,B4U Movies
