@@ -365,8 +365,12 @@ http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
 http://103.153.175.254:8080/hls/stream9.m3u8
+#EXTINF:-1,Animal Planet
+http://103.153.175.254:8080/hls/stream6.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
 http://103.153.175.254:8080/hls/stream13.m3u8
+#EXTINF:-1,BBC Earth
+http://103.153.175.254:8080/hls/stream5.m3u8
 #EXTINF:-1,Travel XP (Bangla)
 http://103.153.175.254:8080/hls/stream37.m3u8
 #EXTINF:-1,Star Movies
