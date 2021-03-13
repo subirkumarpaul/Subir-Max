@@ -302,6 +302,8 @@ http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
+http://103.153.175.254:8080/hls/stream15.m3u8
+#EXTINF:-1,Star Sports 1 HD
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
