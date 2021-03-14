@@ -378,7 +378,7 @@ http://hitectv.live//hls/stream9.m3u8
 #EXTINF:-1,Animal Planet
 http://hitectv.live//hls/stream6.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
-http://hitectv.live/0/hls/stream13.m3u8
+http://hitectv.live/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
 http://hitectv.live//hls/stream5.m3u8
 #EXTINF:-1,Travel XP (Bangla)
