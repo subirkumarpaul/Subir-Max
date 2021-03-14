@@ -174,7 +174,7 @@ http://103.205.133.20/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
-http://hitectv.live//hls/stream22.m3u8
+http://hitectv.live/hls/stream22.m3u8
 #EXTINF:-1,Channel 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
@@ -304,7 +304,7 @@ http://103.102.136.106:8080/cmcltv/tsports.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
-http://hitectv.live//hls/stream15.m3u8
+http://hitectv.live/hls/stream15.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1,Star Sports 1
@@ -314,7 +314,7 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2
 http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-1,Star Sports 2 HD
-http://hitectv.live//hls/stream16.m3u8
+http://hitectv.live/hls/stream16.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
@@ -392,7 +392,7 @@ http://103.205.133.20/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
-http://hitectv.live//hls/stream1.m3u8
+http://hitectv.live/hls/stream1.m3u8
 #EXTINF:-1,Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
 #EXTINF:-1,HBO
