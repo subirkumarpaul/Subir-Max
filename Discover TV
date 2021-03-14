@@ -339,8 +339,6 @@ http://hitectv.live/hls/stream39.m3u8
 http://103.205.133.20/hls/ten2.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
-#EXTINF:-1,Sony Ten 3 HD
-http://hitectv.live/hls/stream40.m3u8
 #EXTINF:-1,Sony Ten 3
 http://103.205.133.20/hls/ten3.m3u8
 #EXTINF:-1,Sony Ten 3
