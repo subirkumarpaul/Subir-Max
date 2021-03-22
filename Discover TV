@@ -248,7 +248,7 @@ http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 #EXTINF:-1,Sony TV
 http://209.126.120.153/hls/chs.m3u8
 #EXTINF:-1,Sony SAB
-http://103.205.133.20/hls/sonysab.m3u8
+http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
 http://103.205.133.20/hls/zeetv.m3u8
 #EXTINF:-1,Zee TV Asia
