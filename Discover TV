@@ -150,7 +150,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ATN News
 http://103.205.133.20/hls/atnnews.m3u8
 #EXTINF:-1,Ekattor TV
-http://103.49.168.171:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://tvserver3.roarzone.info:25461/live/free/roarzone/11.m3u8
 #EXTINF:-1,News 24
 http://103.205.133.20/hls/news24.m3u8
 #EXTINF:-1,News 24
