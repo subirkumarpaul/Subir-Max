@@ -297,8 +297,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 http://103.205.133.20/hls/wowcinema.m3u8
 #EXTINF:-1,Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:-1,Travel XP (Hinde)
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,T Sports BD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BD
@@ -383,8 +381,8 @@ http://hitectv.live/hls/stream6.m3u8
 http://hitectv.live/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
 http://hitectv.live/hls/stream5.m3u8
-#EXTINF:-1,Travel XP (Bangla)
-http://hitectv.live/hls/stream37.m3u8
+#EXTINF:-1,Travel XP (Hinde)
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,Star Movies
 http://hitectv.live/hls/stream3.m3u8
 #EXTINF:-1,AXN
@@ -438,7 +436,7 @@ http://hitectv.live/hls/stream36.m3u8
 #EXTINF:-1,Nick
 http://hitectv.live/hls/stream23.m3u8
 #EXTINF:-1,Sony Yay
-http://hitectv.live/hls/stream32.m3u8
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1003/index.m3u8
 #EXTINF:-1,Channel 1
