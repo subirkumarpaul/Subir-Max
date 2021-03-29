@@ -148,11 +148,11 @@ http://23.106.120.42:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1,Itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ATN News
-http://103.205.133.20/hls/atnnews.m3u8
+http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:-1,Ekattor TV
 http://tvserver3.roarzone.info:25461/live/free/roarzone/11.m3u8
 #EXTINF:-1,News 24
-http://103.205.133.20/hls/news24.m3u8
+http://103.205.133.21/hls/news24.m3u8
 #EXTINF:-1,News 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,DBC News
@@ -198,7 +198,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Star Jalsha HD
 http://hitectv.live/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.205.133.21/hls/chsj.m3u8
+http://103.205.133./hls/chsj.m3u8
 #EXTINF:-1,Zee Bangla
 http://hitectv.live/hls/stream30.m3u8
 #EXTINF:-1,Zee Bangla
@@ -230,7 +230,7 @@ http://hitectv.live/hls/stream26.m3u8
 #EXTINF:-1,Jalsha Movies HD
 http://hitectv.live/hls/stream27.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.205.133.21/hls/sangeetbangla.m3u8
+http://103.205.133.44/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
 #EXTINF:-1,Bangla Talkies
