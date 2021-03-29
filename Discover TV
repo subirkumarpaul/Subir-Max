@@ -196,11 +196,11 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Music Choice
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/chunks.m3u8
 #EXTINF:-1,Star Jalsha HD
-http://hitectv.live/hls/stream31.m3u8
+http://103.205.133.48/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.205.133./hls/chsj.m3u8
+http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1,Zee Bangla
-http://hitectv.live/hls/stream30.m3u8
+http://103.205.133.48/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
@@ -210,11 +210,11 @@ http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1,Colors Bangla HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/66.m3u8
+http://103.205.133.48/hls/zeebangla.m3u8
 #EXTINF:-1,Colors Bangla HD
-http://hitectv.live/hls/stream28.m3u8
+http://103.205.133.21/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
-http://103.205.133.48/hls/etvbangla.m3u8
+http://103.205.133.48/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
 http://209.126.120.153/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
@@ -230,7 +230,7 @@ http://hitectv.live/hls/stream26.m3u8
 #EXTINF:-1,Jalsha Movies HD
 http://hitectv.live/hls/stream27.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.205.133.44/hls/sangeetbangla.m3u8
+http://103.205.133.48/hls/sangeetbangla.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
 #EXTINF:-1,Bangla Talkies
