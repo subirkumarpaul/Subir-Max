@@ -239,6 +239,8 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://103.205.133.21/hls/zeecinema.m3u8
 #EXTINF:-1,And Pictures HD
 http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:-1,And Xplorer 
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 #EXTINF:-1,Colors Cineplex HD
 http://hitectv.live/hls/stream29.m3u8
 #EXTINF:-1,Rishtey Cineplex
