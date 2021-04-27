@@ -211,6 +211,10 @@ http://103.205.133.21/hls/banglatime.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.21/hls/chsp.m3u8
+#EXTINF:-1,Star Plus
+https://ott.bingebd.com/live/ngrp:star_plus_all/chunklist.m3u8
+#EXTINF:-1,Star Plus HD
+https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
@@ -228,7 +232,7 @@ http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.21/hls/andtv.m3u8
 #EXTINF:-1,Star Gold
-https://dfe4lh87csqpu.cloudfront.net/ST_G.m3u8
+https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
 #EXTINF:-1,Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1,Zee Cinema
