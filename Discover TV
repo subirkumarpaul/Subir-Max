@@ -35,6 +35,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV
 http://103.205.133.21/hls/rtv.m3u8
+#EXTINF:-1,RTV
+https://ott.bingebd.com/live/ngrp:rtv_all/subir.m3u8
 #EXTINF:-1,Gazi TV
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1,Maasranga TV
