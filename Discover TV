@@ -27,6 +27,8 @@ http://103.205.133.21/hls/ekushey.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,NTV
 http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:-1,NTV
+https://ott.bingebd.com/live/ngrp:ntv_all/subir.m3u8
 #EXTINF:-1,NTV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,RTV
