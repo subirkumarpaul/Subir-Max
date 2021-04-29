@@ -154,11 +154,15 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,ATN News
 http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:-1,ATN News
+https://ott.bingebd.com/live/ngrp:atn_news_all/chunklist.m3u8
+#EXTINF:-1,ATN News
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1,News 24
 http://103.205.133.21/hls/news24.m3u8
+#EXTINF:-1,News 24
+https://ott.bingebd.com/live/ngrp:news_24_hd_all/chunklist.m3u8
 #EXTINF:-1,News 24
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,DBC News
@@ -215,6 +219,8 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 http://103.205.133.21/hls/ruposhibangla.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/chunklist.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
 #EXTINF:-1,Bangla Talkies
@@ -269,6 +275,8 @@ http://hitectv.live/hls/stream7.m3u8
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF:-1,B4U Movies
 http://103.205.133.21/hls/b4umovies.m3u8
+#EXTINF:-1,B4U Movies
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8
 #EXTINF:-1,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Manoranjan Movies
