@@ -60,7 +60,7 @@ http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1,Asian TV
 http://103.205.133.21/hls/asiantv.m3u8
 #EXTINF:-1,Asian TV
-http://103.205.133.21/hls/asiantv.m3u8
+https://ott.bingebd.com/live/ngrp:asian_tv_all/subir.m3u8
 #EXTINF:-1,Ananda TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Channel S (UK)
