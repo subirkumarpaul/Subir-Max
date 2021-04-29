@@ -352,7 +352,13 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sports 1
+http://10.100.100.134/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Sports 2
+http://10.100.100.134/live/skyfeed1002/index.m3u8
+#EXTINF:-1,Sports 3
 http://10.100.100.134/live/skyfeed1003/index.m3u8
+#EXTINF:-1,Sports 4
+http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,Channel 1
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel 2
