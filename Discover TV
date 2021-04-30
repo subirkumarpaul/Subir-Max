@@ -313,6 +313,8 @@ http://103.205.133.21/hls/ten2.m3u8
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.205.133.21/hls/ten2.m3u8
+#EXTINF:-1,Sony Ten 3
+http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1,Sony Six
 http://103.205.133.21/hls/sonysix.m3u8
 #EXTINF:-1,Sony Six
