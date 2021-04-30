@@ -38,7 +38,7 @@ http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:-1,RTV
 https://ott.bingebd.com/live/ngrp:rtv_all/subir.m3u8
 #EXTINF:-1,Gazi TV
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Channel 9 HD BD
