@@ -42,7 +42,7 @@ http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://master.beeiptv.com:8081/mobile_21/maasranga/playlist.m3u8
+http://103.153.175.254:8080/hls/stream20.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.205.133.21/hls/ninechannel.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -225,6 +225,10 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8
+#EXTINF:-1,Enter 10 Bangla
+http://103.153.175.254:8080/hls/stream26.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://103.153.175.254:8080/hls/stream27.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -263,14 +267,20 @@ http://master.beeiptv.com:8081/mobile_21/colors/playlist.m3u8
 http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.21/hls/andtv.m3u8
+#EXTINF:-1,Star Gold HD
+http://103.153.175.254:8080/hls/stream19.m3u8
 #EXTINF:-1,Star Gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
 #EXTINF:-1,Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://103.153.175.254:8080/hls/stream25.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.21/hls/zeecinema.m3u8
 #EXTINF:-1,And Pictures HD
 http://103.205.133.21/hls/andpicture.m3u8
+#EXTINF:-1,And Pictures HD
+http://103.153.175.254:8080/hls/stream14.m3u8
 #EXTINF:-1,And Xplorer 
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 #EXTINF:-1,Colors Cineplex HD
@@ -308,7 +318,7 @@ http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.205.133.21/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
-http://103.102.136.106:8080/cmcltv/livesports.m3u8
+http://103.153.175.254:8080/hls/stream15.3u8
 #EXTINF:-1,Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -317,6 +327,8 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
+#EXTINF:-1,Star Sports Select 1
+http://103.153.175.254:8080/hls/stream12.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1
@@ -336,7 +348,7 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,PTV Sports
-http://cdn2.niazitv.pk:786/PTV-Sports/index.m3u8
+http://103.153.175.254:8080/hls/stream11.m3u8
 #EXTINF:-1,PTV Sports
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1,PTV Sports
@@ -362,7 +374,7 @@ http://103.153.175.254:8080/hls/stream37.m3u8
 #EXTINF:-1,Travel XP (Hinde)
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,Star Movies
-http://master.beeiptv.com:8081/mobile_21/starmovies/playlist.m3u8
+http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:-1,AXN
 http://103.153.175.254:8080/hls/stream2.m3u8
 #EXTINF:-1,Sony Pix
@@ -403,6 +415,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1,Nick
+http://103.153.175.254:8080/hls/stream23.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Sports 2
