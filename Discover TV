@@ -274,13 +274,13 @@ http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1,And Xplorer 
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 #EXTINF:-1,Colors Cineplex HD
-http://hitectv.live/hls/stream29.m3u8
+http://103.153.175.254:8080/hls/stream29.m3u8
 #EXTINF:-1,Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1,UTV Action
-http://hitectv.live/hls/stream7.m3u8
+http://103.153.175.254:8080/hls/stream7.m3u8
 #EXTINF:-1,BTV Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF:-1,B4U Movies
@@ -350,19 +350,21 @@ http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
-http://hitectv.live/hls/stream9.m3u8
+http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1,Animal Planet
-http://hitectv.live/hls/stream6.m3u8
+http://103.153.175.254:8080/hls/stream6.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
-http://hitectv.live/hls/stream13.m3u8
+http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
-http://hitectv.live/hls/stream5.m3u8
+http://103.153.175.254:8080/hls/stream5.m3u8
+#EXTINF:-1,Travel XP (Bangla)
+http://103.153.175.254:8080/hls/stream37.m3u8
 #EXTINF:-1,Travel XP (Hinde)
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,Star Movies
 http://master.beeiptv.com:8081/mobile_21/starmovies/playlist.m3u8
 #EXTINF:-1,AXN
-http://hitectv.live/hls/stream2.m3u8
+http://103.153.175.254:8080/hls/stream2.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
