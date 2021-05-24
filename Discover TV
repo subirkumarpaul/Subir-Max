@@ -337,6 +337,8 @@ http://209.126.120.153/hls/chss2.m3u8
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.153.175.254:8080/hls/stream12.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1
