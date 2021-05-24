@@ -208,13 +208,15 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha
-http://master.beeiptv.com:8081/mobile_21/starjalsha/playlist.m3u8
+http://103.153.175.254:8080/hls/stream31.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
-http://master.beeiptv.com:8081/mobile_21/zeebangla/playlist.m3u8
+http://103.153.175.254:8080/hls/stream30.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,Colors Bangla HD
+http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.21/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
@@ -249,6 +251,8 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 http://103.205.133.21/hls/chsp.m3u8
 #EXTINF:-1,Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.153.175.254:8080/hls/stream39.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
@@ -361,6 +365,8 @@ http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ten Cricket
+http://103.153.175.254:8080/hls/stream34.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
 http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1,Animal Planet
@@ -377,6 +383,8 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:-1,AXN
 http://103.153.175.254:8080/hls/stream2.m3u8
+#EXTINF:-1,Sony Pix HD
+http://103.153.175.254:8080/hls/stream1.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
@@ -415,6 +423,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1,Sony Yay
+http://103.153.175.254:8080/hls/stream32.m3u8
 #EXTINF:-1,Nick
 http://103.153.175.254:8080/hls/stream23.m3u8
 #EXTINF:-1,Sports 1
