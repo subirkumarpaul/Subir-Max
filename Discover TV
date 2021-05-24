@@ -427,12 +427,16 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 http://103.153.175.254:8080/hls/stream8.m3u8
 #EXTINF:-1,Al Jazeera 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
+#EXTINF:-1,Cartoon Networrk
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6508/index.m3u8
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sony Yay
 http://103.153.175.254:8080/hls/stream32.m3u8
 #EXTINF:-1,Nick
 http://103.153.175.254:8080/hls/stream23.m3u8
+#EXTINF:-1,Disney XD
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Sports 1
 http://10.100.100.134/live/skyfeed1001/index.m3u8
 #EXTINF:-1,Sports 2
