@@ -231,6 +231,8 @@ http://103.205.133.21/hls/ruposhibangla.m3u8
 http://103.153.175.254:8080/hls/stream26.m3u8
 #EXTINF:-1,Jalsha Movies HD
 http://103.153.175.254:8080/hls/stream27.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-1,Sangeet Bangla
