@@ -239,8 +239,12 @@ http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 http://103.205.133.21/hls/sangeetbangla.m3u8
 #EXTINF:-1,Sangeet Bangla
 https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/chunklist.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
+#EXTINF:-1,Dhoom Music
+https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1,Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,News 18 Bangla
