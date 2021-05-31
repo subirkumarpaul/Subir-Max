@@ -242,6 +242,8 @@ http://103.153.175.254:8080/hls/stream27.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
+http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla Cinema
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 #EXTINF:-1,Sangeet Bangla
 http://103.205.133.21/hls/sangeetbangla.m3u8
@@ -295,8 +297,12 @@ http://10.100.100.134/live/skyfeed1004/index.m3u8
 http://103.205.133.21/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://103.153.175.254:8080/hls/stream19.m3u8
+#EXTINF:-1,Star Gold HD
+http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
+#EXTINF:-1,Sony Max HD
+http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Wah
@@ -307,6 +313,8 @@ http://103.153.175.254:8080/hls/stream25.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.21/hls/zeecinema.m3u8
+#EXTINF:-1,Zee Cinema
+http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,And Pictures HD
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1,And Pictures HD
@@ -399,10 +407,14 @@ http://103.153.175.254:8080/hls/stream34.m3u8
 http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1,Animal Planet
 http://103.153.175.254:8080/hls/stream6.m3u8
+#EXTINF:-1,Animal Planet
+http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
 http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
 http://103.153.175.254:8080/hls/stream5.m3u8
+#EXTINF:-1,TLC HD
+http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Travel XP (Bangla)
 http://103.153.175.254:8080/hls/stream37.m3u8
 #EXTINF:-1,Travel XP (Hinde)
@@ -417,6 +429,8 @@ http://103.153.175.254:8080/hls/stream1.m3u8
 http://103.205.133.21/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
 http://209.126.120.153/hls/sonypix.m3u8
+#EXTINF:-1,Sony Pix
+http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO
 http://103.205.133.21/hls/hbo.m3u8
 #EXTINF:-1,HBO
@@ -459,8 +473,12 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6508/index.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sony Yay
 http://103.153.175.254:8080/hls/stream32.m3u8
+#EXTINF:-1,Sony Yay
+http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nick
 http://103.153.175.254:8080/hls/stream23.m3u8
+#EXTINF:-1,Nick Jr
+http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney XD
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Sports 1
