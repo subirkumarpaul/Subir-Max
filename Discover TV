@@ -209,10 +209,14 @@ http://103.146.36.78:1935/live/mctv/chunklist.m3u8
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha
 http://103.153.175.254:8080/hls/stream31.m3u8
+#EXTINF:-1,Star Jalsha
+http://cdn.ihub.live:8080/j-star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.21/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.153.175.254:8080/hls/stream30.m3u8
+#EXTINF:-1,Zee Bangla
+http://cdn.ihub.live:8080/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:-1,Sony Aath
@@ -261,6 +265,8 @@ http://103.205.133.21/hls/banglatime.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1,Star Plus
 http://103.205.133.21/hls/chsp.m3u8
+#EXTINF:-1,Star Plus
+http://cdn.ihub.live:8080/j-star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1,Star Plus HD
