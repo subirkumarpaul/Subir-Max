@@ -435,6 +435,8 @@ http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
 http://103.205.133.21/hls/hbo.m3u8
 #EXTINF:-1,HBO
 http://209.126.120.153/hls/hbo.m3u8
+#EXTINF:-1,HBO
+http://cdn.ihub.live:8080/j-hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1,And Private HD
