@@ -215,12 +215,16 @@ http://103.205.133.21/hls/zeebangla.m3u8
 http://103.153.175.254:8080/hls/stream30.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1,Sony Aath
+http://cdn.ihub.live:8080/j-sony-arth/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Bangla HD
 http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.21/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
 http://209.126.120.153/hls/colorsbangla.m3u8
+#EXTINF:-1,Colors Bangla
+http://cdn.ihub.live:8080/j-colors-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,DD Bangla
@@ -265,6 +269,10 @@ http://103.153.175.254:8080/hls/stream39.m3u8
 http://103.205.133.21/hls/chs.m3u8
 #EXTINF:-1,Sony TV
 http://209.126.120.153/hls/chs.m3u8
+#EXTINF:-1,Sony TV
+http://cdn.ihub.live:8080/j-SonyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony SAB
+http://cdn.ihub.live:8080/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SAB
 http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
@@ -273,8 +281,8 @@ http://103.205.133.21/hls/zeetv.m3u8
 http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:-1,Colors
-http://master.beeiptv.com:8081/mobile_21/colors/playlist.m3u8
+#EXTINF:-1,Colors HD
+http://cdn.ihub.live:8080/j-colors-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Ristay
 http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
@@ -328,7 +336,7 @@ http://209.126.120.153:80/hls/tsports.m3u8
 #EXTINF:-1,T Sports BD
 http://103.205.133.21/hls/tsports.m3u8
 #EXTINF:-1,T Sports BD
-http://103.205.133.19/hls/tsports.m3u8
+http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
