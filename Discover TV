@@ -322,6 +322,8 @@ http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
 http://103.153.175.254:8080/hls/stream19.m3u8
 #EXTINF:-1,Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold HD
 http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
@@ -353,6 +355,8 @@ http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1,UTV Action
 http://103.153.175.254:8080/hls/stream7.m3u8
+#EXTINF:-1,UTV Action
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV Kadak
 https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF:-1,B4U Movies
