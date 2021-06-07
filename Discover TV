@@ -504,7 +504,9 @@ http://cdn.ihub.live:8080/j-Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Al Jazeera 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
 #EXTINF:-1,Cartoon Networrk
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6508/index.m3u8
+http://103.205.133.21/hls/cn.m3u8
+#EXTINF:-1,Cartoon Networrk
+http://209.126.120.153/hls/cn.m3u8
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sony Yay
