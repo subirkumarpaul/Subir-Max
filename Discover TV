@@ -244,7 +244,7 @@ http://cdn.ihub.live:8080/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1,Sony Aath
-http://cdn.ihub.live:8080/j-sony-arth/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Bangla HD
 http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1,Colors Bangla
@@ -252,7 +252,7 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
 http://209.126.120.153/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
-http://cdn.ihub.live:8080/j-colors-bangla/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,DD Bangla
