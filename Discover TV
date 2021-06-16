@@ -424,7 +424,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1,PTV Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV Sports
-http://stream.tvtap.live:8081/live/ptvsports.stream/chunks.m3u8?nimblesessionid=3201797821
+http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1,Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super PK
