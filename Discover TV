@@ -54,7 +54,7 @@ http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.153.175.254:8080/hls/stream20.m3u8
+http://103.81.104.118/hls/stream20.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -240,13 +240,13 @@ http://103.146.36.78:1935/live/mctv/chunklist.m3u8
 #EXTINF:-1,Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.153.175.254:8080/hls/stream31.m3u8
+http://103.81.104.118/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha
 http://cdn.ihub.live:8080/j-star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.19/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Bangla
-http://103.153.175.254:8080/hls/stream30.m3u8
+http://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1,Zee Bangla
 http://cdn.ihub.live:8080/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Aath
@@ -254,7 +254,7 @@ http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1,Sony Aath
 https://cdn.naturalbd.com/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors Bangla HD
-http://103.153.175.254:8080/hls/stream28.m3u8
+http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1,Colors Bangla
@@ -268,9 +268,9 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1,Enter 10 Bangla
-http://103.153.175.254:8080/hls/stream26.m3u8
+http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1,Jalsha Movies HD
-http://103.153.175.254:8080/hls/stream27.m3u8
+http://103.81.104.118/hls/stream27.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -304,7 +304,7 @@ http://cdn.ihub.live:8080/j-star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Plus HD
 https://ott.bingebd.com/live/ngrp:star_plus_hd_all/chunklist.m3u8
 #EXTINF:-1,Star Plus HD
-http://103.153.175.254:8080/hls/stream39.m3u8
+http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1,Sony TV
 http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1,Sony TV
@@ -330,7 +330,7 @@ http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,Star Gold HD
-http://103.153.175.254:8080/hls/stream19.m3u8
+http://103.81.104.118//hls/stream19.m3u8
 #EXTINF:-1,Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD
@@ -344,7 +344,7 @@ http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1,Zee Cinema HD
-http://103.153.175.254:8080/hls/stream25.m3u8
+http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:-1,Zee Cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
@@ -354,17 +354,17 @@ http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,And Pictures HD
 http://103.205.133.21/hls/andpicture.m3u8
 #EXTINF:-1,And Pictures HD
-http://103.153.175.254:8080/hls/stream14.m3u8
+http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:-1,And Xplorer 
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
 #EXTINF:-1,Colors Cineplex HD
-http://103.153.175.254:8080/hls/stream29.m3u8
+http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1,Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1,UTV Action
-http://103.153.175.254:8080/hls/stream7.m3u8
+http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1,UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV Kadak
@@ -396,7 +396,7 @@ http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://103.205.133.19/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
-http://103.153.175.254:8080/hls/stream15.3u8
+http://103.81.104.118/hls/stream15.3u8
 #EXTINF:-1,Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -406,7 +406,7 @@ http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.19/hls/chss2.m3u8
 #EXTINF:-1,Star Sports Select 1
-http://103.153.175.254:8080/hls/stream12.m3u8
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1,Star Sports Select 2
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony Ten 1
@@ -428,7 +428,7 @@ http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DD Sports
 http://103.199.161.254:80/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,PTV Sports
-http://103.153.175.254:8080/hls/stream11.m3u8
+http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1,PTV Sports
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1,PTV Sports
@@ -442,31 +442,31 @@ http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Cricket
-http://103.153.175.254:8080/hls/stream34.m3u8
+http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
-http://103.153.175.254:8080/hls/stream9.m3u8
+http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1,Discovery
 http://cdn.ihub.live:8080/j-Discovery-Hindi/index.m3u8
 #EXTINF:-1,Animal Planet
-http://103.153.175.254:8080/hls/stream6.m3u8
+http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1,Animal Planet
 http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
-http://103.153.175.254:8080/hls/stream13.m3u8
+http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
-http://103.153.175.254:8080/hls/stream5.m3u8
+http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1,TLC HD
 http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Travel XP (Bangla)
-http://103.153.175.254:8080/hls/stream37.m3u8
+http://103.81.104.118/hls/stream37.m3u8
 #EXTINF:-1,Travel XP (Hinde)
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,Star Movies
-http://103.153.175.254:8080/hls/stream3.m3u8
+http://103.81.104.118//hls/stream3.m3u8
 #EXTINF:-1,AXN
 http://103.153.175.254:8080/hls/stream2.m3u8
 #EXTINF:-1,Sony Pix HD
-http://103.153.175.254:8080/hls/stream1.m3u8
+hls/stream1.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1,Sony Pix
@@ -508,7 +508,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,Zoom
-http://103.153.175.254:8080/hls/stream8.m3u8
+http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1,Al Jazeera
 http://cdn.ihub.live:8080/j-Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Al Jazeera 
@@ -522,7 +522,7 @@ https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1,Sony Yay
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Sony Yay
-http://103.153.175.254:8080/hls/stream32.m3u8
+http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1,Sony Yay
 http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nick
