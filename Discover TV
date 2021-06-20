@@ -339,6 +339,8 @@ http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8080/j-star-gold-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist.m3u8
+#EXTINF:-1,Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1,Sony Max HD
 http://cdn.ihub.live:8080/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max HD
@@ -365,6 +367,8 @@ http://103.81.104.118/hls/stream29.m3u8
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1,Rishtey Cineplex
+http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UTV Action
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1,UTV Action
@@ -457,6 +461,8 @@ http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Hinde)
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC Earth
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1,Sony BBC Earth (Hinde)
