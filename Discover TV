@@ -457,6 +457,8 @@ http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1,BBC Earth
 http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1,Sony BBC Earth (Hinde)
+http://84.17.41.7:80/SONYEARTH/HD/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TLC HD
 http://cdn.ihub.live:8080/TLCHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Travel XP (Bangla)
