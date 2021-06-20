@@ -524,7 +524,7 @@ http://103.153.175.254:8080/hls/stream32.m3u8
 #EXTINF:-1,Sony Yay
 http://cdn.ihub.live:8080/SonyYay/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nick
-http://103.153.175.254:8080/hls/stream23.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Nick Jr
 http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney XD
