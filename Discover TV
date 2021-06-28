@@ -733,7 +733,7 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_max_2_720&user=74
 #EXTINF:-1,Sony Max 2
 https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sony Wah
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=set_wah_720&user=748e920475c8167decb7565f975b6468
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_wah_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Sony Wah
 https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Zee Cinema
