@@ -721,9 +721,9 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=colors_rishtey_720&use
 #EXTINF:-1,Colors Rishtey
 https://streamer-1.toffeelive.com/mobile_hls/colors_rishtey/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sony Max
-https://streamer-1.toffeelive.com/?bitrate=512000&channel=set_max_720&user=748e920475c8167decb7565f975b6468
+https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_max_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Sony Max
-https://streamer-1.toffeelive.com/mobile_hls/set_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Sony Max HD
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=set_max_hd_720&user=748e920475c8167decb7565f975b6468
 #EXTINF:-1,Sony Max HD
