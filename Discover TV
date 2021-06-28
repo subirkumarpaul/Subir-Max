@@ -882,7 +882,7 @@ https://streamer-1.toffeelive.com/?bitrate=512000&channel=sony_yay_720&user=748e
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Nick
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=nick_720&user=748e920475c8167decb7565f975b6468
-#EXTINF:-1,Nick
+#EXTINF:-1,Nick Mobile
 https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1,Nick HD
 https://streamer-1.toffeelive.com/?bitrate=512000&channel=nick_hd_720&user=748e920475c8167decb7565f975b6468
