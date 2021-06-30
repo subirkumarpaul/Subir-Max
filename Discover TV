@@ -48,7 +48,7 @@ http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1,RTV
 https://ott.bingebd.com/live/ngrp:rtv_all/subir.m3u8
 #EXTINF:-1,Gazi TV
-http://172.16.29.28/hls/sports3.m3u8
+http://103.106.243.163:8181//17/index.m3u8
 #EXTINF:-1,Gazi TV
 http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
@@ -401,6 +401,8 @@ http://103.205.133.19/hls/tsports.m3u8
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BD
 http://45.76.183.55:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T Sports BD
+http://103.106.243.163:8181//17/index.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://209.126.120.153/hls/chss1.m3u8
 #EXTINF:-1,Star Sports 1 HD
