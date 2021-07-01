@@ -417,6 +417,8 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://209.126.120.153/hls/chss2.m3u8
 #EXTINF:-1,Star Sports 2
 http://103.205.133.19/hls/chss2.m3u8
+#EXTINF:-1,Star Sports 3
+http://103.109.56.116:80/live/skyfeed1022/index.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1,Star Sports Select 1
@@ -448,13 +450,13 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
 #EXTINF:-1,PTV Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1,PTV Sports
-http://212.224.98.206:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=
+http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super HD
 http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Geo Super PK
-http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/tracks-v1a1/mono.m3u8
+http://89.41.180.253:8080/PAKISTANI_GEO_SUPER/index.m3u8
 #EXTINF:-1,Ten Sports PK
-http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+http://221.120.204.4:80/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
