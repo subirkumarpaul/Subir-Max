@@ -220,7 +220,7 @@ http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1,Channel 24
 http://cdn.ihub.live:8080/j-Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TBN 24
-http://fingerme.dg21bd.com/TBN24/index.m3u8
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Movie Bangla
 http://cdn.ihub.live:8080/j-MovieBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,My Cinema
