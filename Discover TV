@@ -982,3 +982,45 @@ http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 http://10.16.100.204/hls/9xm_720.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVxKUNkstXEe3YW0DgYravcWAXPKmWQLZFOTM2KfXSZjGMBDNc&usqp=CAU" group-title="Hinde Music",Masti Music
 http://10.16.100.207:8082/sports/mtuness.m3u8
+
+
+
+#EXTINF:-1,Channel 1
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Channel 2
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1,Channel 3
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1,Channel 4
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1,Channel 5
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1,Channel 6
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1,Channel 7
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1,Channel 8
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1,Channel 9
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1,Channel 10
+http://103.109.56.116/live/skyfeed1010/index.m3u8
+#EXTINF:-1,Channel 11
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1,Channel 12
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1,Channel 13
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1,Channel 14
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1,Channel 15
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1,Channel 16
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1,Channel 17
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1,Channel 18
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1,Channel 19
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+
