@@ -459,6 +459,8 @@ http://89.41.180.253:8080/PAKISTANI_GEO_SUPER/index.m3u8
 http://221.120.204.4:80/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ten Cricket
 http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1,Willow HD
+http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8
 #EXTINF:-1,Discovery HD(Bangla)
 http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1,Discovery
@@ -544,7 +546,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Cartoon Networrk
 http://103.205.133.21/hls/cn.m3u8
 #EXTINF:-1,Cartoon Networrk
-http://209.126.120.153/hls/cn.m3u8
+http://jupiter.bdcabletv.com/cn-sim/video.m3u8
+#EXTINF:-1,Pogo
+http://jupiter.bdcabletv.com/pogo-pak/video.m3u8
 #EXTINF:-1,Discovery Kids
 https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
 #EXTINF:-1,Sony Yay
