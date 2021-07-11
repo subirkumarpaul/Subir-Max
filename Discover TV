@@ -333,6 +333,8 @@ http://cdn.ihub.live:8080/j-colors-hd/tracks-v1a1/mono.m3u8
 http://10.100.100.134/live/skyfeed1004/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.19/hls/andtv.m3u8
+#EXTINF:-1,Movies Channel 1
+http://178.62.107.180/woh/index.m3u8?id=48133
 #EXTINF:-1,Star Gold HD
 http://103.81.104.118//hls/stream19.m3u8
 #EXTINF:-1,Star Gold HD
