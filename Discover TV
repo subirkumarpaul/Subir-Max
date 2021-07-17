@@ -358,6 +358,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.19/hls/zeecinema.m3u8
 #EXTINF:-1,Zee Cinema
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+#EXTINF:-1,Zee Cinema
 http://cdn.ihub.live:8080/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,And Pictures HD
 http://103.205.133.21/hls/andpicture.m3u8
