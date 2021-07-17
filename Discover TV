@@ -54,7 +54,7 @@ http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
-http://103.81.104.118/hls/stream20.m3u8
+http://tv.pmcon.net/hls/stream20.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -476,7 +476,7 @@ http://tv.pmcon.net/hls/stream6.m3u8
 #EXTINF:-1,Animal Planet
 http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Bangla)
-/hls/stream13.m3u8
+http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:-1,Nat Geo Channel HD(Hinde)
 https://wyjs.tk/index.php/http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Nat Geo Wild
@@ -552,7 +552,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1,9X Jalwa
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,Zoom
-http://103.81.104.118/hls/stream8.m3u8
+http://tv.pmcon.net/hls/stream8.m3u8
 #EXTINF:-1,Zoom
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-1,Al Jazeera
@@ -749,85 +749,85 @@ http://103.213.238.70:80/j-TSports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",ATN Bangla [4]
-http://103.81.104.118/hls/stream17.m3u8
+http://tv.pmcon.net/hls/stream17.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel 24 [4]
-http://103.81.104.118/hls/stream22.m3u8
+http://tv.pmcon.net/hls/stream22.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Channel I [4]
-http://103.81.104.118/hls/stream18.m3u8
+http://tv.pmcon.net/hls/stream18.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Maasranga [4]
-http://103.81.104.118/hls/stream20.m3u8
+http://tv.pmcon.net/hls/stream20.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nagorik [4]
-http://103.81.104.118/hls/stream24.m3u8
+http://tv.pmcon.net/hls/stream24.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Somoy [4]
-http://103.81.104.118/hls/stream21.m3u8
+http://tv.pmcon.net/hls/stream21.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Colors Bangla HD [4]
-http://103.81.104.118/hls/stream28.m3u8
+http://tv.pmcon.net/hls/stream28.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Enterr 10 Bangla [4]
-http://103.81.104.118/hls/stream26.m3u8
+http://tv.pmcon.net/hls/stream26.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Jalsha Movies HD [4]
-http://103.81.104.118/hls/stream27.m3u8
+http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Jalsha HD [4]
-http://103.81.104.118/hls/stream31.m3u8
+http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Bangla HD [4]
-http://103.81.104.118/hls/stream30.m3u8
+http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",And Pictures HD [4]
-http://103.81.104.118/hls/stream14.m3u8
+http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Colors Cineplex HD [4]
-http://103.81.104.118/hls/stream29.m3u8
+http://tv.pmcon.net/hls/stream29.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Max HD [4]
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Gold HD [4]
-http://103.81.104.118/hls/stream19.m3u8
+http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Plus HD [4]
-http://103.81.104.118/hls/stream38.m3u8
+http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",UTV Action [4]
-http://103.81.104.118/hls/stream7.m3u8
+http://tv.pmcon.net/hls/stream7.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zee Cinema HD [4]
-http://103.81.104.118/hls/stream25.m3u8
+http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",9XM [4]
-http://103.81.104.118/hls/stream4.m3u8
+http://tv.pmcon.net/hls/stream4.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Zoom [4]
-http://103.81.104.118/hls/stream8.m3u8
+http://tv.pmcon.net/hls/stream8.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Nick [4]
-http://103.153.175.254:8080/hls/stream23.m3u8
+http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Yay [4]
-http://103.81.104.118/hls/stream32.m3u8
+http://tv.pmcon.net/hls/stream32.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BBC Earth [4]
-http://103.81.104.118/hls/stream5.m3u8
+http://tv.pmcon.net/hls/stream5.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Discovery Bangla HD [4]
-http://103.81.104.118/hls/stream9.m3u8
+http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",National Geographic Bangla HD [4]
-http://103.81.104.118/hls/stream13.m3u8
+http://tv.pmcon.net/hls/stream13.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Travel XP Bangla HD [4]
-http://103.81.104.118/hls/stream37.m3u8
+http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",AXN [4]
-http://103.81.104.118/hls/stream2.m3u8
+http://tv.pmcon.net/hls/stream2.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Pix HD [4]
-http://103.81.104.118/hls/stream1.m3u8
+http://tv.pmcon.net/hls/stream1.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Movies [4]
-http://103.81.104.118/hls/stream3.m3u8
+http://tv.pmcon.net/hls/stream3.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",PTV Sports [4]
-http://103.81.104.118/hls/stream11.m3u8
+http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Ten 1 HD [4]
-http://103.81.104.118/hls/stream40.m3u8
+http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Ten 2 HD [4]
-http://103.81.104.118/hls/stream39.m3u8
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Sony Six HD [4]
-http://103.81.104.118/hls/stream10.m3u8
+http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 1 HD [4]
-http://103.81.104.118/hls/stream15.m3u8
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports 2 HD [4]
-http://103.81.104.118/hls/stream16.m3u8
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Star Sports Select 1 HD [4]
-http://103.81.104.118/hls/stream12.m3u8
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Ten Cricket [4]
-http://103.81.104.118/hls/stream34.m3u8
+http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Al Jazeera [4]
-http://103.81.104.118/hls/stream35.m3u8
+http://tv.pmcon.net/hls/stream35.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",BBC World [4]
-http://103.81.104.118/hls/stream36.m3u8
+http://tv.pmcon.net/hls/stream36.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="BDIX Server 4",Macca [4]
-http://103.81.104.118/hls/stream33.m3u8
+http://tv.pmcon.net/hls/stream33.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
