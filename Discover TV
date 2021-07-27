@@ -2,6 +2,8 @@
 #EXTINF:-1,BTV National
 http://103.205.133.19/hls/btv.m3u8
 #EXTINF:-1,BTV National
+http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1,BTV National
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
