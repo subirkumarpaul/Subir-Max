@@ -324,7 +324,7 @@ http://208.115.215.42/SonY_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee TV
 http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1,Zee TV Asia
-http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+https://y5w8j4a9.ssl.hwcdn.net:443/ztvme/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.19/hls/chc.m3u8
 #EXTINF:-1,Colors HD
