@@ -525,6 +525,8 @@ http://cdn.ihub.live:8080/&privatehd/tracks-v1a1/mono.m3u8
 http://84.17.41.7/MOVIESNOW/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MNX HD
 http://84.17.41.7/MNXHD/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Romedy Now
+http://103.153.39.34:8000/play/a052/index.m3u8
 #EXTINF:-1,Live Movies
 https://live.diu.ac/hls/live/index.m3u8
 #EXTINF:-1,MTV Plus HD
