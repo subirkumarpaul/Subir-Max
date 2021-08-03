@@ -59,6 +59,8 @@ https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 http://tv.pmcon.net/hls/stream20.m3u8
+#EXTINF:-1,Maasranga TV
+https://tv.bdtv.xyz:2096/live/maasranga/playlist.m3u8
 #EXTINF:-1,Channel 9 HD BD
 http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1,Channel 9 HD BD
@@ -81,6 +83,8 @@ http://cdn.ihub.live:8080/j-BijoyTV/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:-1,Deepto TV HD
+https://tv.bdtv.xyz:2096/live/deeptotv/playlist.m3u8
 #EXTINF:-1,Deepto TV HD
 http://cdn.ihub.live:8080/j-DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asian TV
@@ -213,6 +217,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,Somoy News
 http://cdn.ihub.live:8080/j-SomoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Somoy News
+https://tv.bdtv.xyz:2096/live/somoy/playlist.m3u8
 #EXTINF:-1,Jamuna TV
 http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1,Jamuna TV
