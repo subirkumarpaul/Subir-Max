@@ -410,7 +410,7 @@ http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BD
 http://45.76.183.55:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports BD
-http://103.106.243.163:8181//17/index.m3u8
+https://tv.bdtv.xyz:2096/live/tsports/playlist.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 HD
