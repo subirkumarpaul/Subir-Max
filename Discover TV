@@ -53,6 +53,8 @@ https://ott.bingebd.com/live/ngrp:rtv_all/subir.m3u8
 http://103.157.237.18:8000/play/122
 #EXTINF:-1,Gazi TV
 http://cdn.ihub.live:8080/j-GTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gazi TV
+https://tv.bdtv.xyz:2096/live/gazitv/playlist.m3u8
 #EXTINF:-1,Maasranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,Maasranga TV
