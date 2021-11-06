@@ -1207,3 +1207,19 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1,Channel 19
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
+
+
+
+#EXTINF:-1,Super Sports SSV1
+http://212.224.98.209:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1,Channel SSV2
+http://212.224.98.209:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1,Channel SSV3
+http://212.224.98.209:2200/AFR-EX/SuperSport_Variety_3_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1,Channel SSV4
+http://212.224.98.209:2200/AFR-EX/SuperSport_Variety_4_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1,Channel SSA
+http://212.224.98.209:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+#EXTINF:-1,Channel SSV4
+http://212.224.98.209:2200/AFR-EX/SuperSport_Bitz_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
+
