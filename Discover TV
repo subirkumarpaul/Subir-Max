@@ -1207,8 +1207,8 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1,Channel 19
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
-
-
+#EXTINF:-1,Star Sports 1 HD
+http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
 #EXTINF:-1,Super Sports SSC
 http://212.224.98.209:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Channel SSG
