@@ -135,7 +135,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Amrbd",ATN News(Amrbd)
 http://103.136.200.246:8082/Atn-News/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Jagpbd",Jamuna TV(Jagobd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Jagobd",Jamuna TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Amrbd",Channel 24(Amrbd)
 http://103.136.200.246:8082/Channel24/index.m3u8
