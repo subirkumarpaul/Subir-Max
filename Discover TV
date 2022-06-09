@@ -326,7 +326,6 @@ http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
 http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Flixhub",Star Sports Select 1(Flixhub)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
-http://103.60.172.106:8080/StarSportsSelect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BDIPTV",Star Sports Select 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Flixhub",Star Sports Select 2(Flixhub)
