@@ -47,7 +47,7 @@ http://stream.accessnetbd.com/hls/sky13.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sky",No Channel(Sky)
 http://stream.accessnetbd.com/hls/sky16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
-http://103.55.144.46:80/hls/t-sports.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sky",T Sports(Sky)
 http://stream.accessnetbd.com/hls/sky12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
@@ -57,7 +57,7 @@ http://103.167.190.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Sky",Gazi TV(Sky)
 http://stream.accessnetbd.com/hls/sky3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV(Flixhub)2
-http://103.55.144.46:80/hls/Gazi-TV.m3u8
+http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Amrbd",Gazi TV(Amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="BDIPTV",Gazi TV(BDIPTV)
@@ -69,13 +69,13 @@ http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Flixhub",Channel I(Flixhub)
-http://103.55.144.46:80/hls/channeli.m3u8
+http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Amrbd",Channel I(Amrbd)
 http://103.136.200.246:8082/Channel-i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd",Channel I(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV(Flixhub)
-http://103.55.144.46:80/hls/masranga.m3u8
+http://103.55.144.46/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDIX",Ekushay TV(BDIX)
@@ -127,17 +127,17 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Jagobd",Channel 9(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Flixhub",Nexus TV HD(Flixhub)
-http://103.55.144.46:80/hls/nexus.m3u8
+http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIX",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV(Flixhub)
-http://103.55.144.46:80/hls/somoy.m3u8
+http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(Amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Jagobd",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Flixhub",Independent TV(Flixhub)
-http://103.55.144.46:80/hls/indepen.m3u8
+http://103.55.144.46/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Amrbd",Independent TV(Amrbd)
 http://103.136.200.246:8082/Independent-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Jagobd",Independent TV(Jagobd)
@@ -338,7 +338,7 @@ http://stream.accessnetbd.com/hls/sky7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BDIPTV",Star Sports 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
-http://103.55.144.46:80/hls/starsports2.m3u8
+http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="Flixhub",Star Sports 3(Flixhub)
@@ -348,11 +348,11 @@ http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BDIPTV",Star Sports Select 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Flixhub",Star Sports Select 2(Flixhub)
-http://103.55.144.46:80/hls/select2.m3u8
+http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BDIPTV",Star Sports Select 2(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Flixhub",Sony Ten 1(Flixhub)
-http://103.55.144.46:80/hls/sonyten1.m3u8
+http://103.55.144.46/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Sky",Sony Ten 1(Sky)
 http://stream.accessnetbd.com/hls/sky10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Amrbd",Sony Ten 1(Amrbd)
@@ -366,7 +366,7 @@ http://103.136.200.246:8082/Ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="BDIPTV",Sony Ten 2(BDIPTV)
 http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",Sony Ten 3(Flixhub)
-http://103.55.144.46:80/hls/sonyten3.m3u8
+http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Amrbd",Sony Ten 3(Amrbd)
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="BDIPTV",Sony Ten 3(BDIPTV)
@@ -374,13 +374,13 @@ http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Amrbd",Sony Six(Amarbd)
 http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Flixhub",Eurosports(Flixhub)
-http://103.55.144.46:80/hls/euro.m3u8
+http://103.55.144.46/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Jiotv",Eurosports(Jiotv)
 http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=Dsports_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
-http://103.55.144.46:80/hls/ten.m3u8
+http://103.55.144.46/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Flixhub",PTV Sports(Flixhub)
-http://103.55.144.46:80/hls/ptv.m3u8
+http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD2",PTV Sports(BD2)
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
@@ -419,74 +419,74 @@ http://bdiptv.net:8082/tv13/index.m3u8
 http://bdiptv.net:8082/tv14/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
-http://103.55.144.46:80/hls/discovery.m3u8
+http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Amrbd",Discovery HD(Amrbd)
 http://103.136.200.246:8082/Discovery-Tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Flixhub",Discovery Science (Flixhub)
-http://103.55.144.46:80/hls/dis-science.m3u8
+http://103.55.144.46/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
-http://103.55.144.46:80/hls/ngohd.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Amrbd",Net Geo HD(Amrbd)
 http://103.136.200.246:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
-http://103.55.144.46:80/hls/wild.m3u8
+http://103.55.144.46/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
-http://103.55.144.46:80/hls/travelxp.m3u8
+http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)2
-http://103.55.144.46:80/hls/travelxp.m3u8
+http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth(Flixhub)
-http://103.55.144.46:80/hls/bbcearth.m3u8
+http://103.55.144.46/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Amrbd",SONY BBC Earth(Amrbd)
 http://103.136.200.246:8082/Bbc-Earth/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
-http://103.55.144.46:80/hls/animalplanent.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Flixhub",Discovery Kids(Flixhub)
-http://103.55.144.46:80/hls/dis-kid.m3u8
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
-http://103.55.144.46:80/hls/nick.m3u8
+http://103.55.144.46/hls/nick.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD2",Sonic(BD2)
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
-http://103.55.144.46:80/hls/cn.m3u8
+http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Jiotv",Cartoon Network HD(Jiotv)
 http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
-http://103.55.144.46:80/hls/pogo.m3u8
+http://103.55.144.46/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD3",Pogo(BD3)
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Flixhub",Star Movies(Flixhub)
-http://103.55.144.46:80/hls/starmovies.m3u8
+http://103.55.144.46/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies(BD)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Flixhub",Sony Pix(Flixhub)
-http://103.55.144.46:80/hls/sonypixhd.m3u8
+http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Amrbd",Sony Pix(Amrbd)
 http://103.136.200.246:8082/SonyPix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Flixhub",Movies Now(Flixhub)
-http://103.55.144.46:80/hls/movies-now.m3u8
+http://103.55.144.46/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Amrbd",Movies Now(Amrbd)
 http://103.136.200.246:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Flixhub",MN+(Flixhub)
-http://103.55.144.46:80/hls/mn+.m3u8
+http://103.55.144.46/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Flixhub",MNX HD(Flixhub)
-http://103.55.144.46:80/hls/mnx-hd.m3u8
+http://103.55.144.46/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD2",AND Xplor HD(BD2)
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
-http://103.55.144.46:80/hls/star-worldhd.m3u8
+http://103.55.144.46/hls/star-worldhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="Flixhub",AXN(Flixhub)
-http://103.55.144.46:80/hls/axn.m3u8
+http://103.55.144.46/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Flixhub",TLC(Flixhub)
-http://103.55.144.46:80/hls/tlc.m3u8
+http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Amrbd",TLC(Amrbd)
 http://103.136.200.246:8082/TLC_World/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
-http://103.55.144.46:80/hls/9xm.m3u8
+http://103.55.144.46/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BDIPTV",9XM(BDIPTV)
 http://bdiptv.net:8082/bdip1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD2",9X Jalwa(BD2)
@@ -494,13 +494,13 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BD3",B4U Music(BD3)
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
-http://103.55.144.46:80/hls/zoom.m3u8
+http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BDIX",Zoom(BDIX)
 http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BD3",Zoom(BD3)
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass(Flixhub)
-http://103.55.144.46:80/hls/bindass.m3u8
+http://103.55.144.46/hls/bindass.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD2",Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BD3",MTV(BD3)
@@ -519,9 +519,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
-http://103.55.144.46:80/hls/aljazeera.m3u8
+http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
-http://103.55.144.46:80/hls/bbcworld.m3u8
+http://103.55.144.46/hls/bbcworld.m3u8
 
 
 #EXTINF:-1,Channel 1
