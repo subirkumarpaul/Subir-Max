@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
-http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?Subir
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 https://ranapk.ml/Sony_Liv-2.m3u8
