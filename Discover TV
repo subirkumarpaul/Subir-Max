@@ -214,6 +214,8 @@ http://103.55.144.46:80/hls/sonyen.m3u8
 http://103.72.179.30:1935/GECHindi/SONY.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Amrbd",Sony TV(Amrbd)
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="BD",Sony TV(BD)
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg"group-title="BD2",Sony Sab(BD2)
 http://tvflixegc.hopto.org:1935/GECHindi/SONY_SAB.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg"group-title="Amrbd",Sony Sab(Amrbd)
@@ -238,6 +240,8 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Amrbd",Colors(Amrbd)
 http://103.136.200.246:8082/colorsindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD",Colors(BD)
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD3",Colors UK(BD3)
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
@@ -364,8 +368,12 @@ http://103.55.144.46:80/hls/ten.m3u8
 http://103.55.144.46:80/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD2",PTV Sports(BD2)
 http://208.86.19.13:81/610.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BDIPTV",A Sports(BDIPTV)
 http://bdiptv.net:8082/ASPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BDIPTV",Geo Super(BDIPTV)
 http://bdiptv.net:8082/GEO-SUPER/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sky%20Sports%20Cricket.png"group-title="BDIPTV",Sky Sports Cricket(BDIPTV)
@@ -437,6 +445,8 @@ http://144.217.70.181:9587/hin2/POGO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Flixhub",Star Movies(Flixhub)
 http://103.55.144.46:80/hls/starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies(BD)
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Flixhub",Sony Pix(Flixhub)
 http://103.55.144.46:80/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Amrbd",Sony Pix(Amrbd)
