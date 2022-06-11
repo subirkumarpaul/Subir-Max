@@ -209,8 +209,10 @@ http://103.136.200.246:8082/Jalshamovies/index.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BD2",Amar Bangla(BD2)
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD",Enter 10 Bangla(BD)
 https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD2",Enter 10 Bangla(BD2)
+http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BDIX",Sangeet Bangla(BDIX)
 http://103.159.4.38:9191/CH27-INBD6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BD2",Sangeet Bangla(BD2)
