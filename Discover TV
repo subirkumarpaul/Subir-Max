@@ -346,15 +346,15 @@ http://103.55.144.46/stargold2hd.m3u8
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Gold SELECT(BD)
 http://208.86.19.13:81/709.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",SONY Max HD(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",Sony Max HD(Flixhub)
 http://103.55.144.46/hls/sony-maxhd.m3U8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIX",SONY Max HD(BDIX)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIX",Sony Max HD(BDIX)
 http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",SONY Max(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",Sony Max(Flixhub)
 http://103.55.144.46/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Amrbd",SONY Max(Amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Amrbd",Sony Max(Amrbd)
 http://103.136.200.246:8082/Sony-Max/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",SONY Max(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max(BD)
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD3",Sony Max 2(BD3)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
