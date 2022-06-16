@@ -137,6 +137,8 @@ http://103.159.4.38:9191/CH14-BD3/index.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Amrbd",Nagorik TV(Amrbd)
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BDIPTV",Nagorik TV(BDIPTV)
+http://bdiptv.net:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Amrbd",Bijoy TV(Amrbd)
 http://103.136.200.246:8082/BijoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Amrbd",Boishakhi TV(Amrbd)
