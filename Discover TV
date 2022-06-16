@@ -641,12 +641,16 @@ http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.55.144.46/hls/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIPTV",Aljazeera(BDIPTV)
+http://bdiptv.net:8082/Al-Jazeera/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIX",Aljazeera(BDIX)
 http://103.159.4.38:9191/CH47-ENG5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
 http://103.55.144.46/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIX",CNN(BDIX)
 http://103.159.4.38:9191/CH46-ENG4/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIPTV",CNN(BDIPTV)
+http://bdiptv.net:8082/DW/index.m3u8
 
 #EXTINF:-1,Channel 1
 http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
