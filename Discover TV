@@ -574,7 +574,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.55.144.46/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Amrbd",Sony Pix(Amrbd)
 http://103.136.200.246:8082/SonyPix/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="BDIPT",Sony Pix(BDIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="BDIPTV",Sony Pix(BDIPTV)
 http://bdiptv.net:8082/sony-pix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Flixhub",Movies Now(Flixhub)
 http://103.55.144.46/hls/movies-now.m3u8
