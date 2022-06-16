@@ -668,6 +668,8 @@ http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.on
 http://dds.oncast.me:1934/dlive/ch9.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1,Nat Geo Wild
 http://dds.oncast.me:1934/dlive/natgw.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1,Gazi TV
+http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 
 #EXTINF:-1,Channel 1
