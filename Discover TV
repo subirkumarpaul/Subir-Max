@@ -6,7 +6,7 @@ http://stream.accessnetbd.com/hls/bdlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 https://birutv.com/sport@birutv/live/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-https://vkvsd17.mycdn.me/hls/2624116886058.m3u8/sig/W3r3mY3Kn_s/expires/1655488748123/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3885729655594/2624116886058_high/index.m3u8
+http://31.172.87.56:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_TBJ74n47-rF3u8uzDHXI8A%3D%3D%2C1655624662.3845467842|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
 http://103.136.200.246:8082/Local-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
