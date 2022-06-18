@@ -459,6 +459,8 @@ http://103.136.200.246:8082/SonySix/index.m3u8
 http://103.159.4.38:9191/CH6-SP6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="BDIX",Sony Six(BDIX)
 http://103.159.4.38:9191/CH1-SP1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports(BD3)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Flixhub",Eurosports(Flixhub)
 http://103.55.144.46/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Jiotv",Eurosports(Jiotv)
