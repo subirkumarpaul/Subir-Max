@@ -411,14 +411,20 @@ http://stream.accessnetbd.com/hls/sky7.m3u8
 http://103.159.4.38:9191/CH3-SP3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BDIPTV",Star Sports 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD3",Star Sports 1(BD3)
+http://103.179.246.243:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
+http://103.179.246.243:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="Flixhub",Star Sports 3(Flixhub)
 http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="BDIPTV",Star Sports 3(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="BD3",Star Sports 3(BD3)
+http://103.179.246.243:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Flixhub",Star Sports Select 1(Flixhub)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BDIPTV",Star Sports Select 1(BDIPTV)
@@ -559,6 +565,8 @@ http://103.55.144.46/hls/animalplanent.m3u8
 http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://103.55.144.46/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD3",Nick(BD3)
+http://103.179.246.243:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD2",Sonic(BD2)
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
@@ -598,13 +606,14 @@ http://103.55.144.46/hls/axn.m3u8
 http://103.55.144.46/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Amrbd",TLC(Amrbd)
 http://103.136.200.246:8082/TLC_World/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English", Romedy Now HD
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD3",Romedy Now HD(BD3)
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="English", Colors Infinity
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="BD3",Colors Infinity(BD3)
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="English", Fox Life HD
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinex(BD3)
+http://103.179.246.243:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
 http://103.55.144.46/hls/9xm.m3u8
