@@ -767,6 +767,9 @@ https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA",MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD BANGLA", NRB
+https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="NBN Live", BTV World [8]
 https://nbn.chowdhury-shaheb.com/live/nk-btv/chunks.m3u8
@@ -824,6 +827,27 @@ https://nbn.chowdhury-shaheb.com/live/nb-bbcearth_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H4ZY5JI.png" group-title="NBN Live", StarSports-2HD [8]
 https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="Rangdhanu Live" ,MOHONA TV [7]
+https://cdn.rangdhanu.live/MohonaTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="Rangdhanu Live" ,GAAN BANGLA [7]
+https://cdn.rangdhanu.live/GaanBangla/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="Rangdhanu Live" ,ATN MUSIC [7]
+https://cdn.rangdhanu.live/ATNMusic/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E4NcxwB.png" group-title="Rangdhanu Live", 9X Jalwaa [7]
+https://cdn.rangdhanu.live/9XJalwa/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kFqOMtx.png" group-title="Rangdhanu Live", EKUSEY TV [7]
+https://cdn.rangdhanu.live/EkusheyTv/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="Rangdhanu Live", MOHONA TV [7]
+https://cdn.rangdhanu.live/MohonaTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Rangdhanu Live", Sony Max HD [7]
+https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GPPBEiZ.png" group-title="Rangdhanu Live", MTV [7]
+https://cdn.rangdhanu.live/MTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="Rangdhanu Live" ,Sony Sab HD [7]
+https://cdn.rangdhanu.live/SonySAB/video.m3u8
+
 
 
 
