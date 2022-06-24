@@ -641,6 +641,10 @@ http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=CN_HD_English&q=1200&
 http://103.55.144.46/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD3",Pogo(BD3)
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-junior.png" group-title="BD3",DISNEY JUNIOR(BD3)
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Flixhub",Star Movies(Flixhub)
 http://103.55.144.46/hls/starmovies.m3u8
