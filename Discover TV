@@ -253,6 +253,8 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 http://103.55.144.46/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Amrbd",Sony Aath(Amrbd)
 http://103.136.200.246:8082/Sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Rangdhanu",Sony Aath(Rangdhanu)
+https://cdn.rangdhanu.live/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Flixhub",Star Jalsha HD(Flixhub)
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Amrbd",Star Jalsha(Amrbd)
@@ -265,6 +267,8 @@ http://stream.accessnetbd.com/hls/sky14.m3u8
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BDIX",Zee Bangla HD(BDIX)
 http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Rangdhanu",Zee Bangla(Rangdhanu)
+https://cdn.rangdhanu.live/ZeeBangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Amrbd",Zee Bangla HD(Amrbd)
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
@@ -479,6 +483,8 @@ http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
 http://103.55.144.46/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Sky",Sony Ten 1(Sky)
 http://stream.accessnetbd.com/hls/sky10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Rangdhanu",Sony Ten 1(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen1/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="BDIX",Sony Ten 1(BDIX)
 http://103.159.4.38:9191/CH7-SP7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Amrbd",Sony Ten 1(Amrbd)
@@ -491,12 +497,16 @@ http://bdiptv.net:8082/SONY-SIX-1/index.m3u8
 http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="BDIX",Sony Ten 2(BDIX)
 http://103.159.4.38:9191/CH8-SP8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Rangdhanu",Sony Ten 2(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen2/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Amrbd",Sony Ten 2(Amrbd)
 http://103.136.200.246:8082/Ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="BDIPTV",Sony Ten 2(BDIPTV)
 http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",Sony Ten 3(Flixhub)
 http://103.55.144.46/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Rangdhanu",Sony Ten 3(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen3/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Amrbd",Sony Ten 3(Amrbd)
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="BDIPTV",Sony Ten 3(BDIPTV)
@@ -507,6 +517,8 @@ http://103.136.200.246:8082/SonySix/index.m3u8
 http://103.159.4.38:9191/CH6-SP6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="BDIX",Sony Six(BDIX)
 http://103.159.4.38:9191/CH1-SP1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Rangdhanu",Sony Six(Rangdhanu)
+https://cdn.rangdhanu.live/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Flixhub",Eurosports(Flixhub)
@@ -867,37 +879,6 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="Rangdhanu Live" ,MOHONA TV [7]
-https://cdn.rangdhanu.live/MohonaTV/video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="Rangdhanu Live" ,GAAN BANGLA [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="Rangdhanu Live" ,ATN MUSIC [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/E4NcxwB.png" group-title="Rangdhanu Live", 9X Jalwaa [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/kFqOMtx.png" group-title="Rangdhanu Live", EKUSEY TV [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="Rangdhanu Live", MOHONA TV [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="Rangdhanu Live", Sony Max HD [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/GPPBEiZ.png" group-title="Rangdhanu Live", MTV [7]
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="Rangdhanu Live" ,Sony Sab HD [7]
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Rangdhanu",Sony Aath(Rangdhanu)
-https://cdn.rangdhanu.live/SonyAath/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Rangdhanu",Zee Bangla(Rangdhanu)
-https://cdn.rangdhanu.live/ZeeBangla/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Rangdhanu",Sony Ten 1(Rangdhanu)
-https://cdn.rangdhanu.live/SonyTen1/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Rangdhanu",Sony Ten 2(Rangdhanu)
-https://cdn.rangdhanu.live/SonyTen2/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Rangdhanu",Sony Ten 3(Rangdhanu)
-https://cdn.rangdhanu.live/SonyTen3/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Rangdhanu",Sony Six(Rangdhanu)
-https://cdn.rangdhanu.live/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",a(Rangdhanu)
 
 
