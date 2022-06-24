@@ -417,6 +417,8 @@ http://103.159.4.38:9191/CH32-IN-HIN4/index.m3u8
 https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDcabletv",Sony Max(BDcabletv)
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDcabletv2",Sony Max(BDcabletv2)
+http://103.72.179.30:1935/HindiMovies/SONY_MAX.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Amrbd",Sony Max(Amrbd)
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max(BD)
