@@ -45,41 +45,31 @@ http://bdiptv.net:8082/tsp/index.m3u8
 #https://cdn.rangdhanu.live/TSports/video.m3u8
 #http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 #http://103.159.4.38:9191/CH2-SP2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIX",T Sports SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports SD
 http://103.159.4.38:9191/CH33-IN-HIN5/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Rangdhanu",Gazi TV(Rangdhanu)
-https://cdn.rangdhanu.live/GaziTV/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Sky",Gazi TV(Sky)
-http://stream.accessnetbd.com/hls/sky3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV(Flixhub)2
-http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Amrbd",Gazi TV(Amrbd)
-http://103.136.200.246:8082/Gazi-Tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="BDIPTV",Gazi TV(BDIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="",Gazi TV
 http://bdiptv.net:8082/gtv/index.m3u8
+#https://cdn.rangdhanu.live/GaziTV/video.m3u8
+#http://stream.accessnetbd.com/hls/sky3.m3u8
+#http://103.55.144.46/hls/Gazi-TV.m3u8
+#http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Amrbd",ATN Bangla(Amrbd)
-http://103.136.200.246:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="BDIPTV",ATN Bangla(BDIPTV)
 http://bdiptv.net:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Rangdhanu",ATN Bangla(Rangdhanu)
-https://cdn.rangdhanu.live/ATNBangla/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="BDIX",ATN Bangla(BDIX)
-http://103.159.4.38:9191/CH18-BD7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Flixhub",Channel I(Flixhub)
-http://103.55.144.46/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BDIX",Channel I(BDIX)
-http://103.159.4.38:9191/CH12-BD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Rangdhanu",Channel I(Rangdhanu)
-https://cdn.rangdhanu.live/ChannelI/video.m3u8
+#http://103.136.200.246:8082/ATN-Bangla/index.m3u8
+#https://cdn.rangdhanu.live/ATNBangla/video.m3u8
+#http://103.159.4.38:9191/CH18-BD7/index.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Amrbd",Channel I(Amrbd)
-http://103.136.200.246:8082/Channel-i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd",Channel I(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BDIPTV",Channel I(BDIPTV)
 http://bdiptv.net:8082/Channeli/index.m3u8
+#http://103.55.144.46/hls/channeli.m3u8
+#http://103.159.4.38:9191/CH12-BD1/index.m3u8
+#https://cdn.rangdhanu.live/ChannelI/video.m3u8
+#http://103.136.200.246:8082/Channel-i/index.m3u8
+#http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV(Flixhub)
 http://103.55.144.46/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
