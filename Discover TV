@@ -25,11 +25,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="",BTV National
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="",BTV World
-https://cdn.rangdhanu.live/BTVWorld/video.m3u8
-#
-
-??http://103.106.2.152:13456/btv_world.m3u8
-#http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#https://cdn.rangdhanu.live/BTVWorld/video.m3u8
+#http://103.106.2.152:13456/btv_world.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="",BTV CTG
 http://103.106.2.152:13456/btv_ctg.m3u8
 
@@ -41,37 +39,37 @@ http://stream.accessnetbd.com/hls/sky13.m3u8
 http://stream.accessnetbd.com/hls/sky16.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports HD
-http://bdiptv.net:8082/tsp/index.m3u8
+#http://bdiptv.net:8082/tsp/index.m3u8
 #http://stream.accessnetbd.com/hls/sky12.m3u8
 #http://103.55.144.46/hls/t-sports.m3u8
 #https://cdn.rangdhanu.live/TSports/video.m3u8
 #http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
-#http://103.159.4.38:9191/CH2-SP2/index.m3u8
+http://103.159.4.38:9191/CH2-SP2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="",T Sports SD
 http://103.159.4.38:9191/CH33-IN-HIN5/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="",Gazi TV
-http://bdiptv.net:8082/gtv/index.m3u8
+#http://bdiptv.net:8082/gtv/index.m3u8
 #https://cdn.rangdhanu.live/GaziTV/video.m3u8
 #http://stream.accessnetbd.com/hls/sky3.m3u8
 #http://103.55.144.46/hls/Gazi-TV.m3u8
-#http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Amrbd",ATN Bangla(Amrbd)
-http://bdiptv.net:8082/ATN-Bangla/index.m3u8
+#http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 #http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Amrbd",ATN Bangla(Amrbd)
 #https://cdn.rangdhanu.live/ATNBangla/video.m3u8
 #http://103.159.4.38:9191/CH18-BD7/index.m3u8
-#http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Amrbd",Channel I(Amrbd)
-http://bdiptv.net:8082/Channeli/index.m3u8
+#http://bdiptv.net:8082/Channeli/index.m3u8
 #http://103.55.144.46/hls/channeli.m3u8
 #http://103.159.4.38:9191/CH12-BD1/index.m3u8
 #https://cdn.rangdhanu.live/ChannelI/video.m3u8
 #http://103.136.200.246:8082/Channel-i/index.m3u8
-#http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV SD
 http://103.55.144.46/hls/masranga.m3u8
