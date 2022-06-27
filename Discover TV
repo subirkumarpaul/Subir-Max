@@ -29,6 +29,7 @@ https://cdn.rangdhanu.live/BTVWorld/video.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV World(BD2)
 http://103.106.2.152:13456/btv_world.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV CTG(BD2)
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sky",No Channel(Sky)
@@ -49,6 +50,11 @@ http://103.159.4.38:9191/CH2-SP2/index.m3u8
 http://103.159.4.38:9191/CH33-IN-HIN5/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sky",T Sports(Sky)
 http://stream.accessnetbd.com/hls/sky12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports SD(Fire TV)
+http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports HD(Fire TV)
+http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Rangdhanu",Gazi TV(Rangdhanu)
