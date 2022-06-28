@@ -129,6 +129,8 @@ https://cdn.rangdhanu.live/NTV/video.m3u8
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Rangdhanu",RTV(Rangdhanu)
 https://cdn.rangdhanu.live/RTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Fire TV",RTV(Fire TV)
+http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Amrbd",RTV(Amrbd)
 http://103.136.200.246:8082/RTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BDIX",RTV(BDIX)
