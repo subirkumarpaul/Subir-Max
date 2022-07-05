@@ -667,8 +667,8 @@ http://103.179.246.243:8000/play/a01c/index.m3u8
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
 http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Jiotv",Cartoon Network HD(Jiotv)
-http://node99669-techmaxpro-id02.in1.bitmana.io/live.php?c=CN_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
+http://bdiptv.net:8082/Cartoon-Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://103.55.144.46/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD3",Pogo(BD3)
