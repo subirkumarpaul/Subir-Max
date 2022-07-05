@@ -31,6 +31,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Rangdhanu",BTV World(Rangdhanu)
 https://cdn.rangdhanu.live/BTVWorld/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="NBN",BTV World(NBN)
+https://nbn.chowdhury-shaheb.com/live/nk-btv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Jagobd",BTV World(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV World(BD2)
@@ -860,7 +862,7 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="NBN Live", BTV World [8]
-https://nbn.chowdhury-shaheb.com/live/nk-btv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="NBN Live", Gazi HD [8]
 https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="NBN Live", ATN BANGLA [8]
