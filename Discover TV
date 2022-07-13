@@ -6,7 +6,7 @@ http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.onca
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://birutv.com/sport@birutv/live/bt2.m3u8
+http://nayeemparvez-tv7.hopto.org:1932/tvapp/nk-tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 https://birutv.com/sport@birutv/live/bt3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
@@ -52,7 +52,7 @@ http://nayeemparvez-hp.zapto.org/tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ranapk",T Sports SD(Ranapk)
 http://ranapk.myftp.org:1932/tvapp/nk-tsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Sky",T Sports(Sky)
-http://stream.accessnetbd.com/hls/sky12.m3u8
+http://nayeemparvez-tv7.hopto.org:1932/tvapp/nk-tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports SD(Fire TV)
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports HD(Fire TV)
