@@ -37,8 +37,8 @@ http://103.106.2.152:13456/btv_world.m3u8
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sky",No Channel(Sky)
 http://stream.accessnetbd.com/hls/sky4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sky",No Channel(Sky)
-http://stream.accessnetbd.com/hls/sky13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
+http://103.168.91.228/tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://tv.kotha.im/TSports_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
