@@ -227,7 +227,7 @@ http://bdiptv.net:8082/Channel-9/index.m3u8
 http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Jagobd",Nexus TV HD(Jagobd)
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BF",Nexus TV HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BD",Nexus TV HD(BD)
 https://tv.kotha.im/Nexus_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIX",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
