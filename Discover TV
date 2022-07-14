@@ -551,7 +551,7 @@ http://stream.accessnetbd.com/hls/sky10.m3u8
 https://cdn.rangdhanu.live/SonyTen1/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="BDIX",Sony Ten 1(BDIX)
 http://103.159.4.38:9191/CH7-SP7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Skyfeed",Sony Ten 1(skyfeed)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Skyfeed",Sony Ten 1(Skyfeed)
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="BD2",Sony Ten 1(BD2)
 http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8
