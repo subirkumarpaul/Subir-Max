@@ -938,7 +938,7 @@ http://dds.oncast.me:1934/dlive/ch8.stream/chunks.m3u8?|Referer=http://dds.oncas
 #EXTINF:-1 tvg-logo=""group-title="Oncast"9(Oncast)
 http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",10(Oncast)
-http://dds.oncast.me:1934/dlive/ch10.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Nat Geo Wild(Oncast)
 http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Gazi TV(Oncast)
