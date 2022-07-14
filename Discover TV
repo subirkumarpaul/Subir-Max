@@ -664,6 +664,8 @@ http://103.136.200.246:8082/Discovery-Tv/index.m3u8
 http://103.179.246.243:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Flixhub",Discovery Science (Flixhub)
 http://103.55.144.46/hls/dis-science.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BDIPTV",Discovery Science (BDIPTV)
+http://bdiptv.net:8082/DISCOVERY-SCIENCE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Amrbd",Net Geo HD(Amrbd)
@@ -674,6 +676,8 @@ http://103.179.246.243:8000/play/a00x/index.m3u8
 http://103.159.4.38:9191/CH43-ENG1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
 http://103.55.144.46/hls/wild.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BDIPTV",Nat Geo Wild(BDIPTV)
+http://bdiptv.net:8082/NAT-Geo-WILD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD3",Nat Geo Wild(BD3)
 http://103.179.246.243:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
