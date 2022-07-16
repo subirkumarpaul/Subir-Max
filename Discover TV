@@ -529,7 +529,7 @@ http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Cricket(BDIPTV)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="Oncast,Super Sports Cricket(Oncast)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="Oncast",Super Sports Cricket(Oncast)
 http://dds.oncast.me:1934/dlive/sp7.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Football(BDIPTV)
 http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8
