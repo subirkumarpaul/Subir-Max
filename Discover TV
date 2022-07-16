@@ -513,6 +513,8 @@ http://bdiptv.net:8082/GEO-SUPER/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sky%20Sports%20Cricket.png"group-title="BDIPTV",Sky Sports Cricket(BDIPTV)
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sky%20Sports%20Cricket.png"group-title="Oncast",Sky Sports Cricket(Oncast)
+http://dds.oncast.me:1934/dlive/sp2.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sky%20Sports%20Football.jpeg"group-title="BDIPTV",Sky Sports Football(BDIPTV)
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BDIPTV",Willow Cricket(BDIPTV)
