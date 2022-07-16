@@ -416,8 +416,8 @@ http://103.55.144.46/hls/dhin.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Flixhub",Star Sports 1(Flixhub)
 http://103.55.144.46/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sky",Star Sports 1(Sky)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Oncast",Star Sports 1(Oncast)
+http://dds.oncast.me:1934/dlive/sp3.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Skyfeed",Star Sports 1(Skyfeed)
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BDIPTV",Star Sports 1(BDIPTV)
@@ -466,6 +466,8 @@ http://bdiptv.net:8082/SONY-SIX-1/index.m3u8
 http://103.55.144.46/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="BDIPTV",Sony Ten 2(BDIPTV)
 http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Oncast",Sony Ten 2(Oncast)
+http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",Sony Ten 3(Flixhub)
 http://103.55.144.46/hls/sonyten3.m3u8
@@ -487,6 +489,8 @@ http://103.55.144.46/hls/euro.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 http://103.55.144.46/hls/ten.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Oncast",Ten Sports PK(Oncast)
+http://dds.oncast.me:1934/dlive/sp5.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Flixhub",PTV Sports(Flixhub)
 http://103.55.144.46/hls/ptv.m3u8
@@ -670,28 +674,24 @@ http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://103.55.144.46/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BDIX",Zoom(BDIX)
-http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BD3",Zoom(BD3)
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIX",Zing(BDIX)
-http://103.159.4.38:9191/CH37-IN-HIN9/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass(Flixhub)
 http://103.55.144.46/hls/bindass.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD2",Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BD3",MTV(BD3)
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BDIX",MTV(BDIX)
-http://103.159.4.38:9191/CH39-IN-HIN11/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="Rangdhanu",MTV(Rangdhanu)
-https://cdn.rangdhanu.live/MTV/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="BD2", 8X music
 http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fHvAoM9"group-title="BD2",Hangama Music(BD2)
-https://live.hungama.com/linear/dil-se/playlist_3.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD2",MTV Beats(BD2)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD3",E24(BD3)
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
@@ -699,15 +699,12 @@ http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIPTV",Aljazeera(BDIPTV)
 http://bdiptv.net:8082/Al-Jazeera/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIX",Aljazeera(BDIX)
-http://103.159.4.38:9191/CH47-ENG5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
 http://103.55.144.46/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIX",CNN(BDIX)
-http://103.159.4.38:9191/CH46-ENG4/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",CNN(BDIPTV)
 http://bdiptv.net:8082/DW/index.m3u8
-
 
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
@@ -819,15 +816,15 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",1(Oncast)
-http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",2(Oncast)
 http://dds.oncast.me:1934/dlive/sp2.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",3(Oncast)
-http://dds.oncast.me:1934/dlive/sp3.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",4(Oncast)
 http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",5(Oncast)
-http://dds.oncast.me:1934/dlive/sp5.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",6(Oncast)
 http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",7(Oncast)
