@@ -412,7 +412,6 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
@@ -647,19 +646,15 @@ http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
 http://103.179.246.243:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinex(BD3)
+#EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinity(BD3)
 http://103.179.246.243:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
 http://103.55.144.46/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BDIX",9xm(BDIX)
-http://103.159.4.38:9191/CH36-IN-HIN8/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BDIPTV",9XM(BDIPTV)
 http://bdiptv.net:8082/bdip1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD2",9X Jalwa(BD2)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Rangdhanu",9X Jalwa(Rangdhanu)
-https://cdn.rangdhanu.live/9XJalwa/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BD3",B4U Music(BD3)
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
