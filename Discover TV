@@ -527,10 +527,14 @@ http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Cricket(BDIPTV)
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="Oncast,Super Sports Cricket(Oncast)
+http://dds.oncast.me:1934/dlive/sp7.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Football(BDIPTV)
 http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Laliga(BDIPTV)
 http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="Oncast",Super Sports Laliga(Oncast)
+http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Olympic Channel(BDIPTV)
 http://bdiptv.net:8082/OLYMPIC-CHANNEL-HD/index.m3u8
@@ -828,7 +832,7 @@ http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8?|Referer=http://dds.onc
 #EXTINF:-1 tvg-logo=""group-title="Oncast",6(Oncast)
 http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",7(Oncast)
-http://dds.oncast.me:1934/dlive/sp7.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",8(Oncast)
 http://dds.oncast.me:1934/dlive/sp8.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast"9(Oncast)
@@ -840,7 +844,7 @@ http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.onc
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Gazi TV(Oncast)
 http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Channel 9(Oncast)
-http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Massranga TV(Oncast)
 http://dds.oncast.me:1934/dlive/mass.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
