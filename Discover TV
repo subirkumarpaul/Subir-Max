@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://dds.oncast.me:1934/dlive/gz.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
@@ -43,7 +41,7 @@ http://stream.serverbd247.com/hls/sky16.m3u8
 #EXTINF:-1,Sky 1
 
 #EXTINF:-1,T Sports
-http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
@@ -81,7 +79,7 @@ http://nayeemparvez-tv7.hopto.org:1932/tvapp/nk-tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports SD(BD)
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports HD(Fire TV)
-http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
+http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Rangdhanu",Gazi TV(Rangdhanu)
