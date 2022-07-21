@@ -689,6 +689,17 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",E24(BD3)
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Ll7AZ3P.png" group-title="HIND MUSIC", Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RPRT3Zq.png" group-title="HIND MUSIC", Bol Hadippa
+https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="HIND MUSIC", DilSe Music
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO.png" group-title="HIND MUSIC", Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="HIND MUSIC", Pop Pataka Music
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIPTV",Aljazeera(BDIPTV)
