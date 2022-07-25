@@ -69,8 +69,8 @@ http://stream.serverbd247.com/hls/serverbd247.com-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Sky",Gazi TV(Sky)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Oncast",Gazi TV(Oncast)
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV(Flixhub)2
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="BD",Gazi TV(BD)
@@ -578,6 +578,8 @@ http://103.179.246.243:8000/play/a00x/index.m3u8
 http://103.55.144.46/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BDIPTV",Nat Geo Wild(BDIPTV)
 http://bdiptv.net:8082/NAT-Geo-WILD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Oncast",Nat Geo Wild(Oncast)
+http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
 http://103.55.144.46/hls/travelxp.m3u8
@@ -847,9 +849,9 @@ http://dds.oncast.me:1934/dlive/sp9.stream/playlist.m3u8?|Referer=http://dds.onc
 #EXTINF:-1 tvg-logo=""group-title="Oncast",10(Oncast)
 http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Nat Geo Wild(Oncast)
-http://dds.oncast.me:1934/dlive/natgw.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Gazi TV(Oncast)
-http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8?|Referer=http://dds.oncast.me/
+?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Channel 9(Oncast)
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",Massranga TV(Oncast)
