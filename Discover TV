@@ -25,15 +25,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:-1,Sky 3
 http://stream.serverbd247.com/hls/sky3.m3u8
 #EXTINF:-1,Sky 4
-http://stream.serverbd247.com/hls/sky4.m3u8
+
 #EXTINF:-1,Sky 7
 http://stream.serverbd247.com/hls/sky7.m3u8
 #EXTINF:-1,Sky 10
 http://stream.serverbd247.com/hls/sky10.m3u8
 #EXTINF:-1,Sky 12
-http://stream.serverbd247.com/hls/sky12.m3u8
+
 #EXTINF:-1,Sky 13
-http://stream.serverbd247.com/hls/sky13.m3u8
+
 #EXTINF:-1,Sky 14
 http://stream.serverbd247.com/hls/sky14.m3u8
 #EXTINF:-1,Sky 16
@@ -243,11 +243,15 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Skyfeed",Star Jalsha(Skyfeed)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Sky",Star Jalsha(Sky)
+http://stream.serverbd247.com/hls/sky13.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
 http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Skyfeed",Zee Bangla HD(Skyfeed)
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Sky",Zee Bangla HD(Sky)
+http://stream.serverbd247.com/hls/sky12.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://103.55.144.46/hls/colorsbangla.m3u8
@@ -322,6 +326,8 @@ http://103.55.144.46/hls/zeetv.m3u8
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD3",Zee TV UK(BD3)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",And TV(BD3)
+http://stream.serverbd247.com/hls/sky4.m3u8
 
 #EXTINF:-1  group-title="BD3" tvg-logo="",SAHARA ONE (BD3)
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
