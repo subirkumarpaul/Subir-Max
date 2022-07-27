@@ -22,24 +22,31 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
-#EXTINF:-1,30 Live 1
+
+
+
+
+#EXTINF:-1,30 Live Channel 24
+http://30.30.30.30:8081/live/bangla1/playlist.m3u8
+#EXTINF:-1,30 Live MY TV
+http://30.30.30.30:8081/live/bangla3/playlist.m3u8
+#EXTINF:-1,30 Live 1 Zee Bangla Cinema
 http://30.30.30.30:8081/live/indian1/playlist.m3u8
-#EXTINF:-1,30 Live 2
+#EXTINF:-1,30 Live 2 Zee Bangla
 http://30.30.30.30:8081/live/indian2/playlist.m3u8
 #EXTINF:-1,30 Live 3
 http://30.30.30.30:8081/live/indian3/playlist.m3u8
-#EXTINF:-1,30 Live 4
+#EXTINF:-1,30 Live Colors Bangla
 http://30.30.30.30:8081/live/indian4/playlist.m3u8
-#EXTINF:-1,30 Live 5
+#EXTINF:-1,30 Live Colors Bangla Cinema
 http://30.30.30.30:8081/live/indian5/playlist.m3u8
-#EXTINF:-1,30 Live 6
+#EXTINF:-1,30 Live Akash Aath
 http://30.30.30.30:8081/live/indian6/playlist.m3u8
-#EXTINF:-1,30 Live 7
+#EXTINF:-1,30 Live Sun Bangla
 http://30.30.30.30:8081/live/indian7/playlist.m3u8
-#EXTINF:-1,30 Live 8
+#EXTINF:-1,30 Live Star Jalsha
 http://30.30.30.30:8081/live/indian8/playlist.m3u8
-#EXTINF:-1,30 Live 9
-http://30.30.30.30:8081/live/indian9/playlist.m3u8
+
 
 
 #EXTINF:-1,Sky 3
