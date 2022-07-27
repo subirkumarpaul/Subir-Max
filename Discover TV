@@ -256,6 +256,9 @@ http://bdiptv.net:8082/gaanbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Jagobd",ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="30 Live",ATN Music(30 Live)
+http://30.30.30.30:8081/live/bangla6/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(Jagobd)
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
