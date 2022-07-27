@@ -26,25 +26,25 @@ http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
 
 
-#EXTINF:-1,30 Live Channel 24
+#EXTINF:-1,30 Live 
 
 #EXTINF:-1,30 Live MY TV
+http://30.30.30.30:8081/live/bangla5/playlist.m3u8
+#EXTINF:-1,30 Live 
 
-#EXTINF:-1,30 Live 1 Zee Bangla Cinema
-
-#EXTINF:-1,30 Live 2 Zee Bangla
+#EXTINF:-1,30 Live
 
 #EXTINF:-1,30 Live 3
 http://30.30.30.30:8081/live/indian3/playlist.m3u8
-#EXTINF:-1,30 Live Colors Bangla
+#EXTINF:-1,30 Live 
 
-#EXTINF:-1,30 Live Colors Bangla Cinema
+#EXTINF:-1,30 Live
 
-#EXTINF:-1,30 Live Akash Aath
+#EXTINF:-1,30 Live 
 
-#EXTINF:-1,30 Live Sun Bangla
+#EXTINF:-1,30 Live
 
-#EXTINF:-1,30 Live Star Jalsha
+#EXTINF:-1,30 Live
 
 
 
