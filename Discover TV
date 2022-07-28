@@ -218,6 +218,8 @@ https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Duronto TV(BDIPTV)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="NBN",Duronto TV(NBN)
+https://nbn.chowdhury-shaheb.com/live/nb-duronto_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV(Flixhub)
 http://103.55.144.46/hls/somoy.m3u8
