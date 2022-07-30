@@ -549,6 +549,8 @@ http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Sky",Sony Ten 2(Sky)
 http://stream.serverbd247.com/hls/sky10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="30 Live 2",Sony Ten 2(30 Live 2)
+http://30.30.30.30/live/skyfeed1006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",Sony Ten 3(Flixhub)
 http://103.55.144.46/hls/sonyten3.m3u8
