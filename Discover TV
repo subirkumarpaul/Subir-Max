@@ -649,6 +649,8 @@ http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
 http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BDIPTV",Bein Sports 3(BDIPTV)
 http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="30 Live",Bein Sports 3(30 Live)
+http://30.30.30.30:8081/live/sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BDIPTV",Bein Sports 4(BDIPTV)
 http://bdiptv.net:8082/BEIN-SPORTS-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
