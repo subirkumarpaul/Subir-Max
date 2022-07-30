@@ -444,6 +444,8 @@ http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",Zee Classic(BD3)
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="30 Live",Zee Anmol Cinema(30 Live)
+http://30.30.30.30:8081/live/hindi9/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",Zee Anmol Cinema(BD3)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 
@@ -702,6 +704,8 @@ http://bdiptv.net:8082/BBC-EARTH/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
 http://103.55.144.46/hls/animalplanent.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="30 Live",Nasa TV(30 Live)
+http://30.30.30.30:8081/live/english/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD3",Nasa TV(BD3)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
