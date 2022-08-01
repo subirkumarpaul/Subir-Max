@@ -519,10 +519,9 @@ http://30.30.30.30/live/skyfeed1012/index.m3u8
 http://103.55.144.46/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BDIPTV",Star Sports 3(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="BD3",Star Sports 3(BD3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD3",Star Sports 3(BD3)
 http://103.179.246.243:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="NBN",Star Sports 3(NBN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="NBN",Star Sports 3(NBN)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Flixhub",Star Sports Select 1(Flixhub)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
