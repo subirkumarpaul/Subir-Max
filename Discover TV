@@ -392,7 +392,7 @@ http://103.55.144.46/hls/zeetv.m3u8
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD3",Zee TV UK(BD3)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD3",And TV(BD3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20TV.png"group-title="BD3",And TV(BD3)
 http://stream.serverbd247.com/hls/sky4.m3u8
 
 #EXTINF:-1  group-title="BD3" tvg-logo="",SAHARA ONE (BD3)
@@ -513,9 +513,9 @@ http://103.179.246.243:8000/play/a00d/index.m3u8
 http://30.30.30.30/live/skyfeed1012/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="Flixhub",Star Sports 3(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Flixhub",Star Sports 3(Flixhub)
 http://103.55.144.46/hls/starsports3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="BDIPTV",Star Sports 3(BDIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BDIPTV",Star Sports 3(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="BD3",Star Sports 3(BD3)
