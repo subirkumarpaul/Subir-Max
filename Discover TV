@@ -271,9 +271,9 @@ https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="BDIPTV",Gaan Bangla(BDIPTV)
 http://bdiptv.net:8082/gaanbangla/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Jagobd",ATN Music(Jagobd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Jagobd",ATN Music(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="30 Live",ATN Music(30 Live)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="30 Live",ATN Music(30 Live)
 http://30.30.30.30:8081/live/bangla6/playlist.m3u8
 
 
@@ -336,9 +336,9 @@ http://103.55.144.46/hls/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD2",Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Flixhub",Akash Aath(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="Flixhub",Akash Aath(Flixhub)
 http://103.55.144.46/hls/akash.m3u8
-#EXTINF:-1 tvg-logo="" group-title="30 Live",Akash Aath(30 Live)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="30 Live",Akash Aath(30 Live)
 http://30.30.30.30:8081/live/indian6/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Flixhub",Enter 10 Bangla(Flixhub)
