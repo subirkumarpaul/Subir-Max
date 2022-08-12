@@ -364,8 +364,8 @@ http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg"group-title="BD2",Sony Sab(BD2)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg"group-title="BD",Sony Sab(BD2l)
+http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34493?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus(Flixhub)
 http://103.55.144.46/hls/starplus.m3u8
@@ -394,6 +394,9 @@ http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20TV.png"group-title="BD3",And TV(BD3)
 http://stream.serverbd247.com/hls/sky4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20TV.png"group-title="BD",And TV(BD)
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34480?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+
 
 #EXTINF:-1  group-title="BD3" tvg-logo="",SAHARA ONE (BD3)
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
@@ -478,6 +481,8 @@ http://103.179.246.243:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
+http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34477?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
@@ -496,7 +501,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.55.144.46/hls/dhin.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Flixhub",Star Sports 1(Flixhub)
-http://103.55.144.46/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
+http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34496?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Oncast",Star Sports 1(Oncast)
 http://dds.oncast.me:1934/dlive/sp3.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Skyfeed",Star Sports 1(Skyfeed)
@@ -511,9 +518,11 @@ http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
+http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
 http://103.179.246.243:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports ২(30 Live)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports 2(30 Live)
 http://30.30.30.30/live/skyfeed1012/index.m3u8
 
 
@@ -523,8 +532,8 @@ http://103.55.144.46/hls/starsports3.m3u8
 http://bdiptv.net:8082/STAR-SPORTS-3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD3",Star Sports 3(BD3)
 http://103.179.246.243:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="NBN",Star Sports 3(NBN)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD",Star Sports 3(BD)
+http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58KaTdCDg&token=TURYAhZYEAwSAgBQXVQCVgEHBlcCXAZSUFFSAQMAVVZQAlYBBAMCUwFGTxBLF0AGVA9uD1IbCQUFBlUGShsTFlMUbwoBEggUAVxRBQlVBEEZQEUPW1wRDAAFUA1TClNRBlIcQRVZVhQKRlEAC1UHQRlAVB5CXEFYUF87UQNPDwZTRAoNEFxeGhILDW1cBl8CWwYTXBQIERoTWhdFRAMIEFoKHEEHWUZEURAGEAJBA1AFWxNKFFpcQ19HFkxEA0QseEQcQQBIRlNeFwpdVkEIQUERE0oUUEBpQ1YXQRRcBwhTFBJZRwAQGhIJAkpnAF0NWwdSEl9WXUUTCUYERBVECFkIWRcKQm1GWQBBCBpRAFABUBMb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Flixhub",Star Sports Select 1(Flixhub)
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BDIPTV",Star Sports Select 1(BDIPTV)
@@ -689,7 +698,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
 http://103.55.144.46/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP HD Bangla(BD)
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34501?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -710,7 +719,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Flixhub",Discovery Kids(Flixhub)
 http://103.55.144.46/hls/dis-kid.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD3",Sony Yay(BD3)
+#EXTINF:-1 tvg-logo=""group-title="BD",Sony Yay(BD)
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34494?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
@@ -725,6 +734,8 @@ http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
 http://bdiptv.net:8082/Cartoon-Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BD)
+http://45.86.190.64:25461/cChFuTE3D0/RWt4r65tpX/33932?play_token=A7bC2TutMq&token=TURYAhZYEAwSBwBQCVtRWwZbUgADCQQOAQVdUVYPB1JQVwJbBgEFVwVGTxBLF0AGVA9uD1IbCQUCClcHShsTFlMUbwoBEggUAVFRBQFQC0EZQEUPW1wRDAAFUA1fAVdTB1IcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://103.55.144.46/hls/pogo.m3u8
