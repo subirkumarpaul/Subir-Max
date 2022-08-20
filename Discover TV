@@ -538,6 +538,8 @@ http://45.86.190.64:25461/9tfkE7P6pDR23zAf/8C8TY14GvnWRCQrv/34513?play_token=t58
 http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BDIPTV",Star Sports Select 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Oncast",Star Sports Select 1(Oncast)
+http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports Select 1(30 Live)
 http://30.30.30.30/live/skyfeed1009/index.m3u8
 
@@ -624,6 +626,8 @@ http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BDIPTV",Willow Cricket(BDIPTV)
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Oncast",Willow Cricket(Oncast)
+http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",BT Sports 1(BDIPTV)
 http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8
@@ -968,15 +972,15 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Oncast",1(Oncast)
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",2(Oncast)
-http://dds.oncast.me:1934/dlive/sp2.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",3(Oncast)
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",4(Oncast)
-http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",5(Oncast)
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",6(Oncast)
-http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+
 #EXTINF:-1 tvg-logo=""group-title="Oncast",7(Oncast)
 
 #EXTINF:-1 tvg-logo=""group-title="Oncast",8(Oncast)
