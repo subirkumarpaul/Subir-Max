@@ -307,7 +307,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Sky",Star Jalsha(Sky)
 http://stream.serverbd247.com/hls/sky13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="30 Live",Star Jalsha(30 Live)
-http://30.30.30.30:8081/live/indian8/playlist.m3u8
+http://30.30.30.30/live/skyfeed2007/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
 http://103.55.144.46/hls/zeebanglahd.m3u8
@@ -375,6 +375,8 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 http://103.55.144.46/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="30 Live",Sony TV(30 Live)
+http://30.30.30.30/live/skyfeed2006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg"group-title="BD",Sony Sab(BD2l)
 http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34493?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
@@ -409,6 +411,8 @@ http://stream.serverbd247.com/hls/sky4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20TV.png"group-title="BD",And TV(BD)
 http://45.86.190.64:25461/bupTEuJf4f/6VpEtwqnrB/34480?play_token=nBTQAmxyOM&token=TURYAhZYEAwSAAELCVoHW1RRUlEFDgMHVAJdUQcMVFVQUAVVBwUGD1VGTxBLF0AGVA9uD1IbCQUFAlwFShsTFlMUbwoBEggUAVFaAQtXBUEZQEUPW1wRDAAFUAdXD1ZSAlQcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20TV.png"group-title="30 Live",Utsab Bharat(30 Live)
+http://30.30.30.30:8081/live/hindi11/chunks.m3u8
 
 #EXTINF:-1  group-title="BD3" tvg-logo="",SAHARA ONE (BD3)
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
@@ -792,6 +796,8 @@ http://103.55.144.46/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Flixhub",MNX HD(Flixhub)
 http://103.55.144.46/hls/mnx-hd.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="30 Live",WB(30 Live)
+http://30.30.30.30/live/skyfeed2008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Flixhub",Lotus Macau(Flixhub)
 http://103.55.144.46/hls/lotus.m3u8
