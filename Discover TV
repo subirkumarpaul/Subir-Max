@@ -537,12 +537,14 @@ http://stream.serverbd247.com/hls/sky16.m3u8
 http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports 1(30 Live)
 http://30.30.30.30/live/skyfeed2002/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BCIPTV",Star Sports 1(BCIPTV)
+http://bciptv.net:8082/star-sports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
-http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BCIPTV",Star Sports 2(BCIPTV)
+http://bciptv.net:8082/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
 http://103.179.246.243:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports 2(30 Live)
@@ -565,6 +567,9 @@ http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
 http://dds.oncast.me:1934/dlive/sp4.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports Select 1(30 Live)
 http://30.30.30.30/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BCIPTV",Star Sports Select 1(BCIPTV)
+http://bciptv.net:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Flixhub",Star Sports Select 2(Flixhub)
 http://103.55.144.46/hls/select2.m3u8
@@ -572,6 +577,8 @@ http://103.55.144.46/hls/select2.m3u8
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports Select 2(30 Live)
 http://30.30.30.30/live/skyfeed1010/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BCIPTV",Star Sports Select 2(BCIPTV)
+http://bciptv.net:8082/select2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Flixhub",Sony Ten 1(Flixhub)
 http://103.55.144.46/hls/sonyten1.m3u8
