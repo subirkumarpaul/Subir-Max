@@ -45,8 +45,8 @@ http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV CTG(BD2)
 http://103.106.2.152:13456/btv_ctg.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports(BCIPTV)
+http://bciptv.net:8082/TSPORTS-SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://tv.kotha.im/TSports_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
@@ -651,6 +651,8 @@ http://dds.oncast.me:1934/dlive/sp10.stream/playlist.m3u8?|Referer=http://dds.on
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Oncast",Willow Cricket(Oncast)
 http://dds.oncast.me:1934/dlive/sp6.stream/playlist.m3u8?|Referer=http://dds.oncast.me/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BCIPTV",Willow Cricket(BCIPTV)
+http://bciptv.net:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",BT Sports 1(BDIPTV)
 http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8
