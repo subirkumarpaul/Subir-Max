@@ -227,6 +227,8 @@ http://103.55.144.46/hls/somoy.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BDIPTV",Somoy TV(BDIPTV)
 http://bdiptv.net:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BCIPTV",Somoy TV(BCIPTV)
+http://bciptv.net:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Flixhub",Independent TV(Flixhub)
 http://103.55.144.46/hls/indepen.m3u8
