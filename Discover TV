@@ -44,6 +44,80 @@ http://103.16.24.54:8080/channel7/index.m3u8
 #EXTINF:-1,Channel 8
 http://103.16.24.54:8080/channel8/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV JP" tvg-logo="" group-title="BDCable Live",Desh TV JP
+http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV JP" tvg-logo="" group-title="BDCable Live",ATN News
+http://jupiter.bdcabletv.com/ATNNews-IRD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV JP" tvg-logo="" group-title="BDCable Live",Deepto tv
+http://jupiter.bdcabletv.com/DeeptoTV-IRD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV JP" tvg-logo="" group-title="BDCable Live",Bijoy 
+http://jupiter.bdcabletv.com/Bijoy-TV-IRD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV JP" tvg-logo="" group-title="BDCable Live",Channel I
+http://jupiter.bdcabletv.com/CHANNELNINEBD-IRD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD BDIX 4" tvg-logo="" group-title="BDCable Live",Gazi TV HD BDIX 4
+http://jupiter.bdcabletv.com/Gazi-T-V/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD BDIX 4" tvg-logo="" group-title="BDCable Live",T-Sports BDIX 4
+http://jupiter.bdcabletv.com/T-sport_s/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="BDCable Live", Star Jalsha
+http://jupiter.bdcabletv.com/Jalsha-Star/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="BDCable Live", Jalsha Movies
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="BDCable Live", Zee Bangla HD
+http://jupiter.bdcabletv.com/Zee_Bangla_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="BDCable Live", Colors Bangla
+http://jupiter.bdcabletv.com/ColorsBangla_NC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="BDCable Live", Sony Aat
+http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="BDCable Live", Sony Max HD
+http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="BDCable Live", Star Movies HD
+http://jupiter.bdcabletv.com/STAR-MOVIES-SD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="BDCable Live",Disney
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="BDCable Live", CN HD+
+http://jupiter.bdcabletv.com/C-N/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD 2" tvg-logo="" group-title="BDCable Live",Star Gold HD 2
+http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="" group-title="BDCable Live",Sony TV
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="BDCable Live",&flix
+http://jupiter.bdcabletv.com/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD 2" tvg-logo="" group-title="BDCable Live",Star Gold Select
+http://jupiter.bdcabletv.com/StarGoldSelectHD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD JP" tvg-logo="" group-title="BDCable Live",Sony Pix
+http://jupiter.bdcabletv.com/SonyPix-Enc/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="BDCable Live", Sony Six
+http://jupiter.bdcabletv.com/SonySix/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten1HD" tvg-logo="" group-title="BDCable Live",Ten-1 HD
+http://jupiter.bdcabletv.com/Ten1_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten2HD" tvg-logo="" group-title="BDCable Live",Ten-2 HD
+http://jupiter.bdcabletv.com/Ten2HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten3HD" tvg-logo="" group-title="BDCable Live",Ten-3 HD
+http://jupiter.bdcabletv.com/Ten3HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonyt Ten 4" tvg-logo="" group-title="BDCable Live",Ten 4
+http://jupiter.bdcabletv.com/Ten4/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Movies" tvg-logo="" group-title="BDCable Live",B4U Movies
+http://jupiter.bdcabletv.com/b4u_mov-pak/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="" group-title="BDCable Live",B4U Music
+http://jupiter.bdcabletv.com/b4u_music-pak/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="BDCable Live", Star Plus
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="BDCable Live", Star World BDC
+http://jupiter.bdcabletv.com/ENC-2/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="BDCable Live", Star Sports 2
+http://jupiter.bdcabletv.com/ENC-4/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RuxMR1X.png" group-title="BDCable Live", Ten Sports BDC
+http://jupiter.bdcabletv.com//ten_sports-sim/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="BDCable Live", UTV Movies
+http://jupiter.bdcabletv.com/ENC-20/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="BDCable Live", Zee Cinema HD
+http://jupiter.bdcabletv.com/ZeeCinemaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="BDCable Live", Zee TV HD
+http://jupiter.bdcabletv.com/ENC-9/video.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
 http://103.106.2.152:13456/btv.m3u8
