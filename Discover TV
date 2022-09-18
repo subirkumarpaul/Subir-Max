@@ -431,8 +431,8 @@ http://208.86.19.13:81/708.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="30 Live",Colors Bangla Cinema(30 Live)
-http://30.30.30.30:8081/live/indian5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="BD",Colors Bangla Cinema(BD)
+http://208.86.19.13:81/907.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Flixhub",Jalsha Movies HD(Flixhub)
 http://103.55.144.46/hls/jalshamovies.m3u8
