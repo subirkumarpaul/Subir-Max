@@ -426,8 +426,8 @@ http://30.30.30.30:8081/live/indian7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="30 Live",Zee Bangla Cinema(30 Live)
-http://30.30.30.30:8081/live/indian1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
+http://208.86.19.13:81/708.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
