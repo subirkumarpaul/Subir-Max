@@ -103,7 +103,7 @@ http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd",Channel I(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BDIPTV",Channel I(BDIPTV)
-http://bdiptv.net:8082/Channeli/index.m3u8
+http://15.1.5.14:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="30 Live",Channel I(30 Live)
 http://30.30.30.30:8081/live/bangla10/playlist.m3u8
 
@@ -118,13 +118,13 @@ http://bdiptv.net:8082/Maasranga/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BD2",Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDIPTV",Ekushey TV(BDIPTV)
-http://bdiptv.net:8082/Ekushey-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDlCIPTV",Ekushey TV(BDLCIPTV)
+http://15.1.5.14:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="30 Live",Ekushey TV(30 Live)
 http://30.30.30.30:8081/live/bangla20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BDIPTV",NTV(BDIPTV)
-http://bdiptv.net:8082/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BCIPTV",NTV(BCIPTV)
+http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
 https://tv.kotha.im/NTV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD2",NTV UK(BD2)
@@ -134,8 +134,8 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Jagobd",RTV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="30 Live",RTV(30 Live)
-http://30.30.30.30:8081/live/bangla30/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BCIPTV",RTV(BCIPTV)
+http://15.1.5.10:8082/RTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Jagobd",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
