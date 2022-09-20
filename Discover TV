@@ -80,8 +80,8 @@ http://bdiptv.net:8082/tsp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Flixhub",Gazi TV(Flixhub)2
 http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
-http://30.30.30.30/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BCIPTV",Gazi TV(BCIPTV)
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
 http://bdiptv.net:8282/GAZI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIX2",Gazi TV(BDIX2)
@@ -535,8 +535,8 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
 http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="30 Live",Colors Cineplex(30 Live)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BCIPTV",Colors Cineplex(BCIPTV)
+http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD3",Colors Cineplex(BD3)
@@ -585,14 +585,14 @@ http://103.16.24.54:8080/channel1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports 1(30 Live)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BCIPTV",Star Sports 1(BCIPTV)
-http://15.1.5.14:8082/star-sports1/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
 http://103.55.144.46/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BCIPTV",Star Sports 2(BCIPTV)
-http://15.1.5.14:8082/starsports2/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
 http://103.179.246.243:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="30 Live",Star Sports 2(30 Live)
@@ -685,8 +685,8 @@ http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD3",PTV Sports(BD3)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BCIPTV",PTV Sports(BCIPTV)
+http://15.1.5.14:8082/PTV-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="30 Live",PTV Sports(30 Live)
 
 
@@ -920,13 +920,13 @@ http://103.179.246.243:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
 http://103.55.144.46/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BDIPTV",9XM(BDIPTV)
-http://bdiptv.net:8082/bdip1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BCIPTV",9XM(BCIPTV)
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD2",9X Jalwa(BD2)
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BD3",B4U Music(BD3)
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BCIPTV",B4U Music(BCIPTV)
+http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Mastii Music(Flixhub)
 http://103.55.144.46/hls/masti.m3u8
