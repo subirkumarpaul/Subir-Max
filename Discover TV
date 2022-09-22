@@ -127,7 +127,7 @@ http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BD2",Ekushey TV(BD2)
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDlCIPTV",Ekushey TV(BDLCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BCIPTV",Ekushey TV(BCIPTV)
 http://15.1.5.14:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="30 Live",Ekushey TV(30 Live)
 
@@ -206,7 +206,7 @@ http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
 http://103.121.14.18/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BD",Nagorik TV(BD)
 https://tv.kotha.im/Nagorik_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BDlCIPTV",Nagorik TV(BCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BCIPTV",Nagorik TV(BCIPTV)
 http://15.1.5.10:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="BD",Bijoy TV(BD)
@@ -793,7 +793,7 @@ http://103.179.246.243:8000/play/a00y/index.m3u8
 http://103.121.14.18/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BDIPTV",Discovery Science (BDIPTV)
 http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BDlCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
