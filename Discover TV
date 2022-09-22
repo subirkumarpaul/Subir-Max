@@ -916,7 +916,8 @@ http://bdiptv.net:8282/mnx-hd/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="BCIPTV",MNX HD(BCIPTV)
 http://15.1.5.14:8082/mnx-hd/tracks-v1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Flixhub",Lotus Macau(Flixhub)
+http://103.121.14.18/hls/lotus.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="BDIPTV",Lotus Macau(BDIPTV)
 http://bdiptv.net:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="BD3",Lotus Macau(BD3)
