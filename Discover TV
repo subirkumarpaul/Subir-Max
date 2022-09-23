@@ -1026,7 +1026,8 @@ http://103.121.14.18/hls/bbcworld.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",CNN(BDIPTV)
 http://bdiptv.net:8082/DW/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="Jagobd",DW(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
