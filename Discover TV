@@ -831,7 +831,7 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",Sony BBC Earth(Flixhub)
-http://103.121.14.186/hls/bbcearth.m3u8
+http://103.121.14.18/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BDIPTV",Sony BBC Earth(BDIPTV)
 http://bdiptv.net:8282/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BCIPTV",Sony BBC Earth(BCIPTV)
