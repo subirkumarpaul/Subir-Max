@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://15.1.5.10:8082/en3-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-http://103.16.24.54:8080/channel1/index.m3u8
+http://103.121.14.18/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-http://15.1.5.14:8082/GAZI-TV/tracks-v1a1/mono.m3u8
+http://103.121.14.18/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
 http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
-http://15.1.5.14:8082/star-sports1/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7
-http://bdiptv.net:8282/GAZI-TV/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 http://bdiptv.net:8282/ASIA-CUP-UAE-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
@@ -94,7 +94,7 @@ http://103.121.14.18/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BCIPTV",Gazi TV(BCIPTV)
 http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
-http://bdiptv.net:8282/GAZI-TV/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIX2",Gazi TV(BDIX2)
 
 
