@@ -22,21 +22,21 @@ http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 1
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
 http://103.16.24.54:8080/channel1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 2
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 2
 http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 3
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 3
 http://103.16.24.54:8080/channel3/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 4
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 4
 http://103.16.24.54:8080/channel4/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 5
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
 http://103.16.24.54:8080/channel5/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 6
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 6
 http://103.16.24.54:8080/channel6/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 7
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 7
 http://103.16.24.54:8080/channel7/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live Sports",Channel 8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 8
 http://103.16.24.54:8080/channel8/index.m3u8
 
 
