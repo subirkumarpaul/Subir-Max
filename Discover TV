@@ -728,7 +728,7 @@ http://103.121.14.18/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
 http://bdiptv.net:8082/Cartoon-Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BD)
-
+http://50.7.237.4:8080/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://103.121.14.18/hls/pogo.m3u8
