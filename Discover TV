@@ -825,6 +825,11 @@ http://103.121.14.18/hls/masti.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Mastii Music(BDIPTV)
 http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BDIPTV",MTV Hits(BD)
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png"group-title="BDIPTV",MTV Classic(BD)
+http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://103.121.14.18/hls/zoom.m3u8
 
