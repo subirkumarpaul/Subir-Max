@@ -441,7 +441,7 @@ http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD3",Zee Anmol Cinema(BD3)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD50",Star Gold HD(BD50)
 http://50.7.237.4:8080/STARGOLD2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
@@ -661,7 +661,7 @@ http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD3",Net Geo HD(BD3)
 http://103.162.136.235:4500/play/a007/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD50",Net Geo Wild(BD50)
 http://50.7.237.4:8080/NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BDIPTV",Nat Geo Wild(BDIPTV)
 http://bdiptv.net:8282/natgeo-wild/tracks-v1a1/mono.m3u8
@@ -682,7 +682,7 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD50",Sony BBC Earth(BD50)
 http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BDIPTV",Sony BBC Earth(BDIPTV)
 http://bdiptv.net:8282/BBC-Earth/tracks-v1a1/mono.m3u8
@@ -727,7 +727,7 @@ http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 http://103.121.14.18/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
 http://bdiptv.net:8082/Cartoon-Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD50",Cartoon Network (BD50)
 http://50.7.237.4:8080/CARTOONNETWORK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
@@ -825,10 +825,12 @@ http://103.121.14.18/hls/masti.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Mastii Music(BDIPTV)
 http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",MTV Hits(BD)
+#EXTINF:-1 tvg-logo=""group-title="BD50",MTV Hits(BD50)
 http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png"group-title="BDIPTV",MTV Classic(BD)
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png"group-title="BD50",MTV Classic(BD50)
 http://50.7.237.4:8080/MTVCLASSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png"group-title="BD50",MTV Basic(BD50)
+http://50.7.237.4:8080/MTVBASE/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://103.121.14.18/hls/zoom.m3u8
