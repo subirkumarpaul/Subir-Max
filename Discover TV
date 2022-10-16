@@ -441,8 +441,8 @@ http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD3",Zee Anmol Cinema(BD3)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD(Flixhub)
-http://103.121.14.18/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
+http://50.7.237.4:8080/STARGOLD2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
 http://103.121.14.18/hls/stargold2hd.m3u8
