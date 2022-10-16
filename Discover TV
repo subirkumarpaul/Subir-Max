@@ -653,7 +653,7 @@ http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Net Geo HD(Flixhub)
 http://103.121.14.18/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BDIPTV",Net Geo HD(BDIPTV)
 http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
@@ -662,7 +662,7 @@ http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD3",Net Geo HD(BD3)
 http://103.162.136.235:4500/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
-http://103.121.14.18/hls/wild.m3u8
+http://50.7.237.4:8080/NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BDIPTV",Nat Geo Wild(BDIPTV)
 http://bdiptv.net:8282/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BCIPTV",Nat Geo Wild(BCIPTV)
@@ -682,8 +682,8 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",Sony BBC Earth(Flixhub)
-http://103.121.14.18/hls/bbcearth.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
+http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BDIPTV",Sony BBC Earth(BDIPTV)
 http://bdiptv.net:8282/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BCIPTV",Sony BBC Earth(BCIPTV)
