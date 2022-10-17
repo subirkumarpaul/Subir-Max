@@ -697,6 +697,8 @@ http://bdiptv.net:8282/travel-xp/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD50",Travel XP English(BD50)
+http://50.7.237.4:8080/TRAVELXPHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD50",Sony BBC Earth(BD50)
 http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
