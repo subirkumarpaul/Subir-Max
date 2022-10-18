@@ -50,7 +50,22 @@ http://103.143.235.50:8080/ch4/ch4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
 http://103.143.235.50:8080/ch5/ch5.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 1
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 2
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 3
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 4
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 5
+http://175.41.46.16:8081/hls/5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 6
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 7
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 8
+http://175.41.46.16:8081/hls/8.m3u8
 
 
 
