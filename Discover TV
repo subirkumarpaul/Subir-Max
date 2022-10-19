@@ -23,7 +23,7 @@ http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
-http://103.16.24.54:8080/channel1/index.m3u8
+http://watchindia.net:8880/live/vvv/vvv/783.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 2
 http://103.16.24.54:8080/channel2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 3
