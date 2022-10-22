@@ -23,21 +23,45 @@ http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
-http://watchindia.net:8880/live/vvv/vvv/783.m3u8
+http://test-otv1.ftpbd.net/streams/101/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 2
-http://103.16.24.54:8080/channel2/index.m3u8
+http://test-otv1.ftpbd.net/streams/102/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 3
-http://103.16.24.54:8080/channel3/index.m3u8
+http://test-otv1.ftpbd.net/streams/103/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 4
-http://103.16.24.54:8080/channel4/index.m3u8
+http://test-otv1.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
-http://103.16.24.54:8080/channel5/index.m3u8
+http://test-otv1.ftpbd.net/streams/105/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 6
-http://103.16.24.54:8080/channel6/index.m3u8
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 7
-http://103.16.24.54:8080/channel7/index.m3u8
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 8
-http://103.16.24.54:8080/channel8/index.m3u8
+http://test-otv1.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 9
+http://test-otv1.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 10
+http://test-otv1.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 11
+http://test-otv1.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 12
+http://test-otv1.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 13
+http://test-otv1.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 14
+http://test-otv1.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 15
+http://test-otv1.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 16
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 17
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 18
+http://test-otv1.ftpbd.net/streams/118/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 19
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live",Channel 20
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
 http://103.143.235.50:8080/ch1/ch1.m3u8
