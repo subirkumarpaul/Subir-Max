@@ -456,19 +456,28 @@ http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 http://103.121.14.18/hls/bhojpuri.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
-http://103.121.14.18/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD",UTV Action(BD)
-http://103.162.136.235:4500/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD3",UTV Action(BD3)
-http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="Flixhub",UTV MOVIES(Flixhub)
-http://103.121.14.18/hls/utv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
-http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD3",UTV MOVIES HD(BD3)
-http://103.179.246.243:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",Sony Max HD(Flixhub)
+http://103.121.14.18/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIPTV",Sony Max HD(BDIPTV)
+http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max HD(BCIPTV)
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max(BD)
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD Cable TV",Sony Max(BD Cable TV)
+http://103.162.136.235:4500/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIPTV",Sony Max 2(BDIPTV)
+http://bdiptv.net:8282/sony-max2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max 2(BCIPTV)
+http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD50",Sony Max 2(BD50)
+http://50.7.237.4:8080/SONYMAX2/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BD50",Sony Wah(BD50)
+http://50.7.237.4:8080/SONYWAH/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD(Flixhub)
 http://103.121.14.18/hls/zeecinemahd.m3u8
@@ -500,27 +509,6 @@ http://15.1.5.14:8082/stargold2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Gold SELECT(BD)
 http://208.86.19.13:81/709.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",Sony Max HD(Flixhub)
-http://103.121.14.18/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIPTV",Sony Max HD(BDIPTV)
-http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max HD(BCIPTV)
-http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max(BD)
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD Cable TV",Sony Max(BD Cable TV)
-http://103.162.136.235:4500/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIPTV",Sony Max 2(BDIPTV)
-http://bdiptv.net:8282/sony-max2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max 2(BCIPTV)
-http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD50",Sony Max 2(BD50)
-http://50.7.237.4:8080/SONYMAX2/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="BD50",Sony Wah(BD50)
-http://50.7.237.4:8080/SONYWAH/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
 http://103.121.14.18/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BDIPTV",Colors Cineplex(BDIPTV)
@@ -540,6 +528,21 @@ http://15.1.5.14:8082/andpictures/tracks-v1a1/mono.m3u8
 http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
 http://103.16.24.54:8080/channel6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
+http://103.121.14.18/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD",UTV Action(BD)
+http://103.162.136.235:4500/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD3",UTV Action(BD3)
+http://103.162.136.235:4500/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="Flixhub",UTV MOVIES(Flixhub)
+http://103.121.14.18/hls/utv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
+http://208.86.19.13:81/723.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD3",UTV MOVIES HD(BD3)
+http://103.179.246.243:8000/play/a01o/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
