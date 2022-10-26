@@ -25,46 +25,6 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
-http://test-otv1.ftpbd.net/streams/101/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 2
-http://test-otv1.ftpbd.net/streams/102/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 3
-http://test-otv1.ftpbd.net/streams/103/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 4
-http://test-otv1.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
-http://test-otv1.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 6
-http://test-otv1.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 7
-http://test-otv1.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 8
-http://test-otv1.ftpbd.net/streams/108/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 9
-http://test-otv1.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 10
-http://test-otv1.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 11
-http://test-otv1.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 12
-http://test-otv1.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 13
-http://test-otv1.ftpbd.net/streams/113/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 14
-http://test-otv1.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 15
-http://test-otv1.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 16
-http://test-otv1.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 17
-http://test-otv1.ftpbd.net/streams/117/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 18
-http://test-otv1.ftpbd.net/streams/118/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 19
-http://test-otv1.ftpbd.net/streams/119/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 20
-http://test-otv1.ftpbd.net/streams/120/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
 http://103.143.235.50:8080/ch1/ch1.m3u8
@@ -76,26 +36,6 @@ http://103.143.235.50:8080/ch3/ch3.m3u8
 http://103.143.235.50:8080/ch4/ch4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
 http://103.143.235.50:8080/ch5/ch5.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 1
-http://175.41.46.16:8081/hls/1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 2
-http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 3
-http://175.41.46.16:8081/hls/3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 4
-http://175.41.46.16:8081/hls/4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 5
-http://175.41.46.16:8081/hls/5.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 6
-http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 7
-http://175.41.46.16:8081/hls/7.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Channel",Channel 8
-http://175.41.46.16:8081/hls/8.m3u8
-
-
-
 
 
 
