@@ -397,8 +397,8 @@ http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 http://103.121.14.18/hls/bhojpuri.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",Sony Max HD(Flixhub)
-http://103.121.14.18/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max HD(BD)
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BDIPTV",Sony Max HD(BDIPTV)
 http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max HD(BCIPTV)
@@ -412,15 +412,15 @@ http://103.162.136.235:4500/play/a01b/index.m3u8
 http://bdiptv.net:8282/sony-max2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BCIPTV",Sony Max 2(BCIPTV)
 http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD50",Sony Max 2(BD50)
-http://50.7.237.4:8080/SONYMAX2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD",Sony Max 2(BD)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo=""group-title="BD50",Sony Wah(BD50)
 http://50.7.237.4:8080/SONYWAH/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD(Flixhub)
-http://103.121.14.18/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BDIPTV",Zee Cinema(BDIPTV)
@@ -438,11 +438,11 @@ http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD3",Zee Anmol Cinema(BD3)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD50",Star Gold(BD50)
-http://50.7.237.4:8080/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold(BD)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
-http://103.121.14.18/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BCIPTV",Star Gold 2(BCIPTV)
 http://15.1.5.14:8082/stargold2hd/tracks-v1a1/mono.m3u8
 
@@ -469,8 +469,8 @@ http://103.162.136.235:4500/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
 http://103.16.24.54:8080/channel6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
-http://103.121.14.18/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD",UTV Action(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD",UTV Action(BD)
 http://103.162.136.235:4500/play/a00z/index.m3u8
 
