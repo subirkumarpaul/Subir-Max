@@ -26,24 +26,126 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 1
-http://tv.gundapanda.com:100/hls/tbox-1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 2
-http://tv.gundapanda.com:100/hls/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 3
-http://tv.gundapanda.com:100/hls/4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 4
-http://tv.gundapanda.com:100/hls/tbox-2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 5
-http://tv.gundapanda.com:100/hls/3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 6
-http://tv.gundapanda.com:100/hls/1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 7
-http://tv.gundapanda.com:100/hls/sns-1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live",Channel 8
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 1
+http://xtream.efiberbd.net:25461/live/mkaua/stream/1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 2
+http://xtream.efiberbd.net:25461/live/mkaua/stream/2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 3
+http://xtream.efiberbd.net:25461/live/mkaua/stream/3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 4
+http://xtream.efiberbd.net:25461/live/mkaua/stream/4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 5
+http://xtream.efiberbd.net:25461/live/mkaua/stream/5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 6
+http://xtream.efiberbd.net:25461/live/mkaua/stream/6.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 7
+http://xtream.efiberbd.net:25461/live/mkaua/stream/7.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 8
+http://xtream.efiberbd.net:25461/live/mkaua/stream/8.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 9
+http://xtream.efiberbd.net:25461/live/mkaua/stream/9.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 10
+http://xtream.efiberbd.net:25461/live/mkaua/stream/10.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 11
+http://xtream.efiberbd.net:25461/live/mkaua/stream/11.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 12
+http://xtream.efiberbd.net:25461/live/mkaua/stream/12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 13
+http://xtream.efiberbd.net:25461/live/mkaua/stream/13.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 14
+http://xtream.efiberbd.net:25461/live/mkaua/stream/14.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 15
+http://xtream.efiberbd.net:25461/live/mkaua/stream/15.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 16
+http://xtream.efiberbd.net:25461/live/mkaua/stream/16.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 17
+http://xtream.efiberbd.net:25461/live/mkaua/stream/17.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 18
+http://xtream.efiberbd.net:25461/live/mkaua/stream/18.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 19
+http://xtream.efiberbd.net:25461/live/mkaua/stream/19.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 20
+http://xtream.efiberbd.net:25461/live/mkaua/stream/20.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 21
+http://xtream.efiberbd.net:25461/live/mkaua/stream/21.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 22
+http://xtream.efiberbd.net:25461/live/mkaua/stream/22.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 23
+http://xtream.efiberbd.net:25461/live/mkaua/stream/23.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 24
+http://xtream.efiberbd.net:25461/live/mkaua/stream/24.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 25
+http://xtream.efiberbd.net:25461/live/mkaua/stream/25.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 26
+http://xtream.efiberbd.net:25461/live/mkaua/stream/26.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 27
+http://xtream.efiberbd.net:25461/live/mkaua/stream/27.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 28
+http://xtream.efiberbd.net:25461/live/mkaua/stream/28.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 29
+http://xtream.efiberbd.net:25461/live/mkaua/stream/29.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 30
+http://xtream.efiberbd.net:25461/live/mkaua/stream/30.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 31
+http://xtream.efiberbd.net:25461/live/mkaua/stream/31.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 32
+http://xtream.efiberbd.net:25461/live/mkaua/stream/32.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 33
+http://xtream.efiberbd.net:25461/live/mkaua/stream/33.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 34
+http://xtream.efiberbd.net:25461/live/mkaua/stream/34.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 35
+http://xtream.efiberbd.net:25461/live/mkaua/stream/35.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 36
+http://xtream.efiberbd.net:25461/live/mkaua/stream/36.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 37
+http://xtream.efiberbd.net:25461/live/mkaua/stream/37.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 38
+http://xtream.efiberbd.net:25461/live/mkaua/stream/38.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 39
+http://xtream.efiberbd.net:25461/live/mkaua/stream/39.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 40
+http://xtream.efiberbd.net:25461/live/mkaua/stream/40.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 41
+http://xtream.efiberbd.net:25461/live/mkaua/stream/41.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 42
+http://xtream.efiberbd.net:25461/live/mkaua/stream/42.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 43
+http://xtream.efiberbd.net:25461/live/mkaua/stream/43.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 44
+http://xtream.efiberbd.net:25461/live/mkaua/stream/44.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 45
+http://xtream.efiberbd.net:25461/live/mkaua/stream/45.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 46
+http://xtream.efiberbd.net:25461/live/mkaua/stream/46.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 47
+http://xtream.efiberbd.net:25461/live/mkaua/stream/47.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 48
+http://xtream.efiberbd.net:25461/live/mkaua/stream/48.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 49
+http://xtream.efiberbd.net:25461/live/mkaua/stream/49.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 50
+http://xtream.efiberbd.net:25461/live/mkaua/stream/50.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 51
+http://xtream.efiberbd.net:25461/live/mkaua/stream/51.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 52
+http://xtream.efiberbd.net:25461/live/mkaua/stream/52.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 53
+http://xtream.efiberbd.net:25461/live/mkaua/stream/53.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 54
+http://xtream.efiberbd.net:25461/live/mkaua/stream/54.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 55
+http://xtream.efiberbd.net:25461/live/mkaua/stream/55.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 56
+http://xtream.efiberbd.net:25461/live/mkaua/stream/56.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 57
+http://xtream.efiberbd.net:25461/live/mkaua/stream/57.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 58
+http://xtream.efiberbd.net:25461/live/mkaua/stream/58.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 59
+http://xtream.efiberbd.net:25461/live/mkaua/stream/59.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 60
+http://xtream.efiberbd.net:25461/live/mkaua/stream/60.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
