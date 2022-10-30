@@ -483,7 +483,7 @@ http://50.7.237.4:8080/SONYPAL/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus(Flixhub)
 http://103.121.14.18/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BCIPTC",Star Plus(BCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BCIPTV",Star Plus(BCIPTV)
 http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BD",Star Plus(BD)
 http://103.16.24.54:8080/channel3/index.m3u8
