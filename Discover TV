@@ -25,7 +25,129 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
-
+#EXTM3U
+#EXTINF:-1,APLUS
+http://103.147.87.13:8000/play/a011/index.m3u8
+#EXTINF:-1,Avt Khyber
+http://103.147.87.13:8000/play/a01e/index.m3u8
+#EXTINF:-1,CARTOON-Rs4.25
+http://103.147.87.13:8000/play/a00n/index.m3u8
+#EXTINF:-1,CHANNEL-24
+http://103.147.87.13:8000/play/a013/index.m3u8
+#EXTINF:-1,CITY-21
+http://103.147.87.13:8000/play/a06g/index.m3u8
+#EXTINF:-1,CITY-41
+http://103.147.87.13:8000/play/a015/index.m3u8
+#EXTINF:-1,CITY-42
+http://103.147.87.13:8000/play/a014/index.m3u8
+#EXTINF:-1,CNBC Prime HD -Rs1
+http://103.147.87.13:8000/play/a084/index.m3u8
+#EXTINF:-1,DD SPORTS- Free
+http://103.147.87.13:8000/play/a07c/index.m3u8
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.147.87.13:8000/play/a00x/index.m3u8
+#EXTINF:-1,Discovery H-Rs6
+http://103.147.87.13:8000/play/a04k/index.m3u8
+#EXTINF:-1,Disney Chan-Rs8
+http://103.147.87.13:8000/play/a00p/index.m3u8
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.147.87.13:8000/play/a00r/index.m3u8
+#EXTINF:-1,Dunya News
+http://103.147.87.13:8000/play/a01j/index.m3u8
+#EXTINF:-1,EUROSPORT - Rs 4
+http://103.147.87.13:8000/play/a00i/index.m3u8
+#EXTINF:-1,GEMINI TV HD -Rs19
+http://103.147.87.13:8000/play/a086/index.m3u8
+#EXTINF:-1,J MOVIE-Rs2.25
+http://103.147.87.13:8000/play/a088/index.m3u8
+#EXTINF:-1,Jalsha Mov HD-Rs19
+http://103.147.87.13:8000/play/a06w/index.m3u8
+#EXTINF:-1,KTV HD-Rs 19
+http://103.147.87.13:8000/play/a07z/index.m3u8
+#EXTINF:-1,Khyber ME
+http://103.147.87.13:8000/play/a01h/index.m3u8
+#EXTINF:-1,Khyber News
+http://103.147.87.13:8000/play/a01f/index.m3u8
+#EXTINF:-1,Lahore News
+http://103.147.87.13:8000/play/a01m/index.m3u8
+#EXTINF:-1,MADANI TV C-Band
+http://103.147.87.13:8000/play/a066/index.m3u8
+#EXTINF:-1,MAX HD -Rs 17
+http://103.147.87.13:8000/play/a06q/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://103.147.87.13:8000/play/a04g/index.m3u8
+#EXTINF:-1,Mazhavil M HD- Free
+http://103.147.87.13:8000/play/a083/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://103.147.87.13:8000/play/a00a/index.m3u8
+#EXTINF:-1,NEWS ONE
+http://103.147.87.13:8000/play/a062/index.m3u8
+#EXTINF:-1,National G-Rs10
+http://103.147.87.13:8000/play/a04j/index.m3u8
+#EXTINF:-1,Nick Jr.- Rs 1
+http://103.147.87.13:8000/play/a08g/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.147.87.13:8000/play/a00t/index.m3u8
+#EXTINF:-1,ROHI TV
+http://103.147.87.13:8000/play/a016/index.m3u8
+#EXTINF:-1,SIX HD - Rs 19
+http://103.147.87.13:8000/play/a008/index.m3u8
+#EXTINF:-1,SONIC- Rs 2
+http://103.147.87.13:8000/play/a00s/index.m3u8
+#EXTINF:-1,STAR MOVI-Rs 19
+http://103.147.87.13:8000/play/a04h/index.m3u8
+#EXTINF:-1,STAR WORLD -Rs9
+http://103.147.87.13:8000/play/a004/index.m3u8
+#EXTINF:-1,STAR WORLD P-Rs9
+http://103.147.87.13:8000/play/a003/index.m3u8
+#EXTINF:-1,SUN MUS HD-Rs19
+http://103.147.87.13:8000/play/a080/index.m3u8
+#EXTINF:-1,SUN TV HD-Rs 19 
+http://103.147.87.13:8000/play/a07y/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://103.147.87.13:8000/play/a007/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://103.147.87.13:8000/play/a00l/index.m3u8
+#EXTINF:-1,Sony Ten 4 - Rs 17
+http://103.147.87.13:8000/play/a07v/index.m3u8
+#EXTINF:-1,Star Movies Select HD-Rs 10
+http://103.147.87.13:8000/play/a04i/index.m3u8
+#EXTINF:-1,Star Prav HD-Rs15
+http://103.147.87.13:8000/play/a082/index.m3u8
+#EXTINF:-1,Star Sport 1 HD Hin - Rs19
+http://103.147.87.13:8000/play/a009/index.m3u8
+#EXTINF:-1,Star Sport 1 HD-Rs19
+http://103.147.87.13:8000/play/a005/index.m3u8
+#EXTINF:-1,Star Sport 2 HD- Rs19
+http://103.147.87.13:8000/play/a006/index.m3u8
+#EXTINF:-1,Star Sports1 Kan Rs19 
+http://103.147.87.13:8000/play/a07r/index.m3u8
+#EXTINF:-1,Star Suvarna HD-Rs 19
+http://103.147.87.13:8000/play/a085/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://103.147.87.13:8000/play/a04e/index.m3u8
+#EXTINF:-1,TV ONE
+http://103.147.87.13:8000/play/a061/index.m3u8
+#EXTINF:-1,UK-44
+http://103.147.87.13:8000/play/a017/index.m3u8
+#EXTINF:-1,WASEB
+http://103.147.87.13:8000/play/a063/index.m3u8
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://103.147.87.13:8000/play/a04f/index.m3u8
+#EXTINF:-1,ZEE Kannada HD -Rs19
+http://103.147.87.13:8000/play/a07o/index.m3u8
+#EXTINF:-1,colors Ban HD-Rs14
+http://103.147.87.13:8000/play/a06x/index.m3u8
+#EXTINF:-1,colors Mar HD-Rs17
+http://103.147.87.13:8000/play/a081/index.m3u8
+#EXTINF:-1,humtv hd
+http://103.147.87.13:8000/play/a08h/index.m3u8
+#EXTINF:-1,hungama tv-Rs 6
+http://103.147.87.13:8000/play/a00o/index.m3u8
+#EXTINF:-1,kay-2
+http://103.147.87.13:8000/play/a01g/index.m3u8
+#EXTINF:-1,nick - Rs 6
+http://103.147.87.13:8000/play/a00q/index.m3u8
 
 #EXTM3U
 # Collected And Uploaded By (https://github.com/sabbiriptv)
