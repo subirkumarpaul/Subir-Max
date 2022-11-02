@@ -128,26 +128,6 @@ http://103.147.87.13:8000/play/a085/index.m3u8
 http://103.147.87.13:8000/play/a04e/index.m3u8
 #EXTINF:-1,TV ONE
 http://103.147.87.13:8000/play/a061/index.m3u8
-#EXTINF:-1,UK-44
-http://103.147.87.13:8000/play/a017/index.m3u8
-#EXTINF:-1,WASEB
-http://103.147.87.13:8000/play/a063/index.m3u8
-#EXTINF:-1,ZEE Cafe H-Rs19
-http://103.147.87.13:8000/play/a04f/index.m3u8
-#EXTINF:-1,ZEE Kannada HD -Rs19
-http://103.147.87.13:8000/play/a07o/index.m3u8
-#EXTINF:-1,colors Ban HD-Rs14
-http://103.147.87.13:8000/play/a06x/index.m3u8
-#EXTINF:-1,colors Mar HD-Rs17
-http://103.147.87.13:8000/play/a081/index.m3u8
-#EXTINF:-1,humtv hd
-http://103.147.87.13:8000/play/a08h/index.m3u8
-#EXTINF:-1,hungama tv-Rs 6
-http://103.147.87.13:8000/play/a00o/index.m3u8
-#EXTINF:-1,kay-2
-http://103.147.87.13:8000/play/a01g/index.m3u8
-#EXTINF:-1,nick - Rs 6
-http://103.147.87.13:8000/play/a00q/index.m3u8
 
 #EXTM3U
 # Collected And Uploaded By (https://github.com/sabbiriptv)
