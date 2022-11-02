@@ -826,8 +826,8 @@ http://103.121.14.18/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BDIPTV",Discovery Kids(BDIPTV)
 http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="BD",Sony Yay(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="BCIPTV",Sony Yay(BCIPTV)
+http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://103.121.14.18/hls/nick.m3u8
@@ -965,14 +965,17 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.121.14.18/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BDIPTV",Aljazeera(BDIPTV)
-http://bdiptv.net:8082/Al-Jazeera/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BCIPTV",Aljazeera(BCIPTV)
+http://15.1.5.10:8082/Aljazeera/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
 http://103.121.14.18/hls/bbcworld.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",CNN(BDIPTV)
-http://bdiptv.net:8082/DW/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BCIPTV",CGTN(BCIPTV)
+http://15.1.5.14:8082/Cgtn-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BCIPTV",DW(BCIPTV)
+http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jagobd",DW(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 
