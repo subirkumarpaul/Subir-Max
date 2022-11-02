@@ -720,28 +720,28 @@ http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 http://103.162.136.235:4500/play/a02a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BCIPTV",Willow Cricket(BCIPTV)
-http://15.1.5.14:8082/WILLOW-CRICKET-HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BDIPTV",Bein Sports 1(BDIPTV)
-http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BDIPTV",Bein Sports 2(BDIPTV)
-http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="30 Live",Bein Sports 2(30 Live)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BDIPTV",Bein Sports 3(BDIPTV)
-http://bdiptv.net:8282/BEIN-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BCIPTV",Bein Sports 3(BCIPTV)
-http://15.1.5.14:8082/BEIN-3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BDIPTV",Bein Sports 4(BDIPTV)
-http://bdiptv.net:8282/BEIN-SPORTS-4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
-http://bdiptv.net:8282/BEIN-SPORTS-5-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 1(BDIPTV)
-http://bdiptv.net:8282/BEIN-SPORTS-PREMIUM-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BCIPTV",Bein Sports Premium 1(BCIPTV)
-http://15.1.5.14:8082/BEIN-SPORTS-PREMIUM-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 2(BDIPTV)
-http://bdiptv.net:8282/BEIN-SPORTS-PREMIUM-2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BDIPTV",AD Sports 1(BDIPTV)
