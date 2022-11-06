@@ -25,6 +25,191 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
+#EXTINF:-1   group-title="Aynaott",BD: BTV NATIONAL
+https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BTV CHATTOGRAM
+https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SANGSHD TV
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: EKATTOR TV
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: CHANNEL 24
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DBC NEWS
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: INDEPENDENT TV
+https://tvs1.aynaott.com/independenttv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: JAMUNA TV
+https://tvs1.aynaott.com/jamunatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SOMOY TV
+https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: NEWS 24
+https://tvs1.aynaott.com/news24/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ANANDA TV
+https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ASIAN TV
+https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ATN BANGLA
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/index-1667559600-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ATN NEWS
+https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BANGLA TV
+https://tvs1.aynaott.com/banglatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BANGLAVISION
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BIJOY TV
+https://tvs1.aynaott.com/bijoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BOISHAKHI TV
+https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: CHANNEL 9
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: CHANNEL I
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DEEPTO TV
+https://tvs2.aynaott.com/deeptotv/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DESH TV
+https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: EKUSHEY TV
+https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: GAAN BANGLA
+https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD:GAZI TV
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: GLOBAL TV
+https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD:GREEN TV
+https://tvs1.aynaott.com/greentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MASRANGA TV
+https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MOHONA TV
+https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MOVIE BANGLA
+https://tvs1.aynaott.com/moviebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MY TV
+https://tvs1.aynaott.com/mytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: NTV
+https://tvs2.aynaott.com/ntv/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: NEXUS TV
+https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SA TV
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: STAR JALSHA
+https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: COLORS BANGLA
+https://tvs1.aynaott.com/ColorsBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE BANGLA
+https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE 24 GHANTA
+https://tvs1.aynaott.com/zee24/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MADINA LIVE
+https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: MAKKAH LIVE
+https://tvs1.aynaott.com/qurantv/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY YAY
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: CARTOON NETWORK
+https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DISCOVERY KIDS
+https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: PBS KIDS
+https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DISCOVERY HD
+https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DISCOVERY SCIENVE
+https://tvs1.aynaott.com/discovery_science/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DISCOVERY TURBO
+https://tvs1.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: HISTORY CHANNEL
+https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: INVESTIGATION DISCOVERY
+https://tvs1.aynaott.com/id_hd_source/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BBC EARTH
+https://tvs1.aynaott.com/BbcEarth/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: TLC
+https://tvs1.aynaott.com/tlc_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ANIMAL PLANET
+https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY EARTH
+https://tvs1.aynaott.com/EarthHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: &TV
+https://tvs1.aynaott.com/AndTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: &PICTURES
+https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SET MAX
+https://tvs1.aynaott.com/SetMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY MAX
+https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY MAX 2
+https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: COLORS HD
+https://tvs1.aynaott.com/ColorsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY AATH
+https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY ENTERTAINMENT
+https://tvs2.aynaott.com/SonyHD/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY ENTERTAINMENT 2
+https://tvs1.aynaott.com/SonySD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY PAL
+https://tvs1.aynaott.com/SonyPal/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY SAB 1
+https://tvs1.aynaott.com/SabHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY SAB 2
+https://tvs1.aynaott.com/SabSD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: STAR PLUS
+https://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE TV
+https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1667563200-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE CINEMA
+https://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE ANMOL CINEMA
+https://tvs1.aynaott.com/ZeeAnmolCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY WAH
+https://tvs1.aynaott.com/SonyWah/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY PIX
+https://tvs1.aynaott.com/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE CAFE
+https://tvs1.aynaott.com/ZeeCafeHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE ZING
+https://tvs1.aynaott.com/zing/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: B4U MUSIC
+https://tvs1.aynaott.com/b4umusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BANGLA TALKIES
+https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: TRT WORLD
+https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: NHK WORLD JAPAN
+https://tvs1.aynaott.com/nhkworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE HINDUSTAN
+https://tvs1.aynaott.com/zeehindustan/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ZEE NEWS
+https://tvs1.aynaott.com/zeenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: ALJAZEERA
+https://tvs1.aynaott.com/aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: BBC NEWS
+https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: CNN
+https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: DW NEWS
+https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SKY NEWS
+https://tvs2.aynaott.com/skynews/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: T-SPORTS
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: STAR SPORTS 1
+https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: STAR SPORTS 2
+https://tvs1.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY TEN 1
+https://tvs1.aynaott.com/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY TEN 2
+https://tvs1.aynaott.com/Ten2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY TEN 3
+https://tvs1.aynaott.com/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: SONY SIX
+https://tvs1.aynaott.com/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1   group-title="Aynaott",BD: A SPORTS
+https://tvs2.aynaott.com/asports/tracks-v1a1/mono.m3u8
+
 
 #EXTM3U
 #EXTINF:0 group-title="BANGLADESH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" ,ANANDA TV
