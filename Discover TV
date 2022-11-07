@@ -25,6 +25,9 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Live",Live 1
+https://tv.googledrivelinks.com/play.php?c=Nick_Hindi&q=1200&e=.m3u8
+
 #EXTINF:-1   group-title="Aynaott",BD: BTV NATIONAL
 https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: BTV CHATTOGRAM
