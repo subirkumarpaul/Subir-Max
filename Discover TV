@@ -26,8 +26,6 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
 
-#EXTINF:-1   group-title="Aynaott",BD: BTV NATIONAL
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: BTV CHATTOGRAM
 https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
 #EXTINF:-1   group-title="Aynaott",BD: SANGSHD TV
@@ -640,6 +638,8 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
 http://103.106.2.152:13456/btv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Aynaott",BTV National(Aynaott)
+https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BDIPTV",BTV National(BDIPTV)
 http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BCIPTV",BTV National(BCIPTV)
@@ -652,10 +652,14 @@ http://103.106.2.152:13456/btv_world.m3u8
 http://bdiptv.net:8282/btv-world/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",Sangsad TV(BD2)
 http://103.106.2.152:13456/sangsad.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Aynaott",Sangsad TV(Aynaott)
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BDIPTV",Sangsad TV(BDIPTV)
 http://bdiptv.net:8282/sangsad-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV CTG(BD2)
 http://103.106.2.152:13456/btv_ctg.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Aynaott",BTV CTG(Aynaott)
+https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BDIPTV",BTV CTG(BDIPTV)
 http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 
@@ -824,6 +828,8 @@ http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="BCIPTV",Independent TV(BCIPTV)
 http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Aynaott",Ekattor TV(Aynaott)
+https://tvs1.aynaott.com/ekattortv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BDIPTV",Ekattor TV(BDIPTV)
 http://bdiptv.net:8082/EKTTOR-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BCIPTV",Ekattor TV(BCIPTV)
