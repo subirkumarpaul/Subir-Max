@@ -25,6 +25,37 @@ https://mprod-cdn.toffeelive.com/live-event-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 1
+http://45.127.244.7:8080/hls/channel1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 2
+http://45.127.244.7:8080/hls/channel2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 3
+http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 4
+http://45.127.244.7:8080/hls/channel4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 5
+http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 6
+http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 7
+http://45.127.244.7:8080/hls/channel7.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 8
+http://45.127.244.7:8080/hls/channel8.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 9
+http://45.127.244.7:8080/hls/channel9.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 10
+http://45.127.244.7:8080/hls/channel10.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 11
+http://45.127.244.7:8080/hls/channel11.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 12
+http://45.127.244.7:8080/hls/channel12.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 13
+http://45.127.244.7:8080/hls/channel13.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 14
+http://45.127.244.7:8080/hls/channel14.m3u8
+#EXTINF:-1 tvg-logo=""group-title="New",Channel 15
+http://45.127.244.7:8080/hls/channel15.m3u8
+
 
 
 
