@@ -56,11 +56,54 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:-1 tvg-logo=""group-title="New",Channel 15
 http://45.127.244.7:8080/hls/channel15.m3u8
 
-etions.
-  95  
-Sydul
-@@ -488,6 +488,101 @@ http://10.252.253.254/hls/atn.m3u8
-
+#EXTINF:-1 tvg-name="T SPORTS" tvg-logo="https://sunplex.net/iptv/logo/t-sports.jpg" group-title="SUNPLEX",T SPORTS
+http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
+#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://sunplex.net/iptv/logo/gtv.jpg" group-title="SUNPLEX",GAZI TV
+http://103.118.76.146:1935/MDE0GIDU6R/gtv.stream/chunklist_w704316170.m3u8
+#EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",EKATTOR TV
+http://103.118.76.146:1935/plex/ekattortv.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="SUNPLEX",INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="SUNPLEX",JAMUNA TV
+http://103.118.76.146:1935/evolution/JAMUNA-TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="SUNPLEX",SOMOY TV
+http://103.118.76.146:1935/evolution/SOMOY-TV.stream/chunklist_w1786990682.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SUNPLEX",CHANNEL 24
+http://103.118.76.146:1935/evolution/Channel-24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MAASRANGA TV" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="SUNPLEX",MAASRANGA TV
+http://103.118.76.146:1935/evolution/MAASRANGA.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="SUNPLEX",CHANNEL I
+http://103.118.76.146:1935/evolution/CHANNEL-I.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="DEPTO BANGLA" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="SUNPLEX",DEPTO BANGLA
+http://103.118.76.146:1935/evolution/Deepto.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 9" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="SUNPLEX",CHANNEL 9
+http://103.118.76.146:1935/evolution/CHANNEL-9.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="SUNPLEX",SATV
+http://103.118.76.146:1935/evolution/SATV%20HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="SUNPLEX",NTV
+http://103.118.76.146:1935/evolution/NTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="SUNPLEX",ATN BANGLA
+http://103.118.76.146:1935/evolution/ATN-BANGLA.stream/chunklist_w1786990682.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="SUNPLEX",RTV
+http://103.118.76.146:1935/evolution/RTV-BANGLA.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="SUNPLEX",EKUSHEY TV
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+#EXTINF:-1 tvg-name="BANGLA VISION" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="SUNPLEX",BANGLA VISION
+http://103.118.76.146:1935/evolution/BANGLA-VISION.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="SUNPLEX",MY TV
+http://103.118.76.146:1935/evolution/MY-TV.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="SUNPLEX",GAAN BANGLA
+http://103.118.76.146:1935/evolution/gaanbangla.stream/chunks.m3u8
+#EXTINF:-1 group-title="SUNPLEX",Mastii
+http://103.118.76.146:1935/evolution/masti.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="SUNPLEX",SONY AATH
+http://103.118.76.146:1935/evolution/SonyAath.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="SUNPLEX",ZEE BANGLA
+http://103.118.76.146:1935/plex/zee-bangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="SUNPLEX",STAR JALSHA
+http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="SUNPLEX",SONY HD
+http://103.118.76.146:1935/evolution/Sonyhd.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Samonline", TV-01
