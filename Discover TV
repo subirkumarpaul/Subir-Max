@@ -56,6 +56,102 @@ http://45.127.244.7:8080/hls/channel14.m3u8
 #EXTINF:-1 tvg-logo=""group-title="New",Channel 15
 http://45.127.244.7:8080/hls/channel15.m3u8
 
+etions.
+  95  
+Sydul
+@@ -488,6 +488,101 @@ http://10.252.253.254/hls/atn.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-01
+http://172.16.128.2:8081/live/sky1001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-02
+http://172.16.128.2:8081/live/sky1002/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-03
+http://172.16.128.2:8081/live/sky1003/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-04
+http://172.16.128.2:8081/live/sky1004/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-05
+http://172.16.128.2:8081/live/sky1005/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-06
+http://172.16.128.2:8081/live/sky1006/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-07
+http://172.16.128.2:8081/live/sky1007/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-08
+http://172.16.128.2:8081/live/sky1008/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-09
+http://172.16.128.2:8081/live/sky1009/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-10
+http://172.16.128.2:8081/live/sky1010/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-11
+http://172.16.128.2:8081/live/sky1011/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-12
+http://172.16.128.2:8081/live/sky1012/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-13
+http://172.16.128.2:8081/live/sky1013/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-14
+http://172.16.128.2:8081/live/sky1014/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-15
+http://172.16.128.2:8081/live/sky1015/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-16
+http://172.16.128.2:8081/live/sky1016/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-17
+http://172.16.128.2:8081/live/sky1017/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-18
+http://172.16.128.2:8081/live/sky1018/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-19
+http://172.16.128.2:8081/live/sky1019/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-20
+http://172.16.128.2:8081/live/sky1020/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Samonline", TV-21
+http://172.16.128.2:8081/live/sky1021/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-01
+http://test-otv1.ftpbd.net/streams/101/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-02
+http://test-otv1.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-03
+http://test-otv1.ftpbd.net/streams/103/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-04
+http://test-otv1.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-05
+http://test-otv1.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-06
+http://test-otv1.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-07
+http://test-otv1.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-08
+http://test-otv1.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-09
+http://test-otv1.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-10
+http://test-otv1.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-11
+http://test-otv1.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-12
+http://test-otv1.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-13
+http://test-otv1.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-14
+http://test-otv1.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-15
+http://test-otv1.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-16
+http://test-otv1.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-17
+http://test-otv1.ftpbd.net/streams/117/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-18
+http://test-otv1.ftpbd.net/streams/118/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-19
+http://test-otv1.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" Test-otv", TV-20
+http://test-otv1.ftpbd.net/streams/120/index.m3u8
+
 
 
 
