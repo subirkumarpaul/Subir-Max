@@ -561,6 +561,9 @@ http://103.121.14.18/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BCIPTV",Sun Bangla(BCIPTV)
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BCIPTV",Sanonda TV(BdIP)
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://103.121.14.18/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD50",Zee Bangla Cinema(BD50)
