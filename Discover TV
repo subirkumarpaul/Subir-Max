@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-https://eighties-rock.boxcast.com/depeche-mode/ldtg5zn99gwkoqegzvrb/720p-byteranges-ext.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9laWdodGllcy1yb2NrLmJveGNhc3QuY29tL2RlcGVjaGUtbW9kZS9sZHRnNXpuOTlnd2tvcWVnenZyYi83MjBwLWJ5dGVyYW5nZXMtZXh0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NjkwMzU0MDZ9fX1dfQ&Signature=QQTIUlqeEXiGOvydAv8RqeyoVXoBM0k4tB4bgF1XusxwFWZuG3d2Jl7seeOukeFnP5TADJRXG7FQTrjZFEllUc-69q32txikqrY-p67pBXWoOtxX0cOPdXUDsdHDk0kLzTHCxRX3QTfFHaSxO~MzOvxV9fNp6bRaC8LtMfmk7uCOf9oQcWlsMY0zagKwvTrhbuQLYESQ5zP4cE46q6peFf5xGZa-QVDjOCZporUqdP1HfN4fCNyw~mAlPq8KxkwRgdOI9RbxLCqxid7SdN9TngR8LCy8n46Kshd6zRvnUvKDa5JLqjrCdeh0mXE9Ui20bU4MCaO67SgQhgsWTAimog&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
+http://103.127.93.82:8883/play/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
-http://test-otv1.ftpbd.net/streams/118/index.m3u8
+http://103.127.93.82:8883/play/gazitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 A
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 B
