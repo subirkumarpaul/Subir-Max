@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://103.78.255.178:8080/starselect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-https://tvxd.digitaltrend.in/streaming2.html
+https://live-global-cdn-v02.afreecatv.com/live-stmc-38/auth_playlist.m3u8?aid=.A32.7bbT56vyHM9fKZk.VPleuD9nJLKsLp6YZAGdib-t-eENDf1DPmEVIkKtrsWh42FiedgL7KUp08OffBPF6gL6uyIzsrNEnzPK7aFYWA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
