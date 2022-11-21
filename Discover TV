@@ -389,6 +389,8 @@ http://15.1.5.10:8082/MohonaTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BDIPTV",Desh TV(BDIPTV)
 http://bdiptv.net:8082/DESH-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Palki TV",Desh TV(Palki TV)
+http://cdn01.palki.tv/live/DeshTV-M/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Jagobd",MY TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -446,6 +448,9 @@ http://103.121.14.18/hls/nexus.m3u8
 https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BCIPTV",Nexus TV HD(BCIPTV)
 http://15.1.5.10:8082/nexus/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Palki TV",Global TV(Palki TV)
+http://cdn01.palki.tv/live/GlobalTV-M/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="BDIX",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
