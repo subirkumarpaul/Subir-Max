@@ -1,9 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 Toffee Free
-https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2 Toffee Paid
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Toffee Paid(720p)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid480p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(360p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(244p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(144p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(720p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(480p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(360p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(244p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(144p)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 http://45.127.244.7:8080/hls/channel3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
