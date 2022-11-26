@@ -209,7 +209,7 @@ https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
 http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
 http://103.153.154.34/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
@@ -846,7 +846,7 @@ http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Net Geo HD(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
 http://103.153.154.34/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BDIPTV",Net Geo HD(BDIPTV)
 http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
