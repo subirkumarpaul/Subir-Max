@@ -392,7 +392,9 @@ http://bdiptv.net:8082/EKTTOR-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BCIPTV",Ekattor TV(BCIPTV)
 http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BCIPTV",ATN News(BDCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Flixhub",ATN News(Flixhub)
+http://103.153.154.34/hls/atn-news.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BCIPTV",ATN News(BCIPTV)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Flixhub",Jamuna TV(Flixhub)
