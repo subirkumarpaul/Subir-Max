@@ -1011,127 +1011,127 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD BANGLA", NRB
 https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 1
+#EXTINF:-1 tvg-name="LIVE SPOSTS 1" tvg-logo="https://tv.efiberbd.net/logo/3.png" group-title="EXTREAM",LIVE SPOSTS 1
 http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 2
+http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+#EXTINF:-1 tvg-name="EXTREAM 2" tvg-logo="https://imgur.com/cYyYtF9.png" group-title="EXTREAM",EXTREAM 2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 3
+#EXTINF:-1 tvg-name="T EXTREAM HD" tvg-logo="https://imgur.com/yzYpM1s.png" group-title="EXTREAM",T EXTREAM HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 4
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://tv.efiberbd.net/logo/gazi.png" group-title="EXTREAM",GAZI TV HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 5
+#EXTINF:-1 tvg-name="STAR SPOTS 1 HD" tvg-logo="https://imgur.com/sMVTIzI.png" group-title="EXTREAM",STAR SPOTS 1 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
+#EXTINF:-1 tvg-name="STAR EXTREAM 2 HD" tvg-logo="https://imgur.com/wk3frjh.png" group-title="EXTREAM",STAR Sports 2 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/37.m3u8
+#EXTINF:-1 tvg-name="SONY SIX HD" tvg-logo="https://imgur.com/D03547q.png" group-title="EXTREAM",SONY SIX HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/38.m3u8
+#EXTINF:-1 tvg-name="SONY TEN1 HD" tvg-logo="https://imgur.com/09HYUul.png" group-title="EXTREAM",SONY TEN1 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/39.m3u8
+#EXTINF:-1 tvg-name="SONY TEN2 HD" tvg-logo="https://imgur.com/k9hb2Pu.png" group-title="EXTREAM",SONY TEN2 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/40.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="https://imgur.com/usjaT9M.png" group-title="EXTREAM",ZEE BANGLA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/5.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 6
+#EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://imgur.com/BDvuaGw.png" group-title="EXTREAM",STAR JALSHA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/6.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 7
+#EXTINF:-1 tvg-name="COLORS BANGLA HD" tvg-logo="https://imgur.com/Sn6OZs2.png" group-title="EXTREAM",COLORS BANGLA HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/7.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 8
+#EXTINF:-1 tvg-name="JALSHA MOVIE HD" tvg-logo="https://imgur.com/7h11TyZ.png" group-title="EXTREAM",JALSHA MOVIE HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/8.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 9
+#EXTINF:-1 tvg-name="COLORS EXTREAM" tvg-logo="https://imgur.com/5JRKjtd.png" group-title="EXTREAM",COLORS EXTREAM
 http://tv2.efiberbd.net:8080/live/mkaua/stream/9.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 10
+#EXTINF:-1 tvg-name="ZEE EXTREAM" tvg-logo="http://tv.efiberbd.net/logo/inbzbc.png" group-title="EXTREAM",ZEE EXTREAM
 http://tv2.efiberbd.net:8080/live/mkaua/stream/10.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 11
-http://xtream.efiberbd.net:8080/live/mkaua/stream/11.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 12
-http://xtream.efiberbd.net:8080/live/mkaua/stream/12.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 13
-http://xtream.efiberbd.net:8080/live/mkaua/stream/13.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 14
-http://xtream.efiberbd.net:8080/live/mkaua/stream/14.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 15
-http://xtream.efiberbd.net:8080/live/mkaua/stream/15.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 16
-http://xtream.efiberbd.net:8080/live/mkaua/stream/16.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 17
-http://xtream.efiberbd.net:8080/live/mkaua/stream/17.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 18
-http://xtream.efiberbd.net:8080/live/mkaua/stream/18.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 19
-http://xtream.efiberbd.net:8080/live/mkaua/stream/19.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 20
-http://xtream.efiberbd.net:8080/live/mkaua/stream/20.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 21
-http://xtream.efiberbd.net:8080/live/mkaua/stream/21.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 22
-http://xtream.efiberbd.net:8080/live/mkaua/stream/22.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 23
-http://xtream.efiberbd.net:8080/live/mkaua/stream/23.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 24
-http://xtream.efiberbd.net:8080/live/mkaua/stream/24.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 25
-http://xtream.efiberbd.net:8080/live/mkaua/stream/25.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 26
-http://xtream.efiberbd.net:8080/live/mkaua/stream/26.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 27
-http://xtream.efiberbd.net:8080/live/mkaua/stream/27.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 28
-http://xtream.efiberbd.net:8080/live/mkaua/stream/28.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 29
-http://xtream.efiberbd.net:8080/live/mkaua/stream/29.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 30
-http://xtream.efiberbd.net:8080/live/mkaua/stream/30.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 31
-http://xtream.efiberbd.net:8080/live/mkaua/stream/31.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 32
-http://xtream.efiberbd.net:8080/live/mkaua/stream/32.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 33
-http://xtream.efiberbd.net:8080/live/mkaua/stream/33.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 34
-http://xtream.efiberbd.net:8080/live/mkaua/stream/34.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 35
-http://xtream.efiberbd.net:8080/live/mkaua/stream/35.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 36
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 37
-http://xtream.efiberbd.net:8080/live/mkaua/stream/37.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 38
-http://xtream.efiberbd.net:8080/live/mkaua/stream/38.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 39
-http://xtream.efiberbd.net:8080/live/mkaua/stream/39.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 40
-http://xtream.efiberbd.net:8080/live/mkaua/stream/40.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 41
-http://xtream.efiberbd.net:8080/live/mkaua/stream/41.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 42
-http://xtream.efiberbd.net:8080/live/mkaua/stream/42.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 43
-http://xtream.efiberbd.net:8080/live/mkaua/stream/43.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 44
-http://xtream.efiberbd.net:8080/live/mkaua/stream/44.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 45
-http://xtream.efiberbd.net:8080/live/mkaua/stream/45.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 46
-http://xtream.efiberbd.net:8080/live/mkaua/stream/46.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 47
-http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 48
-http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 49
-http://xtream.efiberbd.net:8080/live/mkaua/stream/49.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 50
-http://xtream.efiberbd.net:8080/live/mkaua/stream/50.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 51
-http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 52
-http://xtream.efiberbd.net:8080/live/mkaua/stream/52.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 53
-http://xtream.efiberbd.net:8080/live/mkaua/stream/53.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 54
-http://xtream.efiberbd.net:8080/live/mkaua/stream/54.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 55
-http://xtream.efiberbd.net:8080/live/mkaua/stream/55.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 56
-http://xtream.efiberbd.net:8080/live/mkaua/stream/56.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 57
-http://xtream.efiberbd.net:8080/live/mkaua/stream/57.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 58
-http://xtream.efiberbd.net:8080/live/mkaua/stream/58.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 59
-http://xtream.efiberbd.net:8080/live/mkaua/stream/59.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 60
-http://xtream.efiberbd.net:8080/live/mkaua/stream/60.m3u8
-
+#EXTINF:-1 tvg-name="AMAR BANGLA" tvg-logo="https://imgur.com/uUhUMjV.png" group-title="EXTREAM",AMAR BANGLA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/56.m3u8
+#EXTINF:-1 tvg-name="MASSRANGA" tvg-logo="https://imgur.com/7xp2M8w.png" group-title="EXTREAM",MASSRANGA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/11.m3u8
+#EXTINF:-1 tvg-name="DURONTO" tvg-logo="https://imgur.com/jO6oYnx.png" group-title="EXTREAM",DURONTO
+http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
+#EXTINF:-1 tvg-name="Sony Yay!" tvg-logo="https://imgur.com/2R7S99Y.png" group-title="EXTREAM",Sony Yay!
+http://tv2.efiberbd.net:8080/live/mkaua/stream/13.m3u8
+#EXTINF:-1 tvg-name="ATN ISLAMIC" tvg-logo="https://imgur.com/PyBVPyg.png" group-title=" EXTREAM ",ATN ISLAMIC
+http://tv2.efiberbd.net:8080/live/mkaua/stream/14.m3u8
+#EXTINF:-1 tvg-name="Deen TV" tvg-logo="https://imgur.com/BcipckQ.png" group-title=" EXTREAM ",Deen TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
+#EXTINF:-1 tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/KDEQN3A.png" group-title=" EXTREAM ",SAUDIA QURAN HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/16.m3u8
+#EXTINF:-1 tvg-name="CHANNEL9" tvg-logo="https://imgur.com/Mdlk4HV.png" group-title="EXTREAM",CHANNEL9
+http://tv2.efiberbd.net:8080/live/mkaua/stream/17.m3u8
+#EXTINF:-1 tvg-name="DEEPTO TV" tvg-logo="https://imgur.com/dmR92dL.png" group-title="EXTREAM",DEEPTO TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/18.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://imgur.com/BsDkGkn.png" group-title="EXTREAM",NTV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/48.m3u8
+#EXTINF:-1 tvg-name="MY TV" tvg-logo="https://imgur.com/LeHnGwa.png" group-title="EXTREAM",MY TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/47.m3u8
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://imgur.com/xpRYR8C.png" group-title="EXTREAM",ATN BANGLA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/49.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://imgur.com/YcRl4SX.png" group-title="EXTREAM",CHANNEL I
+http://tv2.efiberbd.net:8080/live/mkaua/stream/50.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://imgur.com/98M0sVx.png" group-title="EXTREAM",CHANNEL 24
+http://tv2.efiberbd.net:8080/live/mkaua/stream/51.m3u8
+#EXTINF:-1 tvg-name="ALPONA TV" tvg-logo="https://imgur.com/XOgkm7Y.png" group-title="EXTREAM",ALPONA TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/52.m3u8
+#EXTINF:-1 tvg-name="BANGLA TV" tvg-logo="https://imgur.com/iDRYYCx.png" group-title="EXTREAM",BANGLA TV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/53.m3u8
+#EXTINF:-1 tvg-name="SATV" tvg-logo="https://imgur.com/gnj4njj.png" group-title="EXTREAM",SATV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/54.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://imgur.com/gLpBnW6.png" group-title="EXTREAM",RTV
+http://tv2.efiberbd.net:8080/live/mkaua/stream/55.m3u8
+#EXTINF:-1 tvg-name="ARY HD" tvg-logo="https://imgur.com/CuSbmpb.png" group-title="EXTREAM",ARY HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/19.m3u8
+#EXTINF:-1 tvg-name="STAR PLUS" tvg-logo="https://imgur.com/cDszDir.png" group-title="EXTREAM",STAR PLUS
+http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
+#EXTINF:-1 tvg-name="ZEE TV HD" tvg-logo="https://imgur.com/yVVhE6d.png" group-title="EXTREAM",ZEE TV HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/21.m3u8
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://imgur.com/I2z9ryR.png" group-title="EXTREAM",SONY HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/22.m3u8
+#EXTINF:-1 tvg-name="SONY SUB" tvg-logo="https://imgur.com/KmP2mDU.png" group-title="EXTREAM",SONY SUB
+http://tv2.efiberbd.net:8080/live/mkaua/stream/23.m3u8
+#EXTINF:-1 tvg-name="COLORS HD" tvg-logo="https://imgur.com/XsIxAf2.png" group-title="EXTREAM",COLORS HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/24.m3u8
+#EXTINF:-1 tvg-name="SONYMAXHD" tvg-logo="https://imgur.com/VudMFG9.png" group-title="EXTREAM",SONYMAXHD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+#EXTINF:-1 tvg-name="ZEE CINEMA HD" tvg-logo="https://imgur.com/0pe3C9i.png" group-title="EXTREAM",ZEE CINEMA HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
+#EXTINF:-1 tvg-name="STARGOLDHD" tvg-logo="https://imgur.com/bndzLI1.png" group-title="EXTREAM",STARGOLDHD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/27.m3u8
+#EXTINF:-1 tvg-name="&PICTURSHD" tvg-logo="https://imgur.com/TIml4t1.png" group-title="EXTREAM",&PICTURSHD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/28.m3u8
+#EXTINF:-1 tvg-name="COLORS CINEPLEX HD" tvg-logo="https://imgur.com/KSqrB1A.png" group-title="EXTREAM",COLORS CINEPLEX HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/29.m3u8
+#EXTINF:-1 tvg-name="Dhinchaak 2 HD" tvg-logo="https://imgur.com/DT0J6gn.png" group-title="EXTREAM",Dhinchaak 2 HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/30.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES HD" tvg-logo="https://imgur.com/jYJTNkC.png" group-title="EXTREAM",STAR MOVIES HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/31.m3u8
+#EXTINF:-1 tvg-name="SHOW TIME HD" tvg-logo="https://imgur.com/TABa2Uq.png" group-title="EXTREAM",SHOW TIME HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/32.m3u8
+#EXTINF:-1 tvg-name="MN+ HD" tvg-logo="https://imgur.com/KgmEUfE.png" group-title="EXTREAM",MN+ HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/33.m3u8
+#EXTINF:-1 tvg-name="MOVIES NOW HD" tvg-logo="https://imgur.com/IGmiORn.png" group-title="EXTREAM",MOVIES NOW HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/34.m3u8
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://imgur.com/lDCd8ka.png" group-title="EXTREAM",SONY PIX HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/35.m3u8
+#EXTINF:-1 tvg-name="&prive HD" tvg-logo="https://imgur.com/56yHUXM.png" group-title="EXTREAM",&prive HD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/41.m3u8
+#EXTINF:-1 tvg-name="&FLIXHD" tvg-logo="https://imgur.com/aaW9o2c.png" group-title="EXTREAM",&FLIXHD
+http://tv2.efiberbd.net:8080/live/mkaua/stream/42.m3u8
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://imgur.com/r1ETHtA.png" group-title="EXTREAM",GAAN BANGLA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/58.m3u8
+#EXTINF:-1 tvg-name="SONGEET BANGLA" tvg-logo="https://imgur.com/o6wuktp.png" group-title="EXTREAM",SONGEET BANGLA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
+#EXTINF:-1 tvg-name="Bangla Talkies" tvg-logo="https://imgur.com/Xs3Ecyb.png" group-title="EXTREAM",Bangla Talkies
+http://tv2.efiberbd.net:8080/live/mkaua/stream/60.m3u8
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://imgur.com/0fQTRXt.png" group-title="EXTREAM",ZOOM
+http://tv2.efiberbd.net:8080/live/mkaua/stream/43.m3u8
+#EXTINF:-1 tvg-name="EXTREAM INDIA" tvg-logo="https://imgur.com/aCtYkX4.png" group-title="EXTREAM",EXTREAM INDIA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/44.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://imgur.com/i0fvHl8.png" group-title="EXTREAM",9XM
+http://tv2.efiberbd.net:8080/live/mkaua/stream/45.m3u8
+#EXTINF:-1 tvg-name="B4U EXTREAM" tvg-logo="https://imgur.com/k47s0v0.png" group-title="EXTREAM",B4U EXTREAM
+http://tv2.efiberbd.net:8080/live/mkaua/stream/46.m3u8
+#EXTINF:-1 tvg-name="ATN EXTREAM" tvg-logo="https://imgur.com/B5tutNr.png" group-title="EXTREAM",ATN EXTREAM
+http://tv2.efiberbd.net:8080/live/mkaua/stream/57.m3u8
 
 
 #EXTINF:-1,Sony Set 
