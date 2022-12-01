@@ -87,6 +87,10 @@ https://tv.bdflix.xyz/Gazi_TV/index.m3u8
 https://tv.bdflix.xyz/Star_Sports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 2
 https://tv.bdflix.xyz/Star_Sports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 1
+https://tv.bdflix.xyz/Star_Sports_Selecet1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 2
+https://tv.bdflix.xyz/Star_Sports_Selecet2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 1
 https://tv.bdflix.xyz/Sony-Ten1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 2
@@ -95,6 +99,17 @@ https://tv.bdflix.xyz/Sony_Ten2/index.m3u8
 https://tv.bdflix.xyz/Sony-Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 5
 https://tv.bdflix.xyz/Sony-Six/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony TV
+https://tv.bdflix.xyz/Sony_Entertainment/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sab
+https://tv.bdflix.xyz/Sony_Sab/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max HD
+https://tv.bdflix.xyz/Sony_Max/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max 2
+https://tv.bdflix.xyz/Sony_Max_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",And Flix
+https://tv.bdflix.xyz/And_Flix/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
 http://103.106.2.152:13456/btv.m3u8
