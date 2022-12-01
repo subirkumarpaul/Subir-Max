@@ -79,8 +79,22 @@ https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",T Sports
+https://tv.bdflix.xyz/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Gazi TV
+https://tv.bdflix.xyz/Gazi_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 1
+https://tv.bdflix.xyz/Star_Sports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 2
+https://tv.bdflix.xyz/Star_Sports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 1
+https://tv.bdflix.xyz/Sony-Ten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 2
+https://tv.bdflix.xyz/Sony_Ten2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 3
+https://tv.bdflix.xyz/Sony-Ten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 5
+https://tv.bdflix.xyz/Sony-Six/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
 http://103.106.2.152:13456/btv.m3u8
