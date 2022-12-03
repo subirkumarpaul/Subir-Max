@@ -828,6 +828,9 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD50",Travel XP English(BD50)
 http://50.7.237.4:8080/TRAVELXPHD/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BD",Xlpore English(BD)
+http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth(Flixhub)
 http://103.153.154.34/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD50",Sony BBC Earth(BD50)
