@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Dhedkan
-http://cinemacity.live/hdd/4TB%20File/Hindi%20Movie%20HD/Dhadkan%20%282000%29~~Suniel%20Shetty~Shilpa%20Shetty~Akshay~Mahima/Dhadkan.mp4
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(720p)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(480p)
@@ -51,6 +48,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
+https://vkvsd33.mycdn.me/hls/3239838550759.m3u8/sig/RKBMMaalD4s/expires/1670217744296/srcIp/103.158.131.82/urls/45.136.22.58/clientType/13/srcAg/CHROME_ANDROID/mid/4573143444455/video.m3u8?p
 http://103.110.216.242/GTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://dotfli.net/s-1-tsports/tracks-v1a1/mono.m3u8
@@ -1085,6 +1083,13 @@ https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD BANGLA", NRB
 https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,Dhedkan
+http://cinemacity.live/hdd/4TB%20File/Hindi%20Movie%20HD/Dhadkan%20%282000%29~~Suniel%20Shetty~Shilpa%20Shetty~Akshay~Mahima/Dhadkan.mp4
+
+
 
 #EXTINF:-1 tvg-name="LIVE SPOSTS 1" tvg-logo="https://tv.efiberbd.net/logo/3.png" group-title="EXTREAM",LIVE SPOSTS 1
 http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
