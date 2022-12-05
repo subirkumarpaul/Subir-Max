@@ -56,7 +56,7 @@ http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
-http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 A
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 B
@@ -74,7 +74,7 @@ http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
-https://mprod-cdn.toffeelive.com/live-event-2/master_850.m3u8
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 
 
 
