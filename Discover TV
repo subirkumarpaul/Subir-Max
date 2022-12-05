@@ -48,12 +48,11 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
-https://vkvsd33.mycdn.me/hls/3239838550759.m3u8/sig/RKBMMaalD4s/expires/1670217744296/srcIp/103.158.131.82/urls/45.136.22.58/clientType/13/srcAg/CHROME_ANDROID/mid/4573143444455/video.m3u8?p
-http://103.110.216.242/GTVHD/tracks-v1a1/mono.m3u8
+https://tv.bdflix.xyz/Gazi_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://dotfli.net/s-1-tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://tv.bdflix.xyz/Gazi_TV/index.m3u8
+http://103.110.216.242/GTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://103.127.93.82:8234/g_tv/tracks-v1a1/mono.m3u8?token=TheftTheftTheftTheftTheftTheftTheftTheft
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
