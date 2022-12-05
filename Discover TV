@@ -50,7 +50,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://103.143.235.50:8080/101/101.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
-http://dotfli.net/s-1-tsports/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
@@ -81,7 +81,7 @@ http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=ZrXwqGqN8lN-l0
 http://tv.maguraplex.net:8000/live/sonysp5/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
-
+#http://live.flixhub.net/hls/t-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",BTV National
 https://tv.bdflix.xyz/BTV/index.m3u8
