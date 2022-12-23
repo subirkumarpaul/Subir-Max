@@ -405,7 +405,7 @@ http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="BCIPTV",Colors Bangla Cinema(BCIPTV)
 http://15.1.5.10:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="BD",Colors Bangla Cinema(BD)
-http://208.86.19.13:81/907.stream/index.m3u8
+http://103.143.235.50/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Flixhub",Jalsha Movies HD(Flixhub)
 http://live.flixhub.net/hls/jalshamovies.m3u8
