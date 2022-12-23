@@ -1,50 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(720p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(480p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(360p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(244p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid(144p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_180.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid 2(720p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid 2(480p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid 2(360p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid 2(244p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Paid 2(144p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_180.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(720p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(480p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(360p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(244p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free(144p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_180.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free 2(720p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free 2(480p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free 2(360p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_640.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free 2(244p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Toffee%20Live.gif"group-title="Live Sports",Toffee Free 2(144p)
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_180.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
@@ -762,12 +717,12 @@ http://103.162.136.235:4500/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BCIPTV",Willow Cricket(BCIPTV)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1 English(BD)
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
+http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Flixhub",Bein Sports 1(Flixhub)
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
-https://cdn.googlecdnforstreaming.live/dbf789/bein2/playlist.m3u8
+http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
@@ -798,7 +753,7 @@ http://bdiptv.net:8282/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BCIPTV",Discovery HD(BCIPTV)
 http://15.1.1.34:8282/discovery-kid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD3",Discovery HD(BD3)
-https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD3",Discovery HD(BD)
 http://103.143.235.50/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Flixhub",Discovery Science (Flixhub)
@@ -895,8 +850,8 @@ http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
 http://bdiptv.net:8082/Cartoon-Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD50",Cartoon Network (BD50)
-http://50.7.237.4:8080/CARTOONNETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network (BD)
+http://103.143.235.50/CN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://live.flixhub.net/hls/pogo.m3u8
