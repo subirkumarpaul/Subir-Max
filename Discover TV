@@ -887,8 +887,8 @@ http://103.16.24.54:8080/channel2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Flixhub",Movies Now(Flixhub)
 http://live.flixhub.net/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="BDIPTV",Movies Now(BDIPTV)
-http://bdiptv.net:8282/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="BD",Movies Now(BD)
+http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="BCIPTV",Movies Now(BCIPTV)
 http://15.1.5.10:8082/movies-now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Flixhub",MN+(Flixhub)
