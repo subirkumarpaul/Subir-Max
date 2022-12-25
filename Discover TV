@@ -37,52 +37,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
 #http://live.flixhub.net/hls/t-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",BTV National
-https://tv.bdflix.xyz/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",T Sports
-https://tv.bdflix.xyz/Tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Gazi TV
-https://tv.bdflix.xyz/Gazi_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Aath
-https://tv.bdflix.xyz/Sony-Aath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Jalsha
-https://tv.bdflix.xyz/Star_Jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Zee Bangla
-https://tv.bdflix.xyz/Zee_Bangla_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 1
-https://tv.bdflix.xyz/Star_Sports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 2
-https://tv.bdflix.xyz/Star_Sports2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 1
-https://tv.bdflix.xyz/Star_Sports_Selecet1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 2
-https://tv.bdflix.xyz/Star_Sports_Select2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 1
-https://tv.bdflix.xyz/Sony-Ten1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 2
-https://tv.bdflix.xyz/Sony_Ten2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 3
-https://tv.bdflix.xyz/Sony-Ten3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 5
-https://tv.bdflix.xyz/Sony-Six/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony TV
-https://tv.bdflix.xyz/Sony_Entertainment/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sab
-https://tv.bdflix.xyz/Sony_Sab/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max HD
-https://tv.bdflix.xyz/Sony_Max/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max 2
-https://tv.bdflix.xyz/Sony_Max_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Zee Cinema
-https://tv.bdflix.xyz/Zee-Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Pix
-https://tv.bdflix.xyz/Sony_Pix/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",And Flix
-https://tv.bdflix.xyz/And_Flix/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Travel XP Bangla
-https://tv.bdflix.xyz/Travel-XP/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony BBC Earth
-https://tv.bdflix.xyz/Sony_Earth/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
@@ -1437,3 +1392,50 @@ http://223.29.231.66:8000/play/a01u/index.m3u8
 http://223.29.231.66:8000/play/a01w/index.m3u8
 #EXTINF:-1,nick HD+- PC
 http://223.29.231.66:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",BTV National
+https://tv.bdflix.xyz/BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",T Sports
+https://tv.bdflix.xyz/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Gazi TV
+https://tv.bdflix.xyz/Gazi_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Aath
+https://tv.bdflix.xyz/Sony-Aath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Jalsha
+https://tv.bdflix.xyz/Star_Jalsha/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Zee Bangla
+https://tv.bdflix.xyz/Zee_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 1
+https://tv.bdflix.xyz/Star_Sports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports 2
+https://tv.bdflix.xyz/Star_Sports2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 1
+https://tv.bdflix.xyz/Star_Sports_Selecet1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Star Sports Select 2
+https://tv.bdflix.xyz/Star_Sports_Select2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 1
+https://tv.bdflix.xyz/Sony-Ten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 2
+https://tv.bdflix.xyz/Sony_Ten2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 3
+https://tv.bdflix.xyz/Sony-Ten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sports Ten 5
+https://tv.bdflix.xyz/Sony-Six/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony TV
+https://tv.bdflix.xyz/Sony_Entertainment/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Sab
+https://tv.bdflix.xyz/Sony_Sab/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max HD
+https://tv.bdflix.xyz/Sony_Max/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Max 2
+https://tv.bdflix.xyz/Sony_Max_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Zee Cinema
+https://tv.bdflix.xyz/Zee-Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony Pix
+https://tv.bdflix.xyz/Sony_Pix/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",And Flix
+https://tv.bdflix.xyz/And_Flix/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Travel XP Bangla
+https://tv.bdflix.xyz/Travel-XP/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Bdflix",Sony BBC Earth
+https://tv.bdflix.xyz/Sony_Earth/index.m3u8
