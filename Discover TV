@@ -89,7 +89,8 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
 http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
+http://103.127.93.82:8234/ggggtvv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub)
 http://live.flixhub.net//hls/atn.m3u8
