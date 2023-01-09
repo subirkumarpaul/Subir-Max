@@ -37,6 +37,40 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
 #http://live.flixhub.net/hls/t-sports.m3u8
 
+#EXTINF:-1,Bein 1 U
+http://194.233.71.141:5566/play/Bein1-U/index.m3u8
+#EXTINF:-1,Crimeinvestigation
+http://194.233.71.141:5566/play/crimeinvestigation/index.m3u8
+#EXTINF:-1,ID: Bein 1
+http://194.233.71.141:5566/play/Bein1-ID/index.m3u8
+#EXTINF:-1,ID: NBA
+http://194.233.71.141:5566/play/NBA/index.m3u8
+#EXTINF:-1,INEWS
+http://194.233.71.141:5566/play/INEWS/index.m3u8
+#EXTINF:-1,aniplus
+http://194.233.71.141:5566/play/aniplus/index.m3u8
+#EXTINF:-1,cnbcasia
+http://194.233.71.141:5566/play/cnbcasia/index.m3u8
+#EXTINF:-1,dunialain
+http://194.233.71.141:5566/play/dunialain/index.m3u8
+#EXTINF:-1,history
+http://194.233.71.141:5566/play/history/index.m3u8
+#EXTINF:-1,hitsmovie
+http://194.233.71.141:5566/play/hitsmovie/index.m3u8
+#EXTINF:-1,horee
+http://194.233.71.141:5566/play/horee/index.m3u8
+#EXTINF:-1,kbsworld
+http://194.233.71.141:5566/play/kbsworld/index.m3u8
+#EXTINF:-1,kplus
+http://194.233.71.141:5566/play/kplus/index.m3u8
+#EXTINF:-1,natgeo
+http://194.233.71.141:5566/play/natgeo/index.m3u8
+#EXTINF:-1,natgeowild
+http://194.233.71.141:5566/play/natgeowild/index.m3u8
+#EXTINF:-1,spotv2
+http://194.233.71.141:5566/play/spotv2/index.m3u8
+#EXTINF:-1,useesports2
+http://194.233.71.141:5566/play/useesports2/index.m3u8
 
 
 
