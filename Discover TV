@@ -260,6 +260,8 @@ https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="BDIPTV",Duronto TV(BDIPTV)
 http://bdiptv.net:8082/DURONTO-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="BD",Duronto TV(BD)
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV(Flixhub)
 http://live.flixhub.net/hls/somoy.m3u8
