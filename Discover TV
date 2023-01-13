@@ -672,6 +672,10 @@ http://bdiptv.net:8282/sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="BCIPTV",Sony Sports Ten 5(BCIPTV)
 http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Flixhub",Sports 18 HD(Flixhub)
+http://live.flixhub.net/hls/bein1.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
@@ -720,7 +724,7 @@ http://103.162.136.235:4500/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
 http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Flixhub",Bein Sports 1(Flixhub)
-http://live.flixhub.net/hls/bein1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
 http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
