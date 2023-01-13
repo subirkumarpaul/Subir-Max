@@ -328,7 +328,8 @@ http://15.1.5.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Palki TV",TBN 24(Palki TV)
-
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="BD",TBN 24 USA
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Flixhub",Gaan Bangla(Flixhub)
 http://live.flixhub.net/hls/gb.m3u8
