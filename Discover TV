@@ -112,8 +112,8 @@ http://bdiptv.net:8282/tsports/tracks-v1/mono.m3u8#EXTINF:-1
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports HD(BCIPTV)
 http://15.1.5.10:8082/tsports/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Palki TV",T Sports(Palki TV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
+http://103.213.238.70/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Jagobd",T Sports(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
@@ -123,8 +123,8 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
 http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BDIPTV",Gazi TV(BDIPTV)
-http://103.127.93.82:8234/ggggtvv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
+http://103.213.238.70/GaziTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub)
 http://live.flixhub.net//hls/atn.m3u8
@@ -469,7 +469,7 @@ http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BCIPTV",Colors(BCIPTV)
 http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD",Colors(BD)
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.213.238.70/Colors/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
 http://live.flixhub.net/hls/zeetv.m3u8
