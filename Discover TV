@@ -34,8 +34,8 @@ http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
-#http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Toffee Live
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
 #EXTINF:-1,Bein 1 U
 http://194.233.71.141:5566/play/Bein1-U/index.m3u8
