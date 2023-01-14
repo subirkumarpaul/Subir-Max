@@ -782,6 +782,9 @@ http://bdiptv.net:8082/Adsports1/index.m3u8
 http://103.213.238.70/ADSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 2(BDIPTV)
 http://bdiptv.net:8082/tv13/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD70",AD Sports 2(BD70)
+http://103.213.238.70/ADSPORTS2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 3(BDIPTV)
 
 
