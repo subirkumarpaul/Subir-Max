@@ -778,10 +778,12 @@ https://webudi.openhd.lol/ddy1/premium46/index.m3u8?|Referer=https://streamservi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BDIPTV",AD Sports 1(BDIPTV)
 http://bdiptv.net:8082/Adsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BD70",AD Sports 1(BD70)
+http://103.213.238.70/ADSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 2(BDIPTV)
 http://bdiptv.net:8082/tv13/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 3(BDIPTV)
-http://bdiptv.net:8082/tv14/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
 http://live.flixhub.net/hls/discovery.m3u8
@@ -1041,6 +1043,8 @@ http://live.flixhub.net/hls/bbcworld.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BCIPTV",CGTN(BCIPTV)
 http://15.1.5.14:8082/Cgtn-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD70",CGTN(BD70)
+http://103.213.238.70/CGTN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BCIPTV",DW(BCIPTV)
 http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8
