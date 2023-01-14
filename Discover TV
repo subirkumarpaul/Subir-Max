@@ -84,8 +84,8 @@ http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Jagobd",BTV World(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Palki TV",BTV World(Palki TV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD70",BTV World(BD70)
+http://103.213.238.70/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BDIPTV",BTV World(BDIPTV)
 http://bdiptv.net:8282/btv-world/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",Sangsad TV(BD2)
@@ -180,6 +180,8 @@ http://103.213.238.70/RTV/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BCIPTV",SATV(BCIPTV)
 http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD70",SATV(BD70)
+http://103.213.238.70/SATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Jagobd",Deepto TV(Jagobd)
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
@@ -352,6 +354,8 @@ http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="BDIPTV",ATN Music(BDIPTV)
 http://bdiptv.net:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="BD70",ATN Music(BD70)
+http://103.213.238.70/ATNMusic/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="BD",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
