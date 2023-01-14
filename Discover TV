@@ -842,8 +842,8 @@ https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth(Flixhub)
 http://live.flixhub.net4/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD50",Sony BBC Earth(BD50)
-http://50.7.237.4:8080/BBCEARTHHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD70",Sony BBC Earth(BD70)
+http://103.213.238.70/BBCEarthHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BDIPTV",Sony BBC Earth(BDIPTV)
 http://bdiptv.net:8282/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BCIPTV",Sony BBC Earth(BCIPTV)
@@ -873,8 +873,8 @@ http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick(BD)
-http://103.143.235.50/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD70",Nick(BD70)
+http://103.213.238.70/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BDIPTV",Nick JR(BDIPTV)
 http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
@@ -983,12 +983,16 @@ http://103.179.246.243:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinity(BD3)
 http://103.179.246.243:8000/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9XM(Flixhub)
 http://live.flixhub.net/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BCIPTV",9XM(BCIPTV)
 http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BD70",9XM(BD70)
+http://103.213.238.70/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BCIPTV",9X Jalwa(BCIPTV)
 http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD70",9X Jalwa(BD70)
+http://103.213.238.70/9XJalwa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BCIPTV",B4U Music(BCIPTV)
 http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
@@ -1019,11 +1023,18 @@ http://15.1.5.10:8082/bindass/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD2",Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BD70",NDTV(BD70)
+http://103.213.238.70/NDTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BD70",India Today(BD70)
+http://103.213.238.70/IndiaToday/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
-http://live.flixhub.net4/hls/aljazeera.m3u8
+http://live.flixhub.net/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BCIPTV",Aljazeera(BCIPTV)
 http://15.1.5.10:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BD70",Aljazeera(BD70)
+http://103.213.238.70/Aljazeera/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
 http://live.flixhub.net/hls/bbcworld.m3u8
