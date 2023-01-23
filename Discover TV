@@ -433,6 +433,8 @@ http://103.213.238.70:80/Jalshamovies/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD2",Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD Live",Khushboo Bangla(BD Live)
+https://watchtvs.live/live.php?c=Khusboo_TV&q=250&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="Flixhub",Akash Aath(Flixhub)
 http://live.flixhub.net/hls/akash.m3u8
