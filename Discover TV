@@ -436,6 +436,9 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD Live",Khushboo Bangla(BD Live)
 https://watchtvs.live/live.php?c=Khusboo_TV&q=250&e=.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BD Live",Amar Bangla(BD Live)
+https://watchtvs.live/live.php?c=Amaar_Cinema&q=250&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="Flixhub",Akash Aath(Flixhub)
 http://live.flixhub.net/hls/akash.m3u8
 
@@ -848,6 +851,8 @@ http://live.flixhub.net/hls/travelxp.m3u8
 http://bdiptv.net:8282/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BCIPTV",Travel XP HD Bangla(BCIPTV)
 http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD Live",Travel XP HD Hinde(BD Live)
+https://watchtvs.live/live.php?c=Travel_XP&q=250&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD50",Travel XP English(BD50)
@@ -858,6 +863,9 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
 https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD Live",Food Food(BD Live)
+https://watchtvs.live/live.php?c=Food_Food&q=250&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth(Flixhub)
 http://live.flixhub.net4/hls/bbcearth.m3u8
