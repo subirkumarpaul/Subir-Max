@@ -711,7 +711,12 @@ http://103.213.238.70/SonySix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Flixhub",Sports 18 HD(Flixhub)
 http://live.flixhub.net/hls/bein1.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 HD(BD Live)
+https://watchtvs.live/live.php?c=Sports18_1_HD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 SD(BD Live)
+https://watchtvs.live/live.php?c=Sports18_1_SD&q=250&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 Khal SD(BD Live)
+https://watchtvs.live/live.php?c=Sports18_Khel&q=250&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
