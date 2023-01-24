@@ -623,6 +623,12 @@ http://bdiptv.net:8282/Dhinchaak/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BCIPTV",DHINCHAAK 2 (BCIPTV)
 http://15.1.5.10:8082/Dhinchaak/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
+https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
+https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
+
+
 #EXTINF:-1 tvg-logo="ext" group-title="BD2",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
