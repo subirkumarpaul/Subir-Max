@@ -456,8 +456,8 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 http://live.flixhub.net/hls/sangeetbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="BCIPTV",Sangeet Bangla(BCIPTV)
 http://15.1.5.10:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="BDIPTV",Sangeet Bangla(BDIPTV)
-http://bdiptv.net:8282/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="BD",Sangeet Bangla(BD)
+https://livetv-channels.b-cdn.net/8050/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="BD2",Sangeet Bangla(BD2)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
@@ -622,6 +622,8 @@ http://live.flixhub.net/hls/dhin.m3u8
 http://bdiptv.net:8282/Dhinchaak/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BCIPTV",DHINCHAAK 2 (BCIPTV)
 http://15.1.5.10:8082/Dhinchaak/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD",DHINCHAAK 2 (BD)
+https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
 https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
@@ -732,8 +734,8 @@ https://watchtvs.live/live.php?c=Sports18_1_SD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 Khal SD(BD Live)
 https://watchtvs.live/live.php?c=Sports18_Khel&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports(BD3)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
+https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Flixhub",Eurosports(Flixhub)
 
