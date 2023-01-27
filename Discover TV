@@ -631,8 +631,8 @@ https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
 https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 
 
-#EXTINF:-1 tvg-logo="ext" group-title="BD2",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo="ext" group-title="BD",B4U Kadak (BD)
+https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",MBC 2(Flixhub)
 http://live.flixhub.net/hls/mbc.m3u8
