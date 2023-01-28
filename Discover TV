@@ -993,7 +993,7 @@ http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
 https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BCIPTV",9X Jalwa(BCIPTV)
 http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD",9X Tashan(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD",9X Jalwa(BD)
 https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",9X Tashan(BD)
 https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
