@@ -630,9 +630,11 @@ https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
 https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 
-
-#EXTINF:-1 tvg-logo="ext" group-title="BD",B4U Kadak (BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",B4U Kadak (BD)
 https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD",Cinama TV (BD)
+https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",MBC 2(Flixhub)
 http://live.flixhub.net/hls/mbc.m3u8
@@ -1022,12 +1024,14 @@ http://103.179.246.243:8000/play/a01b/index.m3u8
 http://live.flixhub.net/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BCIPTV",9XM(BCIPTV)
 http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BD70",9XM(BD70)
-http://103.213.238.70/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BD",9XM(BD)
+https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BCIPTV",9X Jalwa(BCIPTV)
 http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD70",9X Jalwa(BD70)
-http://103.213.238.70/9XJalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD",9X Tashan(BD)
+https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",9X Tashan(BD)
+https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BCIPTV",B4U Music(BCIPTV)
 http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
@@ -1058,6 +1062,8 @@ http://15.1.5.10:8082/bindass/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD2",Music India(BD2)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD",Music India(BD)
+https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD70",NDTV(BD70)
 http://103.213.238.70/NDTV/tracks-v1a1/mono.m3u8
