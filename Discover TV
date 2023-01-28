@@ -1039,13 +1039,14 @@ http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Mastii Music(BDIPTV)
 http://bdiptv.net:8082/Music-Masti/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD50",MTV Hits(BD50)
-
+#EXTINF:-1 tvg-logo=""group-title="BD",E24(BD)
+https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",I Love U Music(BD)
 https://livetv-channels.b-cdn.net/8082/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/MTV90s.png"group-title="BD50",MTV Basic(BD50)
-
-
+#EXTINF:-1 tvg-logo=""group-title="BD",MTunes+(BD)
+https://livetv-channels.b-cdn.net/8031/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Balla Balla(BD)
+https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://live.flixhub.net/hls/zoom.m3u8
