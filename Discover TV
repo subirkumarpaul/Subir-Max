@@ -13,7 +13,7 @@ http://15.1.5.10:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
 http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 A
-http://103.213.238.70/NagorikTV/tracks-v1a1/mono.m3u8
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/52874
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 B
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
