@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1,JC
+http://ftp11.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2021/Jungle%20Cruise%20%282021%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%20DTS5.1%5D%20ESubs%20x264/Jungle%20Cruise%20%282021%29%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%20DTS5.1%5D%20ESubs%20x264.mkv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 https://no2.onlinewebtv.lol:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
