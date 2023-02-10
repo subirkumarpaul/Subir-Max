@@ -502,7 +502,7 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD70",Zee Cinema HD(BD70)
-http://103.213.238.70/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+https://z5ak-live.zee5.com/linear/hls/pb/event/rH_ZU7LMTy6I5kwhB17Wjg/stream/3baf70af-e706-41d9-96ce-f2f0e9901d28:SIN/variant/0363f260e80fa43c4259010902c9a09e/bandwidth/hdntl=exp=1676134926~acl=%2f*~id=07f023a8-4bb1-44a1-a446-07f068241d16~data=hdntl~hmac=424dde9b2ae43a2af93ec3017268a44544686d7fab0ee6743863606f7d3f1949/1668845.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BDIPTV",Zee Cinema(BDIPTV)
 http://bdiptv.net:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
