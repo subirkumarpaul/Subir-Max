@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1,Raavan
-http://103.87.212.46/Data/movies1/indianbangla/new/rabon/Raavan%20(2022)%201080p%20HDTV.mp4
 #EXTINF:-1,Bindaas
 http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika.MP4
 #EXTINF:-1,Sallam Venky
@@ -44,7 +41,7 @@ http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://newtest.onlinewebtv.lol:443/ddyx2/premium369/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.com
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Toffee Live
