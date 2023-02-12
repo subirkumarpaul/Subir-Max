@@ -832,7 +832,7 @@ http://bdiptv.net:8282/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BCIPTV",Travel XP HD Bangla(BCIPTV)
 http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD Live",Travel XP HD Hinde(BD Live)
-https://watchtvs.live/live.php?c=Travel_XP&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD50",Travel XP English(BD50)
@@ -1128,7 +1128,7 @@ http://103.87.212.46/Data/movies1/indianbangla/new/rabon/Raavan%20(2022)%201080p
 #EXTINF:-1 tvg-logo="" group-title="Movies",Bindaas
 http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika.MP4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Sallam Venky
-http://flixhub.net/Data/Disk2/Bollywood/HINDI_MOVIES/2022/Salaam%20Venky/Salaam%20Venky%202022%20Hindi%20720p%20pDVDRip.mkv
+http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Salaam%20Venky%20%282023%29%20Hindi%201080p%20WEB-DL%20ESub%20AAC2.0%20H264/Salaam%20Venky%20%282023%29%20Hindi%201080p%20WEB-DL%20ESub%20AAC2.0%20H264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Gatta Kusthi
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Gatta%20Kusthi%20%282022%29%20Hindi%20Dubbed%20%5BStudio%20Dub%29%201080p%20WEBRip%20x264%20AAC/Gatta%20Kusthi%20%282022%29%20Hindi%20Dubbed%20%5BStudio%20Dub%29%201080p%20WEBRip%20x264%20AAC.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Drishyam 2
