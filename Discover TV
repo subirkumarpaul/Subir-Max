@@ -1126,8 +1126,8 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD BANGLA", NRB
 https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Raavan
-http://103.87.212.46/Data/movies1/indianbangla/new/rabon/Raavan%20(2022)%201080p%20HDTV.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Doctor G
+http://index1.circleftp.net/FILE/Hindi%20Movies/2022/Doctor%20G%20%282022%29%201080p%20NF%20WEB-DL%20Hindi%20x264/Doctor.G.2022.1080p.NF.WEB-DL.DDP5.1.x264-Telly.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Bindaas
 http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika.MP4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Sallam Venky
