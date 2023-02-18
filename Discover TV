@@ -753,7 +753,10 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Sports Cricket(BD)
-http://103.162.136.235:4500/play/a02a/index.m3u8
+http://212.224.84.217:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
+http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Fox Cricket 501 HD(BD)
 http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
