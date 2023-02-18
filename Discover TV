@@ -577,8 +577,8 @@ http://103.162.136.235:4500/play/a00z/index.m3u8
 http://live.flixhub.net/hls/utv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
 http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD3",UTV MOVIES HD(BD3)
-http://103.179.246.243:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD",UTV MOVIES HD(BD)
+http://212.224.84.217:2200/R-EX/FHD_UTV_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
@@ -726,6 +726,8 @@ http://15.1.5.22:8082/en1-p3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20TV.jpeg"group-title="BCIPTV",Willow Cricket(BCIPTV)
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
+http://212.224.84.217:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -752,8 +754,6 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Sports Cricket(BD)
 http://103.162.136.235:4500/play/a02a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BCIPTV",Willow Cricket(BCIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Fox Cricket 501 HD(BD)
 http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
@@ -1006,8 +1006,8 @@ http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
 http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
-http://103.179.246.243:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
+http://212.224.84.217:2200/R-EX/ENGLISH_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinity(BD3)
 http://103.179.246.243:8000/play/a01b/index.m3u8
 
