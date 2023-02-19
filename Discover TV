@@ -1149,10 +1149,24 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d5jBYxE.png" group-title="BD BANGLA", NRB
 https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",A Wednesday
-http://index1.circleftp.net/FILE/Hindi%20Movies/2008/A%20Wednesday%20%282008%29%20Hindi%201080p%20BluRay%20x264/A%20Wednesday%20%282008%29%20Hindi%201080p%20BluRay%20x264.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies",Malikappuram
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Malikappuram%20%282022%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BHin%2BTam%2BMal%2BTel%5D%20ESub%20DDP5.1%20Atmos%20H264/Malikappuram%20%282022%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BHin%2BTam%2BMal%2BTel%5D%20ESub%20DDP5.1%20Atmos%20H264.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP1
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E01.Artist.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP2
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E02.Social.Service.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP3
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E03.CCFART.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP4
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E04.Dhanrakshak.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP5
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E05.Second.Oldest.Profession.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP6
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E06.Cat.and.Mouse.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP7
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E07.Supernote.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP8
+http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E08.Crash.and.Burn.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
+
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",Cirkus
 http://index1.circleftp.net/FILE/Hindi%20Movies/2022/Cirkus%20%282022%29%201080p%20NF%20WEB-DL%20Hindi%20x264/Cirkus%20%282022%29%201080p%20NF%20WEB-DL%20Hindi%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Shehzada
