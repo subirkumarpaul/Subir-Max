@@ -36,15 +36,15 @@ http://103.157.88.1:6500/play/a00n/index.m3u8
 http://103.157.88.1:6500/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Live TV",Nat Geo HD(Live TV)
 http://103.157.88.1:6500/play/a00p/index.m3u8
-#EXTINF:-1,17u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Live TV",Discovery HD(Live TV)
 http://103.157.88.1:6500/play/a00q/index.m3u8
-#EXTINF:-1,18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Live TV",MNX HD(Live TV)
 http://103.157.88.1:6500/play/a00r/index.m3u8
 #EXTINF:-1,19
 http://103.157.88.1:6500/play/a00s/index.m3u8
-#EXTINF:-1,20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Live TV",Cartoon Network(Live TV)
 http://103.157.88.1:6500/play/a00t/index.m3u8
-#EXTINF:-1,21
+#EXTINF:-1 tvg-logo=""group-title="Live TV",Hungama TV(Live TV)
 http://103.157.88.1:6500/play/a00u/index.m3u8
 #EXTINF:-1,22
 http://103.157.88.1:6500/play/a00v/index.m3u8
