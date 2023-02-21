@@ -809,7 +809,7 @@ http://103.213.238.70/SonyTen3/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
-https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+https://lin-gd-001-cf.slivcdn.com/out/v1/ce8b4bf8d5c5487599012e02f2fac049/master_2.m3u8?hdntl=exp=1677037460~acl=*~hmac=f30f8062f2cce455eb41ae76e8f443da970ba58f0fc978c1c46dc2cda8e7cdbf&originpath=/linear/hls/pb/event/smYybI_JToWaHzwoxSE9qA/stream/fcf79063-a8fe-4b4f-beba-a1fcd529b0fb:SIN/variant/8c6278d641f54eece0c7d155811051cc/bandwidth/2865280.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
 http://118.179.3.26/Sony-Ten4-HD/video.m3u8?token=rohabtv
 
