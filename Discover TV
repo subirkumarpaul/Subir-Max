@@ -901,22 +901,26 @@ http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD70",Nick HD(BD)
 http://212.224.84.217:2200/R-EX/FHD_NICK_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD70",Nick HD(BD)
+http://103.157.88.1:6500/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BDIPTV",Nick JR(BDIPTV)
 http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD2",Sonic(BD2)
-
+#EXTINF:-1 tvg-logo=""group-title="BD",Sonic(BD)
+http://103.157.88.1:6500/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://212.224.84.217:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
+http://103.157.88.1:6500/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
 http://live.flixhub.net/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
 http://bdiptv.net:8082/Cartoon-Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network (BD)
-http://103.143.235.50/CN/tracks-v1a1/mono.m3u8
+http://103.157.88.1:6500/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://live.flixhub.net/hls/pogo.m3u8
