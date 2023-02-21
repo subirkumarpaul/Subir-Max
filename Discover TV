@@ -26,17 +26,17 @@ http://103.157.88.1:6500/play/a00i/index.m3u8
 http://103.157.88.1:6500/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Live TV",TLC(Live TV)
 http://103.157.88.1:6500/play/a00k/index.m3u8
-#EXTINF:-1,12
+#EXTINF:-1 tvg-logo=""group-title="Live TV",Zee Cafe(Live TV)
 http://103.157.88.1:6500/play/a00l/index.m3u8
-#EXTINF:-1,13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Live TV",MN+(Live TV)
 http://103.157.88.1:6500/play/a00m/index.m3u8
-#EXTINF:-1,14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Live TV",Star Movies HD(Live TV)
 http://103.157.88.1:6500/play/a00n/index.m3u8
-#EXTINF:-1,15
+#EXTINF:-1 tvg-logo=""group-title="Live TV",Star Movies Select(Live TV)
 http://103.157.88.1:6500/play/a00o/index.m3u8
-#EXTINF:-1,16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Live TV",Nat Geo HD(Live TV)
 http://103.157.88.1:6500/play/a00p/index.m3u8
-#EXTINF:-1,17
+#EXTINF:-1,17u
 http://103.157.88.1:6500/play/a00q/index.m3u8
 #EXTINF:-1,18
 http://103.157.88.1:6500/play/a00r/index.m3u8
