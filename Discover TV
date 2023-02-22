@@ -48,7 +48,7 @@ http://103.157.88.1:6500/play/a00t/index.m3u8
 http://103.157.88.1:6500/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live TV",Disney Channel(Live TV)
 http://103.157.88.1:6500/play/a00v/index.m3u8
-#EXTINF:-1,23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Live TV",Nick(Live TV)
 http://103.157.88.1:6500/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live TV",Disney Junior(Live TV)
 http://103.157.88.1:6500/play/a00x/index.m3u8
@@ -1025,6 +1025,9 @@ http://116.204.149.11:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD3",Nasa TV(BD3)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
+#EXTINF:-1,Tom & Jerry
+https://4k3u.short.gy/live/tom&jerry_24/7.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Flixhub",Discovery Kids(Flixhub)
 http://live.flixhub.net/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BDIPTV",Discovery Kids(BDIPTV)
@@ -1050,6 +1053,8 @@ http://103.157.88.1:6500/play/a00y/index.m3u8
 http://212.224.84.217:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://103.157.88.1:6500/play/a00u/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
 http://live.flixhub.net/hls/cn.m3u8
