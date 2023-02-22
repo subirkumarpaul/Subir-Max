@@ -76,17 +76,17 @@ http://103.157.88.1:6500/play/a01h/index.m3u8
 http://103.157.88.1:6500/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Live TV",Colors Infinity(Live TV)
 http://103.157.88.1:6500/play/a01j/index.m3u8
-#EXTINF:-1,37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Live TV",Nick HD(Live TV)
 http://103.157.88.1:6500/play/a01k/index.m3u8
-#EXTINF:-1,38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV",And Prive HD(Live TV)
 http://103.157.88.1:6500/play/a01l/index.m3u8
 #EXTINF:-1,39
 http://103.157.88.1:6500/play/a01m/index.m3u8
 #EXTINF:-1,40
 http://103.157.88.1:6500/play/a01n/index.m3u8
-#EXTINF:-1,41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Live TV",Sony Sports Ten 3(Live TV)
 http://103.157.88.1:6500/play/a01o/index.m3u8
-#EXTINF:-1,42
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="Live TV",Romedy Now(Live TV)
 http://103.157.88.1:6500/play/a01p/index.m3u8
 #EXTINF:-1,43
 http://103.157.88.1:6500/play/a01q/index.m3u8
@@ -108,7 +108,7 @@ http://103.157.88.1:6500/play/a01x/index.m3u8
 http://103.157.88.1:6500/play/a01y/index.m3u8
 #EXTINF:-1,50
 http://103.157.88.1:6500/play/a01z/index.m3u8
-#EXTINF:-1,44
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Live TV",Sony Yay(Live TV)
 http://103.157.88.1:6500/play/a010/index.m3u8
 #EXTINF:-1,44
 http://103.157.88.1:6500/play/a011/index.m3u8
