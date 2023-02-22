@@ -66,15 +66,15 @@ http://103.157.88.1:6500/play/a01c/index.m3u8
 http://103.157.88.1:6500/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Live TV",Sony Pix(Live Tv)
 http://103.157.88.1:6500/play/a01e/index.m3u8
-#EXTINF:-1,32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV",And Pictures(Live TV)
 http://103.157.88.1:6500/play/a01f/index.m3u8
-#EXTINF:-1,33
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Live TV",Star Sports Select 1(Live TV)
 http://103.157.88.1:6500/play/a01g/index.m3u8
-#EXTINF:-1,34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Live TV",Star Sports Select 2(Live TV)
 http://103.157.88.1:6500/play/a01h/index.m3u8
-#EXTINF:-1,35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Live TV",Sony Sports Ten 2(Live TV)
 http://103.157.88.1:6500/play/a01i/index.m3u8
-#EXTINF:-1,36
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Live TV",Colors Infinity(Live TV)
 http://103.157.88.1:6500/play/a01j/index.m3u8
 #EXTINF:-1,37
 http://103.157.88.1:6500/play/a01k/index.m3u8
