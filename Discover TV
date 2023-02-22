@@ -50,21 +50,21 @@ http://103.157.88.1:6500/play/a00u/index.m3u8
 http://103.157.88.1:6500/play/a00v/index.m3u8
 #EXTINF:-1,23
 http://103.157.88.1:6500/play/a00w/index.m3u8
-#EXTINF:-1,24
+#EXTINF:-1 tvg-logo="" group-title="Live TV",Disney Junior(Live TV)
 http://103.157.88.1:6500/play/a00x/index.m3u8
-#EXTINF:-1,25
+#EXTINF:-1 tvg-logo=""group-title="Live TV",Sonic(Live TV)
 http://103.157.88.1:6500/play/a00y/index.m3u8
-#EXTINF:-1,26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Live TV",Pogo(Live TV)
 http://103.157.88.1:6500/play/a00z/index.m3u8
-#EXTINF:-1,27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Live TV",Star Gold(Live TV)
 http://103.157.88.1:6500/play/a01a/index.m3u8
-#EXTINF:-1,28
+#EXTINF: -1 group-title="Live TV",History TV 18 HD(Live TV)
 http://103.157.88.1:6500/play/a01b/index.m3u8
-#EXTINF:-1,29
+#EXTINF:-1 tvg-logo=""group-title="Live TV",Star Gold Select(Live TV)
 http://103.157.88.1:6500/play/a01c/index.m3u8
-#EXTINF:-1,30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Live TV",Sony BBC Earth(Live TV)
 http://103.157.88.1:6500/play/a01d/index.m3u8
-#EXTINF:-1,31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Live TV",Sony Pix(Live Tv)
 http://103.157.88.1:6500/play/a01e/index.m3u8
 #EXTINF:-1,32
 http://103.157.88.1:6500/play/a01f/index.m3u8
