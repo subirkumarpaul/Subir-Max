@@ -110,23 +110,23 @@ http://103.157.88.1:6500/play/a01y/index.m3u8
 http://103.157.88.1:6500/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Live TV",Sony Yay(Live TV)
 http://103.157.88.1:6500/play/a010/index.m3u8
-#EXTINF:-1,44
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Live TV",Star Plus(Live TV)
 http://103.157.88.1:6500/play/a011/index.m3u8
-#EXTINF:-1,45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Live TV",Zee TV(Flixhub)
 http://103.157.88.1:6500/play/a012/index.m3u8
-#EXTINF:-1,46
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Live TV",Colors(Live TV)
 http://103.157.88.1:6500/play/a013/index.m3u8
-#EXTINF:-1,46
+#EXTINF:-1 tvg-logo="" group-title="Live TV",And Flix(Live TV)
 http://103.157.88.1:6500/play/a014/index.m3u8
-#EXTINF:-1,46
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Live TV",Sony TV(Live TV)
 http://103.157.88.1:6500/play/a015/index.m3u8
-#EXTINF:-1,47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Live TV",Eurosports HD(Live TV)
 http://103.157.88.1:6500/play/a016/index.m3u8
-#EXTINF:-1,48
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Live TV",Zee Cinema HD(Live TV)
 http://103.157.88.1:6500/play/a017/index.m3u8
-#EXTINF:-1,49
+#EXTINF:-1 group-title="Live TV",Star Utsav HD(Live TV)
 http://103.157.88.1:6500/play/a018/index.m3u8
-#EXTINF:-1,50
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Live TV",Animal Planet HD(Live TV)
 http://103.157.88.1:6500/play/a019/index.m3u8
 
 
