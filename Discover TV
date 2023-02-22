@@ -6,7 +6,7 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Live TV",Star World(Live TV)
 http://103.157.88.1:6500/play/a00a/index.m3u8
-#EXTINF:-1,2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Live TV",Star Sports 1(Live TV)
 http://103.157.88.1:6500/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Live TV",Star Sports 2(Live TV)
 http://103.157.88.1:6500/play/a00c/index.m3u8
