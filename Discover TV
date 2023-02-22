@@ -40,7 +40,7 @@ http://103.157.88.1:6500/play/a00p/index.m3u8
 http://103.157.88.1:6500/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Live TV",MNX HD(Live TV)
 http://103.157.88.1:6500/play/a00r/index.m3u8
-#EXTINF:-1,19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="Live TV",Movies Now(Live TV)
 http://103.157.88.1:6500/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Live TV",Cartoon Network(Live TV)
 http://103.157.88.1:6500/play/a00t/index.m3u8
