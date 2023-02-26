@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Toffee
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:animal_planet_hd.smil/manifest.m3u8
-#EXTINF:-1,Toffee
-https://cdn-01.toffeelive.com/origin-02/live-origin/smil:btv_sangshodh.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1*
 https://no2.onlinewebtv.lol:443/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 HD
