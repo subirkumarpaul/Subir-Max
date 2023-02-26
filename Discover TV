@@ -401,6 +401,8 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.213.238.70:80/Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Live TV 2",Jalsha Movies HD(Live TV 2)
+http://103.218.25.12:89/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Flixhub",Khushboo Bangla(Flixhub)
 http://live.flixhub.net/hls/khushboo.m3u8
@@ -452,6 +454,8 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 http://180.178.188.152:8000/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BCIPTV",Sony TV(BCIPTV)
 http://15.1.5.14:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Live TV 2",Sony TV(Live TV 2)
+http://103.218.25.12:89/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sony Kal(BD)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -490,6 +494,9 @@ http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD70",Zee TV(BD70)
 http://103.213.238.70/ZeeTVHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  group-title="Live TV 2" tvg-logo="",And TV (Live TV 2)
+http://103.218.25.12:89/play/a01q/index.m3u8
+
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 http://live.flixhub.net/hls/bhojpuri.m3u8
 
@@ -497,8 +504,10 @@ http://live.flixhub.net/hls/bhojpuri.m3u8
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony Liv",Sony Max HD(Sony Liv)
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BDIPTV",Sony Max HD(BDIPTV)
-http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Live TV 2",Sony Max HD(Live TV 2)
+http://103.218.25.12:89/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Live TV 2",Sony Max HD(Live TV 2)
+http://103.218.25.12:89/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BCIPTV",Sony Max HD(BCIPTV)
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony Liv",Sony Max(Sony Liv)
@@ -575,8 +584,8 @@ http://208.86.19.13:81/735.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BDIPTV",And Pictures(BDIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV 2",And Pictures(Live TV 2)
+http://103.218.25.12:89/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BCIPTV",And Pictures(BCIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
@@ -629,6 +638,14 @@ https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",B4U Movies (BD)
 http://42.200.67.163:8090/play/a0nb
+
+#EXTINF:-1 tvg-logo="" group-title="Live TV 2",Cine Active(Live TV 2)
+http://103.218.25.12:89/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live TV 2",Movies Active(Live TV 2)
+http://103.218.25.12:89/play/a02h/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live TV 2",Thriller Active(Live TV 2)
+http://103.218.25.12:89/play/a01r/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",MBC 2(Flixhub)
 http://live.flixhub.net/hls/mbc.m3u8
@@ -746,12 +763,17 @@ https://watchtvs.live/live.php?c=Sports18_1_SD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 Khal SD(BD Live)
 https://watchtvs.live/live.php?c=Sports18_Khel&q=1200&e=.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Live TV 2",1 Sports(Live TV 2)
+http://103.218.25.12:89/play/a01t/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
 https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 http://212.224.84.217:2200/R-EX/EURO_SPORTS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Live TV 2",Eurosports(Live TV 2)
+http://103.218.25.12:89/play/a01o/index.m3u8
+  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="BD",Ten Sports PK(BD)
@@ -855,10 +877,14 @@ http://212.224.84.217:2200/R-EX/FHD_DISCOVERY_-in/tracks-v1a1/mono.m3u8?token=CX
 http://212.224.84.217:2200/R-EX/DISCOVER_PK_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Flixhub",Discovery Science (Flixhub)
 http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BDIPTV",Discovery Science (BDIPTV)
-http://bdiptv.net:8282/Discovery-Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Live TV 2",Discovery Science (Live TV 2)
+http://103.218.25.12:89/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Discovery Turbo (Live TV 2)
+http://103.218.25.12:89/play/a02c/index.m3u8
+#EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Investigation Discovery(Live TV 2)
+http://103.218.25.12:89/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Nat Geo HD(Flixhub)
 http://live.flixhub.net/hls/ngohd.m3u8
@@ -872,8 +898,8 @@ http://212.224.84.217:2200/R-EX/FHD_NATIONAL_GEO_-in/tracks-v1a1/mono.m3u8?token
 http://212.224.84.217:2200/R-EX/ENGLISH_NATGEO_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
 http://live.flixhub.nethls/wild.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BDIPTV",Nat Geo Wild(BDIPTV)
-http://bdiptv.net:8282/natgeo-wild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Live TV 2",Nat Geo Wild(Live TV 2)
+http://103.218.25.12:89/play/a00t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BCIPTV",Nat Geo Wild(BCIPTV)
 http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
@@ -885,8 +911,8 @@ http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Sony Liv",Sony BBC Earth(Sony Liv)
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BDIPTV",Sony BBC Earth(BDIPTV)
-http://bdiptv.net:8282/BBC-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Live TV 2",Sony BBC Earth(Live TV 2)
+http://103.218.25.12:89/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BCIPTV",Sony BBC Earth(BCIPTV)
 http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
@@ -897,15 +923,30 @@ http://212.224.84.217:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?to
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
 http://live.flixhub.net/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BDIPTV",Animal Planet(BDIPTV)
-http://bdiptv.net:8282/animalplanent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Live TV 2",Animal Planet(Live TV 2)
+http://103.218.25.12:89/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
 http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
 http://116.204.149.11:8000/play/a00t/index.m3u8
 
-#EXTINF: -1 group-title="BD", English History TV 18 HD(BD)
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="BD3",Colors Infinity(BD3)
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="BD3",Colors Infinity(BD3)
+http://103.179.246.243:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
+http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
+http://212.224.84.217:2200/R-EX/ENGLISH_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Live TV 2",FOX Life HD(Live TV 2)
+http://103.218.25.12:89/play/a02k/index.m3u8
+
+
+#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+#EXTINF: -1 group-title="Live TV 2",History TV 18 HD(Live TV 2)
+http://103.218.25.12:89/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
 http://live.flixhub.net/hls/travelxp.m3u8
@@ -1003,8 +1044,8 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9c
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Flixhub",Sony Pix(Flixhub)
 http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BDIPTV",Sony Pix(BDIPTV)
-http://bdiptv.net:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Live TV 2",Sony Pix(Live TV 2)
+http://103.218.25.12:89/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BCIPTV",Sony Pix(BCIPTV)
 http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
@@ -1023,8 +1064,8 @@ http://103.143.235.50/movies-now/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/movies-now/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Flixhub",MN+(Flixhub)
 http://live.flixhub.net/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BDIPTV",MN+(BDIPTV)
-http://bdiptv.net:8282/mn-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Live TV 2",MN+(Live TV 2)
+http://103.218.25.12:89/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BCIPTV",MN+(BCIPTV)
 http://15.1.5.14:8082/mn-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Flixhub",MNX HD(Flixhub)
@@ -1044,10 +1085,13 @@ http://bdiptv.net:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="BDIPTV",And Flix(BDIPTV)
-http://bdiptv.net:8282/AND-FLIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live TV 2",And Flix(Live TV 2)
+http://103.218.25.12:89/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BCIPTV",And Flix(BCIPTV)
 http://15.1.5.14:8082/AND-FLIX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Live TV 2",And Prive HD(Live TV 2)
+http://103.218.25.12:89/play/a029/index.m3u8
 
 
 
@@ -1066,15 +1110,7 @@ http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD3",Romedy Now HD(BD3)
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="BD3",Colors Infinity(BD3)
-http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD3",Fox Life HD(BD3)
-http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
-http://212.224.84.217:2200/R-EX/ENGLISH_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="" group-title="BD3",Colors Infinity(BD3)
-http://103.179.246.243:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9XM(Flixhub)
 http://live.flixhub.net/hls/9xm.m3u8
