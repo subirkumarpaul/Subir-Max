@@ -1210,6 +1210,115 @@ https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
+#EXTINF:-1,&flix HD
+http://103.218.25.12:89/play/a01m/index.m3u8
+#EXTINF:-1,&pictures HD
+http://103.218.25.12:89/play/a024/index.m3u8
+#EXTINF:-1,&prive HD
+http://103.218.25.12:89/play/a029/index.m3u8
+#EXTINF:-1,&tv
+http://103.218.25.12:89/play/a01q/index.m3u8
+#EXTINF:-1,1SPORTS
+http://103.218.25.12:89/play/a01t/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://103.218.25.12:89/play/a01x/index.m3u8
+#EXTINF:-1,BBC earth HD
+http://103.218.25.12:89/play/a021/index.m3u8
+#EXTINF:-1,Cine Active
+http://103.218.25.12:89/play/a02g/index.m3u8
+#EXTINF:-1,Discovery Scienc
+http://103.218.25.12:89/play/a02b/index.m3u8
+#EXTINF:-1,DiscoveryTurbo
+http://103.218.25.12:89/play/a02c/index.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://103.218.25.12:89/play/a01o/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://103.218.25.12:89/play/a02k/index.m3u8
+#EXTINF:-1,HISTORY TV18 HD
+http://103.218.25.12:89/play/a01z/index.m3u8
+#EXTINF:-1,Investigation D
+http://103.218.25.12:89/play/a00y/index.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://103.218.25.12:89/play/a019/index.m3u8
+#EXTINF:-1,MAX 2
+http://103.218.25.12:89/play/a02j/index.m3u8
+#EXTINF:-1,MN+ HD
+http://103.218.25.12:89/play/a013/index.m3u8
+#EXTINF:-1,Movies Active
+http://103.218.25.12:89/play/a02h/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://103.218.25.12:89/play/a00t/index.m3u8
+#EXTINF:-1,SET HD
+http://103.218.25.12:89/play/a01n/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://103.218.25.12:89/play/a00s/index.m3u8
+#EXTINF:-1,SONY PIX HD
+http://103.218.25.12:89/play/a023/index.m3u8
+#EXTINF:-1,STAR BHARAT HD
+http://103.218.25.12:89/play/a01w/index.m3u8
+#EXTINF:-1,STAR MOVIES HD
+http://103.218.25.12:89/play/a014/index.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://103.218.25.12:89/play/a00n/index.m3u8
+#EXTINF:-1,Sports18 1 HD
+http://103.218.25.12:89/play/a010/index.m3u8
+#EXTINF:-1,Star GOLD HD
+http://103.218.25.12:89/play/a01y/index.m3u8
+#EXTINF:-1,Star Gold 2
+http://103.218.25.12:89/play/a02f/index.m3u8
+#EXTINF:-1,Star Gold Sel HD
+http://103.218.25.12:89/play/a020/index.m3u8
+#EXTINF:-1,Star Movie Sel HD
+http://103.218.25.12:89/play/a015/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.218.25.12:89/play/a01k/index.m3u8
+#EXTINF:-1,Star Sport SL1 HD
+http://103.218.25.12:89/play/a025/index.m3u8
+#EXTINF:-1,Star SportSL 2 HD
+http://103.218.25.12:89/play/a026/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://103.218.25.12:89/play/a00v/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://103.218.25.12:89/play/a00w/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.218.25.12:89/play/a00p/index.m3u8
+#EXTINF:-1,Star Sports1 HD
+http://103.218.25.12:89/play/a00o/index.m3u8
+#EXTINF:-1,Star World Prm HD
+http://103.218.25.12:89/play/a00m/index.m3u8
+#EXTINF:-1,Sun Bangla
+http://103.218.25.12:89/play/a00u/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.218.25.12:89/play/a011/index.m3u8
+#EXTINF:-1,Ten 1 HD
+http://103.218.25.12:89/play/a00q/index.m3u8
+#EXTINF:-1,Ten 2 HD
+http://103.218.25.12:89/play/a027/index.m3u8
+#EXTINF:-1,Ten 3 HD
+http://103.218.25.12:89/play/a00z/index.m3u8
+#EXTINF:-1,Ten 5 HD
+http://103.218.25.12:89/play/a00r/index.m3u8
+#EXTINF:-1,Thriller Active
+http://103.218.25.12:89/play/a01r/index.m3u8
+#EXTINF:-1,UTV ACTION
+http://103.218.25.12:89/play/a02e/index.m3u8
+#EXTINF:-1,UTV MOVIES
+http://103.218.25.12:89/play/a02d/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://103.218.25.12:89/play/a02i/index.m3u8
+#EXTINF:-1,ZEE Bangla Cine
+http://103.218.25.12:89/play/a01s/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://103.218.25.12:89/play/a01v/index.m3u8
+#EXTINF:-1,ZEE Cafe HD
+http://103.218.25.12:89/play/a012/index.m3u8
+#EXTINF:-1,ZEE TV HD
+http://103.218.25.12:89/play/a01l/index.m3u8
+#EXTINF:-1,colors Infinty HD
+http://103.218.25.12:89/play/a028/index.m3u8
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Live TV",Star World(Live TV)
