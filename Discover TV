@@ -768,6 +768,8 @@ https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8
 http://212.224.84.217:2200/R-EX/EURO_SPORTS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Live TV 2",Eurosports(Live TV 2)
 http://103.218.25.12:89/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 http://live.flixhub.net/hls/ten.m3u8
@@ -860,10 +862,12 @@ http://103.213.238.70/ADSPORTS2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
 http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BDIPTV",Discovery HD(BDIPTV)
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BCIPTV",Discovery HD(BCIPTV)
 http://15.1.1.34:8282/discovery-kid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
@@ -876,10 +880,22 @@ http://live.flixhub.net/hls/dis-science.m3u8
 http://103.218.25.12:89/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science (BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Discovery Turbo (Live TV 2)
 http://103.218.25.12:89/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Investigation Discovery(Live TV 2)
 http://103.218.25.12:89/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
+http://live.flixhub.net/hls/animalplanent.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Live TV 2",Animal Planet(Live TV 2)
+http://103.218.25.12:89/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
+http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
+https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Animal_Planet.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Nat Geo HD(Flixhub)
 http://live.flixhub.net/hls/ngohd.m3u8
@@ -914,16 +930,6 @@ http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 http://103.162.136.235:4500/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
-http://live.flixhub.net/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Live TV 2",Animal Planet(Live TV 2)
-http://103.218.25.12:89/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
-http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
-http://116.204.149.11:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="BD3",Colors Infinity(BD3)
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
