@@ -229,7 +229,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="BCIPTV",Nexus TV HD(BCIPTV)
 http://15.1.5.22:8082/nexus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BCIPTV",Global TV(BCIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="BCIPTV",Global TV(BCIPTV)
 http://15.1.5.10:8082/GLOBLA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Palki TV",Green TV(Palki TV)
