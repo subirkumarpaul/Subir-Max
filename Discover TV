@@ -46,6 +46,23 @@ https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",GaziTV
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Channel 1
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1,Channel 2
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1,Channel 3
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1,Channel 4
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1,Channel 5
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1,Channel 6
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1,Channel 7
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1,Channel 8
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
