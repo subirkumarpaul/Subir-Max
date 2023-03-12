@@ -30,7 +30,7 @@ http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7
 https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
-http://fifabangladesh.tk/BD/FANCODE/play.m3u8?id=1080p
+https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
 http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
@@ -42,10 +42,19 @@ https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
-http://fifabangladesh.tk/BD/FANCODE/play.m3u8?id=1080p
+https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
 https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",GaziTV
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
+https://tv.aafunmaza.com/astrocricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
+https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
+https://tv.aafunmaza.com/skysportscricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
+https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Channel 1
 http://103.109.56.116/live/skyfeed1001/index.m3u8
