@@ -1,54 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1#
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1*
-https://no2.onlinewebtv.lol:443/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 
-https://tv.aafunmaza.com/skysportscricket/tracks-v1a1/index.m3u8
-http://live.flixhub.net/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 SD
-http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
-https://no2.onlinewebtv.lol:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1A
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2A
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2B
-https://live.tsports.com/live/tsports_live_2_720/index.m3u8
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
+https://no2.onlinewebtv.lol:443/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-http://live.flixhub.net/hls/stersports1hd.m3u8
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+https://tv.aafunmaza.com/skysportscricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
-https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 A
-https://no2.onlinewebtv.lol:443/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5 B
-http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
-http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7
-https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://no2.onlinewebtv.lol:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
-https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
-http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+https://live.tsports.com/live/tsports_live_2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
-https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
-https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
+https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
+https://no2.onlinewebtv.lol:443/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
+http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16
+http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 17
+https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 18
 https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 19
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 20
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 21
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 22
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 23
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 24
+https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 25
 https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",GaziTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
