@@ -650,8 +650,9 @@ http://live.flixhub.net/hls/andpictures.m3u8
 http://103.218.25.12:89/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-pictures
-#EXTINF:-1 tvg-logo=""group-title="BD",And Xplorer(BD)
-https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-209
+#EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-209
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
 http://live.flixhub.net/hls/utvaction.m3u8
