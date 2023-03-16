@@ -608,8 +608,12 @@ https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeclassic
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo=""group-title="Live TV 2",Zee Bollywwood(Live TV 2)
 http://103.218.25.12:89/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Bollywwood(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeclassic
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Action(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeaction
+#EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Cinemalu(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinemalu
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD(Flixhub)
 http://live.flixhub.net/hls/stargold.m3u8
