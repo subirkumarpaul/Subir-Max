@@ -588,12 +588,12 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD(Flixhub)
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema HD(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD70",Zee Cinema HD(BD70)
-https://z5ak-live.zee5.com/linear/hls/pb/event/rH_ZU7LMTy6I5kwhB17Wjg/stream/3baf70af-e706-41d9-96ce-f2f0e9901d28:SIN/variant/0363f260e80fa43c4259010902c9a09e/bandwidth/hdntl=exp=1676134926~acl=%2f*~id=07f023a8-4bb1-44a1-a446-07f068241d16~data=hdntl~hmac=424dde9b2ae43a2af93ec3017268a44544686d7fab0ee6743863606f7d3f1949/1668845.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BDIPTV",Zee Cinema(BDIPTV)
-http://bdiptv.net:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
 http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BCIPTV",Zee Action(BCIPTV)
@@ -602,10 +602,14 @@ http://15.1.5.10:8082/zeeaction/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD2",Zee Classic(BD2)
 http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD3",Zee Anmol Cinema(BD3)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="ZEE",Zee Classic(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeclassic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="ZEE",Zee Anmol Cinema(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo=""group-title="Live TV 2",Zee Bollywwood(Live TV 2)
 http://103.218.25.12:89/play/a02i/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Action(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeaction
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD(Flixhub)
 http://live.flixhub.net/hls/stargold.m3u8
@@ -638,14 +642,14 @@ http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures HD(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV 2",And Pictures(Live TV 2)
 http://103.218.25.12:89/play/a024/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BCIPTV",And Pictures(BCIPTV)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
-http://180.178.188.152:8000/play/a017
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-pictures
 #EXTINF:-1 tvg-logo=""group-title="BD",And Xplorer(BD)
 https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-209
 
@@ -1156,6 +1160,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 http://103.218.25.12:89/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BCIPTV",And Flix(BCIPTV)
 http://15.1.5.14:8082/AND-FLIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ZEE",And Flix(ZEE)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-logo="" group-title="Live TV 2",And Prive HD(Live TV 2)
 http://103.218.25.12:89/play/a029/index.m3u8
