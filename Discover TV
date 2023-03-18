@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1,Hawa
-https://edge21.zcdn.stream/eu20/files/GHBCCEAH/1080K/2023/EABFACEG/03/IDCBAHFF/16/DEEEDEEB/11357-199.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
