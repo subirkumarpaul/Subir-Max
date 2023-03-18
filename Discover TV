@@ -1233,6 +1233,9 @@ https://livetv-channels.b-cdn.net/8031/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Balla Balla(BD)
 https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BD",Show Box(BD)
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://live.flixhub.net/hls/zoom.m3u8
 
