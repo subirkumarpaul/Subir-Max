@@ -434,6 +434,9 @@ http://live.flixhub.net/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BD",DD Bangla(BD)
+https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-ddbangla
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sananda%20TV%20.jpeg"group-title="BDIP",Sanonda TV(BDIP)
 http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
