@@ -846,7 +846,7 @@ https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_w
 https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
-http://212.224.84.217:2200/R-EX/EURO_SPORTS_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/2b640b1a-c728-4db8-b6cd-1ccbe4e60ace/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Live TV 2",Eurosports(Live TV 2)
 http://103.218.25.12:89/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
