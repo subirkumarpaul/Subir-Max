@@ -1303,21 +1303,21 @@ http://live.flixhub.net/hls/qurqntv.m3u8
 
 
 
-#EXTINF:-1,1
+#EXTINF:-1,A Sports
 https://eas4.gcdn.co/UKS1/index.m3u8
-#EXTINF:-1,2
+#EXTINF:-1,Astro Cricket
 https://eas4.gcdn.co/UKS2/index.m3u8
-#EXTINF:-1,3
+#EXTINF:-1,Viaplay
 https://eas4.gcdn.co/UKS3/index.m3u8
-#EXTINF:-1,4
+#EXTINF:-1,Bein Sports 1
 https://eas4.gcdn.co/UKS4/index.m3u8
-#EXTINF:-1,5
+#EXTINF:-1,Bein Sports 2
 https://eas4.gcdn.co/UKS5/index.m3u8
 #EXTINF:-1,6
 https://eas4.gcdn.co/UKS6/index.m3u8
 #EXTINF:-1,7
 https://eas4.gcdn.co/UKS7/index.m3u8
-#EXTINF:-1,8
+#EXTINF:-1,Bein Sports 2
 https://eas4.gcdn.co/UKS8/index.m3u8
 #EXTINF:-1,9
 https://eas4.gcdn.co/UKS9/index.m3u8
@@ -1325,7 +1325,7 @@ https://eas4.gcdn.co/UKS9/index.m3u8
 https://eas4.gcdn.co/UKS10/index.m3u8
 #EXTINF:-1,11
 https://eas4.gcdn.co/UKS11/index.m3u8
-#EXTINF:-1,12
+#EXTINF:-1,Bien Sports 4
 https://eas4.gcdn.co/UKS12/index.m3u8
 #EXTINF:-1,13
 https://eas4.gcdn.co/UKS13/index.m3u8
@@ -1333,17 +1333,17 @@ https://eas4.gcdn.co/UKS13/index.m3u8
 https://eas4.gcdn.co/UKS14/index.m3u8
 #EXTINF:-1,15
 https://eas4.gcdn.co/UKS15/index.m3u8
-#EXTINF:-1,16
+#EXTINF:-1,DAZN LaLiga
 https://eas4.gcdn.co/UKS16/index.m3u8
-#EXTINF:-1,17
+#EXTINF:-1,Bein Sports 5 Max
 https://eas4.gcdn.co/UKS17/index.m3u8
-#EXTINF:-1,18
+#EXTINF:-1,Bein Sports 6 Max
 https://eas4.gcdn.co/UKS18/index.m3u8
-#EXTINF:-1,19
+#EXTINF:-1,Bein Sports 1 Premium
 https://eas4.gcdn.co/UKS19/index.m3u8
-#EXTINF:-1,20
+#EXTINF:-1,Bein Sports 2 Premium
 https://eas4.gcdn.co/UKS20/index.m3u8
-#EXTINF:-1,21
+#EXTINF:-1,Bein Sports HD
 https://eas4.gcdn.co/UKS21/index.m3u8
 #EXTINF:-1,22
 https://eas4.gcdn.co/UKS22/index.m3u8
