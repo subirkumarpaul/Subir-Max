@@ -845,14 +845,14 @@ https://watchtvs.live/live.php?c=Sports18_1_SD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 Khal SD(BD Live)
 https://watchtvs.live/live.php?c=Sports18_Khel&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Live TV 2",1 Sports(Live TV 2)
-http://103.218.25.12:89/play/a01t/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Flow Sports(BD)
+https://eas4.gcdn.co/UKS36/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Jio",Jio Cinema(Jio)
 https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl14/master.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
-https://livetv-channels.b-cdn.net/8011/chunklist0.m3u8
+https://eas4.gcdn.co/UKS30/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/2b640b1a-c728-4db8-b6cd-1ccbe4e60ace/3.m3u8
