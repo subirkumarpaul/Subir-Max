@@ -1347,29 +1347,29 @@ https://eas4.gcdn.co/UKS20/index.m3u8
 https://eas4.gcdn.co/UKS21/index.m3u8
 #EXTINF:-1,22
 https://eas4.gcdn.co/UKS22/index.m3u8
-#EXTINF:-1,23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="UKS",Sony Sports Ten 1 HD(UKS)
 https://eas4.gcdn.co/UKS23/index.m3u8
-#EXTINF:-1,24
+#EXTINF:-1,BT Sports 1
 https://eas4.gcdn.co/UKS24/index.m3u8
-#EXTINF:-1,25
+#EXTINF:-1,BT Sports 2
 https://eas4.gcdn.co/UKS25/index.m3u8
-#EXTINF:-1,26
+#EXTINF:-1,BT Sporys 3
 https://eas4.gcdn.co/UKS26/index.m3u8
-#EXTINF:-1,27
+#EXTINF:-1,BT Sports 4
 https://eas4.gcdn.co/UKS27/index.m3u8
 #EXTINF:-1,28
 https://eas4.gcdn.co/UKS28/index.m3u8
-#EXTINF:-1,29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="UKS",Sony Sports Ten 3 HD(UKS)
 https://eas4.gcdn.co/UKS29/index.m3u8
-#EXTINF:-1,30
+#EXTINF:-1,DD Sports
 https://eas4.gcdn.co/UKS30/index.m3u8
-#EXTINF:-1,41
+#EXTINF:-1,Sky Sports Cricket
 https://eas4.gcdn.co/UKS41/index.m3u8
 #EXTINF:-1,42
 https://eas4.gcdn.co/UKS42/index.m3u8
 #EXTINF:-1,43
 https://eas4.gcdn.co/UKS43/index.m3u8
-#EXTINF:-1,44
+#EXTINF:-1,Viaplay Sports 1
 https://eas4.gcdn.co/UKS44/index.m3u8
 #EXTINF:-1,45
 https://eas4.gcdn.co/UKS45/index.m3u8
