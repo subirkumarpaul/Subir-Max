@@ -55,6 +55,15 @@ https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Channel 1
+http://157.119.239.100:8081/live/1/chunks.m3u8
+#EXTINF:-1,Channel 2
+http://157.119.239.100:8081/live/2/chunks.m3u8
+#EXTINF:-1,Channel 3
+http://157.119.239.100:8081/live/3/chunks.m3u8
+#EXTINF:-1,Channel 4
+http://157.119.239.100:8081/live/4/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
 https://tv.aafunmaza.com/astrocricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
