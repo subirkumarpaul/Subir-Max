@@ -7,7 +7,7 @@ https://eas4.gcdn.co/UKS74/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 https://no2.onlinewebtv.lol:443/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+https://eas4.gcdn.co/UKS45/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 http://157.119.239.100:8081/live/1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
@@ -737,7 +737,7 @@ http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BCIPTV",Star Sports 1(BCIPTV)
 http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
-https://eas4.gcdn.co/UKS75/index.m3u8
+https://eas4.gcdn.co/UKS45/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
 https://eas4.gcdn.co/UKS74/index.m3u8
 
@@ -1371,9 +1371,9 @@ https://eas4.gcdn.co/UKS42/index.m3u8
 https://eas4.gcdn.co/UKS43/index.m3u8
 #EXTINF:-1,Viaplay Sports 1
 https://eas4.gcdn.co/UKS44/index.m3u8
-#EXTINF:-1,45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1(UKS)
 https://eas4.gcdn.co/UKS45/index.m3u8
-#EXTINF:-1,46
+#EXTINF:-1,PTV Sports
 https://eas4.gcdn.co/UKS46/index.m3u8
 #EXTINF:-1,47
 https://eas4.gcdn.co/UKS47/index.m3u8
@@ -1381,41 +1381,41 @@ https://eas4.gcdn.co/UKS47/index.m3u8
 https://eas4.gcdn.co/UKS48/index.m3u8
 #EXTINF:-1,49
 https://eas4.gcdn.co/UKS49/index.m3u8
-#EXTINF:-1,50
+#EXTINF:-1,Sky Sports Action
 https://eas4.gcdn.co/UKS50/index.m3u8
-#EXTINF:-1,51
+#EXTINF:-1,Sky Sports Arena
 https://eas4.gcdn.co/UKS51/index.m3u8
 #EXTINF:-1,52
 https://eas4.gcdn.co/UKS52/index.m3u8
-#EXTINF:-1,53
+#EXTINF:-1,Sky Sports Cricket
 https://eas4.gcdn.co/UKS53/index.m3u8
-#EXTINF:-1,54
+#EXTINF:-1,Sky Sports FI
 https://eas4.gcdn.co/UKS54/index.m3u8
-#EXTINF:-1,55
+#EXTINF:-1,Sky Sports Football
 https://eas4.gcdn.co/UKS55/index.m3u8
-#EXTINF:-1,56
+#EXTINF:-1,Sky Sports Golf ⛳ 
 https://eas4.gcdn.co/UKS56/index.m3u8
-#EXTINF:-1,57
+#EXTINF:-1,Sky Sports Main Event
 https://eas4.gcdn.co/UKS57/index.m3u8
-#EXTINF:-1,58
+#EXTINF:-1,Sky Sports Main Event
 https://eas4.gcdn.co/UKS58/index.m3u8
-#EXTINF:-1,59
+#EXTINF:-1,Sky Sports Mix
 https://eas4.gcdn.co/UKS59/index.m3u8
-#EXTINF:-1,60
+#EXTINF:-1,Sky Sports News
 https://eas4.gcdn.co/UKS60/index.m3u8
-#EXTINF:-1,61
+#EXTINF:-1,FUT23
 https://eas4.gcdn.co/UKS61/index.m3u8
-#EXTINF:-1,62
+#EXTINF:-1,Sky Sports Racing
 https://eas4.gcdn.co/UKS62/index.m3u8
-#EXTINF:-1,63
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="UKS",Sony Sports Ten 1 HD(USK)
 https://eas4.gcdn.co/UKS63/index.m3u8
-#EXTINF:-1,64
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="UKS",Sony Sports Ten 2 HD(UKS)
 https://eas4.gcdn.co/UKS64/index.m3u8
-#EXTINF:-1,65
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="UKS",Sony Sports Ten 3 HD(UKS)
 https://eas4.gcdn.co/UKS65/index.m3u8
-#EXTINF:-1,66
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="UKS",Sony Sports Ten 4 HD(UKS)
 https://eas4.gcdn.co/UKS66/index.m3u8
-#EXTINF:-1,67
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="UKS",Sony Sports Ten 5 HD(UKS)
 https://eas4.gcdn.co/UKS67/index.m3u8
 #EXTINF:-1,68
 https://eas4.gcdn.co/UKS68/index.m3u8
