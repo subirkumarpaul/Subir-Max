@@ -423,8 +423,8 @@ http://live.flixhub.net/hls/zeebanglahd.m3u8
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BCIPTV",Zee Bangla HD(BCIPTV)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
-http://103.213.238.70:80/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="ZEE",Zee Bangla HD(ZEE)
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
@@ -451,8 +451,8 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD50",Zee Bangla Cinema(BD50)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="ZEE",Zee Bangla Cinema(ZEE)
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeebanglacinema
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
@@ -603,11 +603,11 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD(Flixhub)
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema HD(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinemahd
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD70",Zee Cinema HD(BD70)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinema
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
 http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BCIPTV",Zee Action(BCIPTV)
@@ -617,17 +617,17 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD2",Zee Classic(BD2)
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="ZEE",Zee Classic(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeclassic
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-176
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="ZEE",Zee Anmol Cinema(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeanmolcinema
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo=""group-title="Live TV 2",Zee Bollywwood(Live TV 2)
 http://103.218.25.12:89/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Bollywwood(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeclassic
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeclassic
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Action(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeeaction
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeaction
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Cinemalu(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecinemalu
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemalu
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Talkies(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeetalkies
 
@@ -663,15 +663,15 @@ http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures HD(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-tvpictureshd
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV 2",And Pictures(Live TV 2)
 http://103.218.25.12:89/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-pictures
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-pictures
 #EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-209
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-209
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
@@ -1191,7 +1191,7 @@ http://103.218.25.12:89/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BCIPTV",And Flix(BCIPTV)
 http://15.1.5.14:8082/AND-FLIX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ZEE",And Flix(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-channel_2105335046
+http://denver12346.000webhostapp.com/G5/api.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="" group-title="ZEE",Zee Cafe HD(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecafehd
 
