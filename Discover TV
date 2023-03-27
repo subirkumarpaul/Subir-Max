@@ -9,7 +9,7 @@ https://eas4.gcdn.co/UKS70/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 https://eas4.gcdn.co/UKS69/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-http://157.119.239.100:8081/live/1/chunks.m3u8
+https://eas4.gcdn.co/UKS78/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
 http://157.119.239.100:8081/live/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
@@ -1441,7 +1441,7 @@ https://eas4.gcdn.co/UKS77/index.m3u8
 https://eas4.gcdn.co/UKS78/index.m3u8
 #EXTINF:-1,Super Sports LaLiga
 https://eas4.gcdn.co/UKS79/index.m3u8
-#EXTINF:-1,Super Sports 
+#EXTINF:-1,Super Sports UEFA
 https://eas4.gcdn.co/UKS80/index.m3u8
 #EXTINF:-1,Golf⛳ 
 https://eas4.gcdn.co/UKS81/index.m3u8
