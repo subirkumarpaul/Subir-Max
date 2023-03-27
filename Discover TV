@@ -1377,15 +1377,15 @@ https://eas4.gcdn.co/UKS45/index.m3u8
 https://eas4.gcdn.co/UKS46/index.m3u8
 #EXTINF:-1,47
 https://eas4.gcdn.co/UKS47/index.m3u8
-#EXTINF:-1,48
+#EXTINF:-1,DAZN 1
 https://eas4.gcdn.co/UKS48/index.m3u8
-#EXTINF:-1,49
+#EXTINF:-1,DAZN 2
 https://eas4.gcdn.co/UKS49/index.m3u8
 #EXTINF:-1,Sky Sports Action
 https://eas4.gcdn.co/UKS50/index.m3u8
 #EXTINF:-1,Sky Sports Arena
 https://eas4.gcdn.co/UKS51/index.m3u8
-#EXTINF:-1,52
+#EXTINF:-1,Sky Sports Cricket
 https://eas4.gcdn.co/UKS52/index.m3u8
 #EXTINF:-1,Sky Sports Cricket
 https://eas4.gcdn.co/UKS53/index.m3u8
@@ -1435,7 +1435,7 @@ https://eas4.gcdn.co/UKS74/index.m3u8
 https://eas4.gcdn.co/UKS75/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="UKS",Star Sports Select 2 HD(UKS)
 https://eas4.gcdn.co/UKS76/index.m3u8
-#EXTINF:-1,77
+#EXTINF:-1,Star Sports 1
 https://eas4.gcdn.co/UKS77/index.m3u8
 #EXTINF:-1,Super Sports Cricket
 https://eas4.gcdn.co/UKS78/index.m3u8
@@ -1447,7 +1447,7 @@ https://eas4.gcdn.co/UKS80/index.m3u8
 https://eas4.gcdn.co/UKS81/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="UKS",Ten Sports PK(UKS)
 https://eas4.gcdn.co/UKS82/index.m3u8
-#EXTINF:-1,83
+#EXTINF:-1,Tennis Channel
 https://eas4.gcdn.co/UKS83/index.m3u8
 #EXTINF:-1,WILLOW HD
 https://eas4.gcdn.co/UKS84/index.m3u8
