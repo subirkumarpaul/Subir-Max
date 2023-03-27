@@ -5,7 +5,7 @@ https://eas4.gcdn.co/UKS68/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 https://eas4.gcdn.co/UKS70/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
-https://eas4.gcdn.co/UKS69/index.m3u8
+http://mirajliv@bcdn.bdixsports.live:1935/live/event.stream/chunklist_w523202090.m3u8?bdixmirajliv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
 https://eas4.gcdn.co/UKS78/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
