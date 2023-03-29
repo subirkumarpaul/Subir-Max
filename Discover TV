@@ -1104,9 +1104,9 @@ http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Sonic(BD)
 http://103.157.88.1:6500/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
-http://212.224.84.217:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
-http://103.157.88.1:6500/play/a00u/index.m3u8
+https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/hungama.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
+https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/superhungama.m3u8
 
 
 
