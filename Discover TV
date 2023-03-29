@@ -1124,6 +1124,8 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf15d9d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Cartoon
 https://live-par-1-abr-cdn.livepush.io/live_abr_cdn/emaIqCGoZw-6/index.m3u8
 
+#EXTINF:-1,Wow TV
+https://eas4.gcdn.co/K38/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="BD",English Movies(BD)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
