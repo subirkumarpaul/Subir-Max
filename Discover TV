@@ -21,6 +21,7 @@ http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w155573767.m3u8
 https://live.tsports.com/live/live_02_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL
 http://live.flixhub.net/hls/stersports1hd.m3u8
