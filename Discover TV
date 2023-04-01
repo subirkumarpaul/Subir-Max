@@ -11,17 +11,17 @@ http://bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8?token=copy
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 5
 https://eas4.gcdn.co/UKS36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 6
-http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+https://eas4.gcdn.co/UKS73/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 7
-http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
+https://eas4.gcdn.co/UKS78/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 8
-http://15.1.5.14:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 9
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 10
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 11
-https://live.tsports.com/live/live_02_720/index.m3u8
+https://live.tsports.com/live/live_01_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 12
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports IPL 13
@@ -42,14 +42,14 @@ http://live.flixhub.net/hls/bein1.m3u8
 http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 20
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 21 https://eas4.gcdn.co/UKS77/index.m3u8
-https://eas4.gcdn.co/UKS77/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 21
+https://eas4.gcdn.co/UKS71/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 22
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 23
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 24
-https://eas4.gcdn.co/UKS78/index.m3u8
+https://eas4.gcdn.co/UKS79/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 25
 https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
