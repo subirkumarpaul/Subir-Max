@@ -940,11 +940,13 @@ https://webudi.openhd.lol/ddy1/premium46/index.m3u8?|Referer=https://streamservi
 
 
 #EXTINF:-1,BT Sports 1
-http://ku3.worldtvip.co:80/uk_bt_sports_1_hd/tracks-v1a1/mono.m3u8
+http://163.172.221.223:90/bt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BT Sports 2
-http://ku3.worldtvip.co:80/uk_bt_sports_2_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BT Sports 3
-http://ku3.worldtvip.co:80/uk_bt_sports_3_hd/tracks-v1a1/mono.m3u8
+http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BT Sports 2
+http://163.172.221.223:90/bt3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BT Sports 2
+http://163.172.221.223:90/bt4/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,Super Sports Football
