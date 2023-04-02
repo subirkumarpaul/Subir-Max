@@ -25,17 +25,17 @@ https://eas4.gcdn.co/UKS84/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 12
 https://eas4.gcdn.co/UKS85/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 13
-http://live.flixhub.net/hls/stersports1hd.m3u8
+http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 14
-http://live.flixhub.net/hls/Gazi-TV.m3u8
+http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 15
-http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 16
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 17
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 18
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
