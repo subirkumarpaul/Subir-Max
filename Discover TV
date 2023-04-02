@@ -1138,7 +1138,7 @@ http://live.flixhub.net/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf15d9df39403daf24ef/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Cartoon
-https://live-par-1-abr-cdn.livepush.io/live_abr_cdn/emaIqCGoZw-6/index.m3u8
+https://eas4.gcdn.co/K34/index.m3u8
 
 #EXTINF:-1,Wow Kidz
 https://eas4.gcdn.co/K38/index.m3u8
