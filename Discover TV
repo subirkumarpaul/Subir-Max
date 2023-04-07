@@ -95,7 +95,7 @@ https://tv.aafunmaza.com/astrocricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
 https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
-https://eas4.gcdn.co/UKS53/index.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
 https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
@@ -924,10 +924,10 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
 https://eas4.gcdn.co/UKS39/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Sports Cricket(BD)
-http://212.224.84.217:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/index.m3u8?token=RED_ArFguF4BN2NkLRpAjRNjTA%3D%3D%2C165803831455.9659699029=|User-agent=REDLINECLIENT
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
-http://ku3.worldtvip.co/uk_sky_sports_cricket_hd/index.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Fox Cricket 501 HD(BD)
 http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
@@ -954,17 +954,17 @@ https://webudi.openhd.lol/ddy1/premium46/index.m3u8?|Referer=https://streamservi
 
 
 #EXTINF:-1,BT Sports 1
-http://163.172.221.223:90/bt1/tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium31/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 2
-http://163.172.221.223:90/bt2/tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium32/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 2
-http://163.172.221.223:90/bt3/tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium33/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 2
-http://163.172.221.223:90/bt4/tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium34/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 #EXTINF:-1,Super Sports Football
-https://eas4.gcdn.co/UKS79/index.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium56/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,Super Sports Cricket
 https://eas4.gcdn.co/UKS78/index.m3u8
 
