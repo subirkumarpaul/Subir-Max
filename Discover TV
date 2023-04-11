@@ -85,58 +85,8 @@ https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Channel 1
-http://157.119.239.100:8081/live/1/chunks.m3u8
-#EXTINF:-1,Channel 2
-http://157.119.239.100:8081/live/2/chunks.m3u8
-#EXTINF:-1,Channel 3
-http://157.119.239.100:8081/live/3/chunks.m3u8
-#EXTINF:-1,Channel 4
-http://157.119.239.100:8081/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
-https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
-https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
-https://tv.aafunmaza.com/ptvsports/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Channel 1
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1,Channel 2
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1,Channel 3
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1,Channel 4
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:-1,Channel 5
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1,Channel 6
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1,Channel 7
-http://103.109.56.116/live/skyfeed1007/index.m3u8
-#EXTINF:-1,Channel 8
-http://103.109.56.116/live/skyfeed1008/index.m3u8
-#EXTINF:-1,Channel 9
-http://103.109.56.116/live/skyfeed1013/index.m3u8
-#EXTINF:-1,Channel 10
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1,Channel 11
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1,Channel 12
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1,Channel 13
-http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF:-1,Channel 14
-http://103.109.56.116/live/skyfeed1018/index.m3u8
-#EXTINF:-1,Channel 15
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1,Channel 16
-http://103.109.56.116/live/skyfeed1012/index.m3u8
 
 
 
@@ -1342,7 +1292,16 @@ http://live.flixhub.net/hls/madani.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
 http://live.flixhub.net/hls/qurqntv.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
+https://ddy1.onlinewebtv.lol/ddy1/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
+https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
+https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
+https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
+https://tv.aafunmaza.com/ptvsports/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,A Sports
 https://eas4.gcdn.co/UKS1/index.m3u8
