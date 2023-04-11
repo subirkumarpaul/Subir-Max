@@ -10,9 +10,10 @@ http://bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 4
 http://appsbiswas.live:8880/live/20320520/40320520/2952.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 English
-http://116.204.149.16/TSports_HD/tracks-v1a1/mono.m3u8
+http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl11/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 Bangla
+http://51.159.210.91/madstream.live/starhindi/tracks-v1a1/mono.m3u8
 https://join-us-on-telegram-streamkingliveo.pages.dev/BANGLA-WW.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 Hindi
 https://join-us-on-telegram-streamkingliveo.pages.dev/HINDI-WW.m3u8
@@ -47,10 +48,11 @@ http://appsbiswas.live:8880/live/20320520/40320520/51.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 20
 http://appsbiswas.live:8880/live/20320520/40320520/4623.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 21
-http://3.27.107.138/madstream.live/starsports2/tracks-v1a1/mono.m3u8
 http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 22
 https://cdn.t20hd.click/live/1440p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 http://starshare.live:8080/live/Emmanuel/Emmanuel/42.m3u8
