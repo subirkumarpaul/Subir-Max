@@ -98,8 +98,6 @@ http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Jagobd",BTV World(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD70",BTV World(BD70)
-http://103.213.238.70/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BDIPTV",BTV World(BDIPTV)
 http://bdiptv.net:8282/btv-world/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",Sangsad TV(BD2)
@@ -118,16 +116,12 @@ http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
 http://live.flixhub.net/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Musojeeb",T Sports(Musojeeb)
-https://musajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=test1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8282/tsports/tracks-v1/mono.m3u8#EXTINF:-1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports(BCIPTV)
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports HD(BCIPTV)
 http://15.1.5.10:8082/tsports/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD70",T Sports(BD70)
-http://103.213.238.70/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Jagobd",T Sports(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 
@@ -137,8 +131,6 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BCIPTV",Gazi TV(BCIPTV)
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Musojeeb",Gazi TV(Musojeeb)
-https://musajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=test1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub)
 http://live.flixhub.net//hls/atn.m3u8
@@ -146,8 +138,6 @@ http://live.flixhub.net//hls/atn.m3u8
 http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="BD70",ATN Bangla(BD70)
-http://103.213.238.70/ATNBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Flixhub",Channel I(Flixhub)
 http://live.flixhub.net/hls/channeli.m3u8
@@ -176,8 +166,6 @@ http://15.1.5.14:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BCIPTV",NTV(BCIPTV)
 http://15.1.5.14:8082/Ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD70",NTV(BD70)
-http://103.213.238.70/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD2",NTV UK(BD2)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
@@ -187,15 +175,11 @@ https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BCIPTV",RTV(BCIPTV)
 http://15.1.5.10:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BD70",RTV(BD70)
-http://103.213.238.70/RTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Jagobd",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BCIPTV",SATV(BCIPTV)
 http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="BD70",SATV(BD70)
-http://103.213.238.70/SATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Jagobd",Deepto TV(Jagobd)
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
@@ -244,8 +228,7 @@ http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BCIPTV",Nagorik TV(BCIPTV)
 http://15.1.5.10:8082/nagorik-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="BD70",Nagorik TV(BD70)
-http://103.213.238.70/NagorikTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="BD",Bijoy TV(BD)
 https://tv.kotha.im/Bijoy_TV_HD/index.m3u8
@@ -295,8 +278,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://bdiptv.net:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BCIPTV",Somoy TV(BCIPTV)
 http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BD70",Somoy TV(BD70)
-http://103.213.238.70/SomoyTv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Flixhub",Independent TV(Flixhub)
 http://live.flixhub.net/hls/indepen.m3u8
@@ -306,8 +288,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="BCIPTV",Independent TV(BCIPTV)
 http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="BD70",Independent TV(BD70)
-http://103.213.238.70/IndependentTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Flixhub",Ekattor TV(Flixhub)
 http://live.flixhub.net/hls/nexus.m3u8
@@ -315,8 +296,7 @@ http://live.flixhub.net/hls/nexus.m3u8
 http://bdiptv.net:8082/EKTTOR-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BCIPTV",Ekattor TV(BCIPTV)
 http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BD70",Ekattor TV(BD70)
-http://103.213.238.70/EkattorTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Flixhub",ATN News(Flixhub)
 http://live.flixhub.net/hls/atn-news.m3u8
@@ -372,8 +352,7 @@ http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="BDIPTV",ATN Music(BDIPTV)
 http://bdiptv.net:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="BD70",ATN Music(BD70)
-http://103.213.238.70/ATNMusic/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="BD",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
@@ -447,8 +426,7 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.213.238.70:80/Jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Live TV 2",Jalsha Movies HD(Live TV 2)
-http://103.218.25.12:89/play/a019/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="Flixhub",Khushboo Bangla(Flixhub)
 http://live.flixhub.net/hls/khushboo.m3u8
@@ -542,11 +520,7 @@ http://live.flixhub.net/hls/zeetv.m3u8
 http://bdiptv.net:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BCIPTV",Zee TV(BCIPTV)
 http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD70",Zee TV(BD70)
-http://103.213.238.70/ZeeTVHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="Live TV 2" tvg-logo="",And TV (Live TV 2)
-http://103.218.25.12:89/play/a01q/index.m3u8
 
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 http://live.flixhub.net/hls/bhojpuri.m3u8
@@ -584,7 +558,6 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema HD(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD70",Zee Cinema HD(BD70)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinema
@@ -646,8 +619,6 @@ http://208.86.19.13:81/735.stream/index.m3u8
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Live TV 2",And Pictures(Live TV 2)
-http://103.218.25.12:89/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-pictures
 #EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
@@ -727,8 +698,7 @@ http://live.flixhub.net/hls/starsports2.m3u8
 http://bdiptv.net:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BCIPTV",Star Sports 2(BCIPTV)
 http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD70",Star Sports 2(BD70)
-http://103.213.238.70/StarSports2HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
 http://103.179.246.243:8000/play/a00d/index.m3u8
@@ -749,8 +719,7 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://bdiptv.net:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BCIPTV",Star Sports Select 1(BCIPTV)
 http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD70",Star Sports Select 1(BD70)
-http://103.213.238.70/StarSportsSelect1/tracks-v1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Flixhub",Star Sports Select 2(Flixhub)
 http://live.flixhub.net/hls/select2.m3u8
@@ -758,8 +727,7 @@ http://live.flixhub.net/hls/select2.m3u8
 http://bdiptv.net:8282/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BCIPTV",Star Sports Select 2(BCIPTV)
 http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BD70",Star Sports Select 2(BD70)
-http://103.213.238.70/StarSportsSelect2/tracks-v1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony Liv",Sony Sports Ten 1 HD(Sony Liv)
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
@@ -818,21 +786,15 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Flixhub",Sports 18 HD(Flixhub)
 http://live.flixhub.net/hls/bein1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 HD(BD Live)
-https://watchtvs.live/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 SD(BD Live)
-https://watchtvs.live/live.php?c=Sports18_1_SD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD Live",Sports 18 Khal SD(BD Live)
-https://watchtvs.live/live.php?c=Sports18_Khel&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Flow Sports(BD)
-https://eas4.gcdn.co/UKS36/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Jio",Jio Cinema(Jio)
-https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_eng_wpl14/master.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
-https://eas4.gcdn.co/UKS30/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/2b640b1a-c728-4db8-b6cd-1ccbe4e60ace/3.m3u8
@@ -928,8 +890,6 @@ https://eas4.gcdn.co/UKS78/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BDIPTV",AD Sports 1(BDIPTV)
 http://bdiptv.net:8082/Adsports1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BD70",AD Sports 1(BD70)
-http://103.213.238.70/ADSPORTS1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 2(BDIPTV)
 http://bdiptv.net:8082/tv13/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD70",AD Sports 2(BD70)
@@ -965,9 +925,9 @@ http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science (BD)
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Discovery Turbo (Live TV 2)
-http://103.218.25.12:89/play/a02c/index.m3u8
+
 #EXTINF:-1 tvg-logo="g"group-title="Live TV 2",Investigation Discovery(Live TV 2)
-http://103.218.25.12:89/play/a00y/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
 http://live.flixhub.net/hls/animalplanent.m3u8
@@ -1029,7 +989,7 @@ http://103.218.25.12:89/play/a02k/index.m3u8
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 #EXTINF: -1 group-title="Live TV 2",History TV 18 HD(Live TV 2)
-http://103.218.25.12:89/play/a01z/index.m3u8
+
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-348
@@ -1044,8 +1004,7 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD50",Travel XP English(BD50)
-http://50.7.237.4:8080/TRAVELXPHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="BD3",Love nature(BD)
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -1081,10 +1040,6 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD70",Nick HD(BD)
-http://212.224.84.217:2200/R-EX/FHD_NICK_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD70",Nick HD(BD)
-http://103.157.88.1:6500/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BDIPTV",Nick JR(BDIPTV)
 http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
@@ -1186,9 +1141,6 @@ http://denver12346.000webhostapp.com/G5/api.php?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-logo="" group-title="ZEE",Zee Cafe HD(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeecafehd
 
-#EXTINF:-1 tvg-logo="" group-title="Live TV 2",And Prive HD(Live TV 2)
-http://103.218.25.12:89/play/a029/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
@@ -1256,36 +1208,25 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD",Music India(BD)
 https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD70",NDTV(BD70)
-http://103.213.238.70/NDTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="BD70",India Today(BD70)
-http://103.213.238.70/IndiaToday/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://live.flixhub.net/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BCIPTV",Aljazeera(BCIPTV)
 http://15.1.5.10:8082/Aljazeera/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BD70",Aljazeera(BD70)
-http://103.213.238.70/Aljazeera/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
 http://live.flixhub.net/hls/bbcworld.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BCIPTV",CGTN(BCIPTV)
 http://15.1.5.14:8082/Cgtn-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD70",CGTN(BD70)
-http://103.213.238.70/CGTN/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BCIPTV",DW(BCIPTV)
 http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jagobd",DW(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD70",DW(BD70)
-http://103.213.238.70/DW/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD70",Bloomberg TV(BD70)
-http://103.213.238.70/BloombergTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Madina TV(Flixhub)
 http://live.flixhub.net/hls/madani.m3u8
@@ -1302,167 +1243,6 @@ https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.
 https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
 https://tv.aafunmaza.com/ptvsports/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,A Sports
-https://eas4.gcdn.co/UKS1/index.m3u8
-#EXTINF:-1,Astro Cricket
-https://eas4.gcdn.co/UKS2/index.m3u8
-#EXTINF:-1,Viaplay
-https://eas4.gcdn.co/UKS3/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://eas4.gcdn.co/UKS4/index.m3u8
-#EXTINF:-1,Bein Sports 2
-https://eas4.gcdn.co/UKS5/index.m3u8
-#EXTINF:-1,6
-https://eas4.gcdn.co/UKS6/index.m3u8
-#EXTINF:-1,Bein Sports HD
-https://eas4.gcdn.co/UKS7/index.m3u8
-#EXTINF:-1,Bein Sports 2
-https://eas4.gcdn.co/UKS8/index.m3u8
-#EXTINF:-1,9
-https://eas4.gcdn.co/UKS9/index.m3u8
-#EXTINF:-1,Bein Sports 3 Premium
-https://eas4.gcdn.co/UKS10/index.m3u8
-#EXTINF:-1,11
-https://eas4.gcdn.co/UKS11/index.m3u8
-#EXTINF:-1,Bien Sports 4
-https://eas4.gcdn.co/UKS12/index.m3u8
-#EXTINF:-1,13
-https://eas4.gcdn.co/UKS13/index.m3u8
-#EXTINF:-1,Bein Sports 6
-https://eas4.gcdn.co/UKS14/index.m3u8
-#EXTINF:-1,15
-https://eas4.gcdn.co/UKS15/index.m3u8
-#EXTINF:-1,DAZN LaLiga
-https://eas4.gcdn.co/UKS16/index.m3u8
-#EXTINF:-1,Bein Sports 5 Max
-https://eas4.gcdn.co/UKS17/index.m3u8
-#EXTINF:-1,Bein Sports 6 Max
-https://eas4.gcdn.co/UKS18/index.m3u8
-#EXTINF:-1,Bein Sports 1 Premium
-https://eas4.gcdn.co/UKS19/index.m3u8
-#EXTINF:-1,Bein Sports 2 Premium
-https://eas4.gcdn.co/UKS20/index.m3u8
-#EXTINF:-1,Bein Sports HD
-https://eas4.gcdn.co/UKS21/index.m3u8
-#EXTINF:-1,22
-https://eas4.gcdn.co/UKS22/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="UKS",Sony Sports Ten 1 HD(UKS)
-https://eas4.gcdn.co/UKS23/index.m3u8
-#EXTINF:-1,BT Sports 1
-https://eas4.gcdn.co/UKS24/index.m3u8
-#EXTINF:-1,BT Sports 2
-https://eas4.gcdn.co/UKS25/index.m3u8
-#EXTINF:-1,BT Sports 3
-https://eas4.gcdn.co/UKS26/index.m3u8
-#EXTINF:-1,BT Sports 4
-https://eas4.gcdn.co/UKS27/index.m3u8
-#EXTINF:-1,28
-https://eas4.gcdn.co/UKS28/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="UKS",Sony Sports Ten 3 HD(UKS)
-https://eas4.gcdn.co/UKS29/index.m3u8
-#EXTINF:-1,DD Sports
-https://eas4.gcdn.co/UKS30/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://eas4.gcdn.co/UKS41/index.m3u8
-#EXTINF:-1,42
-https://eas4.gcdn.co/UKS42/index.m3u8
-#EXTINF:-1,43
-https://eas4.gcdn.co/UKS43/index.m3u8
-#EXTINF:-1,Viaplay Sports 1
-https://eas4.gcdn.co/UKS44/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1(UKS)
-https://eas4.gcdn.co/UKS45/index.m3u8
-#EXTINF:-1,PTV Sports
-https://eas4.gcdn.co/UKS46/index.m3u8
-#EXTINF:-1,47
-https://eas4.gcdn.co/UKS47/index.m3u8
-#EXTINF:-1,DAZN 1
-https://eas4.gcdn.co/UKS48/index.m3u8
-#EXTINF:-1,DAZN 2
-https://eas4.gcdn.co/UKS49/index.m3u8
-#EXTINF:-1,Sky Sports Action
-https://eas4.gcdn.co/UKS50/index.m3u8
-#EXTINF:-1,Sky Sports Arena
-https://eas4.gcdn.co/UKS51/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://eas4.gcdn.co/UKS52/index.m3u8
-#EXTINF:-1,Sky Sports Cricket
-https://eas4.gcdn.co/UKS53/index.m3u8
-#EXTINF:-1,Sky Sports FI
-https://eas4.gcdn.co/UKS54/index.m3u8
-#EXTINF:-1,Sky Sports Football
-https://eas4.gcdn.co/UKS55/index.m3u8
-#EXTINF:-1,Sky Sports Golf ⛳ 
-https://eas4.gcdn.co/UKS56/index.m3u8
-#EXTINF:-1,Sky Sports Main Event
-https://eas4.gcdn.co/UKS57/index.m3u8
-#EXTINF:-1,Sky Sports Main Event
-https://eas4.gcdn.co/UKS58/index.m3u8
-#EXTINF:-1,Sky Sports Mix
-https://eas4.gcdn.co/UKS59/index.m3u8
-#EXTINF:-1,Sky Sports News
-https://eas4.gcdn.co/UKS60/index.m3u8
-#EXTINF:-1,FUT23
-https://eas4.gcdn.co/UKS61/index.m3u8
-#EXTINF:-1,Sky Sports Racing
-https://eas4.gcdn.co/UKS62/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="UKS",Sony Sports Ten 1 HD(USK)
-https://eas4.gcdn.co/UKS63/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="UKS",Sony Sports Ten 2 HD(UKS)
-https://eas4.gcdn.co/UKS64/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="UKS",Sony Sports Ten 3 HD(UKS)
-https://eas4.gcdn.co/UKS65/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="UKS",Sony Sports Ten 4 HD(UKS)
-https://eas4.gcdn.co/UKS66/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="UKS",Sony Sports Ten 5 HD(UKS)
-https://eas4.gcdn.co/UKS67/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD(UKS)
-https://eas4.gcdn.co/UKS68/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD Hindi(UKS)
-https://eas4.gcdn.co/UKS69/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD(UKS)
-https://eas4.gcdn.co/UKS70/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD Hindi(UKS)
-https://eas4.gcdn.co/UKS71/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD(UKS)
-https://eas4.gcdn.co/UKS72/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="UKS",Star Sports 2 HD(UKS)
-https://eas4.gcdn.co/UKS73/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="UKS",Star Sports 1 HD Hindi(UKS)
-https://eas4.gcdn.co/UKS74/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="UKS",Star Sports Select 1 HD(UKS)
-https://eas4.gcdn.co/UKS75/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="UKS",Star Sports Select 2 HD(UKS)
-https://eas4.gcdn.co/UKS76/index.m3u8
-#EXTINF:-1,Star Sports 1
-https://eas4.gcdn.co/UKS77/index.m3u8
-#EXTINF:-1,Super Sports Cricket
-https://eas4.gcdn.co/UKS78/index.m3u8
-#EXTINF:-1,Super Sports LaLiga
-https://eas4.gcdn.co/UKS79/index.m3u8
-#EXTINF:-1,Super Sports UEFA
-https://eas4.gcdn.co/UKS80/index.m3u8
-#EXTINF:-1,Golf⛳ 
-https://eas4.gcdn.co/UKS81/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="UKS",Ten Sports PK(UKS)
-https://eas4.gcdn.co/UKS82/index.m3u8
-#EXTINF:-1,Tennis Channel
-https://eas4.gcdn.co/UKS83/index.m3u8
-#EXTINF:-1,WILLOW HD
-https://eas4.gcdn.co/UKS84/index.m3u8
-#EXTINF:-1,WILLOW XTRA
-https://eas4.gcdn.co/UKS85/index.m3u8
-#EXTINF:-1,86
-https://eas4.gcdn.co/UKS86/index.m3u8
-#EXTINF:-1,87
-https://eas4.gcdn.co/UKS87/index.m3u8
-#EXTINF:-1,88
-https://eas4.gcdn.co/UKS88/index.m3u8
-#EXTINF:-1,89
-https://eas4.gcdn.co/UKS89/index.m3u8
-#EXTINF:-1,90
-https://eas4.gcdn.co/UKS90/index.m3u8
 
 
 
@@ -1517,205 +1297,6 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
 
-Sports iptv m3u8:
-#EXTINF:-1,&flix HD-Rs 19
-http://59.103.245.153:8000/play/a04w/index.m3u8
-#EXTINF:-1,&pictures HD -Rs 19
-http://59.103.245.153:8000/play/a05d/index.m3u8
-#EXTINF:-1,&prive HD-Rs 6
-http://59.103.245.153:8000/play/a05j/index.m3u8
-#EXTINF:-1,24 News HD
-http://59.103.245.153:8000/play/a00x/index.m3u8
-#EXTINF:-1,ARYDigitalAsia HD
-http://59.103.245.153:8000/play/a014/index.m3u8
-#EXTINF:-1,ARYMusik
-http://59.103.245.153:8000/play/a016/index.m3u8
-#EXTINF:-1,ARYNewsAsia
-http://59.103.245.153:8000/play/a017/index.m3u8
-#EXTINF:-1,ARYQTV
-http://59.103.245.153:8000/play/a015/index.m3u8
-#EXTINF:-1,ARYZindagi
-http://59.103.245.153:8000/play/a013/index.m3u8
-#EXTINF:-1,Animal PlanetHD-Rs5
-http://59.103.245.153:8000/play/a057/index.m3u8
-#EXTINF:-1,Avt khyber HD
-http://59.103.245.153:8000/play/a00i/index.m3u8
-#EXTINF:-1,CITY-21
-http://59.103.245.153:8000/play/a012/index.m3u8
-#EXTINF:-1,CITY-41
-http://59.103.245.153:8000/play/a00z/index.m3u8
-#EXTINF:-1,CITY-42 HD
-http://59.103.245.153:8000/play/a00y/index.m3u8
-#EXTINF:-1,Cartoon NW-Rs4.25
-http://59.103.245.153:8000/play/a06k/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
-http://59.103.245.153:8000/play/a04v/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00w/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00v/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00u/index.m3u8
-
-#EXTINF:-1,Discovery HD-Rs8
-http://59.103.245.153:8000/play/a06i/index.m3u8
-#EXTINF:-1,Discovery Kids-Rs3.50
-http://59.103.245.153:8000/play/a06s/index.m3u8
-#EXTINF:-1,DiscoveryScienc-Rs1
-http://59.103.245.153:8000/play/a05l/index.m3u8
-#EXTINF:-1,DiscoveryTurbo-Rs1
-http://59.103.245.153:8000/play/a05m/index.m3u8
-#EXTINF:-1,Disney Jr.-Rs 4
-http://59.103.245.153:8000/play/a06o/index.m3u8
-#EXTINF:-1,Disney-Rs 10
-http://59.103.245.153:8000/play/a06m/index.m3u8
-#EXTINF:-1,EUROSPORT HD-Rs 5.50
-http://59.103.245.153:8000/play/a04y/index.m3u8
-#EXTINF:-1,FOX Life HD-Rs 2
-http://59.103.245.153:8000/play/a05s/index.m3u8
-#EXTINF:-1,Geo Entertainment
-http://59.103.245.153:8000/play/a00q/index.m3u8
-#EXTINF:-1,Geo Kahani
-http://59.103.245.153:8000/play/a00r/index.m3u8
-#EXTINF:-1,Geo News
-http://59.103.245.153:8000/play/a00p/index.m3u8
-#EXTINF:-1,Geo Super
-http://59.103.245.153:8000/play/a00s/index.m3u8
-#EXTINF:-1,Geo Tez
-http://59.103.245.153:8000/play/a00t/index.m3u8
-#EXTINF:-1,HISTORY TV18 HD-Rs7
-http://59.103.245.153:8000/play/a059/index.m3u8
-#EXTINF:-1,HUM NEWS HD
-http://59.103.245.153:8000/play/a00l/index.m3u8
-#EXTINF:-1,HUM PASHTO-1
-http://59.103.245.153:8000/play/a00o/index.m3u8
-#EXTINF:-1,HUM SITARAY
-http://59.103.245.153:8000/play/a00n/index.m3u8
-#EXTINF:-1,Investigation D-Rs1
-http://59.103.245.153:8000/play/a066/index.m3u8
-#EXTINF:-1,Kay-2 HD
-http://59.103.245.153:8000/play/a00k/index.m3u8
-
-#EXTINF:-1,Khyber News HD
-http://59.103.245.153:8000/play/a00j/index.m3u8
-#EXTINF:-1,MASALA TV
-http://59.103.245.153:8000/play/a00m/index.m3u8
-#EXTINF:-1,MN+ HD-Rs 8
-http://59.103.245.153:8000/play/a06e/index.m3u8
-#EXTINF:-1,Nat Geo HD-Rs14
-http://59.103.245.153:8000/play/a06h/index.m3u8
-#EXTINF:-1,NatGeo Wild HD-Rs8
-http://59.103.245.153:8000/play/a065/index.m3u8
-#EXTINF:-1,PTV-Home
-http://59.103.245.153:8000/play/a009/index.m3u8
-#EXTINF:-1,PTV-NEWS HD
-http://59.103.245.153:8000/play/a00a/index.m3u8
-#EXTINF:-1,PTV-SPORTS-HD
-http://59.103.245.153:8000/play/a00c/index.m3u8
-#EXTINF:-1,PTV-Sports SD
-http://59.103.245.153:8000/play/a00e/index.m3u8
-#EXTINF:-1,PTV-Teleschool
-http://59.103.245.153:8000/play/a00b/index.m3u8
-#EXTINF:-1,PTV-World
-http://59.103.245.153:8000/play/a00d/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
-http://59.103.245.153:8000/play/a06q/index.m3u8
-#EXTINF:-1,ROHI TV
-http://59.103.245.153:8000/play/a010/index.m3u8
-#EXTINF:-1,Radio_Apna & Nori
-http://59.103.245.153:8000/play/a00h/index.m3u8
-#EXTINF:-1,Radio_Pakistan-1
-http://59.103.245.153:8000/play/a00f/index.m3u8
-#EXTINF:-1,Radio_Sawat & Waziristan
-http://59.103.245.153:8000/play/a00g/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
-http://59.103.245.153:8000/play/a04x/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
-http://59.103.245.153:8000/play/a06p/index.m3u8
-#EXTINF:-1,SONY MAX 2 - Rs 1
-http://59.103.245.153:8000/play/a05r/index.m3u8
-
-#EXTINF:-1,SONY MAX HD -Rs 19
-http://59.103.245.153:8000/play/a064/index.m3u8
-#EXTINF:-1,SONY PAL - 50p
-http://59.103.245.153:8000/play/a052/index.m3u8
-#EXTINF:-1,SONY PIX HD - Rs 19
-http://59.103.245.153:8000/play/a05c/index.m3u8
-#EXTINF:-1,STAR BHARAT HD-Rs 19
-http://59.103.245.153:8000/play/a056/index.m3u8
-#EXTINF:-1,STAR MOVIES HD-Rs19
-http://59.103.245.153:8000/play/a06f/index.m3u8
-#EXTINF:-1,STAR WORLD HD -Rs 9
-http://59.103.245.153:8000/play/a05y/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD-Rs19
-http://59.103.245.153:8000/play/a061/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD-Rs19
-http://59.103.245.153:8000/play/a05g/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD-Rs19
-http://59.103.245.153:8000/play/a067/index.m3u8
-#EXTINF:-1,Sony Ten 5 HD-Rs19
-http://59.103.245.153:8000/play/a062/index.m3u8
-#EXTINF:-1,SonyBBCearthHD-Rs19
-http://59.103.245.153:8000/play/a05b/index.m3u8
-#EXTINF:-1,Sports18 1 HD-Rs10
-http://59.103.245.153:8000/play/a06b/index.m3u8
-#EXTINF:-1,Star GOLD HD -Rs 19
-http://59.103.245.153:8000/play/a058/index.m3u8
-#EXTINF:-1,Star Gold 2- Rs 2
-http://59.103.245.153:8000/play/a05p/index.m3u8
-#EXTINF:-1,Star Plus HD -Rs 19
-http://59.103.245.153:8000/play/a04t/index.m3u8
-#EXTINF:-1,Star Sports 3- Rs 2
-http://59.103.245.153:8000/play/a068/index.m3u8
-#EXTINF:-1,Star Utsav-50p
-http://59.103.245.153:8000/play/a051/index.m3u8
-#EXTINF:-1,StarGold SelHD-Rs8
-http://59.103.245.153:8000/play/a05a/index.m3u8
-#EXTINF:-1,StarMovieSelHD-Rs19
-http://59.103.245.153:8000/play/a06g/index.m3u8
-#EXTINF:-1,StarS1 HindiHD-Rs19
-http://59.103.245.153:8000/play/a063/index.m3u8
-#EXTINF:-1,StarSportSL1HD-Rs19
-http://59.103.245.153:8000/play/a05e/index.m3u8
-#EXTINF:-1,StarSportSL2HD-Rs10
-http://59.103.245.153:8000/play/a05f/index.m3u8
-#EXTINF:-1,StarSports1 HD-Rs19
-http://59.103.245.153:8000/play/a05z/index.m3u8
-#EXTINF:-1,StarSports2 HD-Rs19
-http://59.103.245.153:8000/play/a060/index.m3u8
-#EXTINF:-1,StarWorld PrmHD-Rs9
-http://59.103.245.153:8000/play/a05x/index.m3u8
-#EXTINF:-1,TLC HD- Rs3
-http://59.103.245.153:8000/play/a06c/index.m3u8
-#EXTINF:-1,UK-44
-http://59.103.245.153:8000/play/a011/index.m3u8
-
-#EXTINF:-1,UTV ACTION-Rs 2
-http://59.103.245.153:8000/play/a05o/index.m3u8
-#EXTINF:-1,UTV MOVIES-Rs 2
-http://59.103.245.153:8000/play/a05n/index.m3u8
-#EXTINF:-1,ZEE ANMOL-10p
-http://59.103.245.153:8000/play/a053/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD-Rs3
-http://59.103.245.153:8000/play/a05q/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD-Rs 19
-http://59.103.245.153:8000/play/a055/index.m3u8
-#EXTINF:-1,ZEE Cafe HD - Rs10
-http://59.103.245.153:8000/play/a06d/index.m3u8
-#EXTINF:-1,ZEE TV HD-Rs 19
-http://59.103.245.153:8000/play/a04u/index.m3u8
-#EXTINF:-1,bindass - 10p
-http://59.103.245.153:8000/play/a050/index.m3u8
-#EXTINF:-1,colors rishtey-Rs1
-http://59.103.245.153:8000/play/a04z/index.m3u8
-#EXTINF:-1,colorsInfintyHD-Rs9
-http://59.103.245.153:8000/play/a05h/index.m3u8
-#EXTINF:-1,hungama tv-Rs 1
-http://59.103.245.153:8000/play/a06l/index.m3u8
-#EXTINF:-1,nick - Rs 6
-http://59.103.245.153:8000/play/a06n/index.m3u8
-#EXTINF:-1,nick HD+- Rs 10
-http://59.103.245.153:8000/play/a05i/index.m3u8
 
 
 
