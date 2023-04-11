@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1(720p)
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 2(480p)
@@ -46,7 +45,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 19
 http://appsbiswas.live:8880/live/20320520/40320520/51.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 20
-http://appsbiswas.live:8880/live/20320520/40320520/4623.m3u8
+http://appsbiswas.live:8880/live/20320520/40320520/6980.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 21
 http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 22
@@ -902,6 +901,8 @@ http://103.213.238.70/ADSPORTS2/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
 https://m.dtvstream.in/master.m3u8/?id=463
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
+http://appsbiswas.live:8880/live/20320520/40320520/6391.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BCIPTV",Discovery HD(BCIPTV)
