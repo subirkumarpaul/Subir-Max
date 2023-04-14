@@ -55,7 +55,7 @@ https://cdn.t20hd.click/live/1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
-https://lin-gd-001-cf.slivcdn.com:443/out/v1/79396cc3e885493e950b24dcddceaeda/master_7.m3u8?hdntl=exp=1681530383~acl=*~hmac=e48c147cf864d77c002ef1cce8386d7ab7e25eb5f0c9834e0a642aec473f43d0&originpath=/linear/hls/pa/event/Sle_TR8rQIuZHWzshEXYjQ/stream/ac844451-68f4-472c-a4a9-2ed8545be915:GRQ/variant/d36bf8f514f89a676ea85aee2e2f11aa/bandwidth/4704510.m3u8
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
 https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
