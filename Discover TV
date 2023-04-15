@@ -410,8 +410,8 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="ZEE",Zee Bangla Cinema(ZEE)
-https://cflive-esports-english.zee5.com/out/v1/56c729f568d54dba9f418bf03cd203de/Zee_Bangla_Cinema_SD/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Toffee",Zee Bangla Cinema(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla_cinema&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
@@ -424,7 +424,7 @@ http://15.1.5.10:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BCIPTV",Jalsha Movies HD(BCIPTV)
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=jalsha_movies&utoken=&e=.m3u8
 
 
