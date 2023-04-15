@@ -998,8 +998,8 @@ http://103.218.25.12:89/play/a02k/index.m3u8
 
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
-#EXTINF: -1 group-title="Live TV 2",History TV 18 HD(Live TV 2)
-
+#EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=history_tv&utoken=&e=.m3u8
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-348
