@@ -336,7 +336,8 @@ http://bdiptv.net:8082/DBC-News/index.m3u8
 http://15.1.5.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Palki TV",Ekhon TV(Palki TV)
+#EXTINF:-1 tvg-logo=""group-title="Toffee",Movie Bangla(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=movie_bangla&utoken=&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Palki TV",TBN 24(Palki TV)
@@ -989,7 +990,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_bbc_earth&utoken=&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BCIPTV",Sony BBC Earth(BCIPTV)
 http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
-http://103.162.136.235:4500/play/a00l/index.m3u8
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_bbc_earth_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 
