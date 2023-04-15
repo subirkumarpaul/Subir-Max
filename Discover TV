@@ -14,8 +14,8 @@ https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=http
 https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 C
 https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6
-http://appsbiswas.live:8880/live/20320520/40320520/153.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6  বাংলা
+https://prod-sports-north-gm.jiocinema.com:443/hls/live/2099023/hd_akamai_androidmob_avc_ben_ipl20/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
 http://appsbiswas.live:8880/live/20320520/40320520/13.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8 Hindi
