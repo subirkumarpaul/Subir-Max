@@ -92,8 +92,8 @@ http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
 http://103.106.2.152:13456/btv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BDIPTV",BTV National(BDIPTV)
-http://bdiptv.net:8282/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Toffee",BTV National(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=btv_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BCIPTV",BTV National(BCIPTV)
 http://15.1.1.34:8282/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Jagobd",BTV World(Jagobd)
