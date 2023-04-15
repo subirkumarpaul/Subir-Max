@@ -1106,8 +1106,8 @@ http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
 http://180.178.188.152:8000/play/a016
 
-#EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
-https://tv.dtvstream.online/dtv-zee/api.php?c=0-9-zeecafehd
+#EXTINF:-1 tvg-logo=""group-title="Toffee",Zee Cafe(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_cafe_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
 http://212.224.84.217:2200/R-EX/ENGLISH_ZEE_CAFE_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo%7CUser-Agent=REDLINECLIENT
 
