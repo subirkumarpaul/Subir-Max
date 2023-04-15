@@ -355,6 +355,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="BDIPTV",ATN Music(BDIPTV)
 http://bdiptv.net:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="Toffee",Movie Bangla Music(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=movie_b_music&utoken=&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="BD",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
