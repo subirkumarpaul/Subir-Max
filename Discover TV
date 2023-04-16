@@ -1379,18 +1379,7 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1,1
-http://starshare.live:8080/live/tanveer2159175/003332159175/761.m3u8
-#EXTINF:-1,2
-http://starshare.live:8080/live/tanveer2159175/003332159175/762.m3u8
-#EXTINF:-1,3
-http://starshare.live:8080/live/tanveer2159175/003332159175/763.m3u8
-#EXTINF:-1,4
-http://starshare.live:8080/live/tanveer2159175/003332159175/764.m3u8
-#EXTINF:-1,5
-http://starshare.live:8080/live/tanveer2159175/003332159175/765.m3u8
-#EXTINF:-1,6
-http://starshare.live:8080/live/tanveer2159175/003332159175/766.m3u8
+
 #EXTINF:-1,7
 http://starshare.live:8080/live/tanveer2159175/003332159175/767.m3u8
 #EXTINF:-1,8
@@ -1425,8 +1414,20 @@ http://starshare.live:8080/live/tanveer2159175/003332159175/781.m3u8
 http://starshare.live:8080/live/tanveer2159175/003332159175/782.m3u8
 #EXTINF:-1,23
 http://starshare.live:8080/live/tanveer2159175/003332159175/783.m3u8
-
-
+#EXTINF:-1,24
+http://starshare.live:8080/live/tanveer2159175/003332159175/784.m3u8
+#EXTINF:-1,25
+http://starshare.live:8080/live/tanveer2159175/003332159175/785.m3u8
+#EXTINF:-1,26
+http://starshare.live:8080/live/tanveer2159175/003332159175/786.m3u8
+#EXTINF:-1,27
+http://starshare.live:8080/live/tanveer2159175/003332159175/787.m3u8
+#EXTINF:-1,28
+http://starshare.live:8080/live/tanveer2159175/003332159175/788.m3u8
+#EXTINF:-1,29
+http://starshare.live:8080/live/tanveer2159175/003332159175/789.m3u8
+#EXTINF:-1,30
+http://starshare.live:8080/live/tanveer2159175/003332159175/790.m3u8
 
 
 
