@@ -518,6 +518,9 @@ http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Toffee",Star Plus(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_plus&utoken=&e=.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Toffee",Star Bharat(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_bharat&utoken=&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Flixhub",Colors(Flixhub)
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
@@ -746,8 +749,10 @@ https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BCIPTV",Sony Sports Ten 1(BCIPTV)
 http://15.1.5.10:8082/ten1-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BDIPTV",Sony Sports Ten 1(BDIPTV)
-http://bdiptv.net:8282/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1 HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_ten1_hd&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ten_1&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony Liv",Sony Sports Ten 1(Sony Liv)
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
@@ -755,8 +760,10 @@ https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Flixhub",Sony Sports Ten 2(Flixhub)
 http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BDIPTV",Sony Sports Ten 2(BDIPTV)
-http://bdiptv.net:8282/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2 HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_ten2_hd&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ten_2&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BCIPTV",Sony Sports Ten 2(BCIPTV)
 http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sony Liv",Sony Sports Ten 2(Sony Liv)
@@ -766,8 +773,10 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Flixhub",Sony Sports Ten 3(Flixhub)
 http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BDIPTV",Sony Sports Ten 3(BDIPTV)
-http://bdiptv.net:8282/ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3 HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_ten3_hd&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ten_3&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BCIPTV",Sony Sports Ten 3(BCIPTV)
 http://15.1.5.10:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sony Liv",Sony Sports Ten 3(Sony Liv)
@@ -788,8 +797,11 @@ https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Flixhub",Sony Sports Ten 5(Flixhub)
 http://live.flixhub.net/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="BDIPTV",Sony Sports Ten 5(BDIPTV)
-http://bdiptv.net:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Toffee",Sony Sports Ten 5(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_six&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Toffee",Sony Sports Ten 5 HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_six_hd&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="BCIPTV",Sony Sports Ten 5(BCIPTV)
 http://15.1.5.14:8082/sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sony Liv",Sony Sports Ten 5(Sony Liv)
@@ -809,8 +821,10 @@ http://live.flixhub.net/hls/bein1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/2b640b1a-c728-4db8-b6cd-1ccbe4e60ace/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Live TV 2",Eurosports(Live TV 2)
-http://103.218.25.12:89/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=euro_sports_sd&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=euro_sports_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
