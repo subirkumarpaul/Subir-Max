@@ -1,42 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
-
-#EXTINF:-1,1
-http://starshare.live:8080/live/tanveer2159175/003332159175/771.m3u8
-#EXTINF:-1,2
-http://starshare.live:8080/live/tanveer2159175/003332159175/772.m3u8
-#EXTINF:-1,3
-http://starshare.live:8080/live/tanveer2159175/003332159175/773.m3u8
-#EXTINF:-1,4
-http://starshare.live:8080/live/tanveer2159175/003332159175/774.m3u8
-#EXTINF:-1,5
-http://starshare.live:8080/live/tanveer2159175/003332159175/775.m3u8
-#EXTINF:-1,6
-http://starshare.live:8080/live/tanveer2159175/003332159175/776.m3u8
-#EXTINF:-1,7
-http://starshare.live:8080/live/tanveer2159175/003332159175/777.m3u8
-#EXTINF:-1,8
-http://starshare.live:8080/live/tanveer2159175/003332159175/778.m3u8
-#EXTINF:-1,9
-http://starshare.live:8080/live/tanveer2159175/003332159175/779.m3u8
-#EXTINF:-1,10
-http://starshare.live:8080/live/tanveer2159175/003332159175/780.m3u8
-#EXTINF:-1,11
-http://starshare.live:8080/live/tanveer2159175/003332159175/781.m3u8
-#EXTINF:-1,12
-http://starshare.live:8080/live/tanveer2159175/003332159175/782.m3u8
-#EXTINF:-1,13
-http://starshare.live:8080/live/tanveer2159175/003332159175/783.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1(720p)
@@ -1414,6 +1377,35 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
 
+#EXTM3U
+
+
+#EXTINF:-1,1
+http://starshare.live:8080/live/tanveer2159175/003332159175/771.m3u8
+#EXTINF:-1,2
+http://starshare.live:8080/live/tanveer2159175/003332159175/772.m3u8
+#EXTINF:-1,3
+http://starshare.live:8080/live/tanveer2159175/003332159175/773.m3u8
+#EXTINF:-1,4
+http://starshare.live:8080/live/tanveer2159175/003332159175/774.m3u8
+#EXTINF:-1,5
+http://starshare.live:8080/live/tanveer2159175/003332159175/775.m3u8
+#EXTINF:-1,6
+http://starshare.live:8080/live/tanveer2159175/003332159175/776.m3u8
+#EXTINF:-1,7
+http://starshare.live:8080/live/tanveer2159175/003332159175/777.m3u8
+#EXTINF:-1,8
+http://starshare.live:8080/live/tanveer2159175/003332159175/778.m3u8
+#EXTINF:-1,9
+http://starshare.live:8080/live/tanveer2159175/003332159175/779.m3u8
+#EXTINF:-1,10
+http://starshare.live:8080/live/tanveer2159175/003332159175/780.m3u8
+#EXTINF:-1,11
+http://starshare.live:8080/live/tanveer2159175/003332159175/781.m3u8
+#EXTINF:-1,12
+http://starshare.live:8080/live/tanveer2159175/003332159175/782.m3u8
+#EXTINF:-1,13
+http://starshare.live:8080/live/tanveer2159175/003332159175/783.m3u8
 
 
 
