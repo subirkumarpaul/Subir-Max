@@ -508,8 +508,8 @@ http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title=Toffee",Sony Sab(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_sab&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pal.png"group-title="Sony Liv",Sony Pal(Sony Liv)
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="DTV",Sony Sab(DTV)
+https://m.dtvstream.in/master.m3u8/?id=471
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus(Flixhub)
 http://live.flixhub.net/hls/starplus.m3u8
@@ -536,6 +536,8 @@ http://bdiptv.net:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BCIPTV",Zee TV(BCIPTV)
 http://15.1.5.14:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="DTV",And TV(DTV)
+https://m.dtvstream.in/master.m3u8/?id=472
 
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 http://live.flixhub.net/hls/bhojpuri.m3u8
@@ -546,8 +548,8 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Toffee",Sony Max HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_max&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Live TV 2",Sony Max HD(Live TV 2)
-http://103.218.25.12:89/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="DTV",Sony Max HD(DTV)
+https://m.dtvstream.in/master.m3u8/?id=476
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BCIPTV",Sony Max HD(BCIPTV)
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony Liv",Sony Max(Sony Liv)
@@ -573,8 +575,8 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Toffee",Zee Cinema HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_cinema_hd&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="ZEE",Zee Cinema(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="DTV",Zee Cinema(DTV)
+https:\\m.dtvstream.in\master.m3u8\?id=484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
 http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BCIPTV",Zee Action(BCIPTV)
@@ -585,14 +587,14 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="ZEE",Zee Classic(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-176
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="ZEE",Zee Anmol Cinema(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="DTV",Zee Anmol Cinema(DTV)
+https://m.dtvstream.in/master.m3u8/?id=415
 #EXTINF:-1 tvg-logo=""group-title="Live TV 2",Zee Bollywwood(Live TV 2)
 http://103.218.25.12:89/play/a02i/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Bollywwood(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeclassic
-#EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Action(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeeaction
+#EXTINF:-1 tvg-logo=""group-title="DTV",Zee Bollywwood(DTV)
+https://m.dtvstream.in/master.m3u8/?id=487
+#EXTINF:-1 tvg-logo=""group-title="DTV",Zee Action(DTV)
+https://m.dtvstream.in/master.m3u8/?id=488
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Cinemalu(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemalu
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Talkies(ZEE)
@@ -622,8 +624,8 @@ http://103.218.25.12:89/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
 http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BDIPTV",Colors Cineplex(BDIPTV)
-http://bdiptv.net:8282/colorscineplex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="DTV",Colors Cineplex(DTV)
+https://m.dtvstream.in/master.m3u8/?id=482
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BCIPTV",Colors Cineplex(BCIPTV)
 http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
@@ -1200,6 +1202,8 @@ http://live.flixhub.net/hls/axn.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BCIPTV",TLC(BCIPTV)
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="DTV",TLC(DTV)
+https://m.dtvstream.in/master.m3u8/?id=476
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD3",Romedy Now HD(BD3)
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
@@ -1213,8 +1217,8 @@ http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
 https://livetv-channels.b-cdn.net/8015/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BCIPTV",9X Jalwa(BCIPTV)
 http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD",9X Jalwa(BD)
-https://livetv-channels.b-cdn.net/8013/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="DTV",9X Jalwa(DTV)
+https://m.dtvstream.in/master.m3u8/?id=440
 #EXTINF:-1 tvg-logo=""group-title="BD",9X Tashan(BD)
 https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 
@@ -1258,6 +1262,8 @@ https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 http://live.flixhub.net/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BCIPTV",Aljazeera(BCIPTV)
 http://15.1.5.10:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="DTV",Aljazeera(DTV)
+https://m.dtvstream.in/master.m3u8/?id=494
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
