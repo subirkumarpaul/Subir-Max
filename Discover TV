@@ -409,16 +409,27 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BCIPTV",Sun Bangla(BCIPTV)
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="Flixhub",Akash Aath(Flixhub)
+http://live.flixhub.net/hls/akash.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
+https://livetv-channels.b-cdn.net/8080/chunklist0.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Flixhub",Enter 10 Bangla(Flixhub)
 http://live.flixhub.net/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
-https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
+https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BDIPTV",Enter 10 Bangla(BDIPTV)
+http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/R%20Plus%20Gold.jpeg" group-title="BD2",R Plus Gold(BD2)
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD",Ruposhi Bangla(BD)
+https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ZEE",DD Bangla(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-ddbangla
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sananda%20TV%20.jpeg"group-title="BDIP",Sanonda TV(BDIP)
-http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
@@ -447,26 +458,12 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD Live",Khushboo Bangla(BD Live)
 https://watchtvs.live/live.php?c=Khusboo_TV&q=1200&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sananda%20TV%20.jpeg"group-title="BDIP",Sanonda TV(BDIP)
+http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BD Live",Amar Bangla(BD Live)
 https://watchtvs.live/live.php?c=Amaar_Cinema&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="Flixhub",Akash Aath(Flixhub)
-http://live.flixhub.net/hls/akash.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
-https://livetv-channels.b-cdn.net/8080/chunklist0.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Flixhub",Enter 10 Bangla(Flixhub)
-http://live.flixhub.net4/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BDIPTV",Enter 10 Bangla(BDIPTV)
-http://bdiptv.net:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/R%20Plus%20Gold.jpeg" group-title="BD2",R Plus Gold(BD2)
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="BD",Ruposhi Bangla(BD)
-https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Flixhub",Sangeet Bangla(Flixhub)
 http://live.flixhub.net/hls/sangeetbangla.m3u8
