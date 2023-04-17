@@ -19,7 +19,7 @@ https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8?|referer=http
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6  বাংলা
 https://prod-sports-north-gm.jiocinema.com:443/hls/live/2099023/hd_akamai_androidmob_avc_ben_ipl23/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl11/master.m3u8
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8 Hindi
 http://starshare.live:8080/live/tanveer2159175/003332159175/769.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 9
@@ -71,7 +71,7 @@ https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 18
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 19
-http://103.141.2.37:25461/live/web/web/592.m3u8
+https://ds1.enjoyhd.club/stream/ch89/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 20
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 21
@@ -83,7 +83,7 @@ https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 24
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 25
-
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
 
 
@@ -241,6 +241,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 http://15.1.5.14:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Jagobd",Boishakhi Plus(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="30 Live",Boishakhi Plus(30 Live)
 
 
@@ -336,6 +337,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://bdiptv.net:8082/DBC-News/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BCIPTV",DBC News(BCIPTV)
 http://15.1.5.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Jagobd",Jago News 24(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png"group-title="Toffee",Movie Bangla(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=movie_bangla&utoken=&e=.m3u8
@@ -578,10 +582,14 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_cinema_hd&utoken=&e=
 https:\\m.dtvstream.in\master.m3u8\?id=484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
 http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BCIPTV",Zee Action(BCIPTV)
 http://15.1.5.10:8082/zeeaction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
-http://208.86.19.13:81/7288.stream/index.m3u8
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="DTV",Zee Action(DTV)
+https://m.dtvstream.in/master.m3u8/?id=488
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD2",Zee Classic(BD2)
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="ZEE",Zee Classic(ZEE)
@@ -592,8 +600,6 @@ https://m.dtvstream.in/master.m3u8/?id=415
 http://103.218.25.12:89/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png"group-title="DTV",Zee Bollywwood(DTV)
 https://m.dtvstream.in/master.m3u8/?id=487
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/355/logo/240x240/mobile_logo_569572001655891220.png"group-title="DTV",Zee Action(DTV)
-https://m.dtvstream.in/master.m3u8/?id=488
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Cinemalu(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemalu
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Talkies(ZEE)
@@ -614,9 +620,9 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BCIPTV",Star Gold 2(BCIPTV)
 http://15.1.5.14:8082/stargold2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Gold SELECT(BD)
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf812674c2dcf9bc8b10a8e/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Gold Select(BD)
-http://180.178.188.152:8000/play/a014
+http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Live TV 2",Star Gold Select(Live TV 2)
 http://103.218.25.12:89/play/a020/index.m3u8
 
@@ -629,8 +635,8 @@ http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="ZEE",And Pictures HD(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
+http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Toffee",And Pictures(Toffee )
@@ -681,8 +687,10 @@ https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Cinama TV (BD)
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",B4U Movies (BD)
-http://42.200.67.163:8090/play/a0nb
+#EXTINF:-1 tvg-logo="" group-title="BD",B4U Movies IN (BD)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="" group-title="BD",B4U Movies UK (BD)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="" group-title="Live TV 2",Cine Active(Live TV 2)
 http://103.218.25.12:89/play/a02g/index.m3u8
@@ -694,6 +702,8 @@ http://103.218.25.12:89/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",MBC 2(Flixhub)
 http://live.flixhub.net/hls/mbc.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",MBC Bollywood(BD)
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Flixhub",Star Sports 1(Flixhub)
 http://live.flixhub.net/hls/stersports1hd.m3u8
@@ -854,7 +864,7 @@ http://live.flixhub.net/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BDIPTV",PTV Sports(BDIPTV)
 http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-http://118.179.3.26/PTV-Sports/tracks-v1a1/mono.m3u8?token=RohabTVV
+http://180.178.188.152:8000/play/a075
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BCIPTV",PTV Sports(BCIPTV)
 http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="30 Live",PTV Sports(30 Live)
@@ -1093,7 +1103,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick_junior&utoken=&e=.m
 #EXTINF:-1 tvg-logo=""group-title="Toffee",Sonic(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sonic&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
-http://51.159.210.91/madstream.live/hungama/tracks-v2a1/mono.m3u8
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
 https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/superhungama.m3u8
 
