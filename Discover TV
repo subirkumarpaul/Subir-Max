@@ -610,17 +610,35 @@ http://15.1.5.10:8082/star-gold/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Toffee",Star Gold(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_gold&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BCIPTV",Star Gold 2(BCIPTV)
 http://15.1.5.14:8082/stargold2hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",Star Gold SELECT(BD)
 
-#EXTINF:-1 tvg-logo=""group-title="BD",Star Gold Select(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="Flixhub",Star Gold Thrills(Flixhub)
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="Live TV 2",Star Gold Thrills(Live TV 2)
+http://103.218.25.12:89/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD3",Star Gold Thrills(BD3)
+http://103.162.136.235:4500/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Flixhub",Star Gold Romance(Flixhub)
+http://live.flixhub.net/hls/utv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Live TV 2",Star Gold Romance(Live TV 2)
+http://103.218.25.12:89/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="BD",Star Gold Romance(BD)
+http://208.86.19.13:81/723.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold SELECT(BD)
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold Select(BD)
 http://208.86.19.13:81/7099.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live TV 2",Star Gold Select(Live TV 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Live TV 2",Star Gold Select(Live TV 2)
 http://103.218.25.12:89/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
@@ -640,22 +658,6 @@ http://live.flixhub.net/hls/andpictures.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=and_picture_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-209
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
-http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD",UTV Action(BD)
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Live TV 2",UTV Action(Live TV 2)
-http://103.218.25.12:89/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD3",UTV Action(BD3)
-http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="Flixhub",UTV MOVIES(Flixhub)
-http://live.flixhub.net/hls/utv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="Live TV 2",UTV Movies(Live TV 2)
-http://103.218.25.12:89/play/a02d/index.m3u8
-#http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD",UTV MOVIES HD(BD)
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
