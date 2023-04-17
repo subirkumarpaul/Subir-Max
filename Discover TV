@@ -576,7 +576,7 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Toffee",Zee Cinema HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_cinema_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="DTV",Zee Cinema(DTV)
-https:\\m.dtvstream.in\master.m3u8\?id=484
+https://m.dtvstream.in/master.m3u8/?id=484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BCIPTV",Zee Cinema(BCIPTV)
 http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
