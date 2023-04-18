@@ -819,8 +819,6 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Flixhub",Sports 18 HD(Flixhub)
 http://live.flixhub.net/hls/bein1.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="BD",Flow Sports(BD)
-
 
 #EXTINF:-1 tvg-logo=""group-title="Jio",Jio Cinema(Jio)
 
@@ -837,6 +835,25 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=euro_sports_hd&utoken=&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Flixhub",PTV Sports(Flixhub)
+http://live.flixhub.net/hls/ptv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BDIPTV",PTV Sports(BDIPTV)
+http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
+http://180.178.188.152:8000/play/a075
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BCIPTV",PTV Sports(BCIPTV)
+http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="30 Live",PTV Sports(30 Live)
+http://pakin.worldtvip.co/pk_ptv_sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="BD",Ten Sports PK(BD)
@@ -851,6 +868,8 @@ http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
 https://ddy1.onlinewebtv.lol/ddy1/premium346/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
 https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BD",Flow Sports(BD)
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 501(BD)
@@ -871,32 +890,13 @@ https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium825/track
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Flixhub",PTV Sports(Flixhub)
-http://live.flixhub.net/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BDIPTV",PTV Sports(BDIPTV)
-http://bdiptv.net:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-http://180.178.188.152:8000/play/a075
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BCIPTV",PTV Sports(BCIPTV)
-http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="30 Live",PTV Sports(30 Live)
-http://pakin.worldtvip.co/pk_ptv_sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
-
-#EXTINF:-1 tvg-logo=""group-title="BD",Super Sports Cricket(BD)
-
+#EXTINF:-1 tvg-logo=""group-title="BD"Astro Cricket(BD)
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
 https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Fox Cricket 501 HD(BD)
-http://ku3.worldtvip.co/cric_fox501/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
 http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
@@ -907,7 +907,7 @@ http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
-https://webudi.openhd.lol/ddy1/premium46/index.m3u8?|Referer=https://streamservicehd.click/&.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium46/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BDIPTV",Bein Sports 4(BDIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
