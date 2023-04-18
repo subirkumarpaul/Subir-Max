@@ -848,9 +848,10 @@ http://15.1.5.22:8082/en1-p3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20TV.jpeg"group-title="BCIPTV",Willow Cricket(BCIPTV)
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
-https://eas4.gcdn.co/UKS84/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
 https://ddy1.onlinewebtv.lol/ddy1/premium346/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
+https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 501(BD)
 https://ddy1.onlinewebtv.lol/ddy1/premium369/index.m3u8?|referer=https://olacast.live/&e.m3u8
