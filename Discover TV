@@ -20,6 +20,8 @@ http://appsbiswas.live:8880/live/shimul4890/01616104890/6852.m3u8
 https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl26/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6 বাংলা
 https://prod-sports-north-gm.jiocinema.com:443/hls/live/2099024/hd_akamai_androidmob_avc_ben_ipl26/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6 Hindi
+https://rana-pk.xyz/IPL08/play.m3u8?id=M1_IPL23_Hin_HD_IDC_BTS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
 https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8 
