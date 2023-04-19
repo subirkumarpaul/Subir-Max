@@ -947,6 +947,10 @@ http://103.213.238.70/ADSPORTS2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 3(BDIPTV)
 
 
+#EXTINF:-1 tvg-logo=""group-title="BD",SSC 1(BD)
+https://daddy.yurendtv.biz.id/https://ddy4.onlinewebtv.lol/ddy4/premium8/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
 http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Toffee",Discovery HD(Toffee)
