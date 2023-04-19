@@ -914,12 +914,12 @@ https://ddy1.onlinewebtv.lol/ddy1/premium46/index.m3u8?|referer=https://olacast.
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 1(BDIPTV)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BCIPTV",Bein Sports Premium 1(BCIPTV)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 2(BDIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 1(BD)
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BCIPTV",Bein Sports Premium 2(BD)
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 3(BD)
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_3.m3u8
 
 #EXTINF:-1,BT Sports 1
 https://ddy1.onlinewebtv.lol/ddy1/premium31/index.m3u8?|referer=https://olacast.live/&e.m3u8
