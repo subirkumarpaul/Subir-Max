@@ -1107,6 +1107,7 @@ http://live.flixhub.net/hls/dis-kid.m3u8
 http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="DA",Discovery Kids Multi Audio(DA)
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="BCIPTV",Sony Yay(BCIPTV)
@@ -1148,7 +1149,7 @@ http://live.flixhub.net/hls/pogo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Toffee",Pogo(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=pogo_sd&oken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Cartoon
-
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,Wow Kidz
 
