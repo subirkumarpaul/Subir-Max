@@ -531,8 +531,8 @@ http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD Cable TV",Sony Max(BD Cable TV)
-http://103.162.136.235:4500/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BDIPTV",Sony Max 2(BDIPTV)
 http://bdiptv.net:8282/sony-max2/tracks-v1a1/mono.m3u8
@@ -568,6 +568,8 @@ http://208.86.19.13:81/730.stream/index.m3u8
 http://denver12346.000webhostapp.com/G5/api.php?c=0-9-176
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="DTV",Zee Anmol Cinema(DTV)
 https://m.dtvstream.in/master.m3u8/?id=415
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD",Zee Anmol Cinema(BD)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png"group-title="Live TV 2",Zee Bollywwood(Live TV 2)
 http://103.218.25.12:89/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png"group-title="DTV",Zee Bollywwood(DTV)
@@ -599,15 +601,15 @@ http://live.flixhub.net/hls/utvaction.m3u8
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="Live TV 2",Star Gold Thrills(Live TV 2)
 http://103.218.25.12:89/play/a02e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD3",Star Gold Thrills(BD3)
-http://103.162.136.235:4500/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Flixhub",Star Gold Romance(Flixhub)
 http://live.flixhub.net/hls/utv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Live TV 2",Star Gold Romance(Live TV 2)
 http://103.218.25.12:89/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="BD",Star Gold Romance(BD)
-http://208.86.19.13:81/723.stream/index.m3u8
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold SELECT(BD)
 
@@ -1096,7 +1098,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick_junior&utoken=&e=.m
 #EXTINF:-1 tvg-logo=""group-title="Toffee",Sonic(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sonic&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
-http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
 https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/superhungama.m3u8
 
@@ -1244,7 +1246,8 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=b4umusic&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Toffee",MTV Beats HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=mtv_beats_hd&utoken=&e=.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Mastii Music(Flixhub)
 http://live.flixhub.net/hls/masti.m3u8
@@ -1254,13 +1257,13 @@ http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8
 http://bdiptv.net:8082/Music-Masti/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",E24(BD)
-https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
+http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",I Love U Music(BD)
 https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",MTunes+(BD)
 https://livetv-channels.b-cdn.net/8031/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",Balla Balla(BD)
-https://livetv-channels.b-cdn.net/8030/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",8XM(BD)
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Show Box(BD)
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
@@ -1269,7 +1272,8 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 http://live.flixhub.net/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Toffee",Zoom(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zoom_tv&utoken=&e=.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BD",Zoom(BD)
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass(Flixhub)
 http://live.flixhub.net/hls/bindass.m3u8
