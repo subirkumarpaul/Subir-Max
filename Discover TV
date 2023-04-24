@@ -34,15 +34,15 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
-https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://ddy1.salamus1.lol/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
-https://no2.onlinewebtv.lol:443/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://ddy1.salamus1.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
-https://no2.onlinewebtv.lol:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://ddy1.salamus1.lol/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16
-https://no2.onlinewebtv.lol:443/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://ddy1.salamus1.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 17
-https://ddy1.onlinewebtv.lol:443/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 18
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 19
@@ -845,37 +845,37 @@ http://15.1.5.22:8082/en1-p3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20TV.jpeg"group-title="BCIPTV",Willow Cricket(BCIPTV)
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
-https://ddy1.onlinewebtv.lol/ddy1/premium346/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium346/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium598/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium598/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Flow Sports(BD)
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 501(BD)
-https://ddy1.onlinewebtv.lol/ddy1/premium369/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium369/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 502(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium820/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium820/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 503(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium821/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium821/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 504(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium822/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium822/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 505(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium823/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium823/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 506(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium824/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium824/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 507(BD)
-https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium825/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium825/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD"Astro Cricket(BD)
-https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
-https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
@@ -887,7 +887,7 @@ http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
 https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
-https://ddy1.onlinewebtv.lol/ddy1/premium46/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BDIPTV",Bein Sports 4(BDIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
@@ -900,17 +900,17 @@ http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_2.m3u8
 http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_3.m3u8
 
 #EXTINF:-1,BT Sports 1
-https://ddy1.onlinewebtv.lol/ddy1/premium31/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium31/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 2
-https://ddy1.onlinewebtv.lol/ddy1/premium32/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium32/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 3
-https://ddy1.onlinewebtv.lol/ddy1/premium33/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium33/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,BT Sports 4
-https://ddy1.onlinewebtv.lol/ddy1/premium34/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium34/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 #EXTINF:-1,Super Sports Football
-https://ddy1.onlinewebtv.lol/ddy1/premium56/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium56/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1,Super Sports Cricket
 
 
@@ -926,7 +926,7 @@ http://103.213.238.70/ADSPORTS2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SSC 1(BD)
-https://daddy.yurendtv.biz.id/https://ddy4.onlinewebtv.lol/ddy4/premium8/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium31/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
@@ -1323,11 +1323,11 @@ http://live.flixhub.net/hls/madani.m3u8
 http://live.flixhub.net/hls/qurqntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
 https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
-https://ddy1.onlinewebtv.lol/ddy1/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
+https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
 https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
