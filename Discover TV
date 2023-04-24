@@ -94,7 +94,7 @@ https://webudit.salamus1.lol/lb/premium590/index.m3u8?|referer=https://olacast.l
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD2",BTV National(BD2)
-http://103.106.2.152:13456/btv.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Toffee",BTV National(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=btv_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BCIPTV",BTV National(BCIPTV)
@@ -154,9 +154,9 @@ https://stream.rockstreamer.com/121212.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV(Flixhub)
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BDIPTV",Maasranga TV(BDIPTV)
-http://bdiptv.net:8082/Maasranga/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BCIPTV",Maasranga TV(BCIPTV)
 http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
 
@@ -393,9 +393,10 @@ http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_jalsha&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
-http://live.flixhub.net/hls/zeebanglahd.m3u8
+#http://live.flixhub.net/hls/zeebanglahd.m3u8
+http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
-http://103.16.24.54:8080/channel4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BCIPTV",Zee Bangla HD(BCIPTV)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Toffee",Zee Bangla HD(Toffee)
