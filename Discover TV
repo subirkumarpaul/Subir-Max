@@ -832,8 +832,8 @@ http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="BD",Eurosports(BD)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/2b640b1a-c728-4db8-b6cd-1ccbe4e60ace/3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="DA",Eurosports(DA)
+https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=euro_sports_sd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports HD(Toffee)
@@ -1245,7 +1245,8 @@ http://live.flixhub.net/hls/axn.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BCIPTV",TLC(BCIPTV)
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="DTV",TLC(DTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="DA",TLC(DA)
+https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Tlc.m3u8
 https://m.dtvstream.in/master.m3u8/?id=476
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD3",Romedy Now HD(BD3)
