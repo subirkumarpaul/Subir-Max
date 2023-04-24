@@ -27,10 +27,12 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8
-https://dev-freecatv.pantheonsite.io/T-Sports/index.m3u8
+https://tv.musajeeb.online/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 9
+https://tv.musajeeb.online/GTV/tracks-v1a1/mono.m3u8
 https://dev-freecatv.pantheonsite.io//GTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 10
+https://tv.musajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8
 https://dev-freecatv.pantheonsite.io//Star-Sports-1/index.m3u8
 
 
