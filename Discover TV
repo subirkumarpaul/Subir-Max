@@ -393,8 +393,8 @@ http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_jalsha&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
-#http://live.flixhub.net/hls/zeebanglahd.m3u8
-http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+#http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BCIPTV",Zee Bangla HD(BCIPTV)
