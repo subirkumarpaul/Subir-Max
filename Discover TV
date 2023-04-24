@@ -996,7 +996,7 @@ http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Toffee",Discovery Turbo (Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=discovery_turbo&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="DA",Discovery Turbo Multi Audio(DA)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="DA",Discovery Turbo(DA)
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Toffee",Investigation Discovery(Toffee)
