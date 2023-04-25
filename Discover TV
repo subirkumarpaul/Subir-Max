@@ -879,6 +879,8 @@ https://webudit.salamus1.lol/lb/premium451/index.m3u8?|referer=https://olacast.l
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 1(BD)
 https://webudit.salamus1.lol/lb/premium49/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 2(BD)
+https://webudit.salamus1.lol/lb/premium74/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 3(BD)
 https://webudit.salamus1.lol/lb/premium454/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
