@@ -1109,10 +1109,10 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
 https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
-https://m.dtvstream.in/master.m3u8/?c=__hdnea__=st=1681623867~exp=1681627467~acl=/Food_Food/*~hmac=7b3a274efffc0bc431aa1e1fd8b6efa41a07fe97033aa19fc86c04962cd3780b&name=Food_Food&q=https://jiotvmblive.cdn.jio.com/Food_Food/Food_Food_800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Food Network()
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Network(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
 
