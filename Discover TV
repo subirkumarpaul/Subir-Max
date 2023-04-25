@@ -1022,6 +1022,8 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=animal_planet_hd&utoken=
 http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DA",Animal Planet Multi Audio(DA)
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Nat Geo HD(Flixhub)
 http://live.flixhub.net/hls/ngohd.m3u8
@@ -1120,7 +1122,7 @@ http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="DA",Discovery Kids Multi Audio(DA)
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoverykids-samsungin/playlist.m3u8
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="BCIPTV",Sony Yay(BCIPTV)
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
