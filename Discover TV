@@ -920,18 +920,18 @@ https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.li
 https://webudit.salamus1.lol/lb/premium449/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
-http://103.143.235.50/Bein_Sports_1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1 English(BD)
+https://webudit.salamus1.lol/lb/premium61/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Flixhub",Bein Sports 1(Flixhub)
-
+https://webudit.salamus1.lol/lb/premium62/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
-http://103.143.235.50/Bein_Sports_2/tracks-v1a1/mono.m3u8
+https://webudit.salamus1.lol/lb/premium63/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium64/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
 https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BDIPTV",Bein Sports 4(BDIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BD",Bein Sports 4(BD)
+https://webudit.salamus1.lol/lb/premium67/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BDIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 1(BD)
