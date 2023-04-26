@@ -973,9 +973,10 @@ https://webudit.salamus1.lol/lb/premium31/index.m3u8?|referer=https://olacast.li
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
 http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="DA",Discovery HD Multi Audio(DA) 
-(DA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="DA",Discovery HD Multi Audio(DA) (DA)
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Subir",Discovery HD(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Toffee",Discovery HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=discovery_sd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BCIPTV",Discovery HD(BCIPTV)
