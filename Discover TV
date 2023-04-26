@@ -30,6 +30,10 @@ https://ddy1.salamus1.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https:/
 https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6
 https://webudit.salamus1.lol/lb/premium369/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6 A
+https://webudit.salamus1.lol/lb/premium590/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6 B
+http://xtra.fireottplus.com:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/131410.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8
@@ -50,6 +54,7 @@ https://dev-freecatv.pantheonsite.io//GTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 15
 https://tv.musajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8
 https://dev-freecatv.pantheonsite.io//Star-Sports-1/index.m3u8
+
 
 
 
