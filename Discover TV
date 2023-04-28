@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English
-https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl38/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl39/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English Match 1
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English Match 2
@@ -1571,8 +1571,8 @@ http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Dasara%20%282023%29%2010
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2018/Mission%20Impossible%20-%20Fallout%20%282018%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BBD5.1%20Hindi%2BDD5.1%20English%5D%20MSubs%20x265/Mission%20Impossible%20-%20Fallout%20%282018%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BBD5.1%20Hindi%2BDD5.1%20English%5D%20MSubs%20x265.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Ravanasura
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Ravanasura%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio-DUB%29%2BTelugu%5D%20ESub%20x264/Ravanasura%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio-DUB%29%2BTelugu%5D%20ESub%20x264.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies",Selfiee
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Selfiee%20%282023%29%20Hindi%201080p%20WEB-DL%20ESub%20DDP5.1%20H264/Selfiee%20%282023%29%20Hindi%201080p%20WEB-DL%20ESub%20DDP5.1%20H264.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies",Boudir Canteoon
+https://drive.google.com/file/d/1-8bo9g9uc1u7m1uco_TG7g4fqC_ypylU/view?usp=drivesdk
 #EXTINF:-1 tvg-logo="" group-title="Movies",Fakes Farzi EP8
 http://ftp7.circleftp.net/FILE/Hindi%20TV%20Series/Farzi%20%28TV%20Series%202023-%29/Season%201%201080p/Fakes.Farzi.S01E08.Crash.and.Burn.1080p.AMZN.WEB-DL.DDP5.1.H.264-mkvCinemas.mkv
 
