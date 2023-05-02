@@ -871,10 +871,10 @@ http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="BD",Ten Sports PK(BD)
-
+http://starshare.live:8080/live/Arish/Arish/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="BCIPTV",Ten Cricket(BCIPTV)
-http://15.1.5.22:8082/en1-p3/tracks-v1a1/mono.m3u8
+http://starshare.live:8080/live/Arish/Arish/9886.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20TV.jpeg"group-title="BCIPTV",Willow Cricket(BCIPTV)
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
@@ -1096,7 +1096,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_infinity_hd&utoke
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Toffee",Fox Life HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=fox_life&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
-http://212.224.84.217:2200/R-EX/ENGLISH_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+http://starshare.live:8080/live/Arish/Arish/98876.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Live TV 2",FOX Life HD(Live TV 2)
 http://103.218.25.12:89/play/a02k/index.m3u8
 
