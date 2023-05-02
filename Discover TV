@@ -93,8 +93,8 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://webudit.salamus1.lol/lb/premium449/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 31
 https://webudit.salamus1.lol/lb/premium590/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 31
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+
 
 
 
@@ -124,8 +124,8 @@ http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
 http://live.flixhub.net/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
-http://bdiptv.net:8282/tsports/tracks-v1/mono.m3u8#EXTINF:-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
+http://starshare.live:8080/live/Arish/Arish/149021.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports(BCIPTV)
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports HD(BCIPTV)
