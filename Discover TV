@@ -411,8 +411,8 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla&utoken=&e=.m3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Old",Colors Bangla(Old)
-http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Toffee",Colors Bangla(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_b&utoken=&e=.m3u8
 
@@ -538,8 +538,8 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=star_bharat&utoken=&e=.m
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BCIPTV",Colors(BCIPTV)
 http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD70",Colors(BD70)
-http://103.213.238.70/Colors/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Jio TV",Colors(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
 http://live.flixhub.net/hls/zeetv.m3u8
@@ -832,6 +832,8 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Flixhub",Sports 18 HD(Flixhub)
 http://live.flixhub.net/hls/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 HD(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Jio",Jio Cinema(Jio)
