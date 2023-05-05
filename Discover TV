@@ -926,7 +926,8 @@ https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.li
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mix(BD)
 https://webudit.salamus1.lol/lb/premium449/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports(BD)
+https://webudit.salamus1.lol/lb/premium425/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1 English(BD)
 https://webudit.salamus1.lol/lb/premium61/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
@@ -968,30 +969,35 @@ https://webudit.salamus1.lol/lb/premium33/index.m3u8?|referer=https://olacast.li
 https://webudit.salamus1.lol/lb/premium34/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
-#EXTINF:-1,Super Sports Football
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Football
 https://webudit.salamus1.lol/lb/premium56/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Cricket
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Cricket
 https://webudit.salamus1.lol/lb/premium368/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Grandstand
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Grandstand
 https://webudit.salamus1.lol/lb/premium412/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports PSL
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports PSL
 https://webudit.salamus1.lol/lb/premium413/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports 
+#EXTINF:-1 tvg-logo=""group-title="DSTV"Super Sports 
 https://webudit.salamus1.lol/lb/premium414/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports LaLiga
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports LaLiga
 https://webudit.salamus1.lol/lb/premium415/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Variety 1
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Variety 1
 https://webudit.salamus1.lol/lb/premium416/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Variety 2
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Variety 2
 https://webudit.salamus1.lol/lb/premium417/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Variety 3
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Variety 3
 https://webudit.salamus1.lol/lb/premium418/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports 
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports 
 https://webudit.salamus1.lol/lb/premium419/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Action
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Action
 https://webudit.salamus1.lol/lb/premium420/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1,Super Sports Rugby
-https://webudit.salamus1.lol/lb/premium419/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Rugby
+https://webudit.salamus1.lol/lb/premium421/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Golf
+https://webudit.salamus1.lol/lb/premium422/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Tennis
+https://webudit.salamus1.lol/lb/premium423/index.m3u8?|referer=https://olacast.live/&e.m3u8
+
 
 
 
