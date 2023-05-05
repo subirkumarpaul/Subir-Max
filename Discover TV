@@ -930,6 +930,8 @@ https://webudit.salamus1.lol/lb/premium449/index.m3u8?|referer=https://olacast.l
 https://webudit.salamus1.lol/lb/premium36/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Action(BD)
 https://webudit.salamus1.lol/lb/premium37/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Golf(BD)
+https://webudit.salamus1.lol/lb/premium70/index.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 
@@ -951,10 +953,12 @@ https://webudit.salamus1.lol/lb/premium90/index.m3u8?|referer=https://olacast.li
 https://webudit.salamus1.lol/lb/premium63/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
 https://webudit.salamus1.lol/lb/premium92/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
-https://webudit.salamus1.lol/lb/premium64/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
+https://webudit.salamus1.lol/lb/premium46/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
 https://webudit.salamus1.lol/lb/premium93/index.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
+https://webudit.salamus1.lol/lb/premium64/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BD",Bein Sports 4(BD)
 https://webudit.salamus1.lol/lb/premium67/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BD",Bein Sports 4(BD)
