@@ -59,9 +59,9 @@ https://dev-freecatv.pantheonsite.io//Star-Sports-1/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16 BD VS PAK U19
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683539187/ei/k3BYZM_ZFYG51gLdspGgDA/ip/92.205.15.128/id/H3_bwoilYbw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbWXf8JjBpV1dvq10T_lGR1ye9wbyAuP1dj8CYP_-2bMCIQDLqzLmDklj7Zv38YRdfLAMXp762zG5PwNzTDgCAq5NwQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16 A
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 17
 https://ddy1.salamus1.lol/ddy1/premium38/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
