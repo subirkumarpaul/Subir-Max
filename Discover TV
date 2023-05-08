@@ -37,7 +37,7 @@ https://webudit.salamus1.lol/lb/premium590/index.m3u8?|referer=https://olacast.l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6 B
 http://xtra.fireottplus.com:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/131410.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
-http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://15.1.5.22:8082/DESH-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8
 http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 9
@@ -415,8 +415,6 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla&utoken=&e=.m3
 http://live.flixhub.net/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla(Jio TV)
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla(BD)
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Toffee",Colors Bangla(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_b&utoken=&e=.m3u8
 
