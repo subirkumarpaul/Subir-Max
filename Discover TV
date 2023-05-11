@@ -5,9 +5,9 @@
 #EXTINF:-1,BD VS SRI Women Cricket Match
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683801472/ei/IHFcZJfiGtTbgAfjtajwDQ/ip/92.205.15.128/id/Xl81iIfKrkA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTH_Iy6wvQ2wFgnJuknDcQEhRez72tjygalVKZwkYjWkCIQD4oNEABGDUJPYX5A5OB8sLaVn42ywbnTmgTX3jF3d0WA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English
-https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl55/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl56/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English 4K
-https://prod-sports-north-gm.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_ipl55/master.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_ipl56/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English Match 1
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English Match 2
