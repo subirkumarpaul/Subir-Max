@@ -472,6 +472,9 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_bangla_cinema&uto
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BCIPTV",Jalsha Movies HD(BCIPTV)
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BCIPTV",Jalsha Movies HD(BCIPTV)
+
+http://103.190.35.2:8082/Jalsha-Movie/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=jalsha_movies&utoken=&e=.m3u8
 
