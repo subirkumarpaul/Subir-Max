@@ -817,7 +817,7 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Flixhub",Sony Sports Ten 3(Flixhub)
 http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BD",Sony Sports Ten 3 HD(BD)
-http://103.190.35.2:8082/SONY-Ten-1/tracks-a1/index.m3u8
+http://103.190.35.2:8082/SONY-Ten-3/tracks-a1/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_ten3_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ten_3&utoken=&e=.m3u8
