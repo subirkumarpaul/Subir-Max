@@ -167,7 +167,7 @@ https://stream.rockstreamer.com/121212.m3u8
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BDIPTV",Maasranga TV(BDIPTV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD",Maasranga TV(BD)
 http://103.190.35.2:8082/Maasranga-Tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BCIPTV",Maasranga TV(BCIPTV)
 http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
@@ -298,7 +298,7 @@ http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Jagobd",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BD",Somoy TV(BD)
-http://103.190.35.2:8082/Somoy-Tv/tracks-v1a1/index.fmp4.m3u8
+http://103.190.35.2:8082/Somoy-Tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BCIPTV",Somoy TV(BCIPTV)
 http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 
@@ -316,7 +316,7 @@ http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Flixhub",Ekattor TV(Flixhub)
 http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BD",Ekattor TV(BD)
-http://103.190.35.2:8082/Ekattor-Tv/tracks-a1/index.fmp4.m3u8
+http://103.190.35.2:8082/Ekattor-Tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BCIPTV",Ekattor TV(BCIPTV)
 http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
@@ -473,7 +473,7 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BCIPTV",Jalsha Movies HD(BCIPTV)
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-http://103.190.35.2:8082/Jalsha-Movie/tracks-v1/index.fmp4.m3u8
+http://103.190.35.2:8082/Jalsha-Movie/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=jalsha_movies&utoken=&e=.m3u8
 
