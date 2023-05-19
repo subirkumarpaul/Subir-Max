@@ -168,7 +168,7 @@ http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BDIPTV",Maasranga TV(BDIPTV)
-http://103.190.35.2:8082/Maasranga-Tv/tracks-a1/index.m3u8
+http://103.190.35.2:8082/Maasranga-Tv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BCIPTV",Maasranga TV(BCIPTV)
 http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
 
@@ -298,7 +298,7 @@ http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Jagobd",Somoy TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BD",Somoy TV(BD)
-http://103.190.35.2:8082/Somoy-Tv/tracks-a1/index.fmp4.m3u8
+http://103.190.35.2:8082/Somoy-Tv/tracks-v1a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BCIPTV",Somoy TV(BCIPTV)
 http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 
