@@ -678,6 +678,8 @@ https://m.dtvstream.in/master.m3u8/?id=482
 http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD2",Colors Cineplex Bollywood(BD2)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
 http://208.86.19.13:81/7055.stream/index.m3u8
@@ -1225,6 +1227,8 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Toffee",Sony Yay(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_yay&utoken=&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Toffee",Nick(toffee)
@@ -1385,8 +1389,10 @@ http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Toffee",B4U Music(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=b4umusic&utoken=&e=.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Toffee",MTV Beats HD(Toffee)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV HD Plus(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV Beats HD(Jio TV)
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=mtv_beats_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
