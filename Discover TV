@@ -678,7 +678,7 @@ https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Cineplex_voot_MOB/F
 http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BD2",Colors Cineplex(BD2)
 http://208.86.19.13:81/735.stream/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD2",Colors Cineplex Bollywood(BD2)
+#EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Cineplex Bollywood(Jio TV)
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
