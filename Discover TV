@@ -419,6 +419,8 @@ http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
 http://103.190.35.2:8082/Zee-Bangla/tracks-v1a1/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Zee",Zee Bangla HD(Zee)
+https://zee5.somlive.workers.dev/0-9-zeebangla
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
@@ -454,12 +456,14 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ZEE",DD Bangla(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-ddbangla
+https://zee5.somlive.workers.dev/0-9-ddbangla
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Toffee",Zee Bangla Cinema(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla_cinema&utoken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Zee",Zee Bangla Cinema(Zee)
+https://zee5.somlive.workers.dev/0-9-zeebanglacinema
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
