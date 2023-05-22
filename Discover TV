@@ -669,8 +669,8 @@ http://15.1.5.14:8082/stargold2hd/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="Live TV 2",Star Gold Thrills(Live TV 2)
-http://103.218.25.12:89/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
+http://103.245.195.80:9500/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 
@@ -1148,7 +1148,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ngc_sd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BCIPTV",Nat Geo HD(BCIPTV)
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-http://starshare.live:8080/live/Arish/Arish/98874.m3u8
+http:\\103.245.195.80:9500\play\a00g\index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
@@ -1224,12 +1224,17 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Food Network(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD3",Nasa TV(BD3)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1,Tom & Jerry
-https://4k3u.short.gy/live/tom&jerry_24/7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
+http://live.flixhub.net/hls/cn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network (BD)
+http://103.245.195.80:9500/play/a02d/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network (Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=cartoon_network_sd&oken=&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network HD(Toffee)
+https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=cartoon_network_sd&oken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Flixhub",Discovery Kids(Flixhub)
 http://live.flixhub.net/hls/dis-kid.m3u8
@@ -1265,18 +1270,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sonic&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
-https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/superhungama.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
-http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BDIPTV",Cartoon Network (BDIPTV)
-http://bdiptv.net:8082/Cartoon-Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network (Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=cartoon_network_sd&oken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network HD(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=cartoon_network_sd&oken=&e=.m3u8
+http://103.245.195.80:9500/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://live.flixhub.net/hls/pogo.m3u8
@@ -1301,8 +1295,8 @@ http://bdiptv.net:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Live TV 2",Star Movies Select(Live TV 2)
-http://103.218.25.12:89/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
+http://103.245.195.80:9500/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Sony Liv",Sony Pix HD(Sony Liv)
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
@@ -1357,8 +1351,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BCIPTV",And Flix(BCIPTV)
 http://15.1.5.14:8082/AND-FLIX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ZEE",And Flix(ZEE)
-
+#EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
+http://103.245.195.80:9500/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ZEE",Zee Cafe HD(ZEE)
 
 
