@@ -226,7 +226,7 @@ http://103.113.149.52:8000/play/a00c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Jagobd",MY TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="BCIPTV",MY TV(BCIPTV)
 http://15.1.5.14:8082/MyTV/tracks-v1a1/mono.m3u8
 
@@ -293,7 +293,10 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=global_tv&utoken=&e=.m3u
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="BDIX",CHANNEL S HD
-https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
+http://208.86.19.13:81/519.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="BDIX",CHANNEL S HD UK
+
+https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="Palki TV",Duronto TV(Flixhub)
 
