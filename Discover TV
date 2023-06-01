@@ -383,6 +383,7 @@ https://zee5.somlive.workers.dev/0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Bangla_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Yupp TV",Colors Bangla(Yupp TV)
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
@@ -516,6 +517,7 @@ http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BCIPTV",Colors(BCIPTV)
 http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Jio TV",Colors(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Rishtey(Jio TV)
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
@@ -637,6 +639,7 @@ http://103.218.25.12:89/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
 http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Jio TV",Colors Cineplex(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Cineplex_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="BCIPTV",Colors Cineplex(BCIPTV)
 http://15.1.5.10:8082/colorscineplex/tracks-v1a1/mono.m3u8
@@ -1130,6 +1133,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_bbc_earth_hd&utoken
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Jio TV",Colors Infinity(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Infinity_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Toffee",Colors Infinity(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_infinity_hd&utoken=&e=.m3u8
@@ -1207,6 +1211,7 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_yay&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Nick_HD_Plus_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://live.flixhub.net/hls/nick.m3u8
@@ -1215,10 +1220,12 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title=Jio TV",Nick JR(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Nick_Junior_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick_junior&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Sonic(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Sonic_Nickelodeon_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sonic&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
@@ -1334,6 +1341,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="Jio TV",Comedy Central HD(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=Comedy_Central_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=comedy_central_hd&utoken=&e=.m3u8
 
@@ -1361,10 +1369,13 @@ http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=b4umusic&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV HD Plus(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_HD_Plus_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV Beats HD(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV Beats(Jio TV)
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=mtv_beats_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
@@ -2272,80 +2283,80 @@ https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Telegram @iamsomx",Sports18 1 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Telegram @iamsomx",Sports18 1 HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1519040560_Channel_Logo_Web_Channel-Listing_500x500_Mtv1_320X320.png" group-title="Telegram @iamsomx",MTV
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Telegram @iamsomx",MTV HD Plus
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="Telegram @iamsomx",MTV Beats
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Telegram @iamsomx",MTV Beats HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="Telegram @iamsomx",VH1
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/VH1_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Telegram @iamsomx",Nick
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://logodix.com/logo/900709.png" group-title="Telegram @iamsomx",Nick HD Plus
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Telegram @iamsomx",Nick Junior
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="Telegram @iamsomx",Sonic Nickelodeon
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="Telegram @iamsomx",Comedy Central 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Telegram @iamsomx",Comedy Central HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="Telegram @iamsomx",Clubbing TV
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Telegram @iamsomx",Colors Rishtey
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Telegram @iamsomx",Colors Super
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Telegram @iamsomx",Colors Infinity 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Telegram @iamsomx",Colors Infinity HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Telegram @iamsomx",Colors Cineplex Superhits
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Telegram @iamsomx",Colors Cineplex 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_SD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Telegram @iamsomx",Colors Cineplex HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Telegram @iamsomx",Colors Cineplex Bollywood
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Telegram @iamsomx",Colors 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Telegram @iamsomx",Colors HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Telegram @iamsomx",Colors Bangla 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="Telegram @iamsomx",Colors Bangla HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Telegram @iamsomx",Colors Bangla Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Bangla_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="Telegram @iamsomx",Colors Kannada 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Telegram @iamsomx",Colors Kannada HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="Telegram @iamsomx",Colors Kannada Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Telegram @iamsomx",Colors Marathi 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Telegram @iamsomx",Colors Marathi HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Telegram @iamsomx",Colors Tamil 
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Telegram @iamsomx",Colors Tamil HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Telegram @iamsomx",Colors Gujarati
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="Telegram @iamsomx",Colors Gujarati Cinema
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Gujarati_Cinema_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Telegram @iamsomx",Colors Oriya
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="JIO TV",Sports18 1 
+https://ranapk.xyz/VOOT/play.m3u8?id=Sports18_1_SD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="JIO TV",Sports18 1 HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Sports18_1_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1519040560_Channel_Logo_Web_Channel-Listing_500x500_Mtv1_320X320.png" group-title="JIO TV",MTV
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JIO TV",MTV HD Plus
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_HD_Plus_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png" group-title="JIO TV",MTV Beats
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JIO TV",MTV Beats HD
+https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" group-title="JIO TV",VH1
+https://ranapk.xyz/VOOT/play.m3u8?id=VH1_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="JIO TV",Nick
+https://ranapk.xyz/VOOT/play.m3u8?id=bpk-tv/Nick_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://logodix.com/logo/900709.png" group-title="JIO TV",Nick HD Plus
+https://ranapk.xyz/VOOT/play.m3u8?id=Nick_HD_Plus_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JIO TV",Nick Junior
+https://ranapk.xyz/VOOT/play.m3u8?id=Nick_Junior_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="JIO TV",Sonic Nickelodeon
+https://ranapk.xyz/VOOT/play.m3u8?id=Sonic_Nickelodeon_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="JIO TV",Comedy Central 
+https://ranapk.xyz/VOOT/play.m3u8?id=Comedy_Central_SD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JIO TV",Comedy Central HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Comedy_Central_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" group-title="JIO TV",Clubbing TV
+https://ranapk.xyz/VOOT/play.m3u8?id=Clubbing_TV_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JIO TV",Colors Rishtey
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Rishtey_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="JIO TV",Colors Super
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Super_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="JIO TV",Colors Infinity 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Infinity_SD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="JIO TV",Colors Infinity HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Infinity_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JIO TV",Colors Cineplex Superhits
+https://ranapk.xyz/VOOT/play.m3u8?id=Rishtey_Cineplex_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="JIO TV",Colors Cineplex 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Cineplex_SD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="JIO TV",Colors Cineplex HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="JIO TVTelegram @iamsomx",Colors Cineplex Bollywood
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="JIO TV",Colors 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIO TV",Colors HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="JIO TV",Colors Bangla 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Bangla_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="JIO TV",Colors Bangla HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Bangla_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="JIO TV",Colors Bangla Cinema
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Bangla_Cinema_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="JIO TV",Colors Kannada 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Kannada_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JIO TV",Colors Kannada HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Kannada_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png" group-title="JIO TVTelegram @iamsomx",Colors Kannada Cinema
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Kannada_Cinema_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="JIO TV",Colors Marathi 
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Marathi_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JIO TV",Colors Marathi HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Marathi_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="JIO TV",Colors Tamil 
+https://ranapk.xyz/VOOT/play.m3u8?id=bpk-tv/Colors_Tamil_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JIO TV",Colors Tamil HD
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Tamil_HD_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="JIO TV",Colors Gujarati
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Gujarati_voot_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati_Cinema.png" group-title="JIO TV",Colors Gujarati Cinema
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Gujarati_Cinema_MOB
+#EXTINF:-1 tvg-id="143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Telegram @iamsomxJIO TV",Colors Oriya
+https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Oriya_voot_MOB
 
 #EXTM3U url-tvg="https://rstream.me/epg.xml"
 
