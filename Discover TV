@@ -825,7 +825,8 @@ http://live.flixhub.net/hls/bein1.m3u8
 https://ranapk.xyz/VOOT/play.m3u8?id=Sports18_1_HD_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD",Sports 18 Khal(BD)
-http://freecatv-manik.xyz/Sports18-Khelm.m3u8
+http://103.121.31.251:8000/play/a01k/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="Jio",Jio Cinema(Jio)
@@ -855,10 +856,10 @@ http://15.1.5.14:8082/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 http://103.190.35.2:8082/PTV-Sports/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-
+http://103.121.31.251:8000/play/udp-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
-
+http://103.121.31.251:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
 
@@ -868,7 +869,7 @@ http://live.flixhub.net/hls/ten.m3u8
 http://starshare.live:8080/live/Arish/Arish/98.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="BCIPTV",Ten Cricket(BCIPTV)
-http://starshare.live:8080/live/Arish/Arish/9886.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20TV.jpeg"group-title="BCIPTV",Willow Cricket(BCIPTV)
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
