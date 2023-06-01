@@ -840,8 +840,8 @@ http://103.121.31.251:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",DD Sports 2.0(BD3)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="DA",Eurosports(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Eurosport.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Subir",Eurosports(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=euro_sports_sd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Toffee",Eurosports HD(Toffee)
@@ -1067,21 +1067,23 @@ https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science Multi Audio(BD)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science Multi Audio(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Subir",Discovery Science Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Science.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Toffee",Discovery Turbo (Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=discovery_turbo&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="DA",Discovery Turbo(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Subir",Discovery Turbo(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="BD",Discovery Turbo(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Toffee",Investigation Discovery(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=discovery_india_id_hd&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="DA",Investigation Discovery Multi Audio(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Subir",Investigation Discovery Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="BD",Investigation Discovery Multi Audio(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Discovery.m3u8
 
@@ -1091,8 +1093,8 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=animal_planet_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
 http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="DA",Animal Planet Multi Audio(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
 
@@ -1168,6 +1170,8 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel Channel(BD)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="BD3",Love nature(BD)
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -1181,7 +1185,8 @@ https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Food Network(BD)
+#EXTINF:-1 tvg-logo="" group-title="Subir",Food Network(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD3",Nasa TV(BD3)
@@ -1200,8 +1205,8 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=cartoon_network_sd&oken=
 http://live.flixhub.net/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BDIPTV",Discovery Kids(BDIPTV)
 http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="DA",Discovery Kids Multi Audio(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Subir",Discovery Kids Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 
@@ -1333,8 +1338,8 @@ http://live.flixhub.net/hls/axn.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BCIPTV",TLC(BCIPTV)
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="DA",TLC(DA)
-https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Tlc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Subir",TLC(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BD",TLC(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
