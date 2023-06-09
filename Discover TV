@@ -234,8 +234,8 @@ http://15.1.5.10:8082/GLOBLA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Toffee",Global TV(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=global_tv&utoken=&e=.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Palki TV",Green TV(Palki TV)
-
+#EXTINF:-1 tvg-logo=""group-title="Jagobd",Green TV(Jagobd)
+http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="BDIX",CHANNEL S HD
 http://208.86.19.13:81/519.stream/index.m3u8
