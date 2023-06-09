@@ -1106,9 +1106,9 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ngc_sd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BCIPTV",Nat Geo HD(BCIPTV)
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-http:\\103.245.195.80:9500\play\a00g\index.m3u8
+http://103.245.195.80:9500/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-
+http://12.1.1.1:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
 http://live.flixhub.nethls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Toffee",Nat Geo Wild(Toffee)
@@ -1116,7 +1116,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=ngc_wild&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BCIPTV",Nat Geo Wild(BCIPTV)
 http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-http://starshare.live:8080/live/Arish/Arish/98875.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 
 
