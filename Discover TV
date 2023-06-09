@@ -654,7 +654,7 @@ https://ranapk.xyz/VOOT/play.m3u8?id=Rishtey_Cineplex_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
-http://208.86.19.13:81/7055.stream/index.m3u8
+http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Toffee",And Pictures(Toffee )
