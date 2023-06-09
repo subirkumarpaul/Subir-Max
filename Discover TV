@@ -8,7 +8,7 @@ http://103.190.35.2:8082/GAZI/tracks-v1a1/index.m3u8
 http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-https://webudit.cdnhks.lol/lb/premium38/index.m3u8|User-Agent=android&Referer=https://ntuplay.xyz/
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
 https://webudit.cdnhks.lol/lb/premium550/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
@@ -18,7 +18,7 @@ https://webudit.cdnhks.lol/lb/premium590/index.m3u8?|referer=https://olacast.liv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
-
+https://webudit.cdnhks.lol/lb/premium38/index.m3u8|User-Agent=android&Referer=https://ntuplay.xyz/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
 https://webudit.salamus1.lol/lb/premium590/index.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
