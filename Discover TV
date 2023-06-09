@@ -650,6 +650,9 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Cineplex Bollywood(Jio TV)
 https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Colors Cineplex Bollywood(BD)
+
+http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Cineplex Superhit(Jio TV)
 https://ranapk.xyz/VOOT/play.m3u8?id=Rishtey_Cineplex_voot_MOB
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
