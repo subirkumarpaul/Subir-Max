@@ -428,8 +428,8 @@ https://zee5.somlive.workers.dev/0-9-ddbangla
 http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Toffee",Zee Bangla Cinema(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla_cinema&utoken=&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Zee",Zee Bangla Cinema(Zee)
-https://zee5.somlive.workers.dev/0-9-zeebanglacinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(ZBD)
+http://208.86.19.13:81/7088.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
