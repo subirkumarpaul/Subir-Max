@@ -1365,7 +1365,12 @@ https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Comedy_Central_HD_voot_MOB
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=comedy_central_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD",MBC 2(BD)
 https://rana-pk.xyz/STAR7/app/master.php?id=1858&e=.m3u8
-
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD",MBC 3(BD)
+https://rana-pk.xyz/STAR7/app/master.php?id=1859&e=.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD",MBC MAX(BD)
+https://rana-pk.xyz/STAR7/app/master.php?id=1862&e=.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD",MBC Action(BD)
+https://rana-pk.xyz/STAR7/app/master.php?id=1861&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9XM(Flixhub)
 http://live.flixhub.net/hls/9xm.m3u8
