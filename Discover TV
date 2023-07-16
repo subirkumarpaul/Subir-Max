@@ -1233,7 +1233,7 @@ https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_yay&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Nick_HD_Plus_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://live.flixhub.net/hls/nick.m3u8
@@ -1242,12 +1242,12 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title=Jio TV",Nick JR(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Nick_Junior_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick_junior&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Sonic(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Sonic_Nickelodeon_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sonic&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
@@ -1399,13 +1399,13 @@ http://15.1.5.10:8082/b4u/tracks-v1a1/mono.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=b4umusic&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV HD Plus(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=MTV_HD_Plus_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV Beats HD(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_HD_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV Beats(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=MTV_Beats_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=mtv_beats_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
@@ -1451,7 +1451,7 @@ https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=vh1_hd&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Clubbing TV(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Clubbing_TV_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
 
 
