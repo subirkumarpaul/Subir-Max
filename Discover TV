@@ -1234,7 +1234,7 @@ http://live.flixhub.net/hls/nick.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=nick&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BCIPTV",Nick JR(BCIPTV)
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title=Jio TV",Nick JR(Jio TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Jio TV",Nick JR(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 
 
