@@ -392,7 +392,7 @@ https://zee5.somlive.workers.dev/0-9-zeebangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Bangla_HD_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Yupp TV",Colors Bangla(Yupp TV)
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
@@ -526,9 +526,10 @@ http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BCIPTV",Colors(BCIPTV)
 http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Jio TV",Colors(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Colors_HD_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Rishtey(Jio TV)
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
@@ -1151,7 +1152,7 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_bbc_earth_hd&utoken
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Jio TV",Colors Infinity(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Infinity_HD_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Toffee",Colors Infinity(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=colors_infinity_hd&utoken=&e=.m3u8
@@ -1363,7 +1364,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="Jio TV",Comedy Central HD(Jio TV)
-https://ranapk.xyz/VOOT/play.m3u8?id=Comedy_Central_HD_voot_MOB
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=comedy_central_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="BD",MBC 2(BD)
