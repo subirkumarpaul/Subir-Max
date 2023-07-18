@@ -383,10 +383,10 @@ http://live.flixhub.net/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BCIPTV",Zee Bangla HD(BCIPTV)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
-http://103.190.35.2:8082/Zee-Bangla/tracks-v1a1/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_bangla&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Zee",Zee Bangla HD(Zee)
-https://zee5.somlive.workers.dev/0-9-zeebangla
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://live.flixhub.net/hls/colorsbangla.m3u8
