@@ -1536,78 +1536,80 @@ https://somoy.appv.jagobd.com:444/somoy/nrb-eu.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,1
-https://seehdgames.online/yayinch1.m3u8
-#EXTINF:-1,2
-https://seehdgames.online/yayinch2.m3u8
-#EXTINF:-1,3
-https://seehdgames.online/yayinch3.m3u8
-#EXTINF:-1,4
-https://seehdgames.online/yayinch4.m3u8
-#EXTINF:-1,5
-https://seehdgames.online/yayinch5.m3u8
-#EXTINF:-1,6
-https://seehdgames.online/yayinch6.m3u8
-#EXTINF:-1,7
-https://seehdgames.online/yayinch7.m3u8
-#EXTINF:-1,8
-https://seehdgames.online/yayinch8.m3u8
-#EXTINF:-1,9
-https://seehdgames.online/yayinch9.m3u8
-#EXTINF:-1,10
-https://seehdgames.online/yayinch10.m3u8
-#EXTINF:-1,11
-https://seehdgames.online/yayinch11.m3u8
-#EXTINF:-1,12
-https://seehdgames.online/yayinch12.m3u8
-#EXTINF:-1,13
-https://seehdgames.online/yayinch13.m3u8
-#EXTINF:-1,14
-https://seehdgames.online/yayinch14.m3u8
-#EXTINF:-1,15
-https://seehdgames.online/yayinch15.m3u8
-#EXTINF:-1,16
-https://seehdgames.online/yayinch16.m3u8
-#EXTINF:-1,17
-https://seehdgames.online/yayinch17.m3u8
-#EXTINF:-1,18
-https://seehdgames.online/yayinch18.m3u8
-#EXTINF:-1,19
-https://seehdgames.online/yayinch19.m3u8
-#EXTINF:-1,20
-https://seehdgames.online/yayinch20.m3u8
-#EXTINF:-1,21
-https://seehdgames.online/yayinch21.m3u8
-#EXTINF:-1,22
-https://seehdgames.online/yayinch22.m3u8
-#EXTINF:-1,23
-https://seehdgames.online/yayinch23.m3u8
-#EXTINF:-1,24
-https://seehdgames.online/yayinch24.m3u8
-#EXTINF:-1,25
-https://seehdgames.online/yayinch25.m3u8
-#EXTINF:-1,26
-https://seehdgames.online/yayinch26.m3u8
-#EXTINF:-1,27
-https://seehdgames.online/yayinch27.m3u8
-#EXTINF:-1,28
-https://seehdgames.online/yayinch28.m3u8
-#EXTINF:-1,29
-https://seehdgames.online/yayinch29.m3u8
-#EXTINF:-1,30
-https://seehdgames.online/yayinch30.m3u8
-#EXTINF:-1,31
-https://seehdgames.online/yayinch31.m3u8
-#EXTINF:-1,32
-https://seehdgames.online/yayinch32.m3u8
-#EXTINF:-1,33
-https://seehdgames.online/yayinch33.m3u8
-#EXTINF:-1,34
-https://seehdgames.online/yayinch34.m3u8
-#EXTINF:-1,35
-https://seehdgames.online/yayinch35.m3u8
+India Playlist
 
-
+#EXTINF:-1,8XM
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
+#EXTINF:-1,9XM
+http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test
+#EXTINF:-1,B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test
+#EXTINF:-1,B4U Movies UK
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
+#EXTINF:-1,B4U Music
+http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test
+#EXTINF:-1,Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1,Colors UK
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1,E24
+http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
+#EXTINF:-1,Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
+#EXTINF:-1,India Today
+http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test
+#EXTINF:-1,Mastiii 
+http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
+#EXTINF:-1,MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test
+#EXTINF:-1,MTV Beats HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1,News24
+http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test
+#EXTINF:-1,POGO.TV
+http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test
+#EXTINF:-1,Sahara One
+http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test
+#EXTINF:-1,Sonic
+http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test
+#EXTINF:-1,Sony HD
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
+#EXTINF:-1,Sony Max
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
+#EXTINF:-1,Sony Max 2
+http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test
+#EXTINF:-1,Sony PAL
+http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test
+#EXTINF:-1,Star Bharat UK
+http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
+#EXTINF:-1,Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test
+#EXTINF:-1,Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test
+#EXTINF:-1,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test
+#EXTINF:-1,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1,Star Plus UK
+http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1,UTV Movies HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1,Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test
+#EXTINF:-1,Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+#EXTINF:-1,Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
+#EXTINF:-1,Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
+#EXTINF:-1,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1,Zee TV UK
+http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
+#EXTINF:-1,Zoom
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 
 
 
