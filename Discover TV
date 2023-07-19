@@ -92,7 +92,7 @@ http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
 http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
-http://103.190.35.2:8082/T-Sports/tracks-v1a1/index.m3u8
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports(BCIPTV)
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports HD(BCIPTV)
@@ -107,7 +107,7 @@ http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BCIPTV",Gazi TV(BCIPTV)
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
-http://103.190.35.2:8082/GAZI/tracks-v1a1/index.m3u8
+http://113.212.111.246:8080/hls/col2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub)
