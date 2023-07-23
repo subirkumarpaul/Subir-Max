@@ -9,11 +9,11 @@ http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
 https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 4
-http://50.7.237.7:8081/STARSPORTS1/tracks-v1a1/index.m3u8
+http://dpny3.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 5
-http://50.7.237.7:8081/STARSPORTS2/tracks-v1a1/index.m3u8
+http://dpny3.1234.uno:6061/starsports2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
-http://50.7.237.7:8081/STARSPORTS3/tracks-v1a1/index.m3u8
+http://dpny3.1234.uno:6061/starsports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7 (T Sports Apps)
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7A (T Sports Apps)
@@ -100,6 +100,8 @@ http://bdiptv.net:8282/btv-ctg/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
+http://dpny3.1234.uno:6061/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports(BCIPTV)
 http://15.1.5.10:8082/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BCIPTV",T Sports HD(BCIPTV)
@@ -115,7 +117,8 @@ http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
 http://113.212.111.246:8080/hls/col2.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
+http://dpny5.1234.uno:6061/gazitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Flixhub",ATN Bangla(Flixhub)
 http://live.flixhub.net//hls/atn.m3u8
@@ -454,7 +457,7 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BCIPTV",Jalsha Movies HD(BCIPTV)
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-http://103.190.35.2:8082/Jalsha-Movie/tracks-v1a1/index.m3u8
+http://dpny3.1234.uno:6061/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=jalsha_movies&utoken=&e=.m3u8
 
@@ -1256,7 +1259,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallbac
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
-https://iam-ranapk.tk/Z/play.m3u8?id=4
+http://dpny5.1234.uno:6061/hungamatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo(Flixhub)
 http://live.flixhub.net/hls/pogo.m3u8
