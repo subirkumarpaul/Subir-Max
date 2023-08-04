@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Zim T10
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports WI VS IN
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_odi03/master.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_odi04/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
@@ -17,19 +17,21 @@ https://webudit.cdnhks.lol/lb/premium31/index.m3u8?|Referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
 https://webudit.cdnhks.lol/lb/premium101/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7 (T Sports Apps)
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7A (T Sports Apps)
-https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2_1080/auto.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7B (T Sports Apps)
-https://live.tsports.com/mobile_hls/tsports_live_3/auto.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_3_1080/auto.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+https://spidersportscodecrafter.vercel.app/live/supercricket.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
-https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
+https://spidersportscodecrafter.vercel.app/live/willowusa.m3u8
+#https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
@@ -73,6 +75,16 @@ https://webudit.cdnhks.lol/lb/premium46/index.m3u8?|Referer=https://streamservic
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 32
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 1 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
+https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 2 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 3 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
+https://dai.google.com/linear/hls/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 4 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
 
 
 
@@ -891,7 +903,7 @@ http://103.190.35.2:8082/PTV-Sports/tracks-v1a1/index.m3u8
 http://103.121.31.251:8000/play/udp-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
-http://103.121.31.251:8000/play/a00o/index.m3u8
+https://spidersportscodecrafter.vercel.app/live/asportshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BD",Geo Super(BD)
 
@@ -907,6 +919,8 @@ https://ddy2.cdnhks.lol:443/ddy2/premium741/tracks-v1a1/mono.m3u8?|Referer=https
 http://15.1.5.22:8082/willow-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
 https://webudit.cdnhks.lol/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
+https://spidersportscodecrafter.vercel.app/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
 https://webudit.cdnhks.lol/lb/premium598/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 
@@ -1071,13 +1085,13 @@ https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=discovery_sd&utoken=&e=.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BCIPTV",Discovery HD(BCIPTV)
 http://15.1.1.34:8282/discovery-kid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
-https://m.dtvstream.in/master.m3u8/?id=463
+
 #EXTINF:-1 tvg-logo="https://raw.giooothubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
-https://m.dtvstream.in/master.m3u8/?c=__hdnea__=st=1681624158~exp=1681627758~acl=/Discovery_Channel_Bengali/*~hmac=12fbae49ac5debc54557948da237b97bb382cf3e82cdccecd65cb60518004d26&name=Discovery_Channel_Bengali&q=https://jiotvmblive.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
 https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
@@ -1120,7 +1134,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Dis
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
 http://live.flixhub.net/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Toffee",Animal Planet(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=animal_planet_hd&utoken=&e=.m3u8
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
 http://15.1.5.14:8082/animalplanent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
