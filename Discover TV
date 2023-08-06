@@ -77,6 +77,21 @@ https://webudit.cdnhks.lol/lb/premium46/index.m3u8?|Referer=https://streamservic
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8
 
+#EXTINF:-1,Live TV 1
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1,Live TV 2
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1,Live TV 3
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1,Live TV 4
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:-1,Live TV 5
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1,Live TV 6
+http://103.102.27.173/live/tvfeed1006/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 1 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
