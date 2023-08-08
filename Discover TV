@@ -971,9 +971,9 @@ https://webudit.cdnhks.lol/lb/premium825/index.m3u8?|Referer=https://streamservi
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BD"Astro Cricket(BD)
+#EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD"Astro Cricket(BD)
+#EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
 http://208.86.19.13:81/720.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Football(BD)
