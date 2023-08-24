@@ -393,7 +393,7 @@ http://103.209.173.14:9966/toffee/stream/movie_b_music.m3u8
 https://tv.padmaflix.net:443/toff/Streamsdex.m3u8?id=movie_b_music&utoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Toffee",Toffee Drama(Toffee)
-http://103.209.173.14:9966/toffee/stream/toffee-v2_drama.m3u8
+http://103.209.173.14:9966/toffee/stream/toffee-v2_dramas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="BD",Bangla 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
