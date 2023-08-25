@@ -738,7 +738,7 @@ http://15.1.5.10:8082/Dhinchaak/tracks-v1a1/mono.m3u8
 https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
-https://livetv-channels.b-cdn.net/8075/chunklist0.m3u8
+http://103.209.173.14:9966/private-server3/stream/starbangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
 https://livetv-channels.b-cdn.net/8046/chunklist0.m3u8
 
@@ -773,14 +773,14 @@ http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BCIPTV",Star Sports 1(BCIPTV)
 http://15.1.5.10:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
-https://eas4.gcdn.co/UKS45/index.m3u8
+http://103.209.173.14:9966/private-server3/stream/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
 https://eas4.gcdn.co/UKS74/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Flixhub",Star Sports 2(Flixhub)
 http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BDIPTV",Star Sports 2(BDIPTV)
-http://bdiptv.net:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+http://103.209.173.14:9966/private-server3/stream/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BCIPTV",Star Sports 2(BCIPTV)
 http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 
