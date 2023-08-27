@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.coliseum-online.com%2F2022%2F08%2FColiseum-Summit-News-2023-cricket-Asia-Cup-moved-to-the-UAE.jpg&tbnid=2RuPTdtNxd1JxM&vet=12ahUKEwj93M-Zn_2AAxXpmmMGHQ7KCKoQMygLegQIARBg..i&imgrefurl=https%3A%2F%2Fwww.coliseum-online.com%2Fasia-cup-moved-to-uae-as-sri-lanka-boils%2F&docid=FdXkySbNkexHPM&w=800&h=600&q=asia%20cup%202023%20logo%20png%20hd&ved=2ahUKEwj93M-Zn_2AAxXpmmMGHQ7KCKoQMygLegQIARBg"group-title="Live Sports",Live Sports Asia Cup 2023
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Asia Cup 2023
 http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Asia Cup 2023
 http://103.102.27.173/live/tvfeed1002/index.m3u8
