@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Asia Cup 2023
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2023_Asia_Cup_logo.png"group-title="Live Sports",Live Sports Asia Cup 2023
 http://103.141.2.37:25461/live/web/web/592.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Asia Cup 2023
 http://103.102.27.173/live/tvfeed1002/index.m3u8
