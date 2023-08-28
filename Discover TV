@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1,Surongo
+https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023
