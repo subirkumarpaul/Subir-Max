@@ -153,7 +153,7 @@ https://dai.google.com/linear/hls/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
-http://103.113.149.52:8000/play/a007/index.m3u8
+https://ao2c.short.gy/btvhd.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Toffee",BTV National(Toffee)
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=btv_hd&utoken=&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BCIPTV",BTV National(BCIPTV)
