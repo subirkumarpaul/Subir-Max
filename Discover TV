@@ -1,69 +1,66 @@
 M3U8
 
-
-#EXTINF:-1,Surongo
-https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 BTV National
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 BTV National
 https://ao2c.short.gy/btvhd.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Gazi TV
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Gazi TV
 http://103.141.2.37:25461/live/web/web/592.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Gazi TV
 http://live.flixhub.net/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Gazi TV
 http://opplex.tv:8080/live/988950/988950/245901.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 T Sports
 http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 T Sports
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 T Sports
 http://opplex.tv:8080/live/988950/988950/167590.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 DD Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 DD Sports
 http://cpk-1.asu.lol:8080/ind_ddsports/tracks-v1a1/mono.m3u8?token=bynishad
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Cup 2023 Star Sports 1 HD
 http://103.162.136.103:25461/live/FAH/fah/218.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD
 http://103.141.2.37:25461/live/web/web/580.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD
 http://14.102.123.50:4000/play/a0hm
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD
 http://opplex.tv:8080/live/988950/988950/167575.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD
 http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD Hindi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD Hindi
 http://14.102.123.50:4000/play/a041
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Star Sports 1 HD Hindi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Star Sports 1 HD Hindi
 http://opplex.tv:8080/live/988950/988950/167573.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Ten Sports PK
-http://103.162.136.103:25461/live/FAH/fah/121.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Ten Sports PK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Ten Sports PK
+http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Ten Sports PK
 http://opplex.tv:8080/live/988950/988950/167587.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Ten Sports PK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Ten Sports PK
 http://opplex.tv:8080/live/988950/988950/167569.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023
-http://103.162.136.103:25461/live/FAH/fah/123.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 PTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023
+ http://cpk-1.asu.lol:8080/pk_ptv_sports/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 PTV Sports
 http://live.flixhub.net/hls/ptv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 PTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 PTV Sports
 http://opplex.tv:8080/live/988950/988950/217968.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 PTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 PTV Sports
 https://webudit.cdnhks.lol/lb/premium450/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 WILLOW HD
 https://iam-ranapk.tk/OP/play.m3u8?id=167583
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 WILLOW HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 WILLOW HD
 https://webudit.cdnhks.lol/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Sky Sports Cricket
 https://webudit.cdnhks.lol/lb/premium65/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Super Sports Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Super Sports Cricket
 https://webudit.cdnhks.lol/lb/premium368/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Astro Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Astro Cricket
 https://webudit.cdnhks.lol/lb/premium370/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 Fox Sports 501 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Fox Sports 501 HD
+http://cpk-2.asu.lol:8080/SK_AU_501/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 Fox Sports 501 HD
 https://webudit.cdnhks.lol/lb/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Live Sports Asia Cup 2023 ATN Afghanistan 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Live Sports",Asia Cup 2023 ATN Afghanistan 
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
@@ -1730,62 +1727,6 @@ http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 
 
 
-
-
-#EXTM3U
-
-
-#EXTINF:-1,7
-http://starshare.live:8080/live/tanveer2159175/003332159175/767.m3u8
-#EXTINF:-1,8
-http://starshare.live:8080/live/tanveer2159175/003332159175/768.m3u8
-#EXTINF:-1,9
-http://starshare.live:8080/live/tanveer2159175/003332159175/769.m3u8
-#EXTINF:-1,10
-http://starshare.live:8080/live/tanveer2159175/003332159175/770.m3u8
-#EXTINF:-1,11
-http://starshare.live:8080/live/tanveer2159175/003332159175/771.m3u8
-#EXTINF:-1,12
-http://starshare.live:8080/live/tanveer2159175/003332159175/772.m3u8
-#EXTINF:-1,13
-http://starshare.live:8080/live/tanveer2159175/003332159175/773.m3u8
-#EXTINF:-1,14
-http://starshare.live:8080/live/tanveer2159175/003332159175/774.m3u8
-#EXTINF:-1,15
-http://starshare.live:8080/live/tanveer2159175/003332159175/775.m3u8
-#EXTINF:-1,16
-http://starshare.live:8080/live/tanveer2159175/003332159175/776.m3u8
-#EXTINF:-1,17
-http://starshare.live:8080/live/tanveer2159175/003332159175/777.m3u8
-#EXTINF:-1,18
-http://starshare.live:8080/live/tanveer2159175/003332159175/778.m3u8
-#EXTINF:-1,19
-http://starshare.live:8080/live/tanveer2159175/003332159175/779.m3u8
-#EXTINF:-1,20
-http://starshare.live:8080/live/tanveer2159175/003332159175/780.m3u8
-#EXTINF:-1,21
-http://starshare.live:8080/live/tanveer2159175/003332159175/781.m3u8
-#EXTINF:-1,22
-http://starshare.live:8080/live/tanveer2159175/003332159175/782.m3u8
-#EXTINF:-1,23
-http://starshare.live:8080/live/tanveer2159175/003332159175/783.m3u8
-#EXTINF:-1,24
-http://starshare.live:8080/live/tanveer2159175/003332159175/784.m3u8
-#EXTINF:-1,25
-http://starshare.live:8080/live/tanveer2159175/003332159175/785.m3u8
-#EXTINF:-1,26
-http://starshare.live:8080/live/tanveer2159175/003332159175/786.m3u8
-#EXTINF:-1,27
-http://starshare.live:8080/live/tanveer2159175/003332159175/787.m3u8
-#EXTINF:-1,28
-http://starshare.live:8080/live/tanveer2159175/003332159175/788.m3u8
-#EXTINF:-1,29
-http://starshare.live:8080/live/tanveer2159175/003332159175/789.m3u8
-#EXTINF:-1,30
-http://starshare.live:8080/live/tanveer2159175/003332159175/790.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV-SabbirIPTV",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony SAB HD
@@ -1835,7 +1776,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
-
+#EXTINF:-1,Surongo
+https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Oppenheimer
 http://index2.circleftp.net/FILE/English%20Movies/2023/Oppenheimer%20%282023%29%201080p%20HD-TS/Oppenheimer%20%282023%29%201080p%20HD-TS.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies",Rocky Handsome
@@ -2069,169 +2011,118 @@ http://stream.amrbd.com:8082/Cartoon-Network/index.m3u8
 http://cinemacity.live/hdd/4TB%20File/Hindi%20Movie%20HD/Dhadkan%20%282000%29~~Suniel%20Shetty~Shilpa%20Shetty~Akshay~Mahima/Dhadkan.mp4
 
 
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=astrocric
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png",ViaplayXtra
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=viaplayextra
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png",Star Sports 1 HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=star1in
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png",Star Sports 1 Hindi HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=starhindi
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png",Willow HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowusa
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png",Willow Xtra
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=willowextra
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png",Fox Cricket 501 HD
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=fox501
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png",Sky Sports Main Event
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysme
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png",Sky Sports Cricket
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skyscric
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png",Sky Sports Action
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysact
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png",Sky Sports Golf
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysgol
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png",Sky Sports Premier League
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysprem
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png",Sky Sports Football
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysfott
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png",Sky Sports Arena
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysare
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png",Sky Sports F1
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysfor1
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png",Sky Sports Mix
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=skysmixx
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png",BT Sport 1
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bbtsp1
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png",BT Sport 2
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bbtsp2
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png",BT Sport 3
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bbtsp3
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png",BT Sport 4
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bbtespn
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png",LaLiga Tv
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=laligauk
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png",EuroSport 1
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=eurosp1
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png",EuroSport 2
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=eurosp2
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/GpCtMcnz/Bein-Sports-HD-1.png",Bein Sports 1 English
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bein1en
-#EXTINF:-1 group-title="CricHD" tvg-logo="https://i.postimg.cc/Z5k6Szhv/Bein-Sports-HD-3.png",Bein Sports 3 English
-http://crichd-v2.sabbirhasan.trial.rocks/api?id=bein3en
-
 Free iptv m3u8 link's:
-BTV World 
+#EXTINF:-1,BTV World 
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8 
-ATN Islamic TV 
+#EXTINF:-1,ATN Islamic TV 
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8 
-Asian TV 
+#EXTINF:-1,Asian TV 
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8 
-Movie Bangla 
+#EXTINF:-1,Movie Bangla 
 https://bd.jagobd.com:444/live-orgin/moviebanglalink2.stream/playlist.m3u8 
-ATN MUSIC 
+#EXTINF:-1,ATN MUSIC 
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8 
-Ananda TV  
+#EXTINF:-1,Ananda TV  
 https://tempx.jagobd.com:441/live-orgin/anandatv.stream/chunks.m3u8 
-Anando TV 
+#EXTINF:-1,Anando TV 
 http://bd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8 
-Anando TV 
+#EXTINF:-1,Anando TV 
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8 
-ASIAN TV 
+#EXTINF:-1,ASIAN TV 
 http://bd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8 
-ATN Bangla 
+#EXTINF:-1,ATN Bangla 
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8 
-ATN Islamic TV 
+#EXTINF:-1,ATN Islamic TV 
 http://bd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8 
-Channel 24 
+#EXTINF:-1,Channel 24 
 http://bd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8 
-MY TV 
+#EXTINF:-1,MY TV 
 http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8 
-BANGLA TV 
+#EXTINF:-1,BANGLA TV 
 http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8 
-JagoNews24 TV 
+#EXTINF:-1,JagoNews24 TV 
 http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8 
-RTV(BD) 
+#EXTINF:-1,RTV(BD) 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8 
-SATV(Jagobd) 
+#EXTINF:-1,SATV(Jagobd) 
 http://bd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8 
-Somoy TV 
+#EXTINF:-1,Somoy TV 
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8 
-CHANNEL 24 
+#EXTINF:-1,CHANNEL 24 
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8 
-Varendra TV 
+#EXTINF:-1,Varendra TV 
 http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8 
-JAGONEWS 24 TV Jagobd 
+#EXTINF:-1,JAGONEWS 24 TV Jagobd 
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8 
-VOICE TV Jagobd 
+#EXTINF:-1,VOICE TV Jagobd 
 http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8 
-DESHI TV 
+#EXTINF:-1,DESHI TV 
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8 
-NANDAN TV 
+#EXTINF:-1,NANDAN TV 
 http://nandansyst.com/hls/nandan.m3u8 
-TV 
+#EXTINF:-1,TV 
 https://live.thairath.co.th/trtv2/playlist.m3u8 
-Bangla TV 
+#EXTINF:-1,Bangla TV 
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8 
-MyTV HD 
+#EXTINF:-1,MyTV HD 
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8 
-SATV 
+#EXTINF:-1,SATV 
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8 
-SOMOY TV 
+#EXTINF:-1,SOMOY TV 
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
-ATN Music Jago 
+#EXTINF:-1,ATN Music Jago 
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8 
-MY TV 
+#EXTINF:-1,MY TV 
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8 
-Channel 24 
+#EXTINF:-1,Channel 24 
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8 
-DBC_NEWS_HD 
+#EXTINF:-1,DBC_NEWS_HD 
 https://tempe.jagobd.com:444/live-orgin/dbcnews.stream_480p/chunks.m3u8 
-INDEPENDENT_HD 
+#EXTINF:-1,INDEPENDENT_HD 
 https://tempe.jagobd.com:444/live-orgin/independent-8-org.stream/chunks.m3u8 
-Banglavision HD 
+#EXTINF:-1,Banglavision HD 
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8 
-Boishakhi TV 
+#EXTINF:-1,Boishakhi TV 
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8 
-Channel I 
+#EXTINF:-1,Channel I 
 http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8 
-DBC News 
+#EXTINF:-1,DBC News 
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8 
-Deepto TV 
+#EXTINF:-1,Deepto TV 
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8 
-Deepto TV HD 
+#EXTINF:-1,Deepto TV HD 
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8 
-Desh TV 
+#EXTINF:-1,Desh TV 
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8 
-Deshe Bideshe 
+#EXTINF:-1,Deshe Bideshe 
 http://bd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8 
-Deshe Bideshe 
+#EXTINF:-1,Deshe Bideshe 
 http://iptvbd.jagobd.com:1931/live-orgin/deshebideshe.stream/chunks.m3u8 
-Independent 
+#EXTINF:-1,Independent 
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8 
-Mohona TV 
+#EXTINF:-1,Mohona TV 
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8 
-Movie Bangla 
+#EXTINF:-1,Movie Bangla 
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8 
-NAN TV 
+#EXTINF:-1,NAN TV 
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8 
-Times 24 TV 
+#EXTINF:-1,Times 24 TV 
 http://iptvbd.jagobd.com:1931/live-orgin/times24tv.stream/chunks.m3u8 
 News
 
-24 
+#EXTINF:-1,24 
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8 
-NRB TV 
+#EXTINF:-1,NRB TV 
 http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8 
-Pen TV 
+#EXTINF:-1,Pen TV 
 http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8 
-RTV HD 
+#EXTINF:-1,RTV HD 
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8 
-Jamuna TV 
+#EXTINF:-1,Jamuna TV 
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8 
-Duronto TV 
+#EXTINF:-1,Duronto TV 
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8 
-RTV 
+#EXTINF:-1,RTV 
 https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 
 
