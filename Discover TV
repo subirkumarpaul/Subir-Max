@@ -1,7 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 BTV National
-https://ao2c.short.gy/btvhd.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Gazi TV
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Gazi TV
@@ -62,6 +61,8 @@ http://cpk-2.asu.lol:8080/SK_AU_501/tracks-v1a1/mono.m3u8?token=bynishad
 https://webudit.cdnhks.lol/lb/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 ATN Afghanistan 
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 BTV National
+https://ao2c.short.gy/btvhd.mpd
 
 
 
