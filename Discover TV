@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Toffee
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/index.m3u8?auth=Sports-Op&%7CCookie=Edge-Cache-Cookie%3DURLPrefix%3DaHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v%3AExpires%3D1693683459%3AKeyName%3Dprod_live_events%3ASignature%3DJiwkAaOn90_878dONJMoI3hQ8AB2rUJmYNjcxMqosoLSsEp2bAzBQ7qnjOl9LfmW1y5SDXBrNk-eVoITt_iTAQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 
+https://webudit.cdnbos.lol/lb/premium267/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 BTV National
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Gazi TV
