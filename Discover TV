@@ -17,7 +17,7 @@ http://dpny5.1234.uno:6061/starsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
 http://manik-freecatv.zapto.org/stersports1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
-http://dpny1.1234.uno:6061/ptvsports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
 http://172.27.27.90:8080/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
@@ -27,7 +27,7 @@ http://103.162.136.103:25461/live/FAH/fah/218.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
 https://webudit.cdnbos.lol/lb/premium267/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD
-http://live.flixhub.net/hls/stersports1hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD Hindi
 http://14.102.123.50:4000/play/a041
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Star Sports 1 HD Hindi
@@ -43,9 +43,9 @@ http://103.162.136.103:25461/live/FAH/fah/121.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 Ten Sports PK
 http://103.162.136.103:25461/live/FAH/fah/524.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 PTV Sports
- 
+ http://dpny1.1234.uno:6061/ptvsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 PTV Sports
-http://live.flixhub.net/hls/ptv.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title="Asia Cup",Asia Cup 2023 PTV Sports
 http://103.162.136.103:25461/live/FAH/fah/123.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asia%20Cup%202023.jpeg"group-title=Asia Cup",Asia Cup 2023 PTV Sports
