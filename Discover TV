@@ -273,7 +273,7 @@ https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="Palki TV",Duronto TV(Flixhub)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="BD",Duronto TV(BD)
-
+http://stream1.asbd.top:8083/1103/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Rongeen TV(BD)
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
