@@ -49,10 +49,10 @@ http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2186.ts
 http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 https://webudit.cdnbos.lol/lb/premium267/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
+http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD Hindi
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Fast Sports
-https://live.mvdn.castnest.io/xVVDLuXJInoRdoBZH2dcH5pund5ZQAJHVGIyfFhE/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Fast Sports HD
 https://live.mvdn.castnest.io:443/xVVDLuXJInoRdoBZH2dcH5pund5ZQAJHVGIyfFhE/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Fast Sports HD
