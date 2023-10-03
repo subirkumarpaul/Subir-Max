@@ -37,10 +37,12 @@ https://sportsleading.online/live/stream_10.m3u8
 http://172.27.27.90:8080/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
 http://opplextv.cyou:8080/live/33344455/33344455/245901.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
+https://ott.sonyplex.com:444/hls/fA9m5a75DyQagANKhL3eIbvC6RDyWdsg5ejMvP23NajZUitpBa7NbvH2g1Ytk9IEl6AlngUJMBBWW49f13rLrbrem1o0Q4sa1p8peU7s5d6FQnfW4UjLfBx8jFa33WGv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://opplextv.cyou:8080/live/33344455/33344455/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
-
+https://ott.sonyplex.com:444/hls/fA9m5a75DyQagANKhL3eIWL0u6_GD9VKhhPAbHwxxiYyw2PVmwTCVVVWAVu0XnGfVLmtfetZuUPZskYhIR9PifopUzsb3lb7HR5cGFjTWoDy55ABxIKYaOa24bV8iBTU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://opplextv.cyou:8080/live/33344455/33344455/167587.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
