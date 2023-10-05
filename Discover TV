@@ -46,10 +46,6 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 http://ktpremium.com:2095/live/rahimtay380/1234/905938.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 2 HD
 http://watchindia.net:8880/live/60427/00546/1071.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Fast Sports HD
-https://live.mvdn.castnest.io:443/xVVDLuXJInoRdoBZH2dcH5pund5ZQAJHVGIyfFhE/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Fast Sports HD
-http://opplextv.cyou:8080/live/33344455/33344455/308225.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Super Sports Cricket
 http://opplextv.cyou:8080/live/33344455/33344455/238475.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
