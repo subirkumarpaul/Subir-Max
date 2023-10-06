@@ -22,7 +22,7 @@ https://Telegram~sami_rian1@edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
-
+http://plusbox.tv:8080/TSportsHD/tracks-v1a1/2023/10/06/08/27/55-06001.ts?token=ed0e47472e29adcfde8b26aa8011b0d2c9dbd4bb-b8471ca8b67dde594b56066ec60a25af-1696591232-1696580432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://watchindia.net:8880/live/60427/00546/2186.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
@@ -30,7 +30,7 @@ http://ktpremium.com:2095/live/rahimtay380/1234/915314.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
-
+http://plusbox.tv:8080/StarSports1HD/index.m3u8?token=fc7858fed5cb6772bb7dbd2b9aa42bb2fa5a56d3-03a201cfa0d84f583fd47fe84cd7f8ec-1696591504-1696580704
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD Hindi
@@ -47,6 +47,8 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 http://ktpremium.com:2095/live/rahimtay380/1234/905938.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 2 HD
 http://watchindia.net:8880/live/60427/00546/1071.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 PTV Sports
+http://plusbox.tv:8080/PTVSports/index.m3u8?token=97ffa5387615bd124f8de37addbd579126fe24b4-621553f1d4a9dd67d1dcbd74d86c57a3-1696591426-1696580626
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Super Sports Cricket
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
