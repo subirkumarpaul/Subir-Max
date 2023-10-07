@@ -20,13 +20,13 @@ https://sports.yunyingtiandi.com/live/m32555351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
 http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
-https://Telegram~sami_rian1@edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
+http://plusbox.tv:8080/GaziTVHD/tracks-v1a1/mono.m3u8?token=47e9787bf0015ca77357ca30c70ad6c4d73c0bfc-1f3740faf495387a054ca7e14b874c34-1696665779-1696654979
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
-https://proximity-special-momin-rocks.onrender.com/link/156.m3u8
+http://plusbox.tv:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=58773f5447fc6155e694741e08c66dad0b9fd9b7-8e81c9fc030d2a3132e0fe83b9b921c4-1696665712-1696654912
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://plusbox.tv:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=8d1a255eac9494898a8f1826874c9dcaf51bb7a5-1e5599fe4c5dcdb7cd1260e02b50fec0-1696592076-1696581276
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
@@ -36,7 +36,7 @@ http://ktpremium.com:2095/live/rahimtay380/1234/915314.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
-http://plusbox.tv:8080/StarSports1HD/index.m3u8?token=fc7858fed5cb6772bb7dbd2b9aa42bb2fa5a56d3-03a201cfa0d84f583fd47fe84cd7f8ec-1696591504-1696580704
+http://plusbox.tv:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=e8415c1b56ca7cb492bb43f9e976ad5ba45ca6da-ae78cf0dbca51c3a3e7ee5d7616f3694-1696665825-1696655025
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD Hindi
