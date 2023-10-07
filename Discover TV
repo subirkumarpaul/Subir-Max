@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Toffee
-https://mprod-cdn.toffeelive.com/iccwc2023/match-1/master_1000.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1696702930:KeyName=prod_live_events:Signature=FSxcK81FAOz3OmM7LfPISD_BrwF9HIfFFkYZlEEc15uSJSfsnw0N14XC-U2H69qJRz-kj3ZylDN0FF0eb_5dBA
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1 (Auto)
 https://sportsleading.online/live/stream_e1_abr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1
@@ -20,7 +20,7 @@ https://sportsleading.online/live/stream_e10.m3u8
 https://sports.yunyingtiandi.com/live/m32555351/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
-http://103.7.4.54/Gazi-TV/index.m3u8?token=7du8JE0_2OUbF0
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
 http://plusbox.tv:8080/GaziTVHD/tracks-v1a1/mono.m3u8?token=47e9787bf0015ca77357ca30c70ad6c4d73c0bfc-1f3740faf495387a054ca7e14b874c34-1696665779-1696654979
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
