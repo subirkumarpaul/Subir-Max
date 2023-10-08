@@ -32,39 +32,39 @@ http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
-http://watchindia.net:8880/live/60427/00546/2186.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://ktpremium.com:2095/live/rahimtay380/1234/915314.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
-http://plusbox.tv:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=e8415c1b56ca7cb492bb43f9e976ad5ba45ca6da-ae78cf0dbca51c3a3e7ee5d7616f3694-1696665825-1696655025
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
-http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD Hindi
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2232.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 2 HD 
 http://ktpremium.com:2095/live/rahimtay380/1234/915315.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 2 HD
-http://watchindia.net:8880/live/60427/00546/2163.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 1 HD
 http://ktpremium.com:2095/live/rahimtay380/1234/905937.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 1 HD
-http://watchindia.net:8880/live/60427/00546/1070.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 2 HD
 http://ktpremium.com:2095/live/rahimtay380/1234/905938.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports Select 2 HD
-http://watchindia.net:8880/live/60427/00546/1071.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 PTV Sports
-http://plusbox.tv:8080/PTVSports/index.m3u8?token=97ffa5387615bd124f8de37addbd579126fe24b4-621553f1d4a9dd67d1dcbd74d86c57a3-1696591426-1696580626
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Super Sports Cricket
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/1067.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
 http://ktpremium.com:2095/live/rahimtay380/1234/915317.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Sky Sports Cricket
-http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Sky Sports Cricket
 http://ktpremium.com:2095/live/rahimtay380/1234/932577.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Sky Sports Cricket
