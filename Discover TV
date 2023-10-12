@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
-https://tvs1.aynaott.com/sspts1/index.m3u8?hdnts=st=1696941424~exp=1696984624~acl=/*~data=45.61.146.183-WEB~hmac=9ae62030f444176f71a0d806153825260688c1d6bb6b1ba37ff8d30f80296319
+http://10.16.100.213:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696915807~exp=1696959007~acl=/*~data=45.61.146.183-WEB~hmac=0152555af22fd037c13297691219e15adf229be0aabaa93fbcd85cf768a02121
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1 (Auto)
