@@ -55,8 +55,8 @@ http://172.27.27.90:8080/tv2/index.m3u8
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD
 http://103.141.2.38/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD Hindi
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 1 HD 
+http://103.114.38.150:1935/live/starsports1.stream/chunklist_w1747925824.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 2 HD 
 http://ktpremium.com:2095/live/rahimtay380/1234/915315.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Star Sports 2 HD
@@ -223,7 +223,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 https://stream.rockstreamer.com/121212.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD",Maasranga TV(BD)
-http://103.190.35.2:8082/Maasranga-Tv/tracks-v1a1/index.m3u8
+http://103.114.38.150:1935/live/Masranga.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="BDIX",Ekushay TV(BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -434,7 +434,7 @@ http://103.209.173.14:9966/toffee/stream/colors_bangla_cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://dpny1.1234.uno:6061/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-https://fifabangladesh.xyz/TEST/play.m3u8?id=1118057
+http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist.m3u8
 
 
 
