@@ -5,7 +5,7 @@ https://streaming-akamized-proximity-hls-1.tahsin-ahmedahm.repl.co/hls/espn_auto
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
 http://10.16.100.211:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
-http://10.16.100.206:8080/hls/StarSports1HD.m3u8
+http://103.114.38.150:1935/live/starsports1.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
 http://10.16.100.212:8080/hls/StarSports1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live BD
