@@ -1283,15 +1283,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/inde
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="DTV",Aljazeera(DTV)
-https://m.dtvstream.in/master.m3u8/?id=494
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="BD",Aljazeera(BD)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="BD",BBC World(BD)
+http://ip2121.com:8081/live/bbc/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="BCIPTV",CGTN(BCIPTV)
-
+#EXTINF:-1 tvg-logo=""group-title="BD",CNN(BD)
+http://ip2121.com:8081/live/cnn/playlist.m3u8
 
 
 
