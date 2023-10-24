@@ -1093,8 +1093,11 @@ https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Subir",Food Network(Subir)
+#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Subir",Food Network(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="BD",Asian Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="BD",Asian Food Network
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" group-title="BD3",Nasa TV(BD3)
