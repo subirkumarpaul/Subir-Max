@@ -216,7 +216,7 @@ https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
-https://ao2c.short.gy/btvhd.mpd
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(BD)
