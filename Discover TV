@@ -439,7 +439,7 @@ https://livetv-channels.b-cdn.net/8079/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Toffee",Zee Bangla Cinema(Toffee)
 http://103.209.173.14:9966/toffee/stream/zee_bangla_cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
-http://208.86.19.13:81/7088.stream/index.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 http://50.7.237.7:8081/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
 
@@ -452,7 +452,8 @@ http://dpny1.1234.uno:6061/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="BD",Sun Bangla Cinema(BD)
+http://bdtv.globalflix.net:2020/live/sunbanglacinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png" group-title="BD2",Khushboo Bangla(BD2)
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
