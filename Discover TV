@@ -42,10 +42,10 @@ http://103.141.2.38/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
 http://103.7.4.54/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Gazi TV
-
+https://tv.durbinlive.com/api/play3.php?c=https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698482799~exp=1698525999~acl=/*~data=45.61.146.183-WEB~hmac=24a54180b7f5cdd0bddb45f3b5f989ceff938a107c26da3d479313d0b3351cf5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
-
+	https://tv.durbinlive.com/api/play3.php?c=https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698482974~exp=1698526174~acl=/*~data=45.61.146.183-WEB~hmac=7226315fc6ee6bf02fdb0965283de22746db3e1515283e972c71cbe436f36539
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
