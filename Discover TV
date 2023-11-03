@@ -17,7 +17,7 @@ http://test-otv2.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 2
 http://test-otv2.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 1
-http://test-otv2.ftpbd.net/streams/110/index.m3u8
+http://acdn.bdixsports.live:1935/event/event.stream/chunklist_w1823111375.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live PTV Sports
@@ -256,6 +256,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Youtube",NTV(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/NTVBD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
+http://1161218186.rsc.cdn77.me/NTV/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD2",NTV UK(BD2)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
@@ -263,14 +265,16 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Jagobd",RTV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="BD",RTV(BD)
+http://1161218186.rsc.cdn77.me/RTV/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Jagobd",SATV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Jagobd",Deepto TV(Jagobd)
 https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Jagobd",Deepto TV(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="BD",Deepto TV(BD)
+http://1161218186.rsc.cdn77.me/DeeptoTV/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="BD",Deepto TV(BD)
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
@@ -317,6 +321,8 @@ https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Jagobd",Channel 9(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="BD",Channel 9(BD)
+http://1161218186.rsc.cdn77.me/Channel9/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Palki TV",Nexus TV HD(Palki TV)
 
@@ -645,6 +651,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Toffee",B4U Movies(Toffee)
 http://103.209.173.14:9966/toffee/stream/b4u_movies.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD",Bollywood HD (BD)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD",M Movies (BD)
 http://bdtv.globalflix.net:2020/tv/cricket/playlist.m3u8
