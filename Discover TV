@@ -25,19 +25,19 @@ http://10.16.100.212:8080/hls/PtvSports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live TLT
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1 (Auto)
-https://sportsleading.online/live/stream_e1_abr.m3u8
+https://hls.streambtw.com/live/stream_e1_abr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1
-https://sportsleading.online/live/stream_e1.m3u8
+https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 2
-https://sportsleading.online/live/stream_e2.m3u8
+https://hls.streambtw.com/live/stream_e2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 3
-https://sportsleading.online/live/stream_e3.m3u8
+https://hls.streambtw.com/live/stream_e3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 4
-https://sportsleading.online/live/stream_e4.m3u8
+https://hls.streambtw.com/live/stream_e4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 5
-https://sportsleading.online/live/stream_e5.m3u8
+https://hls.streambtw.com/live/stream_e5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live 
-https://sportsleading.online/live/stream_e10.m3u8
+https://hls.streambtw.com/live/stream_e10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live 
 
 
