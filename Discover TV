@@ -13,9 +13,9 @@ http://172.27.27.90:8080/tv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 2
 http://172.27.27.90:8080/tv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live T Sports
-http://test-otv2.ftpbd.net/streams/115/index.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/2023/11/05/05/51/21-10520.ts?hdnts=st%3D1699163482%7Eexp%3D1699206682%7Eacl%3D%2F%2A%7Edata%3D45.61.146.183-WEB%7Ehmac%3Da105f13cee0d7c925dad3e4f9fcfed857f90153ea2685756176da83e53f9cc73
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 2
-http://test-otv2.ftpbd.net/streams/121/index.m3u8
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1699163643~exp=1699206843~acl=/*~data=45.61.146.183-WEB~hmac=69170e24f6be5479a7cf93d1875b7737176b1399d406f1c198be680e790cc9ba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 1
 http://acdn.bdixsports.live:1935/event/event.stream/chunklist_w1823111375.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 1
@@ -91,10 +91,12 @@ https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Super Sports Cricket
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow Xtra
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
+https://faketv.co.in/mproxy.php/https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
 http://ktpremium.com:2095/live/rahimtay380/1234/915317.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Willow HD
+https://tvs2.aynaott.com/willowhd/tracks-v1a1/mono.m3u8?hdnts=st=1699163886~exp=1699207086~acl=/*~data=45.61.146.183-WEB~hmac=3b981fbad904b394fb2780fd5147174dc80135e1eb33b7b4a7eb12f751c67f4b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Sky Sports Cricket
 https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd
