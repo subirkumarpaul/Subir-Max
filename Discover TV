@@ -284,6 +284,7 @@ https://bd.jagobd.com:444/live-orgin/deeptotv.stream/chunks.m3u8
 http://1161218186.rsc.cdn77.me/DeeptoTV/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="BD",Deepto TV(BD)
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Jagobd",Mohona TV(Jagobd)
@@ -478,7 +479,7 @@ http://103.209.173.14:9966/toffee/stream/colors_bangla_cinema.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-http://dpny1.1234.uno:6061/jalshamovies/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist.m3u8
 
@@ -1051,8 +1052,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Nat Geo HD(Flixhub)
-http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Hindi(BD)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155772&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Toffee",Nat Geo HD(Toffee)
 http://103.209.173.14:9966/toffee/stream/ngc_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
