@@ -384,6 +384,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Jagobd",DBC News(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD",Ekhone TV(BD)
+http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Youtube",Ekhone TV(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
@@ -2058,6 +2060,113 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Telegram @iamsomx",Sony TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#PAKISTAN 🇵🇰
+
+http://103.186.77.21:8000/playlist.m3u8  👈
+
+#EXTINF:-1,24 News HD
+http://103.186.77.21:8000/play/a02s/index.m3u8
+#EXTINF:-1,Alief TV
+http://103.186.77.21:8000/play/a02j/index.m3u8
+#EXTINF:-1,BBC WORLD - Rs 1.50
+http://103.186.77.21:8000/play/a03q/index.m3u8
+#EXTINF:-1,CITY
+http://103.186.77.21:8000/play/a02z/index.m3u8
+#EXTINF:-1,CITY
+http://103.186.77.21:8000/play/a02y/index.m3u8
+#EXTINF:-1,CITY-21
+http://103.186.77.21:8000/play/a02x/index.m3u8
+#EXTINF:-1,CITY-41
+http://103.186.77.21:8000/play/a02u/index.m3u8
+#EXTINF:-1,CITY-42 HD
+http://103.186.77.21:8000/play/a02t/index.m3u8
+#EXTINF:-1,CNN INTL - Rs 2
+http://103.186.77.21:8000/play/a03p/index.m3u8
+#EXTINF:-1,Cartoon NW-Rs4.25
+http://103.186.77.21:8000/play/a031/index.m3u8
+#EXTINF:-1,Comedy Central-Rs 5
+http://103.186.77.21:8000/play/a03r/index.m3u8
+#EXTINF:-1,Discovery HD-Rs8
+http://103.186.77.21:8000/play/a040/index.m3u8
+#EXTINF:-1,Discovery Kids-Rs3.50
+http://103.186.77.21:8000/play/a03c/index.m3u8
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.186.77.21:8000/play/a036/index.m3u8
+#EXTINF:-1,Disney-Rs 10
+http://103.186.77.21:8000/play/a033/index.m3u8
+#EXTINF:-1,Dunya News HD
+http://103.186.77.21:8000/play/a02q/index.m3u8
+#EXTINF:-1,FILMAZIA
+http://103.186.77.21:8000/play/a02o/index.m3u8
+#EXTINF:-1,FILMAZIA Gaane
+http://103.186.77.21:8000/play/a02p/index.m3u8
+#EXTINF:-1,FILMAZIA PANJABI
+http://103.186.77.21:8000/play/a02m/index.m3u8
+#EXTINF:-1,FILMAZIA PASHTO
+http://103.186.77.21:8000/play/a02n/index.m3u8
+#EXTINF:-1,Kohenoor
+http://103.186.77.21:8000/play/a02k/index.m3u8
+#EXTINF:-1,Lahore News
+http://103.186.77.21:8000/play/a02r/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 8
+http://103.186.77.21:8000/play/a03w/index.m3u8
+#EXTINF:-1,MOVIES NOW-Rs10
+http://103.186.77.21:8000/play/a03s/index.m3u8
+#EXTINF:-1,MTV - Rs 3
+http://103.186.77.21:8000/play/a039/index.m3u8
+#EXTINF:-1,NEWS ONE
+http://103.186.77.21:8000/play/a02h/index.m3u8
+#EXTINF:-1,Nat Geo HD-Rs14
+http://103.186.77.21:8000/play/a03z/index.m3u8
+#EXTINF:-1,NatGeo Wild HD-Rs8
+http://103.186.77.21:8000/play/a03m/index.m3u8
+#EXTINF:-1,Nick Jr.- Rs 1
+http://103.186.77.21:8000/play/a03b/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.186.77.21:8000/play/a038/index.m3u8
+#EXTINF:-1,ROHI TV
+http://103.186.77.21:8000/play/a02v/index.m3u8
+#EXTINF:-1,SONIC- Rs 2
+http://103.186.77.21:8000/play/a037/index.m3u8
+#EXTINF:-1,SONY MAX HD -Rs 19
+http://103.186.77.21:8000/play/a03l/index.m3u8
+#EXTINF:-1,STAR MOVIES HD-Rs19
+http://103.186.77.21:8000/play/a03x/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD-Rs19
+http://103.186.77.21:8000/play/a03i/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD-Rs19
+http://103.186.77.21:8000/play/a03n/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD-Rs19
+http://103.186.77.21:8000/play/a03j/index.m3u8
+#EXTINF:-1,StarMovieSelHD-Rs19
+http://103.186.77.21:8000/play/a03y/index.m3u8
+#EXTINF:-1,StarS1 HindiHD-Rs19
+http://103.186.77.21:8000/play/a03k/index.m3u8
+#EXTINF:-1,StarSports1 HD-Rs19
+http://103.186.77.21:8000/play/a03g/index.m3u8
+#EXTINF:-1,StarSports2 HD-Rs19
+http://103.186.77.21:8000/play/a03h/index.m3u8
+#EXTINF:-1,Super Hungama- Rs 4
+http://103.186.77.21:8000/play/a035/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://103.186.77.21:8000/play/a03u/index.m3u8
+#EXTINF:-1,TV ONE
+http://103.186.77.21:8000/play/a02g/index.m3u8
+#EXTINF:-1,UK-44
+http://103.186.77.21:8000/play/a02w/index.m3u8
+#EXTINF:-1,Venus Entertainment
+http://103.186.77.21:8000/play/a02l/index.m3u8
+#EXTINF:-1,ZEE Cafe HD - Rs10
+http://103.186.77.21:8000/play/a03v/index.m3u8
+#EXTINF:-1,ZEEAnmolCinema-10p
+http://103.186.77.21:8000/play/a03a/index.m3u8
+#EXTINF:-1,Zoom - 50p
+http://103.186.77.21:8000/play/a03d/index.m3u8
+#EXTINF:-1,hungama tv-Rs 1
+http://103.186.77.21:8000/play/a032/index.m3u8
+#EXTINF:-1,nick - Rs 6
+http://103.186.77.21:8000/play/a034/index.m3u8
 
 
 https://tsia1.pages.dev/TheTechieSia.m3u
