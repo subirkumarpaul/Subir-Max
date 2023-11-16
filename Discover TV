@@ -1118,7 +1118,7 @@ http://103.209.173.14:9966/toffee/stream/history_tv.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=history_tv&utoken=&e=.m3u8
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-348
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
 
@@ -1141,6 +1141,9 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 https://ft-ifood-roku.amagi.tv/playlist288p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Food(BD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Subir",Food Network(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
