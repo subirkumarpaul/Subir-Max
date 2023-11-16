@@ -514,8 +514,8 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Dhoom Music(BD)
 https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony Liv",Sony TV HD(Sony Liv)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Toffee",Sony TV(Toffee)
 
 
@@ -1293,10 +1293,10 @@ https://m.dtvstream.in/master.m3u8/?id=440
 https://livetv-channels.b-cdn.net/8021/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Toffee",Zing(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zing_sd&utoken=&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Toffee",B4U Music(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=b4umusic&utoken=&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Jio TV",MTV HD Plus(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -2187,6 +2187,6 @@ http://103.186.77.21:8000/play/a032/index.m3u8
 http://103.186.77.21:8000/play/a034/index.m3u8
 
 
-https://tsia1.pages.dev/TheTechieSia.m3u
 
-http://128.199.30.120:342/playlist/download
+
+
