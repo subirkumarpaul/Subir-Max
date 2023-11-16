@@ -57,7 +57,7 @@ http://103.7.4.54/Gazi-TV/index.m3u8
 https://tv.durbinlive.com/api/play3.php?c=https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1698482799~exp=1698525999~acl=/*~data=45.61.146.183-WEB~hmac=24a54180b7f5cdd0bddb45f3b5f989ceff938a107c26da3d479313d0b3351cf5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
-	https://tv.durbinlive.com/api/play3.php?c=https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698482974~exp=1698526174~acl=/*~data=45.61.146.183-WEB~hmac=7226315fc6ee6bf02fdb0965283de22746db3e1515283e972c71cbe436f36539
+https://tv.durbinlive.com/api/play3.php?c=https://tvs2.aynaott.com/gtvhd/index.m3u8?hdnts=st=1698482974~exp=1698526174~acl=/*~data=45.61.146.183-WEB~hmac=7226315fc6ee6bf02fdb0965283de22746db3e1515283e972c71cbe436f36539
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
 http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 T Sports
@@ -201,25 +201,25 @@ https://webudit.vipboxtv.stream/lb/premium125/index.m3u8?|Referer=https://stream
 https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1
-https://sportsleading.online/live/stream_1.m3u8
+https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 2
-https://sportsleading.online/live/stream_2.m3u8
+https://hls.streambtw.com/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 3
-https://sportsleading.online/live/stream_3.m3u8
+https://hls.streambtw.com/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 4
-https://sportsleading.online/live/stream_4.m3u8
+https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 5
-https://sportsleading.online/live/stream_5.m3u8
+https://hls.streambtw.com/live/stream_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 6
-https://sportsleading.online/live/stream_6.m3u8
+https://hls.streambtw.com/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 7
-https://sportsleading.online/live/stream_7.m3u8
+https://hls.streambtw.com/live/stream_7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 8
-https://sportsleading.online/live/stream_8.m3u8
+https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 9
-https://sportsleading.online/live/stream_9.m3u8
+https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 10
-https://sportsleading.online/live/stream_10.m3u8
+https://hls.streambtw.com/live/stream_10.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 1 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
