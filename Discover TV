@@ -592,44 +592,46 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audi
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD2",Zee Classic(BD2)
-http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD",Zee Classic(BD)
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="ZEE",Zee Classic(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-176
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Anmul%20Cinema.jpeg"group-title="BD",Zee Anmol Cinema(BD)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png"group-title="Live TV 2",Zee Bollywwood(Live TV 2)
-http://103.218.25.12:89/play/a02i/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Cinemalu(ZEE)
-http://denver12346.000webhostapp.com/G5/api.php?c=0-9-zeecinemalu
+
 #EXTINF:-1 tvg-logo=""group-title="ZEE",Zee Talkies(ZEE)
-https://zee.yashrajmod.online/@yashrajmod.44/api.php?c=0-9-zeetalkies
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold(BD)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Toffee",Star Gold(Toffee)
-http://103.209.173.14:9966/toffee/stream/star_gold.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
-http://live.flixhub.net/hls/stargold2hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="Flixhub",Star Gold Thrills(Flixhub)
-http://live.flixhub.net/hls/utvaction.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
-http://103.245.195.80:9500/play/a02r/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Flixhub",Star Gold Romance(Flixhub)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Live TV 2",Star Gold Romance(Live TV 2)
-http://103.218.25.12:89/play/a02d/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="BD",Star Gold Romance(BD)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 
@@ -638,7 +640,7 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold Select(BD)
 http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Live TV 2",Star Gold Select(Live TV 2)
-http://103.218.25.12:89/play/a020/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Jio TV",Colors Cineplex(Jio TV)
@@ -669,6 +671,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Toffee",B4U Movies(Toffee)
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD",Bollywood Classic(BD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD",Bollywood HD (BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
