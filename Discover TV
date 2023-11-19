@@ -5,7 +5,7 @@ https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Willow HD
-
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Gazi TV
 https://cdn.0123stream.com/GaziTV/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live PTV Sports
@@ -13,7 +13,7 @@ https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Gazi TV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live T Sports
-
+http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 1
 http://172.27.27.90:8080/tv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Star Sports 2
@@ -456,9 +456,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="BD",Enter 10 Bangla(BD)
-http://50.7.237.7:8081/ENTER10BANGLA/tracks-v1a1/index.m3u8
+https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/R%20Plus%20Gold.jpeg" group-title="BD2",R Plus Gold(BD2)
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
