@@ -145,9 +145,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #https://cdn.0123stream.com/TSportsHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="ftpbd",T Sports(ftpbd)
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="ftpbd",Gazi TV(ftpbd)
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -616,7 +620,9 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3uhttp://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="ftpbd",Star Sports 1(ftpbd)
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 http://103.186.77.21:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
@@ -625,6 +631,8 @@ http://103.186.77.21:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="ftpbd",Star Sports 2(ftpbd)
+http://otv.ftpbd.net:8082/Star-Sports-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.186.77.21:8000/play/a03h/index.m3u8
 
@@ -639,15 +647,15 @@ http://103.179.246.243:8000/play/a00l/index.m3u8
 http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
-http://103.190.35.2:8082/Star-Select-1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="ftpbd",Star Sports Select 1(ftpbd)
+http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BD",Star Sports Select 2(BD)
-http://103.190.35.2:8082/Star-Select-2/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="ftpbd",Star Sports Select 2(ftpbd)
+http://otv.ftpbd.net:8082/Star-Select-2-HD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
-http://103.186.77.21:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="ftpbd",Sony Sports Ten 1 HD(ftpbd)
+http://otv.ftpbd.net:8082/SONY-TEN-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
@@ -655,8 +663,8 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony Liv",Sony Sports Ten 1(Sony Liv)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BD",Sony Sports Ten 2 HD(BD)
-http://103.186.77.21:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="ftpbd",Sony Sports Ten 2 HD(ftpbd)
+http://otv.ftpbd.net:8082/Sony-Ten-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2(Toffee)
@@ -664,8 +672,8 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sony Liv",Sony Sports Ten 2(Sony Liv)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BD",Sony Sports Ten 3 HD(BD)
-http://103.186.77.21:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="ftpbd",Sony Sports Ten 3 HD(ftpbd)
+http://otv.ftpbd.net:8082/Sony-Ten-3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3(Toffee)
@@ -684,8 +692,8 @@ http://118.179.3.26/Sony-Ten4-HD/video.m3u8?token=rohabtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4 Hinde(BD)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sony Liv",Sony Sports Ten 5 HD(Sony Liv)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="ftpbd",Sony Sports Ten 5 HD(ftpbd)
+http://otv.ftpbd.net:8082/Sony-Ten-5-SD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Flixhub",Sony Sports Ten 5(Flixhub)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Toffee",Sony Sports Ten 5(Toffee)
@@ -699,6 +707,8 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 1 HD(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="ftpbd",Sports 18 1 HD(ftpbd)
+http://otv.ftpbd.net:8082/sports-18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 Khal(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
@@ -745,7 +755,8 @@ https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="ftpbd",Willow Cricket(ftpbd)
+http://otv.ftpbd.net:8082/Willow/index.m3u8
 https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
 https://spidersportscodecrafter.vercel.app/live/willowusa.m3u8
@@ -851,6 +862,8 @@ https://webudit.vipboxtv.stream/lb/premium100/index.m3u8?|Referer=https://stream
 
 #EXTINF:-1,BT Sports 1
 https://webudit.vipboxtv.stream/lb/premium31/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo=""group-title="ftpbd",TNT Sports 1(ftpbd)
+http://otv.ftpbd.net:8082/TnT-Sports-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BT Sports 2
 https://webudit.vipboxtv.stream/lb/premium32/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1,BT Sports 3
@@ -863,6 +876,8 @@ https://webudit.vipboxtv.stream/lb/premium34/index.m3u8?|Referer=https://streams
 https://webudit.vipboxtv.stream/lb/premium56/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Cricket
 https://webudit.vipboxtv.stream/lb/premium368/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo=""group-title="ftpbd",Super Sports Cricket(ftpbd)
+http://otv.ftpbd.net:8082/SS-Ceicket-HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Grandstand
 https://webudit.vipboxtv.stream/lb/premium412/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports PSL
