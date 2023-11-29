@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1,Fancord
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/X2o5MzzB9DVVP_xBcCyJPcReCM3KNetLy9CiS8jkneBxU5f3ObJoga6nS4WThZwcTeFaruPybqg9J7OXYye0tA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7VpUl7Vy8eK4AHA-_bePL02iHwv8LUPx8VPGQdn0fcJduzGz7bfb7r1o2Vw9PksihQpdvqyVPZjaI9LeJKEIxg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1, Rabbitholebd
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/FqduErYsMOTzTkZFJ99fkLuvuQ0dz_P77t0d_Wwx7g34pYrStBpIX3a5w5QTzdxELYrHsFBxCUi1B8-Z2WC-CA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports T Sports
