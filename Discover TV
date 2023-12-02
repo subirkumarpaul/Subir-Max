@@ -15,25 +15,15 @@ https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
 https://ptvsports2.com/CRICHD-LIVE/master.m3u8/?key=WASITV&c=star1in&ts=https://s10.noshwsmkm.com:999/hls/star1in-20712.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup"Live Sports Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
 http://ktpremium.com:2095/live/rahimtay380/1234/915314.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Sports 1 HD
-http://172.27.27.90:8080/tv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup", Live Sports Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+http://172.27.27.90:8080/tv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Zim T10
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PK VS AFG
-https://webdduit.cdnbos.lol/lb/yallalive2/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1 IN VS AUS
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_hevc_eng_indvsaus_odi03/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
@@ -46,7 +36,7 @@ https://webudit.vipboxtv.stream/lb/premium31/index.m3u8?|Referer=https://streams
 https://webudit.vipboxtv.stream/lb/premium101/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7 (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live/index.m3u8
-https://live.tsports.com/mobile_hls/tsports_live/auto.m3u8
+#https://live.tsports.com/mobile_hls/tsports_live/auto.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7A (T Sports Apps)
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7B (T Sports Apps)
