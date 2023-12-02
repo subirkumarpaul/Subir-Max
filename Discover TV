@@ -355,8 +355,8 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BCIPTV",Sun Bangla(BCIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
+	https://madflix.live/admin/app/live9b5305b4feee4e895c0472031f4f9e49512ac485c42663db3790b50f4a5d737fd0fa788095396dcf39c04a2a63518d587bd2352f8fa93b37f07729c6a4e23874ef90184fbec26635aad746849d9f973f/1669/Sun_Bangla/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8629d7a24f0d2c1f82cc5d85c5a9c4006239dfb0dbefb06788ec3481dde5719551db9d3e6d246e1bb871b90c55eb63eac3c40d442de6fdab3d27f7c5909cb04cd9467ce985e032541f692d2c829bba45e2d3949bf1918438d30a821e0733a413e_playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
@@ -456,12 +456,15 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Rishtey(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD",Zee TV(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD",Zee TV(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/zeetv-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BCIPTV",Zee TV(BCIPTV)
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="DTV",And TV(DTV)
-https://m.dtvstream.in/master.m3u8/?id=472
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 
@@ -934,11 +937,10 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Subir",Discovery HD(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Toffee",Discovery HD(Toffee)
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
+https://madflix.live/admin/app/live1084595deaa97f0be30290bf533aa0658b3ffbd976a6afc1752bee9269e19e1c1903b50ae52460e09443d440690d6055cf38c89ad03ac3e759be38d2075315a91bd4e02346e8e9f91e16e9b9240c7918/463/Discovery_HD_World/59aa31844fd3abf7283b3a0b6fcd64ecfb46ccc8325aa86c59de57205e890e231dab567f889fa7c92afaffe130b573b53b1f78638a3337769fd3eed84bfe5a1075bf666645021b0c5fd05b78884936a1c5269412f99e1c13341a8b82ee722a92b78283099f6a2f0aa26a90ff8a09f0c949c34b2645fe23b820c22463934525ca319524a81c048f2a4e630e499b4ba558f8835bb6651d57fe8eb925e853abefc6d42b4e016a90398c2f35d790574a06ae_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla(BD)
+https://madflix.live/admin/app/live570155b0fc444fc16d8f5a4185afd92bd124b8b13a0c05762b94304b23780f679d7d2dc24b0a0abd3a92e0b59e92630ed98c28aa3cfddf294c6553e6d155a9cd8650628e5e76aeeb77cce0f4708153fd/573/Discovery_Channel_Bengali/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c85db8fd5ac0962978cacf4012dae1a86979275025722c3374c4e1b1a89660a24c1b782fa6f6ef488dad785472d10cd554de7775d2755cbe949407aa9da3708aa5fca6a6073353a4af73109d13bd33dd500a603ad2d61c3c0190e182e37d824cb1c9a5f3ac0d58bc02f08758c2437c8236d043e538bfd1863883295de92dc5c331_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.giooothubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
@@ -987,8 +989,8 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Dis
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Toffee",Animal Planet(Toffee)
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BCIPTV",Animal Planet(BCIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
+https://madflix.live/admin/app/live311ed2d11dddb4eba5973beefad0075f61ff656bb40502611ed435f64d1b2aae4af22f363f0f6c3cec251b74613e4ada20659d283ce28cebafb1c3b45636b5c66a6c4b2f05080f7bb3fbefaa0eb9affd/566/Animal_Planet_Hindi/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9a1b00eede972e4f6c976487adbc66640613d06c1c436f5dc06d286f7e2d617de553c1a34db0be9c6a07109f30abb2aa62d6957dbedeb23f61798d0f691742f59025bc06bb575b2397bed20589bcf36317a0f01bec33622e407ebfc5f6ce7dce5ecb3abbc76d23f20af7e1b46a2bdf063_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
@@ -1036,7 +1038,7 @@ http://103.218.25.12:89/play/a02k/index.m3u8
 
 
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
-http://212.224.84.217:2200/R-EX/ENGLISH_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo|User-Agent=REDLINECLIENT
+5bb8d4aa1f18de09042e5d54ff188160/578/History_18_Hindi/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9fe3ffbe9afe1fe35820c301fa030165092dbaba48d58554320dfab40cd195ce9b0b0ca546a9e9176abfbbc7916204d3d333929386a5d66b1c6d80d2a7c70f264d65d8527a216e25bcc407ee4b88653f6a97ca66f94adf9d2b564544ff8a638ca_playlist.m3u8
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
 http://103.209.173.14:9966/toffee/stream/history_tv.m3u8
 https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=history_tv&utoken=&e=.m3u8
@@ -1085,7 +1087,7 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&ex
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network (BD)
-http://103.245.195.80:9500/play/a02d/index.m3u8
+https://madflix.live/admin/app/live269c14cb44ee0eddb221a7dca356918190bef76cd580dc55561b913a8e2e4468cd7b22ec8af54e5aaef1bac04977d50d5d9bde337a89d3cb06a0d6a3e15a351237b3f03a0c50729e9dae33a9005a5f47/816/Cartoon_Network_Hindi/8d2ea0ccd63a6042f8681b9990b48636f9d3f37adc2d4734215ba0541b3900210c2ab12300d845d7cc20a02573425bdaef77e87f7a79fb7b5d5616327d22b8bdaf5ccb1db8cd6f8fc61107008ed78d84e22213e51423a30644347a85fbafc2aa24f5bb53cf002b3ed7cce847dd352601d01563e54ace99f96c1f19262a0b14e5311ce3d962b03da9173a5a527427c874f677c576e84e566bc1c004e4724693d2bdc5355bc97e6d6e075e61e58f8115c9_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD"Cartoon Network (BD)
 http://103.186.77.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network HD(Toffee)
@@ -1096,6 +1098,8 @@ http://103.186.77.21:8000/play/a031/index.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
+https://madflix.live/admin/app/live3c0a36d6307f70ef7fe923abf2c6efe71ef547e243c2f541ac33c15b48ec9e3608c8e0c45a5ae9e197eae302435bad49e8bb07f08cf121559a2e6e70edf35899fe9c0c4e41d00020dd1ba259dd04b402/554/Discovery_Kids_2/8d2ea0ccd63a6042f8681b9990b48636f9d3f37adc2d4734215ba0541b3900210c2ab12300d845d7cc20a02573425bdaef77e87f7a79fb7b5d5616327d22b8bd34738ae0c78c2ce0d982ca9fc64eab253af13285601a3ab733b3a9481a25ae8b5b72a844e199534d102f2f328dee76607a9ebc805c40eb8e5bda950aa75d6020c9909170d4b8b9a74a62632b309ce33af4c5a4f9e940e8d6a5e866b0a4c563bae4cf9ef67cc75720a95af01e14fc8a8c_playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Sony Liv",Sony Yay(Sony Liv)
@@ -1105,10 +1109,10 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick Hinde(BD)
+https://madflix.live/admin/app/livefc369d9918dd8d23addbbcc50ca1b5b523e7a2fc99c8e261803feab579b8b72f325f126f8c4297ee3cf75e98b1e65b361b7639842c8ff08ac7dbbc88f4b4dfb5652c2e0565ccd2ccb4f9c9f4153b7594/545/Nick_Hindi/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8e9ffcf45e5f777998953eb318fa490ec1df4a1752fc30208296870be5d166f7828a5f42c8601050e70d97a16058bf61be2682bc36dbdeb32b6982db4bc1db83a60c6e2c8c8cc14559d242b15692e4f74d51a4fb1259dbcdb37bcf63f17745684_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick Bangla(BD)
-https://freeiptv25.bdiptv24.repl.co/live/bdix3/app/NickBangla.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick(BD)
-
+https://madflix.live/admin/app/live122aa37b683d17f276e0375c16a89c7ed2dda7cfe50bdb2626795baeeb27b18ea712094f4969e31f7434c9d3297160973abe092eb5592b4141ae5f592bcb60a360e9e33cfac89658358f39d46d2f3dae/1341/Nick_Bangla/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8e9ffcf45e5f777998953eb318fa490ec1df4a1752fc30208296870be5d166f7828a5f42c8601050e70d97a16058bf61be2682bc36dbdeb32b6982db4bc1db83a60c6e2c8c8cc14559d242b15692e4f74d51a4fb1259dbcdb37bcf63f17745684_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Jio TV",Nick JR(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
@@ -1125,12 +1129,14 @@ http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
 http://103.186.77.21:8000/play/a035/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Toffee",Pogo(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
 http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
 http://103.186.77.21:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
+https://madflix.live/admin/app/livec5a704272f0b743b85b48d47092bbf07ff6626668aa471015af2238269958e80f408a4920b30e79c10b9b735e907a9295f0a106613c4c12c5b39ca17f4042abdd64cdb89abae146b99f75e63c8f31e07/559/Pogo_Hindi/8d2ea0ccd63a6042f8681b9990b48636a7c76d83bdb7c81ffd6215c1ffebf8c4c1a1b608c7c1d61906dd40bbbaef99bc1728d92ce104f44d0cf60b102e467616a2de80d796849aa8c1a9c11f9030d67f3eede84fbe3aa783b8f92cbf56f14267124c2d5b70bfc376c2302e6d60b12d6f3de841fc546764a49aa0c8f76defa66db83fb5dbe176ba203879cca132d68abce7c600f5218dfc8dcd60f6887b6b27d6_playlist.m3u8
 
 #EXTINF:-1,Disney Channel
 https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
@@ -1173,10 +1179,14 @@ http://103.186.77.21:8000/play/a03w/index.m3u8
 http://anren.live/HK/BiIOU11uLA.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Live TV 2",And Flix(Live TV 2)
-
+#EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
+https://madflix.live/admin/app/live8b7cd71c0ed47358a18c9d0f3344d1352c6f8354c5335c226c541cbb4fe03dcce4c4cd5e8d055253906761a2b2debc1e93a5ad5826955cd0fa582968ca7100c712c333e0dd29a5f829aa61a06e3c9c94/1322/And_Flix_HD/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9facc5b975493224a793c85f43ff5e84c2cf7566771fb1c27fa5481e55c60960875f2c7373ca10adb8fa212a4fc89428332ccb51c329d9ddbb8f1972d207a6fdd139d5a6a60f376f6f58d5aceb01f924e79f8592d4595e647f9e057fafc4196d7_playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
 http://103.245.195.80:9500/play/a01f/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
+https://madflix.live/admin/app/livef7721e8ef37613e91abf91f39857ee8b51b4aca64db2826a2ce2f9b007433aeef95f6607d19c5f9e965397cb558ec44d953c10edde81b9aa0968a6942b6a34f6474146806f32c4a0fe51d808cf0070a2/1349/And_Prive_HD/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8aa8d6aa1b3a27861cd116d218914f90e813b81a9f8f47644a3e6024b7c0cb09acc1beb6d231b8217a9d38327d42e9acb9f2a613d2c52239685fa6235d0e80c451ff8174404c7e69b850d0a0c0aedbdd732e4637e774f0a81b2a22df810cbcbd5_playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="ZEE",Zee Cafe HD(ZEE)
 
 
