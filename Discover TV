@@ -1,29 +1,28 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Willow HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
 https://cdn.0123stream.com/GaziTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports PTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
 https://cdn.0123stream.com/PTVSports/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
 https://ptvsports2.com/CRICHD-LIVE/master.m3u8/?key=WASITV&c=star1in&ts=https://s10.noshwsmkm.com:999/hls/star1in-20712.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1 HD
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1 HD
 http://ktpremium.com:2095/live/rahimtay380/1234/915314.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1 HD
 http://172.27.27.90:8080/tv2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="World Cup",Live Sports Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 3
@@ -52,46 +51,11 @@ https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 13
-http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 14
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 15
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 16
-https://webudit.vipboxtv.stream/lb/premium746/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 17
-https://webudit.vipboxtv.stream/lb/premium368/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 18
-https://webudit.vipboxtv.stream/lb/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 19
-https://webudit.vipboxtv.stream/lb/premium38/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 20
-https://webudit.vipboxtv.stream/lb/premium590/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 21
-https://webudit.vipboxtv.stream/lb/premium308/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 22
-https://webudit.vipboxtv.stream/lb/premium598/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 23
-https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 24
-https://webudit.vipboxtv.stream/lb/premium368/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 25
-https://webudit.vipboxtv.stream/lb/premium370/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 26
-https://webudit.vipboxtv.stream/lb/premium449/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 27
-https://webudit.vipboxtv.stream/lb/premium550/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 28
-https://webudit.vipboxtv.stream/lb/premium597/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 29
-https://webudit.vipboxtv.stream/lb/premium459/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 30
-https://webudit.vipboxtv.stream/lb/premium590/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 31
-https://webudit.vipboxtv.stream/lb/premium46/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 32
-https://webudit.vipboxtv.stream/lb/premium125/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
-https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1
 https://hls.streambtw.com/live/stream_1.m3u8
