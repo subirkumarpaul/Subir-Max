@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports ABU DHABI T10
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_031223/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ind VS Aus English
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvsaus_t2005/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ind VS Aus Bangla
@@ -54,6 +58,9 @@ https://hls.streambtw.com/live/stream_e1.m3u8
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 12
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Champions League
+https://dai.google.com/linear/hls/pb/event/GxrCGmwST0ixsrc_QgB6qw/stream/8b3ba9e2-cb61-4164-9dbc-ebabb99243bb:SIN/variant/2efd9d393cc7fff0fc6580ada14bfe6d/bandwidth/2977158.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 1
 https://hls.streambtw.com/live/stream_1.m3u8
@@ -760,8 +767,12 @@ http://208.86.19.13:81/720.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Football(BD)
 https://webudit.vipboxtv.stream/lb/premium469/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Main Event(BD)
+https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports (BD)
 https://webudit.vipboxtv.stream/lb/premium35/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
 https://webudit.vipboxtv.stream/lb/premium65/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mix(BD)
