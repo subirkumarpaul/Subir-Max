@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ban VS NZ
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/17ciRHRb7WzsjB9YQVMo83it_jKiYQzzGc42VhMBJ8rHK--aoEaR74-v8eZrIMD1HZRCUJR4DzClyPpTNt46Sg/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports ABU DHABI T10
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_031223/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
