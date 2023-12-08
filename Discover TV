@@ -10,6 +10,8 @@ https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports w
+http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=pagla
@@ -1170,7 +1172,7 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
-https://madflix.live/admin/app/live8b7cd71c0ed47358a18c9d0f3344d1352c6f8354c5335c226c541cbb4fe03dcce4c4cd5e8d055253906761a2b2debc1e93a5ad5826955cd0fa582968ca7100c712c333e0dd29a5f829aa61a06e3c9c94/1322/And_Flix_HD/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9facc5b975493224a793c85f43ff5e84c2cf7566771fb1c27fa5481e55c60960875f2c7373ca10adb8fa212a4fc89428332ccb51c329d9ddbb8f1972d207a6fdd139d5a6a60f376f6f58d5aceb01f924e79f8592d4595e647f9e057fafc4196d7_playlist.m3u8
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
 http://103.245.195.80:9500/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
