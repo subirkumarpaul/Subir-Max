@@ -375,10 +375,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacin
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
-https://cdn.sajeeb.online/Jalsha-Movies/tracks-v1a1/mono.m3u8?token=pagla
-http://103.114.38.150:1935/live/jalsha-movies.stream/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sun Bangla Cinema(BD)
 http://bdtv.globalflix.net:2020/live/sunbanglacinema/playlist.m3u8
