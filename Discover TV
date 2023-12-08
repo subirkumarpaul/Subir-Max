@@ -10,7 +10,7 @@ https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports w
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
