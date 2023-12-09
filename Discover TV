@@ -14,17 +14,17 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
-https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 4 HD
-https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 5 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 Khel HD
@@ -34,7 +34,7 @@ https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports Cricket
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
-https://cdn.sajeeb.online/S-Cricket/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/S-Cricket/tracks-v1a1/mono.m3u8?token=helpline
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1 HD
 
