@@ -1149,21 +1149,21 @@ http://103.186.77.21:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix HD(BD)
 https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=helpline
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Toffee",Sony Pix(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_pix&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Toffee",Sony Pix(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=sony_pix_hd&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
-http://180.178.188.152:8000/play/a016
+
 
 #EXTINF:-1 tvg-logo=""group-title="Toffee",Zee Cafe(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zee_cafe_hd&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="BD",Movies Now(BD)
-http://103.186.77.21:8000/play/a03s/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",MN HD+(BD)
-http://103.186.77.21:8000/play/a03w/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="BCIPTV",MNX HD(BCIPTV)
 
@@ -1175,12 +1175,14 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
-http://103.245.195.80:9500/play/a01f/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
-https://madflix.live/admin/app/livef7721e8ef37613e91abf91f39857ee8b51b4aca64db2826a2ce2f9b007433aeef95f6607d19c5f9e965397cb558ec44d953c10edde81b9aa0968a6942b6a34f6474146806f32c4a0fe51d808cf0070a2/1349/And_Prive_HD/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8aa8d6aa1b3a27861cd116d218914f90e813b81a9f8f47644a3e6024b7c0cb09acc1beb6d231b8217a9d38327d42e9acb9f2a613d2c52239685fa6235d0e80c451ff8174404c7e69b850d0a0c0aedbdd732e4637e774f0a81b2a22df810cbcbd5_playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Sony Channel HD(BD)
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",Paramount(BD)
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ZEE",Zee Cafe HD(ZEE)
 
 
