@@ -1481,10 +1481,20 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Oppenheimer
+#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bhoy
+https://cdn-1.sonyplex.net/Kolkata-Movies-Web-Series/Bhoy.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Oppenheimer
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies",Iraivan
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Terminator Genisys
+https://cdn-1.sonyplex.net/movie-series/Terminator.Genisys.2015.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Iraivan
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Iraivan%20%282023%29%20Hindi%20Dubbed%201080p%20WEB-DL%20H264/Iraivan%20%282023%29%20Hindi%20Dubbed%201080p%20WEB-DL%20H264.mkv
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Vaathi
+https://cdn-1.sonyplex.net/Tamil-Telegu-Malaylam/vaathi-hindi-dubbed.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Mark Antony
+https://cdn-1.sonyplex.net/Tamil-Telegu-Malaylam/Mark.Antony.mp4/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Soorarai Pottru
+https://cdn-1.sonyplex.net/Tamil-Telegu-Malaylam/Soorarai.Pottru.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Fukrey 3
 http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Fukrey%203%20%282023%29%201080p%20WEB-DL%20Hindi%20H265/Fukrey%203%20%282023%29%201080p%20WEB-DL%20Hindi%20H265.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Gadar 2
