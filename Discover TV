@@ -311,7 +311,7 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="BD",Sony Aath(BD)
-https://cdn.sajeeb.online/Sony-Aath/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Aath/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="BD",Sony Aath(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
@@ -323,7 +323,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Yupp TV,Star Jalsha(Yupp TV)
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
-https://cdn.sajeeb.online/Star-Jalsha/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Star-Jalsha/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
 
 
@@ -412,7 +412,7 @@ https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
 http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
-https://cdn.sajeeb.online/Sony-Set/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Set/tracks-v1a1/mono.m3u8?token=hotfllix
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Live TV 2",Sony TV(Live TV 2)
 http://103.218.25.12:89/play/a01n/index.m3u8
@@ -425,7 +425,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="BD",Sony Sab(BD)
-https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title=Toffee",Sony Sab(Toffee)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="DTV",Sony Sab(DTV)
@@ -463,7 +463,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
-https://cdn.sajeeb.online/Sony-MAX/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-MAX/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony Liv",Sony Max(Sony Liv)
@@ -474,7 +474,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
-https://cdn.sajeeb.online/Sony-MAX-2/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-MAX-2/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
 
@@ -613,7 +613,7 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
-https://cdn.sajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 http://103.186.77.21:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
@@ -646,7 +646,7 @@ http://212.224.84.217:2200/R-EX/SPORTS_STAR_SPORTS_FIRST-in/tracks-v1a1/mono.m3u
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
@@ -655,7 +655,7 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BD",Sony Sports Ten 2 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2(Toffee)
@@ -664,7 +664,7 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BD",Sony Sports Ten 3 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3(Toffee)
@@ -673,7 +673,7 @@ http://103.2.153.38/trans1sd/smil:tensports3.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sony Liv",Sony Sports Ten 4(Sony Liv)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
@@ -684,7 +684,7 @@ http://118.179.3.26/Sony-Ten4-HD/video.m3u8?token=rohabtv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="BD",Sony Sports Ten 5 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=pagla
+https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Flixhub",Sony Sports Ten 5(Flixhub)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Toffee",Sony Sports Ten 5(Toffee)
@@ -699,7 +699,7 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 1 HD(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD",Sports 18 1 HD(BD)
-https://cdn.sajeeb.online/sports-18/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/sports-18/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 Khal(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
@@ -726,7 +726,7 @@ http://11612603.rsc.cdn77.me/PTVSports/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 https://webudit.vipboxtv.stream/lb/premium450/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 
 
@@ -750,7 +750,7 @@ https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
-https://cdn.sajeeb.online/Willow-Cricket/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Willow-Cricket/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
 https://spidersportscodecrafter.vercel.app/live/willowusa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
@@ -880,7 +880,7 @@ https://webudit.vipboxtv.stream/lb/premium56/index.m3u8?|Referer=https://streams
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Cricket
 https://webudit.vipboxtv.stream/lb/premium368/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Sports Cricket(BD)
-https://cdn.sajeeb.online/S-Cricket/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/S-Cricket/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Grandstand
 https://webudit.vipboxtv.stream/lb/premium412/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports PSL
@@ -1031,10 +1031,10 @@ http://103.218.25.12:89/play/a02k/index.m3u8
 
 
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
-5bb8d4aa1f18de09042e5d54ff188160/578/History_18_Hindi/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9fe3ffbe9afe1fe35820c301fa030165092dbaba48d58554320dfab40cd195ce9b0b0ca546a9e9176abfbbc7916204d3d333929386a5d66b1c6d80d2a7c70f264d65d8527a216e25bcc407ee4b88653f6a97ca66f94adf9d2b564544ff8a638ca_playlist.m3u8
+
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
-http://103.209.173.14:9966/toffee/stream/history_tv.m3u8
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=history_tv&utoken=&e=.m3u8
+
+
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 
@@ -1080,7 +1080,7 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&ex
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network (BD)
-https://madflix.live/admin/app/live269c14cb44ee0eddb221a7dca356918190bef76cd580dc55561b913a8e2e4468cd7b22ec8af54e5aaef1bac04977d50d5d9bde337a89d3cb06a0d6a3e15a351237b3f03a0c50729e9dae33a9005a5f47/816/Cartoon_Network_Hindi/8d2ea0ccd63a6042f8681b9990b48636f9d3f37adc2d4734215ba0541b3900210c2ab12300d845d7cc20a02573425bdaef77e87f7a79fb7b5d5616327d22b8bdaf5ccb1db8cd6f8fc61107008ed78d84e22213e51423a30644347a85fbafc2aa24f5bb53cf002b3ed7cce847dd352601d01563e54ace99f96c1f19262a0b14e5311ce3d962b03da9173a5a527427c874f677c576e84e566bc1c004e4724693d2bdc5355bc97e6d6e075e61e58f8115c9_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD"Cartoon Network (BD)
 http://103.186.77.21:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network HD(Toffee)
@@ -1092,7 +1092,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Kids.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="BD",Discovery Kids(BD)
-https://madflix.live/admin/app/live3c0a36d6307f70ef7fe923abf2c6efe71ef547e243c2f541ac33c15b48ec9e3608c8e0c45a5ae9e197eae302435bad49e8bb07f08cf121559a2e6e70edf35899fe9c0c4e41d00020dd1ba259dd04b402/554/Discovery_Kids_2/8d2ea0ccd63a6042f8681b9990b48636f9d3f37adc2d4734215ba0541b3900210c2ab12300d845d7cc20a02573425bdaef77e87f7a79fb7b5d5616327d22b8bd34738ae0c78c2ce0d982ca9fc64eab253af13285601a3ab733b3a9481a25ae8b5b72a844e199534d102f2f328dee76607a9ebc805c40eb8e5bda950aa75d6020c9909170d4b8b9a74a62632b309ce33af4c5a4f9e940e8d6a5e866b0a4c563bae4cf9ef67cc75720a95af01e14fc8a8c_playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Sony Liv",Sony Yay(Sony Liv)
@@ -1103,9 +1103,9 @@ https://madflix.live/admin/app/live3c0a36d6307f70ef7fe923abf2c6efe71ef547e243c2f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick Hinde(BD)
-https://madflix.live/admin/app/livefc369d9918dd8d23addbbcc50ca1b5b523e7a2fc99c8e261803feab579b8b72f325f126f8c4297ee3cf75e98b1e65b361b7639842c8ff08ac7dbbc88f4b4dfb5652c2e0565ccd2ccb4f9c9f4153b7594/545/Nick_Hindi/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8e9ffcf45e5f777998953eb318fa490ec1df4a1752fc30208296870be5d166f7828a5f42c8601050e70d97a16058bf61be2682bc36dbdeb32b6982db4bc1db83a60c6e2c8c8cc14559d242b15692e4f74d51a4fb1259dbcdb37bcf63f17745684_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick Bangla(BD)
-https://madflix.live/admin/app/live122aa37b683d17f276e0375c16a89c7ed2dda7cfe50bdb2626795baeeb27b18ea712094f4969e31f7434c9d3297160973abe092eb5592b4141ae5f592bcb60a360e9e33cfac89658358f39d46d2f3dae/1341/Nick_Bangla/59aa31844fd3abf7283b3a0b6fcd64ec778ff2be73eb46bfad255bdaec45a238cbf04df6b3a85fc7faec6e3d1869e4924964766669a6783f4728bb362543c3c8e9ffcf45e5f777998953eb318fa490ec1df4a1752fc30208296870be5d166f7828a5f42c8601050e70d97a16058bf61be2682bc36dbdeb32b6982db4bc1db83a60c6e2c8c8cc14559d242b15692e4f74d51a4fb1259dbcdb37bcf63f17745684_playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Jio TV",Nick JR(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
@@ -1129,7 +1129,7 @@ http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
 http://103.186.77.21:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
-https://madflix.live/admin/app/livec5a704272f0b743b85b48d47092bbf07ff6626668aa471015af2238269958e80f408a4920b30e79c10b9b735e907a9295f0a106613c4c12c5b39ca17f4042abdd64cdb89abae146b99f75e63c8f31e07/559/Pogo_Hindi/8d2ea0ccd63a6042f8681b9990b48636a7c76d83bdb7c81ffd6215c1ffebf8c4c1a1b608c7c1d61906dd40bbbaef99bc1728d92ce104f44d0cf60b102e467616a2de80d796849aa8c1a9c11f9030d67f3eede84fbe3aa783b8f92cbf56f14267124c2d5b70bfc376c2302e6d60b12d6f3de841fc546764a49aa0c8f76defa66db83fb5dbe176ba203879cca132d68abce7c600f5218dfc8dcd60f6887b6b27d6_playlist.m3u8
+
 
 #EXTINF:-1,Disney Channel
 https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
@@ -1138,16 +1138,16 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies(BD)
-http://103.186.77.21:8000/play/a03x/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494115c4b6a7d1b30dc9cb225e24b92df31b7d4c32d58bd9a20789e6ddaeca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
-http://103.186.77.21:8000/play/a03y/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix HD(BD)
-https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=helpline
+https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=hotfllix
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Toffee",Sony Pix(Toffee)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Toffee",Sony Pix(Toffee)
@@ -1254,7 +1254,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Toffee",Zoom(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=zoom_tv&utoken=&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BD",Zoom(BD)
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 
@@ -1267,7 +1267,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Toffee",VH1 HD(Toffee)
-https://tv.padmaflix.net:443/toff/Streams/index.m3u8?id=vh1_hd&utoken=&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Clubbing TV(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
@@ -1299,16 +1299,7 @@ https://m.dtvstream.in/master.m3u8/?id=496
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Astro Cricket
-https://webudit.salamus1.lol/lb/premium370/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Super Sports Cricket
-https://tv.aafunmaza.com/supersportscricket/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Sky Sports Cricket
-https://webudit.salamus1.lol/lb/premium65/index.m3u8?|referer=https://olacast.live/&e.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",A Sports HD
-https://tv.aafunmaza.com/asportshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",PTV Sports
-https://tv.aafunmaza.com/ptvsports/tracks-v1a1/index.m3u8
+
 
 
 
@@ -2010,115 +2001,4 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Telegram @iamsomx",Sony TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
-#PAKISTAN 🇵🇰
-
-http://103.186.77.21:8000/playlist.m3u8  👈
-
-#EXTINF:-1,24 News HD
-http://103.186.77.21:8000/play/a02s/index.m3u8
-#EXTINF:-1,Alief TV
-http://103.186.77.21:8000/play/a02j/index.m3u8
-#EXTINF:-1,BBC WORLD - Rs 1.50
-http://103.186.77.21:8000/play/a03q/index.m3u8
-#EXTINF:-1,CITY
-http://103.186.77.21:8000/play/a02z/index.m3u8
-#EXTINF:-1,CITY
-http://103.186.77.21:8000/play/a02y/index.m3u8
-#EXTINF:-1,CITY-21
-http://103.186.77.21:8000/play/a02x/index.m3u8
-#EXTINF:-1,CITY-41
-http://103.186.77.21:8000/play/a02u/index.m3u8
-#EXTINF:-1,CITY-42 HD
-http://103.186.77.21:8000/play/a02t/index.m3u8
-#EXTINF:-1,CNN INTL - Rs 2
-http://103.186.77.21:8000/play/a03p/index.m3u8
-#EXTINF:-1,Cartoon NW-Rs4.25
-http://103.186.77.21:8000/play/a031/index.m3u8
-#EXTINF:-1,Comedy Central-Rs 5
-http://103.186.77.21:8000/play/a03r/index.m3u8
-#EXTINF:-1,Discovery HD-Rs8
-http://103.186.77.21:8000/play/a040/index.m3u8
-#EXTINF:-1,Discovery Kids-Rs3.50
-http://103.186.77.21:8000/play/a03c/index.m3u8
-#EXTINF:-1,Disney Jr.-Rs 4
-http://103.186.77.21:8000/play/a036/index.m3u8
-#EXTINF:-1,Disney-Rs 10
-http://103.186.77.21:8000/play/a033/index.m3u8
-#EXTINF:-1,Dunya News HD
-http://103.186.77.21:8000/play/a02q/index.m3u8
-#EXTINF:-1,FILMAZIA
-http://103.186.77.21:8000/play/a02o/index.m3u8
-#EXTINF:-1,FILMAZIA Gaane
-http://103.186.77.21:8000/play/a02p/index.m3u8
-#EXTINF:-1,FILMAZIA PANJABI
-http://103.186.77.21:8000/play/a02m/index.m3u8
-#EXTINF:-1,FILMAZIA PASHTO
-http://103.186.77.21:8000/play/a02n/index.m3u8
-#EXTINF:-1,Kohenoor
-http://103.186.77.21:8000/play/a02k/index.m3u8
-#EXTINF:-1,Lahore News
-http://103.186.77.21:8000/play/a02r/index.m3u8
-#EXTINF:-1,MN+ HD-Rs 8
-http://103.186.77.21:8000/play/a03w/index.m3u8
-#EXTINF:-1,MOVIES NOW-Rs10
-http://103.186.77.21:8000/play/a03s/index.m3u8
-#EXTINF:-1,MTV - Rs 3
-http://103.186.77.21:8000/play/a039/index.m3u8
-#EXTINF:-1,NEWS ONE
-http://103.186.77.21:8000/play/a02h/index.m3u8
-#EXTINF:-1,Nat Geo HD-Rs14
-http://103.186.77.21:8000/play/a03z/index.m3u8
-#EXTINF:-1,NatGeo Wild HD-Rs8
-http://103.186.77.21:8000/play/a03m/index.m3u8
-#EXTINF:-1,Nick Jr.- Rs 1
-http://103.186.77.21:8000/play/a03b/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
-http://103.186.77.21:8000/play/a038/index.m3u8
-#EXTINF:-1,ROHI TV
-http://103.186.77.21:8000/play/a02v/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
-http://103.186.77.21:8000/play/a037/index.m3u8
-#EXTINF:-1,SONY MAX HD -Rs 19
-http://103.186.77.21:8000/play/a03l/index.m3u8
-#EXTINF:-1,STAR MOVIES HD-Rs19
-http://103.186.77.21:8000/play/a03x/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD-Rs19
-http://103.186.77.21:8000/play/a03i/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD-Rs19
-http://103.186.77.21:8000/play/a03n/index.m3u8
-#EXTINF:-1,Sony Ten 5 HD-Rs19
-http://103.186.77.21:8000/play/a03j/index.m3u8
-#EXTINF:-1,StarMovieSelHD-Rs19
-http://103.186.77.21:8000/play/a03y/index.m3u8
-#EXTINF:-1,StarS1 HindiHD-Rs19
-http://103.186.77.21:8000/play/a03k/index.m3u8
-#EXTINF:-1,StarSports1 HD-Rs19
-http://103.186.77.21:8000/play/a03g/index.m3u8
-#EXTINF:-1,StarSports2 HD-Rs19
-http://103.186.77.21:8000/play/a03h/index.m3u8
-#EXTINF:-1,Super Hungama- Rs 4
-http://103.186.77.21:8000/play/a035/index.m3u8
-#EXTINF:-1,TLC HD- Rs3
-http://103.186.77.21:8000/play/a03u/index.m3u8
-#EXTINF:-1,TV ONE
-http://103.186.77.21:8000/play/a02g/index.m3u8
-#EXTINF:-1,UK-44
-http://103.186.77.21:8000/play/a02w/index.m3u8
-#EXTINF:-1,Venus Entertainment
-http://103.186.77.21:8000/play/a02l/index.m3u8
-#EXTINF:-1,ZEE Cafe HD - Rs10
-http://103.186.77.21:8000/play/a03v/index.m3u8
-#EXTINF:-1,ZEEAnmolCinema-10p
-http://103.186.77.21:8000/play/a03a/index.m3u8
-#EXTINF:-1,Zoom - 50p
-http://103.186.77.21:8000/play/a03d/index.m3u8
-#EXTINF:-1,hungama tv-Rs 1
-http://103.186.77.21:8000/play/a032/index.m3u8
-#EXTINF:-1,nick - Rs 6
-http://103.186.77.21:8000/play/a034/index.m3u8
-
-
-
-
 
