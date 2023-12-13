@@ -1491,6 +1491,8 @@ http://103.134.58.242/Data/tvseries/new/Abar%20Proloy//s01/Abar.Proloy.2023.S01E
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Terminator Genisys
 https://cdn-1.sonyplex.net/movie-series/Terminator.Genisys.2015.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Japan
+http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Japan%20%282023%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264/Japan%20%282023%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Nota
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Nota%20%282018%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20ESub%20x264/Nota%20%282018%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20ESub%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Vaathi
