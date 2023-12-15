@@ -5,6 +5,7 @@
 http://113.212.111.246:8080/hls/col12.m3u8
 #https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
@@ -128,6 +129,7 @@ https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 http://113.212.111.246:8080/hls/col12.m3u8
@@ -135,6 +137,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://cdn.sajeeb.online/T-Sports-HD/tracks-v1a1/mono.m3u8?token=hotfllixbd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
 https://cdn.sajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=hotfllixbd
@@ -616,7 +619,7 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 https://cdn.sajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8?token=hotfllixbd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
-http://103.186.77.21:8000/play/a03g/index.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
 http://51.159.59.244/dd_s_h_1/tracks-v1a1/mono.m3u8
 
