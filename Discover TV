@@ -1131,6 +1131,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallbac
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
+#EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
+https://fifabangladesh.xyz/API/KIDS3/RANAPK/play.m3u8?id=246770
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
 http://103.186.77.21:8000/play/a035/index.m3u8
 
