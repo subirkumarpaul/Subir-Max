@@ -436,8 +436,8 @@ https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=hotfllixbd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Toffee",Star Plus(Toffee)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BD",Star Plus(BD)
+http://pakin.satocean.uk:8080/ind_starplus_hd/tracks-v1a1/mono.m3u8?token=eac50a34b3c83965d0a4676ef26e688b
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Toffee",Star Bharat(Toffee)
 
