@@ -15,7 +15,7 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-https://cdn.sajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
+https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
