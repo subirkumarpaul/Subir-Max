@@ -748,9 +748,9 @@ https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-http://11612603.rsc.cdn77.me/PTVSports/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-https://webudit.vipboxtv.stream/lb/premium450/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
@@ -780,24 +780,24 @@ https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
 https://cdn.sajeeb.online/Willow-Cricket/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
-https://webudit.vipboxtv.stream/lb/premium598/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Viaplay Sports 1(BD)
-https://webudit.cdnhks.lol/lb/premium451/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+https://webudit.hlsjs.ru/lb/premium451/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 1(BD)
-https://webudit.vipboxtv.stream/lb/premium49/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium49/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 2(BD)
-https://webudit.vipboxtv.stream/lb/premium74/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium74/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 3(BD)
-https://webudit.vipboxtv.stream/lb/premium454/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium454/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 501(BD)
-https://webudit.vipboxtv.stream/lb/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 502(BD)
-https://webudit.vipboxtv.stream/lb/premium820/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium820/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 503(BD)
 https://webudit.vipboxtv.stream/lb/premium821/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 504(BD)
@@ -819,20 +819,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
-https://webudit.vipboxtv.stream/lb/premium370/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
 http://208.86.19.13:81/720.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Football(BD)
-https://webudit.vipboxtv.stream/lb/premium469/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium469/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Main Event(BD)
 https://247c.mrgamingstreams.com/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports (BD)
-https://webudit.vipboxtv.stream/lb/premium35/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium35/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
-https://webudit.vipboxtv.stream/lb/premium65/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mix(BD)
 https://webudit.vipboxtv.stream/lb/premium449/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Arena(BD)
