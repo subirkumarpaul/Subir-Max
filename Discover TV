@@ -381,7 +381,7 @@ http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",Ruposhi Bangla(BD)
 
 
-#EXTINF:-1 tvg-logo="" group-title="BD",DD Bangla(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Dd%20Bangla.png" group-title="BD",DD Bangla(BD)
 http://longstream-01.ajaah.com/PlayBoxTV/DDBangla/PlayBoxTV/DDBangla_1/chunks.m3u8?nimblesessionid=1851020
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
@@ -467,7 +467,7 @@ http://pakin.satocean.uk:8080/ind_starplus_hd/tracks-v1a1/mono.m3u8?token=adec5e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Jio TV",Colors(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Jio TV",Colors Rishtey(Jio TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Rishtey.png"group-title="Jio TV",Colors Rishtey(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD",Zee TV(BD)
@@ -482,7 +482,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482
 
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 
-#EXTINF:-1  group-title="BD" tvg-logo="",DD National(BD)
+#EXTINF:-1  group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 
