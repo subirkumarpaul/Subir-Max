@@ -1162,6 +1162,13 @@ http://103.186.77.21:8000/play/a038/index.m3u8
 
 #EXTINF:-1,Disney Channel
 https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
+
+#EXTINF:-1,WOW Kids
+https://is.gd/HIMYsi
+
+#EXTINF:-1,Hindi Cartoon
+https://is.gd/1cQmcv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="BD",English Movies(BD)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
