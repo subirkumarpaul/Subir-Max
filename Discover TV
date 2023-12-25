@@ -435,7 +435,7 @@ https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://103.132.181.118:82/play/a00h
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD"Sony TV(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 https://cdn.sajeeb.online/Sony-Set/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
 http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
@@ -1014,7 +1014,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Dis
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Toffee",Animal Planet(Toffee)
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
-https://madflix.live/admin/app/live311ed2d11dddb4eba5973beefad0075f61ff656bb40502611ed435f64d1b2aae4af22f363f0f6c3cec251b74613e4ada20659d283ce28cebafb1c3b45636b5c66a6c4b2f05080f7bb3fbefaa0eb9affd/566/Animal_Planet_Hindi/59aa31844fd3abf7283b3a0b6fcd64ecdd2ab915ddaf2b54fb856c38033105c22fb89e6f1cf130f43a0da12380b60bf858c918cb3394d7a9126bc88a6a40c7e9a1b00eede972e4f6c976487adbc66640613d06c1c436f5dc06d286f7e2d617de553c1a34db0be9c6a07109f30abb2aa62d6957dbedeb23f61798d0f691742f59025bc06bb575b2397bed20589bcf36317a0f01bec33622e407ebfc5f6ce7dce5ecb3abbc76d23f20af7e1b46a2bdf063_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
@@ -1348,6 +1348,7 @@ https://livess.jagobd.com.bd/live-orgin/dwnews.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
+https://livess.jagobd.com.bd/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JDVi.jpg",CUMILLA 24 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58JURC.jpg",CHANNEL S [UK]
