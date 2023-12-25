@@ -580,7 +580,7 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplex%20Bollywood.jpeg"group-title="Jio TV",Colors Cineplex Bollywood(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplex%20Bollywood.jpeg"group-title="BD",Colors Cineplex Bollywood(BD)
-http://208.86.19.13:81/73555.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplex%20Superhits.jpeg"group-title="Jio TV",Colors Cineplex Superhit(Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 
@@ -595,7 +595,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Toffee",B4U Movies(Toffee)
 
