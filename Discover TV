@@ -37,16 +37,26 @@ https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 Khel HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
+https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ten Sports PK
+https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 
 https://sports.yunyingtiandi.com/live/m32855346/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow Xtra
+https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Astro Cricket HD
 https://cdn.sajeeb.online/astro/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Astro Cricket HD
+https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports Cricket
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
 https://cdn.sajeeb.online/S-Cricket/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Fox Sports 501 HD
+https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Variety 1
 https://mlb.mrgamingstreams.com/variety1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Variety 2
