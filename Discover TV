@@ -151,9 +151,10 @@ https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 9
 https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/2023_CWC_Logo.svg.png"group-title="World Cup",World Cup 2023 Live Match 10
-https://hls.streambtw.com/live/stream_10.m3u8
+https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 1 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
+https://livsp-gd-001-cf.slivcdn.com/out/v1/b9fd3b4417d8443e9e56f2bfccaf28e3/master_5.m3u8?hdntl=exp=1703714258~acl=*~hmac=ff2932a72d16b1bbe54adeee051488d3d1f353506d1ecbb0d412874972037f8a&originpath=/linear/hls/pb/event/DguMmKJoTjWj0shIlDqwJQ/stream/eafe7a92-fd8e-43c9-9b25-5a951de51a9f:TPE2/variant/da42151a528176f3dcfb888aa58c2c14/bandwidth/5055519.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 1 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",𝚂𝙴𝚁𝚅𝙴𝚁 2 :- ( 𝚂𝙾𝙽𝚈 𝙻𝙸𝚅 )
