@@ -628,6 +628,8 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
+http://103.132.181.118:82/play/a01b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Toffee",And Pictures(Toffee )
 
@@ -1052,10 +1054,10 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Disc
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Discovery.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Toffee",Animal Planet(Toffee)
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet(BD)
-
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
+http://103.132.181.118:82/play/a00w
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Subir",Animal Planet Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="BD",Animal Planet Multi Audio(BD)
@@ -1254,12 +1256,12 @@ http://103.132.181.118:82/play/a00t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="BD3",Lotus Macau(BD3)
 http://anren.live/HK/BiIOU11uLA.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
+http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",And Flix(BD)
-http://103.132.181.118:82/play/a00x
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
 http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
 
