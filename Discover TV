@@ -827,8 +827,8 @@ https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="BD",Ten Sports PK(BD)
 https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="BCIPTV",Ten Cricket(BCIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="BD",Ten Cricket(BD)
+http://livetvbox.live:8080/live/Anne/Anne/196594.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
