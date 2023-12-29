@@ -1109,7 +1109,7 @@ http://103.218.25.12:89/play/a02k/index.m3u8
 
 
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
-
+http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
 
 
