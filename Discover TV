@@ -493,13 +493,14 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 http://103.132.181.118:82/play/a00h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 https://cdn.sajeeb.online/Sony-Set/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
+http://38.96.178.201/live/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
 http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Live TV 2",Sony TV(Live TV 2)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
+http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV UK(BD)
+http://195.26.87.217/live.ts?channelId=194&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sony Kal(BD)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -520,7 +521,16 @@ https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
 http://103.132.181.118:82/play/a00e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BD",Star Plus(BD)
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Toffee",Star Bharat(Toffee)
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="BD",Star Bharat HD(BD)
+http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="BD",Star Bharat(BD)
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo=""group-title="BD",Ustsav Plus HD(BD)
+http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD",Colors(BD)
 http://103.132.181.118:82/play/a00g
@@ -556,19 +566,24 @@ http://103.132.181.118:82/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
 https://cdn.sajeeb.online/Sony-MAX/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
+http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony Liv",Sony Max(Sony Liv)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max UL(BD)
+http://195.26.87.217/live.ts?channelId=186&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
 http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
 https://cdn.sajeeb.online/Sony-MAX-2/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2 UK(BD)
+http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="BD",Sony Wah(BD)
 https://cdn.sajeeb.online/Sony-WAH/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
@@ -599,8 +614,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
+http://103.132.181.118:82/play/a00j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
@@ -618,8 +635,8 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Thrills.png"group-title="BD",Star Gold Thrills(BD)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Flixhub",Star Gold Romance(Flixhub)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="BD",Star Gold Romance(BD)
+http://103.132.181.118:82/play/a00m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="Live TV 2",Star Gold Romance(Live TV 2)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Romance.png" group-title="BD",Star Gold Romance(BD)
@@ -629,9 +646,11 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold Select(BD)
 http://208.86.19.13:81/7099.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Live TV 2",Star Gold Select(Live TV 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="BD",Star Gold Select(BD)
+http://195.26.87.217/live.ts?channelId=197&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-
+#EXTINF:-1 tvg-logo=""group-title="BD",Ustsav Gold(BD)
+http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Jio TV",Colors Cineplex(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
@@ -1253,7 +1272,8 @@ https://is.gd/1cQmcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="BD",English Movies(BD)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies(BD)
+http://103.132.181.118:82/play/a005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
@@ -1278,8 +1298,8 @@ http://103.132.181.118:82/play/a00y
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Movies%20Now.png"group-title="BD",Movies Now(BD)
-
+#EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
+http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",MN HD+(BD)
 http://103.132.181.118:82/play/a00t
