@@ -31,7 +31,7 @@ http://103.132.181.118:82/play/a00u
 https://cdn.sajeeb.online/Star-Sports-Select-2/tracks-v1a1/mono.m3u8?token=9fe8b21843e671e3a52cf679591f272896fdd581-1ea310bfa415c30d8c5f1e75ac7b5067-1704101930-1704091130
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+http://103.132.181.118:82/play/a00b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
@@ -393,7 +393,7 @@ https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="BD",Sony Aath(BD)
-https://cdn.sajeeb.online/Sony-Aath/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+http://103.132.181.118:82/play/a009
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="BD",Sony Aath(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
