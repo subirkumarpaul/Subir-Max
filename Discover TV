@@ -776,7 +776,7 @@ http://103.132.181.118:82/play/a00l
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-1-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
@@ -785,7 +785,7 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BD",Sony Sports Ten 2 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-2-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Toffee",Sony Sports Ten 2(Toffee)
@@ -794,7 +794,7 @@ http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="BD",Sony Sports Ten 3 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-3-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3 HD(Toffee)
 http://103.2.153.38/trans1sd/smil:tensports3.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Toffee",Sony Sports Ten 3(Toffee)
@@ -803,7 +803,7 @@ http://103.2.153.38/trans1sd/smil:tensports3.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sony Liv",Sony Sports Ten 4(Sony Liv)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
@@ -814,7 +814,7 @@ https://cdn.sajeeb.online/Sony-Ten-4-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORl
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="BD",Sony Sports Ten 5 HD(BD)
-https://cdn.sajeeb.online/Sony-Ten-5-hd/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Flixhub",Sony Sports Ten 5(Flixhub)
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Toffee",Sony Sports Ten 5(Toffee)
@@ -830,7 +830,7 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="BD",Sports 18 1 HD(BD)
-https://cdn.sajeeb.online/sports-18/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 Khal(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_HD_voot_MOB
@@ -857,7 +857,7 @@ http://175.107.244.52:4457/play/a08g/96084286.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
-https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 
 
@@ -883,7 +883,7 @@ http://livetvbox.live:8080/live/Anne/Anne/196594.ts
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
-https://cdn.sajeeb.online/Willow-Cricket/tracks-v1a1/mono.m3u8?token=6zoceTZUyORlS2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Xtra(BD)
 https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
@@ -904,15 +904,15 @@ https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 502(BD)
 https://webudit.hlsjs.ru/lb/premium820/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 503(BD)
-https://webudit.vipboxtv.stream/lb/premium821/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium821/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 504(BD)
-https://webudit.vipboxtv.stream/lb/premium822/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium822/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 505(BD)
-https://webudit.vipboxtv.stream/lb/premium823/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 506(BD)
-https://webudit.vipboxtv.stream/lb/premium824/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium824/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Fox Sports 507(BD)
-https://webudit.vipboxtv.stream/lb/premium825/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium825/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -939,13 +939,13 @@ https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mix(BD)
-https://webudit.vipboxtv.stream/lb/premium449/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium449/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Arena(BD)
-https://webudit.vipboxtv.stream/lb/premium36/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium36/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Action(BD)
-https://webudit.vipboxtv.stream/lb/premium37/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium37/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Golf(BD)
-https://webudit.vipboxtv.stream/lb/premium70/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+https://webudit.hlsjs.ru/lb/premium70/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 
 
@@ -954,54 +954,54 @@ https://webudit.vipboxtv.stream/lb/premium70/index.m3u8?|Referer=https://streams
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports(BD)
-https://webudit.webhd.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1 English(BD)
-https://webudit.webhd.ru/lb/premium61/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium61/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
-https://webudit.webhd.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="BD",Bein Sports 1(BD)
-https://webudit.webhd.ru/lb/premium91/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium91/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2 English(BD)
-https://webudit.webhd.ru/lb/premium90/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium90/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
-https://webudit.webhd.ru/lb/premiu63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="BD",Bein Sports 2(BD)
-https://webudit.webhd.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3 English(BD)
-https://webudit.webhd.ru/lb/premium46/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium46/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
-https://webudit.webhd.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="BD",Bein Sports 3(BD)
-https://webudit.webhd.ru/lb/premium64/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium64/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BD",Bein Sports 4(BD)
-https://webudit.webhd.ru/lb/premium94/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium94/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%204.jpeg"group-title="BD",Bein Sports 4(BD)
-https://webudit.webhd.ru/lb/premium95/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium95/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 5(BD)
-https://webudit.webhd.ru/lb/premium96/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium96/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports 6(BD)
-https://webudit.webhd.ru/lb/premium97/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium97/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 1(BD)
-https://webudit.webhd.ru/lb/premium98/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium98/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BCIPTV",Bein Sports Premium 2(BD)
-https://webudit.webhd.ru/lb/premium99/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium99/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%205.png"group-title="BDIPTV",Bein Sports Premium 3(BD)
-https://webudit.webhd.ru/lb/premium100/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium100/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1,TNT Sports 1
-https://webudit.webhd.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 1(BD)
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1,TNT Sports 2
-https://webudit.webhd.ru/lb/premium32/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium32/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 2(BD)
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 #EXTINF:-1,TNT Sports 3
-https://webudit.webhd.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 3(BD)
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:-1,TNT Sports 4
-https://webudit.webhd.ru/lb/premium34/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://webudit.hlsjs.ru/lb/premium34/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 4(BD)
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
