@@ -774,8 +774,10 @@ http://103.132.181.118:82/play/a03h
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BS)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
 http://103.132.181.118:82/play/a00l
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
+http://xtv.ooo:8080/live/636377/873673/109993.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="ftpbd",Star Sports Select 2(ftpbd)
 
@@ -1135,13 +1137,13 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 http://103.132.181.118:82/play/a006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-
+http://xtv.ooo:8080/live/636377/873673/206285.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-http://9jeixdcy.rostelekom.xyz/iptv/NQDL3QT8F6XNHD/133/index.m3u8
+http://xtv.ooo:8080/live/636377/873673/206286.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 http://103.186.77.21:8000/play/a03m/index.m3u8
@@ -1182,13 +1184,14 @@ http://95.111.193.211:8106/play/a025/index.m3u8
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 #EXTINF: -1 group-title="Techpriyo",History TV 18 HD(Techpriyo)
 http://api.techpriyo.com/bio.php?id=history-tv|User-Agent=bdixtv24
-
+#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
+http://xtv.ooo:8080/live/636377/873673/206294.m3u8
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP HD(BD)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155748&extension=ts&play_token=otM0DQF4Ff
+http://xtv.ooo:8080/live/636377/873673/206279.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP HD(BD)
 http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
