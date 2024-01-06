@@ -75,12 +75,12 @@ https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay
 https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports MAQ TV Cricket
 http://xtv.ooo:8080/live/636377/873673/207190.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Variety 2
-https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Variety 3
-https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Variety 4
-https://mlb.mrgamingstreams.com/variety4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cric Life 1
+http://xtv.ooo:8080/636377/873673/371469
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cric Life 2
+http://xtv.ooo:8080/636377/873673/371470
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cric Life 3
+http://xtv.ooo:8080/636377/873673/371471
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Grandstand
 https://mlb.mrgamingstreams.com/grandstand.m3u8
 
