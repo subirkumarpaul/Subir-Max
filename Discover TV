@@ -553,9 +553,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV(BD)
-
 
 #EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
 
@@ -673,6 +673,8 @@ https://livevoot.co.in/voot/master.m3u8?id=Rishtey_Cineplex_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplex%20Superhits.jpeg"group-title="BD",Colors Cineplex Superhit(BD)
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
