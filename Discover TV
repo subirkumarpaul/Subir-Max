@@ -502,8 +502,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="BD",Bangla Talkies
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Dhoom Music(BD)
-
+#EXTINF:-1 tvg-logo="" group-title="Ayna",Dhoom Music(Ayna)
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=136&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://103.132.181.118:82/play/a00h
