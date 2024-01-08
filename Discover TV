@@ -1186,8 +1186,8 @@ http://103.186.77.21:8000/play/a03m/index.m3u8
 http://api.techpriyo.com/bio.php?id=bbc-earth-hd-live|User-Agent=bdixtv24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=72&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=75&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
 
 
