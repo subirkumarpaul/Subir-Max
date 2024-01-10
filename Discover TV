@@ -970,7 +970,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
 https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Astro Cricket(BD)
-http://208.86.19.13:81/720.stream/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Football(BD)
 https://webudit.hlsjs.ru/lb/premium469/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
@@ -1104,15 +1104,13 @@ http://103.132.181.118:82/play/a007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Subir",Discovery HD Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD Multi Audio(BD)
-http://112.196.61.212:9292/DISCOVERY_FHD_VIDECON/index.m3u8
+https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Multi Audio(BD)
 https://dplus.gammacdn.workers.dev/videos/95.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery Bangla HD(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Bangla.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD Multi Audio(BD)
-https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="BD",Discovery English HD(BD)
@@ -1132,7 +1130,7 @@ https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BCIPTV",Discovery Science (BCIPTV)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science Multi Audio(BD)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Subir",Discovery Science Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Subir",Discovery Science Multi Audio(Subir)
@@ -1174,13 +1172,13 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 http://103.132.181.118:82/play/a006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-http://xtv.ooo:8080/live/636377/873673/206285.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-http://xtv.ooo:8080/live/636377/873673/206286.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 http://103.186.77.21:8000/play/a03m/index.m3u8
