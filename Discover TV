@@ -241,8 +241,8 @@ https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chun
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Ayna",Desh TV(Ayna)
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=12&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BD",Desh TV(BD)
-http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Toffee",Desh TV(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=desh_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Jagobd",MY TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -260,7 +260,7 @@ https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=31&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Jagobd",Anando TV(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
+https://livess.jagobd.com.bd/live-orgin/anandatv.streTm/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Ayna",Anando TV(Ayna)
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=33&e=.m3u8
 
@@ -382,6 +382,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="Toffee",Movie Bangla Music(Toffee)
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_226947001684477528.png" group-title="Toffee Any Player",toffee-v2 Movies
+https://bdsatv24.000webhostapp.com/Toffe.php?id=sports_live_01
 
 
 #EXTINF:-1 tvg-logo="" group-title="Toffee",Toffee Drama(Toffee)
@@ -620,6 +622,8 @@ http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Ayna",Sony Wah(Ayna)
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=78&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Toffee",Sony Wah(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=sony_wah
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
@@ -1173,8 +1177,8 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 http://103.132.181.118:82/play/a006
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Toffee",Nat Geo HD(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=nat_geo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
@@ -1184,8 +1188,8 @@ http://103.132.181.118:82/play/a006
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 http://103.186.77.21:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Toffee",Nat Geo Wild(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=nat_geo_wild
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Techpriyo",Sony BBC Earth(Techpriyo)
 http://api.techpriyo.com/bio.php?id=bbc-earth-hd-live|User-Agent=bdixtv24
@@ -1206,8 +1210,8 @@ https://livevoot.co.in/voot/master.m3u8?id=Colors_Infinity_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Techpriyo",Colors Infinity(Techpriyo)
 http://api.techpriyo.com/bio.php?id=colors-infinity|User-Agent=bdixtv24
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD Multi Audio(BD)
-http://112.196.61.212:9292/FOX_LIFE_FHD_VIDECON/index.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Toffee",Fox Life HD(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=fox_life
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD English(BD)
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD Hindi(BD)
@@ -1218,11 +1222,11 @@ http://95.111.193.211:8106/play/a025/index.m3u8
 
 #EXTINF: -1 group-title="BD",History TV 18 HD Multi Audio(BD)
 http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
-#EXTINF: -1 group-title="Techpriyo",History TV 18 HD(Techpriyo)
-
+#EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
+https://bdsatv24.000webhostapp.com/Toffe.php?id=history_tv
 #EXTINF: -1 group-title="Ayna",History TV 18 HD(Ayna)
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=44&e=.m3u8
-#http://xtv.ooo:8080/live/636377/873673/206294.m3u8
+#
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
