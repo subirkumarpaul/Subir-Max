@@ -36,10 +36,10 @@ https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=49&e=.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 http://103.132.181.118:82/play/a00b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=92&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=92&e=.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
-http://api.techpriyo.com/bio.php?id=sony-ten-3-live|User-Agent=bdixtv24
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=79&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 4 HD
 http://livetvbox.live:8080/live/Anne/Anne/29469.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 5 HD
