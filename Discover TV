@@ -1213,9 +1213,8 @@ http://api.techpriyo.com/bio.php?id=colors-infinity|User-Agent=bdixtv24
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD Multi Audio(BD)
 http://112.196.61.212:9292/FOX_LIFE_FHD_VIDECON/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD English(BD)
-
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD Hindi(BD)
-
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",FOX Life HD(BD)
 http://95.111.193.211:8106/play/a025/index.m3u8
