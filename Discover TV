@@ -177,9 +177,9 @@ http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-h
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=27&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=28&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
@@ -187,10 +187,10 @@ http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=18&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
-http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=19&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
+http://113.212.111.246:8080/hls/col2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
