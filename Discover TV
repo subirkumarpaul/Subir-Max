@@ -53,6 +53,8 @@ https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=45&e=.m3u8
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=47&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ten Sports PK
 https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
