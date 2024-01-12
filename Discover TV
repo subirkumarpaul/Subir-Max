@@ -109,16 +109,18 @@ https://hls.streambtw.com/live/stream_8.m3u8
 https://hls.streambtw.com/live/stream_9.m3u8
 
 
-#EXTINF:-1,Zee India
+#EXTINF:-1,Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1,Zee Marathi
 http://103.120.172.74:1040
-#EXTINF:-1,Star India
+#EXTINF:-1,Star Pravah
 http://103.120.172.74:1060
 #EXTINF:-1,Colors
 http://103.120.172.74:1070
-#EXTINF:-1,Sony SAB
-http://103.120.172.74:1080
-#EXTINF:-1,India news
+#EXTINF:-1,Hindi News
 http://103.120.172.74:1090
+#EXTINF:-1,SET India
+http://103.120.172.74:1110
 #EXTINF:-1,StarPlus
 http://103.120.172.74:1120
 #EXTINF:-1,Zee TV
@@ -129,32 +131,32 @@ http://103.120.172.74:1150
 http://103.120.172.74:1170
 #EXTINF:-1,Zee TV
 http://103.120.172.74:4000
-#EXTINF:-1,Star sports1
+#EXTINF:-1,Zee Cinema
 http://103.120.172.74:4100
-#EXTINF:-1,Star sports2
+#EXTINF:-1,Star Sports 2
 http://103.120.172.74:4200
 #EXTINF:-1,StarPlus
 http://103.120.172.74:4300
-#EXTINF:-1,MTV
+#EXTINF:-1,Sony SAB
 http://103.120.172.74:4400
-#EXTINF:-1,Star sports1
-http://103.120.172.74:4600
-#EXTINF:-1,Star sports2
+#EXTINF:-1,Star Sports Select 2
 http://103.120.172.74:4700
-#EXTINF:-1,Star sports2
+#EXTINF:-1,Sony Sports Ten 2
 http://103.120.172.74:4800
 #EXTINF:-1,Star Gold
 http://103.120.172.74:5000
-#EXTINF:-1,Sony HD
+#EXTINF:-1,SET
 http://103.120.172.74:5100
-#EXTINF:-1,Star India
+#EXTINF:-1,Star Bharat
 http://103.120.172.74:5200
-#EXTINF:-1,Sony Sport5
+#EXTINF:-1,*Sony Sport5
 http://103.120.172.74:5300
-#EXTINF:-1,Sony Sport1
+#EXTINF:-1,Sony Sports Ten 1
 http://103.120.172.74:5400
 #EXTINF:-1,NDTV
 http://103.120.172.74:5500
+ 
+
 
 
 
