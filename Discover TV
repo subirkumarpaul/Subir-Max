@@ -109,6 +109,53 @@ https://hls.streambtw.com/live/stream_8.m3u8
 https://hls.streambtw.com/live/stream_9.m3u8
 
 
+#EXTINF:-1,Zee India
+http://103.120.172.74:1040
+#EXTINF:-1,Star India
+http://103.120.172.74:1060
+#EXTINF:-1,Colors
+http://103.120.172.74:1070
+#EXTINF:-1,Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1,India news
+http://103.120.172.74:1090
+#EXTINF:-1,StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1,Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1,Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1,DD news
+http://103.120.172.74:1170
+#EXTINF:-1,Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1,StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1,MTV
+http://103.120.172.74:4400
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1,Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1,Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1,Star India
+http://103.120.172.74:5200
+#EXTINF:-1,Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1,Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1,NDTV
+http://103.120.172.74:5500
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
