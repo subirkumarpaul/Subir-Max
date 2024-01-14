@@ -364,6 +364,9 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo=""group-title="Jagobd",NRB TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Jagobd",Rajdhani TV
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Jagobd",E TEN TV
 https://iptvbd.live/test/1080.m3u8
 
@@ -546,7 +549,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Bioscope",Colors Bangla Cinema(Bioscope)
-https://bongohub.pw/bioscope.php?c=colors-bangla-cinema
+https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Toffee",Colors Bangla Cinema(Toffee)
 https://bdsatv24.000webhostapp.com/Toffe.php?id=colors_bangla_cinema
 
@@ -1389,10 +1392,10 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000001971&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Nick_HD_Plus_voot_MOB
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick Hinde(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick(Bioscope)
+https://bongohub.pw/bioscope.php?cc=nickelodeon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Techpriyo",Nick Bangla(Techpriyo)
-http://api.techpriyo.com/bio.php?id=nickelodeon|User-Agent=bdixtv24
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Jio TV",Nick JR(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
