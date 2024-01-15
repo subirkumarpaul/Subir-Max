@@ -174,15 +174,22 @@ http://103.120.172.74:5500
 
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=1&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
 http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV World(Ayna)
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=2&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV World(BD)
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV Chattogram(Ayna)
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=3&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV Chattogram(BD)
 http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV Sangsad(Ayna)
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=4&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV Sangsad(BD)
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
@@ -375,6 +382,9 @@ http://208.86.19.13:81/503.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Florida Bangla TV
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="BD",Cumilla TV
+http://103.149.142.133/0.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
@@ -950,7 +960,8 @@ http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 1 HD(Jio TV)
-#https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98838_eng=98800-video=454400.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Ayna",Sports 18 1 HD(Ayna)
 https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=45&e=.m3u8
