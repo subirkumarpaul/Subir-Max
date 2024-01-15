@@ -237,8 +237,8 @@ http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
 http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Youtube",NTV(Youtube)
-https://raw.githubusercontent.com/gift4bd/ytm/main/NTVBD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bioscope",NTV(Bioscope)
+https://bongohub.pw/bioscope.php?cc=ntv
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Jagobd",NTV UK(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 
@@ -547,7 +547,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.132.181.118:82/play/a004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?id=jalsha_movies
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 
@@ -561,7 +561,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Bioscope",Colors Bangla Cinema(Bioscope)
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Toffee",Colors Bangla Cinema(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?id=colors_bangla_cinema
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sun Bangla Cinema(BD)
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
@@ -1282,8 +1282,8 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=72&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=75&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth(Bioscope)
+https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Wild Earth(BD)
@@ -1305,8 +1305,8 @@ http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 http://95.111.193.211:8106/play/a025/index.m3u8
 
 
-#EXTINF: -1 group-title="BD",History TV 18 HD Multi Audio(BD)
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
+#EXTINF: -1 group-title="Bioscope",History TV 18 HD(Bioscope)
+https://bongohub.pw/bioscope.php?cc=history-tv
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
 https://bdsatv24.000webhostapp.com/Toffe.php?id=history_tv
 #EXTINF: -1 group-title="Ayna",History TV 18 HD(Ayna)
@@ -1415,8 +1415,8 @@ https://bongohub.pw/bioscope.php?cc=nickelodeon
 https://livevoot.co.in/voot/master.m3u8?id=Nick_Junior_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Ayna",Nick JR(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?id=126&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Techpriyo",Nick JR(Techpriyo)
-http://api.techpriyo.com/bio.php?id=nick-junior|User-Agent=bdixtv24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick JR(Bioscope)
+https://bongohub.pw/bioscope.php?cc=nick-junior
 
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Sonic(Jio TV)
@@ -1604,8 +1604,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="Techpriyo",VH1 HD(Techpriyo)
-http://api.techpriyo.com/bio.php?id=vh1|User-Agent=bdixtv24
+#EXTINF:-1 tvg-logo=""group-title="Bioscope",VH1 HD(Bioscope)
+https://bongohub.pw/bioscope.php?cc=vh1
 
 #EXTINF:-1 tvg-logo=""group-title="Jio TV",Clubbing TV(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
