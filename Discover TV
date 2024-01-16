@@ -1823,8 +1823,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Bhoy
 https://cdn-1.sonyplex.net/Kolkata-Movies-Web-Series/Bhoy.mp4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Abar Proloy
-
+#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Love Marriage
+http://cdn1.discoveryftp.net/Movies/Bangla/2023/Love%20Marriage/Love%20Marriage.2023.Bengali.1080p.WEB-DL.H.264.AAC.2.0-%5BHasan%5D.mkv
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Abar Proloy
 http://103.134.58.242/Data/tvseries/new/Abar%20Proloy//s01/Abar.Proloy.2023.S01E01.Crazy.Cop.720p.ZEE5.WEB-DL.AAC2.0.H.264-DeepCooL.mkv
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Oppenheimer
