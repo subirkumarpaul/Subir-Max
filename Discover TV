@@ -2085,39 +2085,40 @@ https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Oriya_voot_MOB
 
 #EXTM3U url-tvg="https://rstream.me/epg.xml"
 
+
 #BONGO
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bongo",Somoy TV
-https://bdsajib112.000webhostapp.com/bongo.php?cc=somoy-tv
+https://api.bongohub.pw/bongo.php?cc=somoy-tv
 #EXTINF:-1 tvg-id="8" tvg-name="Movie Bangla" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/16f10c2a-e4c3-4214-bad5-8dc791343cc4/7bd1f69c-df79-4c98-a82a-670835461c60.png?width=400" tvg-chno="1" group-title="Bongo", Movie Bangla
-https://bdsajib112.000webhostapp.com/bongo.php?cc=movie-bangla-8827458fcaf5
+https://api.bongohub.pw/bongo.php?cc=movie-bangla-8827458fcaf5
 #EXTINF:-1 tvg-id="30" tvg-name="Nexus Television HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300" tvg-chno="1" group-title="Bongo",Nexus Television HD
-https://bdsajib112.000webhostapp.com/bongo.php?cc=nexus-tv
+https://api.bongohub.pw/bongo.php?cc=nexus-tv
 #EXTINF:-1 tvg-id="46" tvg-name="DBC News" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/425f4cb8-edd6-482b-a49e-85528f60225d/eaf3e854-9d2d-4d0d-aa74-ff49c8b353de.png?width=300" tvg-chno="1" group-title="Bongo",DBC News
-https://bdsajib112.000webhostapp.com/bongo.php?cc=dbc-news
+https://api.bongohub.pw/bongo.php?cc=dbc-news
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" tvg-chno="1" group-title="Bongo",Zee Bangla
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-bangla
+https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Bangla Cinema" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e82d1f3-2483-4a05-ac7c-4fe78b2d7f0d/6e91a298-8191-4997-aabc-b31406073340.png?width=400" tvg-chno="1" group-title="Bongo",Zee Bangla Cinema 
 https://bdsajib112.000webhostapp.com/api/bioscope.php?id=zee-classic
 #EXTINF:-1 tvg-id="8" tvg-name="& Pictures HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/1c7e5a1d-91d1-4184-a112-b91043da01b3/0e97fe3d-78a2-4967-a32c-e2f4876cc856.png?width=400" tvg-chno="1" group-title="Bongo",& Pictures HD
-https://bdsajib112.000webhostapp.com/bongo.php?cc=pictures-hd
+https://api.bongohub.pw/bongo.php?cc=pictures-hd
 #EXTINF:-1 tvg-id="8" tvg-name="9x JALWA" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/43440b2a-0045-41a5-9ab6-76c861cec682/0f8e8d3e-cb23-419b-8b82-c15f9c5c9a81.png?width=400" tvg-chno="1" group-title="Bongo",9x JALWA
 https://bdsajib112.000webhostapp.com/api/bioscope.php?id=9x-jalwa-1
 #EXTINF:-1 tvg-id="17" tvg-name="Zee Cinema HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4ef30b76-32e8-48ab-81fc-5c7d641e5209/e7b4ef73-f718-4efe-931c-58f7f5cc87a3.png?width=300" tvg-chno="1" group-title="Bongo",Zee Cinema HD
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-cinema-hd
+https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 #EXTINF:-1 tvg-id="14" tvg-name="Zee Bollywood" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/8fa76d62-7feb-42ee-b5b9-07dda654a062/f0412fb5-a3fb-4e06-a3f8-b44851521f76.png?width=300" tvg-chno="1" group-title="Bongo",Zee Bollywood
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-bollywood
+https://api.bongohub.pw/bongo.php?cc=zee-bollywood
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Anmol" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/5c611e4f-aa8d-4e46-8242-ff76a6fec77a/b0f5393e-3fc1-427d-ba33-9429d7298a9b.png?width=400" tvg-chno="1" group-title="Bongo", Zee Anmol
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-anmol
+https://api.bongohub.pw/bongo.php?cc=zee-anmol
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Action" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png?width=400" tvg-chno="1" group-title="Bongo", Zee Action
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-action
+https://api.bongohub.pw/bongo.php?cc=zee-action
 #EXTINF:-1 tvg-id="8" tvg-name="Zing" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png?width=400" tvg-chno="1" group-title="Bongo", Zing
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zing
+https://api.bongohub.pw/bongo.php?cc=zing
 #EXTINF:-1 tvg-id="8" tvg-name="Zee TV HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7ff515b0-8ac5-4fe4-853b-ebbc5cc5f947/430ba6a7-1018-47d5-a6eb-b1335e6aa6bd.png?width=400" tvg-chno="1" group-title="Bongo", Zee TV HD
-https://bdsajib112.000webhostapp.com/bongo.php?cc=zee-tv-hd
+https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
 #EXTINF:-1 tvg-id="8" tvg-name="& TV HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/56b881f1-66b7-4621-a681-2856824041e8/0e29641a-658a-4a87-b9b6-58cdbb1fef75.png?width=400" tvg-chno="1" group-title="Bongo", & TV HD
-https://bdsajib112.000webhostapp.com/bongo.php?cc=tv-hd
+https://api.bongohub.pw/bongo.php?cc=tv-hd
 
 
 #bioscope
