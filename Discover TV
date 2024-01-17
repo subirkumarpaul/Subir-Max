@@ -497,7 +497,7 @@ http://103.132.181.118:82/play/a009
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="BD",Sony Aath(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Ayna",Sony Aath(Ayna)
-https://cdn.retosprime.com/ayna.php?id=13&e=.m3u8|User-Agent=bdsajib
+https://cdn.retosprime.com/ayna.php?id=86&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Sony LIV",Sony Aath(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009255&e=.m3u8
 
@@ -688,7 +688,7 @@ http://103.132.181.118:82/play/a00c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony LIV",Sony Max HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Ayna",Sony Max HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=71&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=71&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony LIV",Sony Max(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009249&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max UK(BD)
@@ -719,7 +719,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Ayna",Zee Cinema HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=103&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=103&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Bongo",Zee Cinema(Bongo)
 
 
@@ -820,7 +820,7 @@ https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD",Bflix(BD)
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="Ayna",Bflix(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=163&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=163&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bollywood%20Classic.jpeg" group-title="BD",Bollywood Classic(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -829,19 +829,19 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Ayna",Manoranjan Movies(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=139&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=138&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Ayna",Dhinchaak(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=153&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=153&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-logo="" group-title="Ayna",Goldmines(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=154&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=154&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines(BD)
 
 #EXTINF:-1 tvg-logo="" group-title="Ayna",Goldmines Movies(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=156&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=156&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="Ayna",Goldmines Bollywood(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=155&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=155&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="" group-title="BD",Goldmines Bollywood(BD)
 
 
@@ -854,7 +854,7 @@ http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="BD",B4U Movies UK(BD)
 
 #EXTINF:-1 tvg-logo="" group-title="Ayna",B4U Kadak(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=149&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=149&e=.m3u8|User-Agent=bdsajib
 
 
 
@@ -878,7 +878,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1(BD)
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Ayna",Star Sports 1(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=42&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=42&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 HD(BD)
 http://103.132.181.118:82/play/a00a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BD",Star Sports 1 Hinde(BD)
@@ -890,7 +890,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Ayna",Star Sports 2(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=43&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.132.181.118:82/play/a03h
 
@@ -908,18 +908,18 @@ http://103.132.181.118:82/play/a03h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
 http://103.132.181.118:82/play/a00l
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Ayna",Star Sports Select 1(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=48&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=48&e=.m3u8|User-Agent=bdsajib
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Ayna",Star Sports Select 2(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=49&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=49&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BD",Star Sports Select 2(BD)
 http://xtv.ooo:8080/live/636377/873673/109994.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Ayna",Sony Sports Ten 1 HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=76&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=76&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
@@ -928,23 +928,23 @@ http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Ayna",Sony Sports Ten 2(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=88&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=88&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Ayna",Sony Sports Ten 2 HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=92&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=92&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="BD",Sony Sports Ten 2(BD)
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sony Liv",Sony Sports Ten 2 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009277&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Ayna",Sony Sports Ten 3(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=85&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=85&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Ayna",Sony Sports Ten 3 HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=79&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=79&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sony Liv",Sony Sports Ten 3 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4 HD(BD)
-http://livetvbox.live:8080/live/Anne/Anne/29469.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sony Liv",Sony Sports Ten 4 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000119186&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
@@ -972,7 +972,7 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
 #https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98838_eng=98800-video=454400.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Ayna",Sports 18 1 HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=45&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=45&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Jio TV",Sports 18 Khal(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_HD_voot_MOB
@@ -995,7 +995,7 @@ https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Ayna",PTV Sports(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=47&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
@@ -1004,12 +1004,12 @@ https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Ayna",A Sports(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=68&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=68&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
 https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Ayna",Geo Super(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=51&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=51&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK(Flixhub)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="BD",Ten Sports PK(BD)
@@ -1020,7 +1020,7 @@ https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Ayna",Willow Cricket(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=113&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=113&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
@@ -1285,9 +1285,9 @@ https://bdsatv24.000webhostapp.com/Toffe.php?id=nat_geo_wild
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Sony LIV",Sony BBC Earth HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=72&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=72&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=75&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=75&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth(Bioscope)
 https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
 
@@ -1316,7 +1316,7 @@ https://bongohub.pw/bioscope.php?cc=history-tv
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
 https://bdsatv24.000webhostapp.com/Toffe.php?id=history_tv
 #EXTINF: -1 group-title="Ayna",History TV 18 HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=44&e=.m3u8
+https://cdn.retosprime.com/ayna.php?id=44&e=.m3u8|User-Agent=bdsajib
 #
 
 
