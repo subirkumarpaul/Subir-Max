@@ -270,7 +270,7 @@ https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chun
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Ayna",Desh TV(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=12&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Toffee",Desh TV(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?ic=desh_tv
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Jagobd",MY TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -288,7 +288,7 @@ https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=31&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Jagobd",Anando TV(Jagobd)
-https://livess.jagobd.com.bd/live-orgin/anandatv.streTm/chunks.m3u8
+https://livess.jagobd.com.bd/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Ayna",Anando TV(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=33&e=.m3u8
 
@@ -297,7 +297,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Toffee",Nagorik TV(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?id=nagorik_tv_hd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Jagobd",Bijoy TV(Jagobd)
