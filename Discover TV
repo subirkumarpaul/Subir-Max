@@ -1286,16 +1286,16 @@ https://bdsatv24.000webhostapp.com/Toffe.php?id=nat_geo_wild
 https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
 https://cdn.retosprime.com/ayna.php?id=72&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth HD(Ayna)
 https://cdn.retosprime.com/ayna.php?id=75&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth(Bioscope)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth HD(Bioscope)
 https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Jio TV",Colors Infinity(Jio TV)
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Jio TV",Colors Infinity HD(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Colors_Infinity_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Techpriyo",Colors Infinity(Techpriyo)
@@ -1311,7 +1311,7 @@ http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 http://95.111.193.211:8106/play/a025/index.m3u8
 
 
-#EXTINF: -1 group-title="Bioscope",History TV 18 HD(Bioscope)
+#EXTINF: -1 group-title="Bioscope",History TV 18(Bioscope)
 https://bongohub.pw/bioscope.php?cc=history-tv
 #EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
 https://bdsatv24.000webhostapp.com/Toffe.php?id=history_tv
@@ -1323,25 +1323,25 @@ https://cdn.retosprime.com/ayna.php?id=44&e=.m3u8|User-Agent=bdsajib
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP GB(BD)
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP HD(BD)
-http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="BD",Travel XP(BD)
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="BD",Travel XP English NL(BD)
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="BD",Travel XP English EU(BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="BD",Travel XP English NZ(BD)
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP English(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="BD",Travel XP English SE(BD)
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Trave Channel(BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",Trave Channel(BD)
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="BD3",Love nature(BD)
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Xlpore English(BD)
@@ -1350,26 +1350,30 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",DMAX(BD)
 https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Network English(BD)
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Network English(BD)
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Food English(BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Network English(BD)
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
-https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Jagobd",Discover Pakistan TV(Jagobd)
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/discoverpakistan.stream/live-orgin/discoverpakistan.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Subir",Food Network(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",Food Network(BD)
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Food Food(BD)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i_
 
-#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Subir",Food Network(Subir)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="BD",Asian Food Network
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/HGTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BD",HG TV(BD)
+https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Jagobd",Discover Pakistan TV(Jagobd)
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/discoverpakistan.stream/live-orgin/discoverpakistan.stream/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="BD",Asian Food Network
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Food%20Network.m3u8
 
