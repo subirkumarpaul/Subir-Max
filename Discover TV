@@ -9,6 +9,8 @@ https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
 https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV
 https://cdn.retosprime.com/ayna.php?id=18&e=.m3u8|User-Agent=bdsajib
@@ -1839,15 +1841,15 @@ https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1
 https://cdn-1.sonyplex.net/Kolkata-Movies-Web-Series/Bhoy.mp4/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Love Marriage
 http://cdn1.discoveryftp.net/Movies/Bangla/2023/Love%20Marriage/Love%20Marriage.2023.Bengali.1080p.WEB-DL.H.264.AAC.2.0-%5BHasan%5D.mkv
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",Abar Proloy
-http://103.134.58.242/Data/tvseries/new/Abar%20Proloy//s01/Abar.Proloy.2023.S01E01.Crazy.Cop.720p.ZEE5.WEB-DL.AAC2.0.H.264-DeepCooL.mkv
+#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Feludar%20Goyendagiri%20s01.jpg" group-title="Kolkata Bangla Movies",Feludar Goyendagiri
+http://103.109.56.115/ftpdata/bangla_movie/Feludar%20Goyendagiri%20s01.mp4
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Oppenheimer
 http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Terminator Genisys
 https://cdn-1.sonyplex.net/movie-series/Terminator.Genisys.2015.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Captain Miller
-https://cdn-1.sonyplex.net/2024/captain-miller.mp4/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Captain Miller 
+#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies",Captain Miller
+http://103.109.56.115/ftpdata/Hindi_dubbed/Captain%20Miller.mkv
+#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies",Captain Miller 
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Kaathal The Core
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265.mkv
