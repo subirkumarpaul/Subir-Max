@@ -1859,7 +1859,8 @@ https://cdn-1.sonyplex.net/2024/Merry-Christmas.mp4/tracks-v1a1/index.m3u8
 https://cdn-1.sonyplex.net/Tamil-Telegu-Malaylam/Mark.Antony.mp4/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",HI Nanna
 https://cdn-1.sonyplex.net/New-Movies/hi-nanna-2023.mp4/tracks-v1a1/index.m3u8
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Fukrey%203%20%282023%29%201080p%20WEB-DL%20Hindi%20H265/Fukrey%203%20%282023%29%201080p%20WEB-DL%20Hindi%20H265.mkv
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Guntur Kaaram
+https://cdn-1.sonyplex.net/2024/Guntur-Kaaram(2024).mp4/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Gadar 2
 http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Gadar%202%20%282023%29%201080p%20ZEE5%20WEB-DL%20Hindi%20x264/Gadar%202%20%282023%29%201080p%20ZEE5%20WEB-DL%20Hindi%20x264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies",Jailer
