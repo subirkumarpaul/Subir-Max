@@ -127,7 +127,8 @@ https://hls.streambtw.com/live/stream_7.m3u8
 https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 9
 https://hls.streambtw.com/live/stream_9.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 10
+https://hls.streambtw.com/live/stream_10.m3u8
 
 #EXTINF:-1,Star Sports Select 1
 http://103.120.172.74:1030
