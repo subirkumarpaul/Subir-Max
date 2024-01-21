@@ -185,9 +185,10 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd",Channel I(Jagobd)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD",Channel I(BD)
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="BD",Channel I(BD)
+http://208.86.19.13:81/510.stream/index.m3u8?
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD",Maasranga TV(BD)
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -1277,11 +1278,11 @@ http://95.111.193.211:8106/play/a025/index.m3u8
 
 #EXTINF: -1 group-title="Bioscope",History TV 18(Bioscope)
 https://bongohub.pw/bioscope.php?cc=history-tv
-#EXTINF: -1 group-title="Toffee",History TV 18 HD(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?id=history_tv
+#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
+http://38.96.178.201/live/History/index.m3u8
 #EXTINF: -1 group-title="Ayna",History TV 18 HD(Ayna)
 https://cdn.retosprime.com/ayna.php?id=44&e=.m3u8|User-Agent=bdsajib
-#
+
 
 
 #EXTINF: -1 group-title="ZEE",Zee Zast(ZEE)
