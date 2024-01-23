@@ -1232,12 +1232,14 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BD",TLC(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
 http://103.132.181.118:82/play/a006
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Hindi(BD)
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=340
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118080&extension=ts&play_token=AY4szAMaDp
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
@@ -1255,6 +1257,8 @@ https://cdn.retosprime.com/ayna.php?id=72&e=.m3u8|User-Agent=bdsajib
 https://cdn.retosprime.com/ayna.php?id=75&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth HD(Bioscope)
 https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth HD(BD)
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=345
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Wild Earth(BD)
@@ -1276,6 +1280,8 @@ http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 http://95.111.193.211:8106/play/a025/index.m3u8
 
 
+#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=343
 #EXTINF: -1 group-title="Bioscope",History TV 18(Bioscope)
 https://bongohub.pw/bioscope.php?cc=history-tv
 #EXTINF: -1 group-title="BD",History TV 18 HD(BD)
@@ -1453,6 +1459,8 @@ https://edge2.laotv.la/live/StarMovie/index.m3u8
 https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=353
 #EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Sony LIV",Sony Pix HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
@@ -1468,14 +1476,16 @@ http://103.132.181.118:82/play/a00y
 https://bdsatv24.000webhostapp.com/bdaynaa.php?id=96&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
 
+#EXTINF:-1 tvg-logo="" group-title="Toffee",Zee Cafe HD(Toffee)
+
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",MN HD+(BD)
 http://103.132.181.118:82/play/a00t
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="BCIPTV",MNX HD(BCIPTV)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="BD",MNX HD(BD)
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=350
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="BD3",Lotus Macau(BD3)
 http://anren.live/HK/BiIOU11uLA.m3u8
@@ -1489,16 +1499,8 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
 http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BD",Sony Channel HD(BD)
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Paramount(BD)
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Toffee",Zee Cafe HD(Toffee)
-https://bdsatv24.000webhostapp.com/Toffe.php?id=zee_cafe_hd
 #EXTINF:-1 tvg-logo="" group-title="BD",Movie Sphere(BD)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="BD",AXN(BD)
