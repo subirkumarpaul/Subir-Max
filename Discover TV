@@ -876,6 +876,8 @@ http://103.132.181.118:82/play/a03h
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
 http://103.132.181.118:82/play/a00l
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1(BD)
+http://148.113.5.31:8106/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Ayna",Star Sports Select 1(Ayna)
 https://cdn.retosprime.com/ayna.php?id=48&e=.m3u8|User-Agent=bdsajib
 
@@ -883,7 +885,7 @@ https://cdn.retosprime.com/ayna.php?id=48&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Ayna",Star Sports Select 2(Ayna)
 https://cdn.retosprime.com/ayna.php?id=49&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BD",Star Sports Select 2(BD)
-http://xtv.ooo:8080/live/636377/873673/109994.m3u8
+http://148.113.5.31:8106/play/a00g/index.m3u8
 
 
 
@@ -1243,9 +1245,11 @@ https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Hindi(BD)
 https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=340
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118080&extension=ts&play_token=AY4szAMaDp
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
+http://148.113.5.31:8106/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
@@ -1392,6 +1396,8 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000001971&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="jio TV",Nick HD Plus(Jio TV)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Nick_HD_Plus_voot_MOB
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick HD Plus(BD)
+http://148.113.5.31:8106/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick(Bioscope)
 https://bongohub.pw/bioscope.php?cc=nickelodeon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Techpriyo",Nick Bangla(Techpriyo)
