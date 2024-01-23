@@ -145,6 +145,8 @@ https://hls.streambtw.com/live/stream_10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
 https://cdn.retosprime.com/ayna.php?id=1&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
@@ -496,6 +498,8 @@ https://cdn.retosprime.com/ayna.php?id=105&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
 http://103.132.181.118:82/play/a00s	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
+http://148.113.5.31:8106/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
 
