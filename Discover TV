@@ -36,6 +36,8 @@ http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
 http://103.120.172.74:4200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 3
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
 http://103.132.181.118:82/play/a00u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
@@ -872,8 +874,8 @@ http://103.132.181.118:82/play/a03h
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD3",Star Sports 3(BD3)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD",Star Sports 3(BD)
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD",Star Sports Fast(BD)
 
