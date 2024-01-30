@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
 https://apps.hotflixbd.online/hotflix/kariratv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
-
+https://ssportstoday24.000webhostapp.com/world.php?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports
@@ -176,7 +176,7 @@ https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
 https://cdn.retosprime.com/ayna.php?id=28&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
-http://157.119.239.210:8099/tsports/index.m3u8
+https://ssportstoday24.000webhostapp.com/world.php?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://webudit.hlsjs.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
@@ -870,15 +870,13 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
-http://148.113.5.31:8106/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Ayna",Star Sports 2(Ayna)
-https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8|User-Agent=bdsajib
+https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=7458
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD",Star Sports 2(BD)
 http://103.132.181.118:82/play/a03h
-
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Ayna",Star Sports 2(Ayna)
+https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="BD3",Star Sports 2(BD3)
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="BD",Star Sports 3(BD)
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
