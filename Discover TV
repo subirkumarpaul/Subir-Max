@@ -36,6 +36,8 @@ http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
 http://103.120.172.74:4200
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports2hdmac.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 3
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsports3hdmac.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
@@ -1502,7 +1504,7 @@ http://103.132.181.118:82/play/a00y
 #EXTINF:-1 tvg-logo=""group-title="Ayna",Zee Cafe(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?id=96&e=.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
-
+https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/zeecafemac.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Toffee",Zee Cafe HD(Toffee)
 
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
