@@ -841,8 +841,8 @@ https://cdn.retosprime.com/ayna.php?id=149&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SHEEMAROO BOLLYWOOD" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="BD", SHEEMAROO BOLLYWOOD(BD)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Live TV 2",Cine Active(Live TV 2)
-
+#EXTINF:-1 tvg-logo="" group-title="BD",Joo Music(BD)
+http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="" group-title="Live TV 2",Movies Active(Live TV 2)
 
 #EXTINF:-1 tvg-logo="" group-title="Live TV 2",Thriller Active(Live TV 2)
