@@ -441,7 +441,7 @@ https://cdn.retosprime.com/ayna.php?id=22&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Jagobd",ATN Music(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="BD",Music(BD)
+#EXTINF:-1 tvg-logo="" group-title="BD",Mon TV Music(BD)
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_226947001684477528.png" group-title="Toffee Any Player",toffee-v2 Movies
 
