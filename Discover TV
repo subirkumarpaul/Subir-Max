@@ -1857,7 +1857,7 @@ http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Bangla Movies",Osomoy
 https://jiu.top10bhaluka.com/tr/ottbangla.com%20Osomoy.mp4
-#EXTINF: -1 tvg-name="Osomoy অসময়" tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Bangla Movies", Osomoy অসময়
+BMalayalam1 tvg-name="Osomoy অসময়" tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Bangla Movies", Osomoy অসময়
 https://newfile.shahidabegum3223.workers.dev/0:/0s0m0y%202024%20Bengali%20RetosPrime%20720p%20WEB-DL%20x264.mkv
 #EXTINF: -1 tvg-name="Hubba (2024)" tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Bangla Movies", Hubba (2024)
 https://transload:transload@gcp.apranet.eu.org/files/%5BEpickmovies.com%5D_Hubba_%282024%29_Bengali_720p_WEb-DL.mp4
@@ -1897,8 +1897,8 @@ http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/The%20Freelancer%20%28TV%20Se
 http://103.109.56.115/ftpdata/Hindi_dubbed/Captain%20Miller.mkv
 #EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies",Captain Miller 
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264.mkv
-#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2024/01/MV5BMTNjODdkNzUtZWEzOC00MWJjLWJmYzMtYjM3NjQyM2M4NzI5XkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_-1025x1536.jpg" group-title="Hindi Dabbing Movies",Neru
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Neru%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H264/Neru%20%282023%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H264.mkv
+#EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Sam Bahadur
+http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Sam%20Bahadur%20%282023%29%201080p%20WEB-DL%20Hindi%20H264/Sam%20Bahadur%20%282023%29%201080p%20WEB-DL%20Hindi%20H264.mkv
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Kaathal The Core
 http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265.mkv
 #EXTINF:-1 tvg-logo="" group-title="Hindi Dabbing Movies",Marry Christmas
