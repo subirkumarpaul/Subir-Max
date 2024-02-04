@@ -116,14 +116,16 @@ https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Max Cricket 
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1106882&extension=ts&play_token=hlhJgch6QG
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 1
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 2
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 3
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 4
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 1
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 2
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 3
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 4
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 5
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TYC Sports
 https://247b.mrgamingstreams.com/mrgamingtyc.m3u8
 
