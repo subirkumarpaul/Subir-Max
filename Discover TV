@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
 http://nayeem-hotflix.zapto.org/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
-https://ssportstoday24.000webhostapp.com/SportsDhoom.php?id=10432
-#https://ssportstoday24.000webhostapp.com/world.php?id=27
+https://ssportstoday24.000webhostapp.com/world.php?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
@@ -1124,19 +1123,20 @@ https://webudit.hlsjs.ru/lb/premium100/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1,TNT Sports 1
 https://webudit.hlsjs.ru/lb/premium31/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 1(BD)
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp1&e=.m3u8
 #EXTINF:-1,TNT Sports 2
 https://webudit.hlsjs.ru/lb/premium32/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 2(BD)
-https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp2&e=.m3u8
 #EXTINF:-1,TNT Sports 3
 https://webudit.hlsjs.ru/lb/premium33/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 3(BD)
-https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp3&e=.m3u8
 #EXTINF:-1,TNT Sports 4
 https://webudit.hlsjs.ru/lb/premium34/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",TNT Sports 4(BD)
-https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
+https://lamsom.co.uk/crichd/crichd.php?id=bbtsp4&e=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports Football
