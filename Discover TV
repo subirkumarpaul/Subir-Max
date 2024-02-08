@@ -588,6 +588,7 @@ https://cdn.retosprime.com/ayna.php?id=136&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://103.132.181.118:82/play/a00h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony LIV",Sony TV HD(Sony LIV)
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
 https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Ayna",Sony TV(Ayna)
 https://cdn.retosprime.com/ayna.php?id=81&e=.m3u8|User-Agent=bdsajib
@@ -915,8 +916,8 @@ http://148.113.5.31:8106/play/a00g/index.m3u8
 https://cdn.retosprime.com/ayna.php?id=76&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Toffee)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Sony LIV)
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=6WhVNGKTRXyu588zZv1Lkg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony Liv",Sony Sports Ten 1 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
 
@@ -936,8 +937,8 @@ https://cdn.retosprime.com/ayna.php?id=79&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sony Liv",Sony Sports Ten 3 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4 HD(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sony LIV",Sony Sports Ten 4(Sony LIV)
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=smYybI_JToWaHzwoxSE9qA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sony Liv",Sony Sports Ten 4 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000119186&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="BD",Sony Sports Ten 4(BD)
@@ -1675,7 +1676,71 @@ https://livess.jagobd.com.bd/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
 
 
+#EXTINF:-1,SET HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
 
+#EXTINF:-1,Sony SAB HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=CrTivkDESWqwvUj3zFEYEA
+
+#EXTINF:-1,Sony PAL
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dhPrGRwDRvuMQtmlzppzQQ
+
+#EXTINF:-1,Sony YAY
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=GPY7RqOrSkmKJ8z1GbVNhg
+
+#EXTINF:-1,Sony Marathi
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=I2phC6tgTDuJngxw9gJgPw
+
+#EXTINF:-1,Sony AATH
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=j-YEidwORxubtP_967VcZg
+
+#EXTINF:-1,Sony MAX HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=UcjHNJmCQ1WRlGKlZm73QA
+
+#EXTINF:-1,Sony MAX
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=Oc1isQAET3WaNPoABfScmg
+
+#EXTINF:-1,Sony WAH
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=gX5rCBf6Q7-D5AWY-sovzQ
+
+#EXTINF:-1,Sony MAX2
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=MdQ5Zy-PSraOccXu8jflCg
+
+#EXTINF:-1,Sony PIX HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=x7rXWd2ERZ2tvyQWPmO1HA
+
+#EXTINF:-1,Sony BBC Earth HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=6bVWYIKGS0CIa-cOpZZJPQ
+
+#EXTINF:-1,Sony TEN 1
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=6WhVNGKTRXyu588zZv1Lkg
+
+#EXTINF:-1,Sony TEN 2
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=LK-ik89MQIi_pWBbg74KNQ
+
+#EXTINF:-1,Sony TEN 3
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=BCOFZq1JQjq12fmaO6lAAA
+
+#EXTINF:-1,Sony TEN 4
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=smYybI_JToWaHzwoxSE9qA
+
+#EXTINF:-1,Sony TEN 5
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=r-eLp41YTHWTagvQSXFtAQ
+
+#EXTINF:-1,Sony TEN 1 HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=wG75n5U8RrOKiFzaWObXbA
+
+#EXTINF:-1,Sony  TEN 2 HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=V9h-iyOxRiGp41ppQScDSQ
+
+#EXTINF:-1,Sony TEN 3 HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=ltsCG7TBSCSDmyq0rQtvSA
+
+#EXTINF:-1,Sony TEN 4 HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=tNzcW2ZhTVaViggo5ocI-A
+
+#EXTINF:-1,Sony TEN 5 HD
+https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=Sle_TR8rQIuZHWzshEXYjQ
 
 
 
