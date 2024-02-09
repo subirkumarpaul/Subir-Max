@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
-http://nayeem-hotflix.zapto.org/fun1/index.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
 https://tv.aynaott.xyz/bpl2024/tracks-v1a1/mono.m3u8?token=5c4034bae0c847c1cf63994e23206bf7a297d2ce-4c3614314ebbd7e257ea6e3fd5ea77ef-1707550239-1707463839
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
@@ -17,7 +17,7 @@ https://nayeem-parvez.pw/api/tsports.m3u8?id=02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 1
 http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=1b039216653a6ed10129a8eead1c5b084f8de4f1-74ef8b4a0cb82783316fdee1c63590ca-1707474785-1707471185
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
-
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=28
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 3
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 4
