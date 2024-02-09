@@ -394,7 +394,8 @@ https://api.bongohub.pw/bongo.php?cc=somoy-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Jagobd",Independent TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bioscope",Independent TV(Bioscope)
+https://bongohub.pw/bioscope.php?cc=independent-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="BD",Ekattor TV(BD)
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
@@ -403,7 +404,7 @@ https://cdn.retosprime.com/ayna.php?id=23&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Techpriyo",Ekattor TV(Techpriyo)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Youtube",Ekattor TV(Youtube)
-https://raw.githubusercontent.com/gift4bd/ytm/main/EkattorTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BD",ATN News(BD)
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
@@ -413,22 +414,29 @@ https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Jagobd",Jamuna TV(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bioscope",Jamuna TV(Bioscope)
+https://bongohub.pw/bioscope.php?cc=jamuna-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Jagobd",Channel 24(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bioscope",Channel 24(Bioscope)
+https://bongohub.pw/bioscope.php?cc=channel-24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Jagobd",News 24(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Bioscope",News 24(Bioscope)
+https://bongohub.pw/bioscope.php?cc=news-24-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Jagobd",DBC News(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
 #https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bioscope",DBC News(Bioscope)
+https://bongohub.pw/bioscope.php?cc=dbc-news
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Jagobd",Ekhone TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD",Ekhone TV(BD)
-https://cdn.retosprime.com/ayna.php?id=40&e=.m3u8|User-Agent=bdsajib
-#http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Youtube",Ekhone TV(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
