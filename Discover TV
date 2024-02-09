@@ -7,7 +7,7 @@ https://tv.aynaott.xyz/bpl2024/tracks-v1a1/mono.m3u8?token=5c4034bae0c847c1cf639
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
-
+http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=7ef070c5314745b9fe232febfa6c8844bce83f97-aa71f0518059ec32068ccd915da8963a-1707469837-1707466237
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
@@ -15,7 +15,7 @@ https://nayeem-parvez.pw/api/tsports.m3u8?id=01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
 https://nayeem-parvez.pw/api/tsports.m3u8?id=02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 1
-
+http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=3b3a6972f80eb90b9c26e4c1c264ca5da0f1c9da-23ad8b5597298bee94dadab7beb87687-1707469934-1707466334
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 3
@@ -531,6 +531,8 @@ https://cdn.retosprime.com/ayna.php?id=105&e=.m3u8|User-Agent=bdsajib
 http://103.132.181.118:82/play/a00s	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
 http://148.113.5.31:8106/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
+http://tvcdn.hoichoi24.com:8083/1403/index.m3u8?token=47112f4cc4548fe7073a31e9eac946cd5f5e6d60-c149b00ae2b1e2f82973d946fdfbef80-1707469995-1707466395
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
 
