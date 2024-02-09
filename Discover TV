@@ -9,7 +9,7 @@ http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
 http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=7ef070c5314745b9fe232febfa6c8844bce83f97-aa71f0518059ec32068ccd915da8963a-1707469837-1707466237
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4 
-
+https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
 https://nayeem-parvez.pw/api/tsports.m3u8?id=01
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
@@ -152,7 +152,38 @@ https://hls.streambtw.com/live/stream_9.m3u8
 https://hls.streambtw.com/live/stream_10.m3u8
 
 
- 
+#EXTINF:-1,Colors HD Jiox Server :-
+https://nayeem-parvez.pw/api-s1/jioxtv1/master.m3u8?id=144
+
+#EXTINF:-1,Zee Bangla HD Zeex5 Server :-
+https://nayeem-parvez.pw/api-s1/zeex5/master.m3u8?id=0-9-zeebangla
+
+#EXTINF:-1,Sony Aath :-
+https://nayeem-parvez.pw/api-s1/sonuliv/stream.m3u8?id=1000009255
+
+#EXTINF:-1,BPL Live :-
+https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
+
+#EXTINF:-1,Axyna :-
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
+
+#EXTINF:-1,Ultra Server (It takes 40 sec to load then buffer free) :-
+https://nayeem-parvez.pw/api-s1/iptv/ultra.m3u8?id=STAR_SPORTS_1_HD&s=1
+
+#EXTINF:-1,Dhoom TV T Sports :-
+https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
+
+#EXTINF:-1,Pak IPTV Server :-
+https://nayeem-parvez.pw/api-s1/iptv/pakin.m3u8?id=103
+
+#EXTINF:-1,Bioscope Server (Only BD):-
+https://nayeem-parvez.pw/api-s1/iptv/bioscope.m3u8?id=sony-ten-1-live
+
+#EXTINF:-1,Star Jalsha SD Toffee Server :-
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=star_jalsha
+
+#EXTINF:-1,Cric*HD Server :-
+https://nayeem-parvez.pw/api-s1/crichd/master.m3u8?id=star1in
 
 
 
