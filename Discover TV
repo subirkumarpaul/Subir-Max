@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
-https://tv.aynaott.xyz/bpl2024/tracks-v1a1/mono.m3u8?token=5c4034bae0c847c1cf63994e23206bf7a297d2ce-4c3614314ebbd7e257ea6e3fd5ea77ef-1707550239-1707463839
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
-http://tvcdn.hoichoi24.com:8083/1101/index.m3u8?token=7ef070c5314745b9fe232febfa6c8844bce83f97-aa71f0518059ec32068ccd915da8963a-1707469837-1707466237
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4 
 https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
-https://nayeem-parvez.pw/api/tsports.m3u8?id=01
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App
-https://nayeem-parvez.pw/api/tsports.m3u8?id=02
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 1
+https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 2
+https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 1
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
@@ -539,11 +539,11 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla (BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla(BD)
 http://103.132.181.118:82/play/a00k
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla HD(BD)
-http://103.109.56.116/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla(BD)
+https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Yupp TV",Zee Bangla HD(Yupp TV)
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
@@ -563,7 +563,7 @@ http://103.132.181.118:82/play/a00s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
 http://148.113.5.31:8106/play/a00z/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
-http://tvcdn.hoichoi24.com:8083/1403/index.m3u8?token=47112f4cc4548fe7073a31e9eac946cd5f5e6d60-c149b00ae2b1e2f82973d946fdfbef80-1707469995-1707466395
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png" group-title="BD",Akash Aath(BD)
 
@@ -577,7 +577,7 @@ https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ayna",Ruposhi Bangla(Ayna)
-https://cdn.retosprime.com/ayna.php?id=144&e=.m3u8|User-Agent=bdsajib
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=144
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Dd%20Bangla.png" group-title="BD",DD Bangla(BD)
 
@@ -591,7 +591,8 @@ http://103.132.181.118:82/play/a004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 http://103.132.181.118:82/play/a00d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
@@ -632,12 +633,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Ayna",Dhoom Music(Ayna)
-https://cdn.retosprime.com/ayna.php?id=136&e=.m3u8|User-Agent=bdsajib
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=136
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 http://103.132.181.118:82/play/a00h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony LIV",Sony TV HD(Sony LIV)
-https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
+#https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
 https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Ayna",Sony TV(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=81
@@ -702,13 +703,16 @@ https://livevoot.co.in/voot/master.m3u8?id=Colors_Rishtey_voot_MOB
 http://103.132.181.118:82/play/a00f
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD",Zee TV HD(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+https://bongohub.pw/bioscope.php?cc=zee-tv-hd
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="BD",Zee Anmol(BD)
+https://api.bongohub.pw/bongo.php?cc=zee-anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+https://api.bongohub.pw/bongo.php?cc=tv-hd
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="BD",And TV HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
@@ -753,14 +757,16 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
 http://103.132.181.118:82/play/a00i
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Ayna",Zee Cinema HD(Ayna)
 https://cdn.retosprime.com/ayna.php?id=103&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Bongo",Zee Cinema(Bongo)
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+https://api.bongohub.pw/bongo.php?cc=zee-action
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD",Zee Classic(BD)
@@ -840,7 +846,8 @@ https://livevoot.co.in/voot/master.m3u8?id=Rishtey_Cineplex_voot_MOB
 http://103.132.181.118:82/play/a01c
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+https://api.bongohub.pw/bongo.php?cc=pictures-hd
+#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
 http://103.132.181.118:82/play/a01b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Ayna",And Pictures HD(Ayna)
