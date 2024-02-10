@@ -761,8 +761,8 @@ https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Ayna",Zee Cinema HD(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=103
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Bongo",Zee Cinema(Bongo)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
+https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
 https://api.bongohub.pw/bongo.php?cc=zee-action
@@ -854,9 +854,8 @@ http://103.132.181.118:82/play/a01b
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=93
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures HD(BD)
 https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Toffee",And Pictures(Toffee )
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
+https://dai.google.com/linear/hls/event/dyQaLcbzTe-Pnr8BHwiXCA/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
 
 
@@ -1607,7 +1606,7 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 EXTINF:-1 tvg-logo="" group-title="BD",And Flix HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116484&extension=.m3u8
+https://pubads.g.doubleclick.net/ssai/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
 http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BD",And Prive HD(BD)
