@@ -187,6 +187,41 @@ https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=star_jalsha
 #EXTINF:-1,Cric*HD Server :-
 https://nayeem-parvez.pw/api-s1/crichd/master.m3u8?id=star1in
 
+#EXTINF:-1,Star gold
+
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1,Star plus
+
+http://103.99.249.139/stargold/index.m3u8
+
+#EXTINF:-1,Star JALSHA
+
+http://103.99.249.139/starjalsha/index.m3u8
+
+#EXTINF:-1,JALSHA movies
+
+http://103.99.249.139/jalshamovies/index.m3u8
+
+#EXTINF:-1,And pictures
+
+http://103.99.249.139/andpictures/index.m3u8
+
+#EXTINF:-1,Sony max
+
+http://103.99.249.139/sonymax/index.m3u8
+
+#EXTINF:-1,Sony sab
+
+http://103.99.249.139/sonysab/index.m3u8
+
+#EXTINF:-1,Zee tv
+
+http://103.99.249.139/zeetv/index.m3u8
+
+#EXTINF:-1,Zee cinema
+
+http://103.99.249.139/zeecinema/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
