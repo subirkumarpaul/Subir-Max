@@ -1099,7 +1099,7 @@ https://livetvpv.lucygibson2.repl.co/Livetv/Discovery+/api/Eurosport.m3u8
   
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Ayna",PTV Sports(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=47
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=wJf84zDS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
@@ -1583,7 +1583,7 @@ http://103.186.77.21:8000/play/a038/index.m3u8
 https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
 
 #EXTINF:-1,Baby TV
-https://bdsatv24.000webhostapp.com/bdaynaa.php?id=110&e=.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=110
 
 #EXTINF:-1,WOW Kids
 https://nayeem-parvez.pw/api/yupp.m3u8?id=wow-kidz-hindi
@@ -1600,7 +1600,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Ayna",HBO(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?id=69&e=.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=69
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
 http://103.132.181.118:82/play/a005
@@ -1622,9 +1622,9 @@ https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=353
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Sony LIV",Sony Pix HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Ayna",Sony Pix HD(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?id=74&e=.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=74
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Ayna",Sony Pix(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?id=89&e=.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=89
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
 http://103.132.181.118:82/play/a00y
 
@@ -1634,7 +1634,7 @@ https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=tech_storm
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Toffee",Zee Cafe HD(Toffee)
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=zee_cafe_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Ayna",Zee Cafe(Ayna)
-https://bdsatv24.000webhostapp.com/bdaynaa.php?id=96&e=.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=96
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe(BD)
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/zeecafemac.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe HD(BD)
