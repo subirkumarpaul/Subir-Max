@@ -538,8 +538,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Toffee",Toffee Drama(Toffee)
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PWJC9pr/Bangla21tv-jpeg.jpg" group-title="BD",Bangla 21 TV
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="Toffee",MB Music(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=movie_b_music
 
 #EXTINF:-1 group-title="BD" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(BD)
 https://freeiptv25.netlify.app/live/bdix/app/Rtvmusic.m3u8
@@ -548,10 +548,16 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music(BD)
 https://rtv-music.mssarena71.workers.dev/stream/RtvMusic/master.m3u8
 
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",Movie Bangla(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=movie_bangla
 #EXTINF:-1 group-title="BD" tvg-logo="",Movie Bangla(BD)
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="",Movie Bangla(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Toffee" tvg-logo="https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_live_01/playlist.m3u8",Toffee Movies(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sports_live_01
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Jagobd",Amar Bangla(Jagobd)
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
@@ -627,6 +633,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 http://103.132.181.118:82/play/a004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="BD",Jalsha Movies HD(BD)
 http://103.99.249.139/jalshamovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Toffee",Jalsha Movies HD(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=jalsha_movies
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 http://103.132.181.118:82/play/a00d
@@ -641,7 +649,7 @@ https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Bioscope",Colors Bangla Cinema(Bioscope)
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Toffee",Colors Bangla Cinema(Toffee)
-
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=colors_bangla_cinema
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sun Bangla Cinema(BD)
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
@@ -803,6 +811,8 @@ https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=103
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
 https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Toffee",Zee Cinema(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=zee_cinema_hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
 https://api.bongohub.pw/bongo.php?cc=zee-action
@@ -1314,7 +1324,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Channel
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png"group-title="Toffee",Discovery Asia HD(Toffee)
-
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=discovery_asia
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="BD",Discovery Science Multi Audio (BD)
 https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8
@@ -1332,7 +1342,7 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Science
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="BD",Discovery Turbo (BD)
 https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Subir",Discovery Turbo(Subir)
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
+https://raw.githubuseasiatent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="BD",Discovery Turbo(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
 
@@ -1362,6 +1372,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="BD",TLC(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Toffee",Nat Geo English(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=ngc_sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
 http://103.132.181.118:82/play/a006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
@@ -1373,15 +1385,14 @@ https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=340
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116478&extension=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155733&extension=.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Toffee",Nat Geo Wild(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=ngc_wild
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 http://148.113.5.31:8106/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1118080&extension=ts&play_token=AY4szAMaDp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116479&extension=.m3u8
 
@@ -1406,8 +1417,8 @@ https://livevoot.co.in/voot/master.m3u8?id=Colors_Infinity_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Techpriyo",Colors Infinity(Techpriyo)
 http://api.techpriyo.com/bio.php?id=colors-infinity|User-Agent=bdixtv24
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Toffee",Fox Life HD(Toffee)
-
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Toffee",Fox Life(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=fox_life
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD English(BD)
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
@@ -1416,13 +1427,13 @@ https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155731&extensi
 http://95.111.193.211:8106/play/a025/index.m3u8
 
 
-#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=343
-#EXTINF: -1 group-title="Bioscope",History TV 18(Bioscope)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Toffee",History TV 18 HD(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=history_tv
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Bioscope",History TV 18(Bioscope)
 https://bongohub.pw/bioscope.php?cc=history-tv
-#EXTINF: -1 group-title="BD",History TV 18 HD(BD)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="BD",History TV 18 HD(BD)
 http://38.96.178.201/live/History/index.m3u8
-#EXTINF: -1 group-title="Ayna",History TV 18 HD(Ayna)
+#EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Ayna",History TV 18 HD(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=44
 
 
@@ -1617,12 +1628,16 @@ https://bdsatv24.000webhostapp.com/bdaynaa.php?id=89&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
 http://103.132.181.118:82/play/a00y
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="Toffee",Tech Storm(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=tech_storm
 
-#EXTINF:-1 tvg-logo=""group-title="Ayna",Zee Cafe(Ayna)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Toffee",Zee Cafe HD(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=zee_cafe_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Ayna",Zee Cafe(Ayna)
 https://bdsatv24.000webhostapp.com/bdaynaa.php?id=96&e=.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",Zee Cafe(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe(BD)
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/zeecafemac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BD",Zee Cafe HD(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe HD(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155730&extension=.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
@@ -1659,7 +1674,8 @@ https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155746&extensi
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Movie Sphere(BD)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/389/logo/240x240/mobile_logo_466667001673185088.png" group-title="Toffee",Lotus Macau(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=lotus_macau
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="BD",AXN(BD)
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
