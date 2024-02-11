@@ -1024,7 +1024,7 @@ http://148.113.5.31:8106/play/a00g/index.m3u8
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=79
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="BD",Sony Sports Ten 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Toffee",Sony Sports Ten 1(Sony LIV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony LIV",Sony Sports Ten 1(Sony LIV)
 https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=6WhVNGKTRXyu588zZv1Lkg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sony Liv",Sony Sports Ten 1 HD(Sony Liv)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
@@ -1417,13 +1417,13 @@ https://livevoot.co.in/voot/master.m3u8?id=Colors_Infinity_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Techpriyo",Colors Infinity(Techpriyo)
 http://api.techpriyo.com/bio.php?id=colors-infinity|User-Agent=bdixtv24
 
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="Toffee",Fox Life(Toffee)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Toffee",Fox Life(Toffee)
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=fox_life
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD English(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="BD",Fox Life HD English(BD)
 http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",Fox Life HD(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="BD",Fox Life HD(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155731&extension=.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png" group-title="BD",FOX Life HD(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="BD",FOX Life HD(BD)
 http://95.111.193.211:8106/play/a025/index.m3u8
 
 
@@ -1555,7 +1555,7 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=126
 https://bongohub.pw/bioscope.php?cc=nick-junior
 
 
-#EXTINF:-1 tvg-logo=""group-title="Toffee",Sonic(Toffee)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="Toffee",Sonic(Toffee)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sonic
 
