@@ -327,7 +327,7 @@ https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chun
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Ayna",Desh TV(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=12
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Toffee",Desh TV(Toffee)
-
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=desh_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Jagobd",MY TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -478,6 +478,8 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=23
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Jagobd",ATN News(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Toffee",ATN News(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=atn_news
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Jagobd",Jamuna TV(Jagobd)
@@ -582,14 +584,15 @@ http://103.132.181.118:82/play/a00k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BD",Zee Bangla(BD)
 https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Yupp TV",Zee Bangla HD(Yupp TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Toffee",Zee Bangla HD(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=zee_bangla
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BD",Colors Bangla HD(BD)
 http://103.132.181.118:82/play/a008
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Jio TV",Colors Bangla HD(Jio TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Toffee",Colors Bangla(Toffee)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
-https://livevoot.co.in/voot/master.m3u8?id=Colors_Bangla_HD_voot_MOB
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=colors_b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Ayna",Colors Bangla HD(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=105
 #https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
@@ -825,8 +828,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 http://103.132.181.118:82/play/a00j
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD",Star Gold HD(BD)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Toffee",Star Gold(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=star_gold
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
 
@@ -893,6 +896,9 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=93
 https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="BD",And Pictures(BD)
 https://dai.google.com/linear/hls/event/dyQaLcbzTe-Pnr8BHwiXCA/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Toffee",And Pictures(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=and_picture_hd
+
 #EXTINF:-1 tvg-logo=""group-title="ZEE",And Xplorer(ZEE)
 
 
@@ -1494,12 +1500,14 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=642107&ex
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Ayna"Cartoon Network(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=65
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=cartoon_network_sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network(BD)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD",Cartoon Network(BD)
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD"Cartoon Network HD(BD)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1282939&extension=ts&play_token=fdl1izXwYf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Toffee"Cartoon Network HD +(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=cartoon_network_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="BD"Cartoon Network HD +(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1110636&extension=.m3u8
 
@@ -1524,21 +1532,21 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/N
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116480&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick(Bioscope)
 https://bongohub.pw/bioscope.php?cc=nickelodeon
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Techpriyo",Nick Bangla(Techpriyo)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Toffee",Nick Bangla(Toffee)
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=nick
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Jio TV",Nick JR(Jio TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Toffee",Nick JR(Toffee)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-https://livevoot.co.in/voot/master.m3u8?id=Nick_Junior_voot_MOB
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=nick_junior
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Ayna",Nick JR(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=126
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick JR(Bioscope)
 https://bongohub.pw/bioscope.php?cc=nick-junior
 
 
-#EXTINF:-1 tvg-logo=""group-title="Jio TV",Sonic(Jio TV)
+#EXTINF:-1 tvg-logo=""group-title="Toffee",Sonic(Toffee)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
-https://livevoot.co.in/voot/master.m3u8?id=Sonic_Nickelodeon_voot_MOB
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sonic
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
