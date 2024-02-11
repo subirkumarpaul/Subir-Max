@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL Live
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
-
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=tsportshd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=tsportsfhd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4 
 https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 1
@@ -19,9 +19,9 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 3
-http://103.109.56.116/live/skyfeed1006/index.m3u8
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 4
-
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtvhdforgame
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
