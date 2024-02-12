@@ -771,11 +771,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
-http://103.132.181.118:82/play/a00c
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony LIV",Sony Max HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Ayna",Sony Max HD(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=71
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=MaxHD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony LIV",Sony Max(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009249&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max UK(BD)
@@ -795,7 +795,7 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Ayna",Sony Wah(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=78
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=SonyWah
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Toffee",Sony Wah(Toffee)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Sony LIV",Sony Wah(Sony LIV)
