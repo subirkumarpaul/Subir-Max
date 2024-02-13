@@ -261,18 +261,18 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=3
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=tsportsfhd
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=tsportshd
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=28
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://webudit.hlsjs.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtv
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtvhdforgame
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
 http://157.119.239.210:8099/Gazi-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
