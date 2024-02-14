@@ -15,13 +15,13 @@ https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 2
 https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 1
-http://nayeem-agnitv.servemp3.com:8080/GaziTVHD/tracks-v1a1/index.m3u8
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=19
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 3
 http://pgplex.net:8080/GaziTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 4
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=gtvhdforgame
+https://freeiptv25.netlify.app/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 1
@@ -39,7 +39,7 @@ http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
 http://pgplex.net:8080/StarSports2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
-http://103.120.172.74:4200
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports 3
@@ -47,27 +47,27 @@ http://103.120.172.74:4200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
 http://pgplex.net:8080/StarSportsSelect1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
-
+https://freeiptv25.netlify.app/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 1
-http://103.120.172.74:1030
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 2
-http://103.120.172.74:4700/
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Star Sports Select 2
 http://pgplex.net:8080/StarSportsSelect2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=Ten1HD
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=76
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=Ten2HD
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=92
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 https://cdn-tv.co.in/myweb/watch.php?id=1000009277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=Ten3HD
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=79
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
 https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 4 HD
@@ -80,20 +80,22 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
+#https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 HD
 http://pgplex.net:8080/Sports18HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 Khel HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
+#https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=wJf84zDS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PTV Sports
 https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ten Sports PK
+https://freeiptv25.netlify.app/live/stream_5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Ten Sports PK
 https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports A Sports
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=asports
+https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=68
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow HD
 https://fr.tvanondo.online/willow-free/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Willow HD
@@ -107,17 +109,21 @@ https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Astro Cricket HD
 https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports Cricket
-https://247b.mrgamingstreams.com/mrgamingsscric.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports Cricket
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
-
+https://247b.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
 https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Fox Sports 501 HD
 https://webudit.hlsjs.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Max Cricket 
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1106882&extension=ts&play_token=hlhJgch6QG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Cric Life 1
+https://freeiptv25.netlify.app/live/stream_4.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 1
 https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
