@@ -15,7 +15,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
-http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 5
@@ -302,7 +302,7 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=3
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
@@ -1174,7 +1174,8 @@ https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD",PTV Sports(BD)
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
+http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=281100&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BD",A Sports(BD)
