@@ -11,11 +11,11 @@ https://is.gd/j0AaQw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 1
-https://nayeem-parvez.pw/api-s1/iptv/hoichoi.m3u8?id=1102
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 2
-https://nayeem-parvez.pw/api-s1/iptv/hoichoi.m3u8?id=1101
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 3
-http://pgplex.net:8080/TSportsHD/index.m3u8
+http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 4
 http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 5
@@ -23,15 +23,15 @@ https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 1
-https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 2
-https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 1
 http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 2
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=18
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 3
-http://pgplex.net:8080/GaziTVHD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 4
 https://freeiptv25.netlify.app/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Gazi TV 5
@@ -302,22 +302,22 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=3
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
+http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Ayna",T Sports(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=28
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BD",T Sports(BD)
 https://webudit.hlsjs.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=18
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Ayna",Gazi TV(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=19
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
 http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="BD",Gazi TV(BD)
-
+https://freeiptv25.netlify.app/live/stream_6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Jagobd",ATN Bangla(Jagobd)
