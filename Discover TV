@@ -129,7 +129,7 @@ https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports Cricket
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
-https://247b.mrgamingstreams.com/mrgamingsscric.m3u8
+https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Super Sports Cricket
 https://webudit.hlsjs.ru/lb/premium368/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Fox Sports 501 HD
@@ -142,17 +142,18 @@ https://freeiptv25.netlify.app/live/stream_4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 1
-https://247b.mrgamingstreams.com/mrgamingbtsport1.m3u8
+https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 2
-https://247b.mrgamingstreams.com/mrgamingbtsport2.m3u8
+https://catowrap.live/mrgamingbtsport2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 3
-https://247b.mrgamingstreams.com/mrgamingbtsport3.m3u8
+https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 4
-https://247b.mrgamingstreams.com/mrgamingbtsport4.m3u8
+https://catowrap.live/mrgamingbtsport4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sky Sports NZ 5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TYC Sports
-https://247b.mrgamingstreams.com/mrgamingtyc.m3u8
+https://catowrap.live/mrgamingtyc.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 1
 https://hls.streambtw.com/live/stream_1.m3u8
@@ -1197,6 +1198,7 @@ https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Ayna",Willow Cricket(Ayna)
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=rEBp38Ax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
+https://catowrap.live/mrgamingwillow.m3u8
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BD",Willow Cricket(BD)
@@ -1247,12 +1249,13 @@ https://webudit.hlsjs.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay
 
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Football(BD)
 https://webudit.hlsjs.ru/lb/premium469/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Main Event(BD)
-https://247b.mrgamingstreams.com/mrgamingmainevent.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mainevent(BD)
+https://catowrap.live/mrgamingmainevent.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports (BD)
 https://webudit.hlsjs.ru/lb/premium35/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
-https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
+https://catowrap.live/mrgamingcricket.m3u8
+#https://247b.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Cricket(BD)
 https://webudit.hlsjs.ru/lb/premium65/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Mix(BD)
@@ -1264,7 +1267,7 @@ https://webudit.hlsjs.ru/lb/premium37/index.m3u8?|referer=https://olalivehdplay.
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Golf(BD)
 https://webudit.hlsjs.ru/lb/premium70/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",SKY Sports Golf(BD)
-https://247.mrgamingstreams.com/mrgaminggolf.m3u8
+https://catowrap.live/mrgaminggolf.m3uhttpstps://247.mrgamingstreams.com/mrgaminggolf.m3u8
 
 
 
