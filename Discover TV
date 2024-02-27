@@ -75,17 +75,20 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
 http://103.142.80.22:8080/sony-ten-1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 1 HD
-https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
+https://server1.the-nayeemparvez.xyz/api/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonyten1hd/playlist.m3u8
+#https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 http://103.142.80.22:8080/sony-ten-2-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 2 HD
-https://cdn-tv.co.in/myweb/watch.php?id=1000009277&e=.m3u8
+https://server1.the-nayeemparvez.xyz/api/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonyten2hd/playlist.m3u8
+#https://cdn-tv.co.in/myweb/watch.php?id=1000009277&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
 http://103.142.80.22:8080/sony-ten-3-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 3 HD
-https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
+https://server1.the-nayeemparvez.xyz/api/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonyten3/playlist.m3u8
+#https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 4 HD
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 4 HD
@@ -95,6 +98,8 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 5 HD
 http://103.142.80.22:8080/sony-six-hd/tracks-v1a1/mono.m3u8
 #https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sony Ten 5 HD
+https://server1.the-nayeemparvez.xyz/api/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonysixhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports 18 HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB
