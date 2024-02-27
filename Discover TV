@@ -791,7 +791,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Sony LIV",Sony Sab(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="BD",Sony Sab(BD)
-https://nayeem-ayna2.000webhostapp.com/firetvapi/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonysabtv/playlist.m3u8
+https://server1.the-nayeemparvez.xyz/api/firetv.m3u8?url=http://firetv-s1.ddns.net:8081/neptune/sonysabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="DTV",Sony Sab(DTV)
 
 
