@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE 1080P
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE 720P
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
 https://is.gd/j0AaQw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE
@@ -302,8 +294,8 @@ http://bdixtv247.techpriyo.com/ch.php?id=f329b795-ec26-4721-85b6-8c569a9cbf2d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bioscope",BTV National(Bioscope)
+https://bongohub.pw/bioscope.php?cc=btv-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
 http://38.96.178.201/live/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
@@ -1843,8 +1835,8 @@ https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=e24
 http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="BD",I Love U Music(BD)
 https://livetv-channels.b-cdn.net/8047/chunklist0.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",MTunes+(BD)
-https://livetv-channels.b-cdn.net/8031/chunklist0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD",Bollywood Hungama(BD)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD",8XM(BD)
 http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
 
