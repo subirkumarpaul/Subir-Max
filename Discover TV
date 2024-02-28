@@ -771,8 +771,9 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony LIV",Sony TV HD(Sony LIV)
 #https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
 https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Ayna",Sony TV(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
+https://api.bongohub.pw/api/bio.php?ac=sony-sd
+#https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=81
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Ayna",Sony TV HD(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=73
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
@@ -880,7 +881,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 https://api.bongohub.pw/api/bio.php?ac=max-2
 #https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2(BD)
-
+https://api.bongohub.pw/extremx/dh4.php?id=5392
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="BD",Sony Max 2 UK(BD)
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
