@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
+https://sports.yunyingtiandi.com/live/m33064981/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
 https://cdn.sajeeb.online/hotflixbd/f1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
 https://1rdk.short.gy/BPL-2024/Fancode-Worldwide/Himel-Op.m3u8
