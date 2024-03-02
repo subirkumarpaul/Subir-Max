@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports CCL LIVE
+https://1rdk.short.gy/Jiocinema/CCL(2024)/Himel-Op.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports WPL LIVE
 https://live.himel-himu@1rdk.short.gy/JioCinema/WPL-2024/Eng-4k/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
 https://prim24banandneppsl.akamaized.net/hls/live/2110098/pslbangla/hdntl=exp=1709457788~acl=%2f*~data=hdntl~hmac=de739b953b6b221a7eafac90b016534d47ede2500e117fb5037210b8531d182e/level_1.m3u8
