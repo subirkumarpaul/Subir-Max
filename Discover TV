@@ -1,11 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
-https://sports.yunyingtiandi.com/live/m33064981/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
-https://cdn.sajeeb.online/hotflixbd/f1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE Final
-https://1rdk.short.gy/BPL-2024/Fancode-Worldwide/Himel-Op.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE Final
+https://1rdk.short.gy/PSL(2024)-Francode-Worldwide/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
 https://is.gd/j0AaQw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BPL LIVE
@@ -21,7 +18,7 @@ http://ddh2.nnotoplay.click/premium270/mono.m3u8?|referer=https://olalivehdplay.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 5
 https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports 6
-
+https://1rdk.short.gy/BPL-2024/Fancode-Worldwide/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports T Sports App 2
@@ -185,6 +182,9 @@ https://hls.streambtw.com/live/stream_8.m3u8
 https://hls.streambtw.com/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 10
 https://hls.streambtw.com/live/stream_10.m3u8
+
+#EXTINF:-1,LIVE
+https://sports.yunyingtiandi.com/live/m33064981/playlist.m3u8
 
 #EXTINF:-1,Freeiptv25 S1
 https://freeiptv25.netlify.app/live/stream_1.m3u8
