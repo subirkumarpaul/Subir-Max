@@ -1405,6 +1405,18 @@ https://webudit.webhd.ru/lb/premium422/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo=""group-title="DSTV",Super Sports 
 https://webudit.webhd.ru/lb/premium423/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 1
+http://213.13.16.138/shls/LIVE$SPORTTV_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 2
+http://213.13.16.138/shls/LIVE$SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 3
+http://213.13.16.138/shls/LIVE$SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 4
+http://213.13.16.138/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV Glofe
+http://213.13.16.138/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 6
+http://213.13.16.138/shls/LIVE$SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BDIPTV",AD Sports 1(BDIPTV)
