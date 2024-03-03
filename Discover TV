@@ -168,25 +168,31 @@ https://catowrap.live/mrgamingtyc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 1
-https://hls.streambtw.com/live/stream_1.m3u8
+https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 2
-https://hls.streambtw.com/live/stream_2.m3u8
+https://sportsleading.online/live/stream_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 3
-https://hls.streambtw.com/live/stream_3.m3u8
+https://sportsleading.online/live/stream_3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 4
-https://hls.streambtw.com/live/stream_4.m3u8
+https://sportsleading.online/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 5
-https://hls.streambtw.com/live/stream_5.m3u8
+https://sportsleading.online/live/stream_5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 6
-https://hls.streambtw.com/live/stream_6.m3u8
+https://sportsleading.online/live/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 7
-https://hls.streambtw.com/live/stream_7.m3u8
+https://sportsleading.online/live/stream_7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 8
-https://hls.streambtw.com/live/stream_8.m3u8
+https://sportsleading.online/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 9
-https://hls.streambtw.com/live/stream_9.m3u8
+https://sportsleading.online/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match 10
 https://hls.streambtw.com/live/stream_10.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match E1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match E2
+https://sportsleading.online/live/stream_e2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",World Cup 2023 Live Match E3
+https://sportsleading.online/live/stream_e3.m3u8
 
 #EXTINF:-1,LIVE
 https://sports.yunyingtiandi.com/live/m33064981/playlist.m3u8
