@@ -1862,6 +1862,9 @@ https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_HD_voot_MOB
 https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_voot_MOB
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="Ayna",Mastii Music(Ayna)
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=mastimusic
