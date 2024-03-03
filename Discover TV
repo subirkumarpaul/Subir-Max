@@ -677,7 +677,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
 #http://103.142.80.22:8080/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
-http://103.99.249.139/starjalsha/index.m3u8
+http://51.159.13.107:8090/BD_JALSHA/tracks-v1a1/mono.m3u8?token=73df93f04eb57d1c3229f89456df8981
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
 https://tv.bongohub.pw/apix/bdix.php?ac=1406&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha(BD)
@@ -699,8 +699,8 @@ https://api.bongohub.pw/api/bio.php?ac=colors-bangla
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BD",Colors Bangla(BD)
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 http://176.119.29.52/live.ts?channelId=092&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Ayna",Colors Bangla HD(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=105
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BD",Colors Bangla HD(BD)
+http://51.159.13.107:8090/IN_ColorsBengali/index.m3u8?token=66c49a819b4a97aa9ca6cbc2f271a959
 
 
 
