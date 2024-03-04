@@ -908,13 +908,14 @@ https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
 https://tv.bongohub.pw/apix/bdix.php?ac=1607&e=.m3u8
 #https://cdn-tv.co.in/myweb/watch.php?id=1000009247&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Sony LIV",Sony Max(Sony LIV)
-https://cdn-tv.co.in/myweb/watch.php?id=1000009249&e=.m3u8
+http://89.187.177.137:8081/SONYMAX/index.m3u8
+#https://cdn-tv.co.in/myweb/watch.php?id=1000009249&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Ayna",Sony Max HD(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=71
+#https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=71
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Ayna",Sony Max(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=90
+#https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=90
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max UK(BD)
-
+http://103.120.172.74:1150
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
 https://api.bongohub.pw/api/bio.php?ac=sony-max-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
@@ -947,8 +948,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 https://api.bongohub.pw/bongo.php?cc=zee-cinema-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Ayna",Zee Cinema HD(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=103
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema HD(BD)
+http://103.120.172.74:4100
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD",Zee Cinema(BD)
 https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Toffee",Zee Cinema(Toffee)
@@ -982,6 +983,8 @@ https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=star_gold
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
 https://api.bongohub.pw/extremx/dh4.php?id=10968
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
+http://itspkg.in/ttv/play.php?tv=976
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="BD",Star Gold 2(BD)
 http://195.26.87.217/live.ts?channelId=33165&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
