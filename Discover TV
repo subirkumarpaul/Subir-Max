@@ -220,38 +220,53 @@ https://freeiptv25.netlify.app/live/stream_10.m3u8
 
 
 
-#EXTINF:-1,Colors HD Jiox Server :-
-https://nayeem-parvez.pw/api-s1/jioxtv1/master.m3u8?id=144
+#EXTINF:-1,Zee India
+http://103.120.172.74:1040
+#EXTINF:-1,Star India
+http://103.120.172.74:1060
+#EXTINF:-1,Colors
+http://103.120.172.74:1070
+#EXTINF:-1,Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1,India news
+http://103.120.172.74:1090
+#EXTINF:-1,StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1,Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1,Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1,DD news
+http://103.120.172.74:1170
+#EXTINF:-1,Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1,StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1,MTV
+http://103.120.172.74:4400
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1,Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1,Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1,Star India
+http://103.120.172.74:5200
+#EXTINF:-1,Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1,Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1,NDTV
+http://103.120.172.74:5500
 
-#EXTINF:-1,Zee Bangla HD Zeex5 Server :-
-https://nayeem-parvez.pw/api-s1/zeex5/master.m3u8?id=0-9-zeebangla
-
-#EXTINF:-1,Sony Aath :-
-https://nayeem-parvez.pw/api-s1/sonuliv/stream.m3u8?id=1000009255
-
-#EXTINF:-1,BPL Live :-
-https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
-
-#EXTINF:-1,Axyna :-
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=27
-
-#EXTINF:-1,Ultra Server (It takes 40 sec to load then buffer free) :-
-https://nayeem-parvez.pw/api-s1/iptv/ultra.m3u8?id=STAR_SPORTS_1_HD&s=1
-
-#EXTINF:-1,Dhoom TV T Sports :-
-https://nayeem-parvez.pw/api-s1/iptv/cooltv.m3u8?id=10432
-
-#EXTINF:-1,Pak IPTV Server :-
-https://nayeem-parvez.pw/api-s1/iptv/pakin.m3u8?id=103
-
-#EXTINF:-1,Bioscope Server (Only BD):-
-https://nayeem-parvez.pw/api-s1/iptv/bioscope.m3u8?id=sony-ten-1-live
-
-#EXTINF:-1,Star Jalsha SD Toffee Server :-
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=star_jalsha
-
-#EXTINF:-1,Cric*HD Server :-
-https://nayeem-parvez.pw/api-s1/crichd/master.m3u8?id=star1in
 
 #EXTINF:-1,Star gold
 
@@ -413,8 +428,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Jagobd",Mohona TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Ayna",Desh TV(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BD",Desh TV(BD)
+https://jiu.top10bhaluka.com/ki/bongo/stream.php?id=80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="BD",Desh TV(BD)
 http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 
@@ -545,6 +560,8 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="BD",Duronto TV(BD)
 https://tv.bongohub.pw/apix/bdix.php?ac=1103&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="BD",Duronto TV(BD)
+https://jiu.top10bhaluka.com/ki/bongo/stream.php?id=228
 
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="BD",Kids Creation(BD)
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -603,6 +620,8 @@ https://bongohub.pw/bioscope.php?cc=dbc-news
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD",Ekhone TV(BD)
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="BD",Ekhone TV(BD)
+https://8v1cc03lpt.gpcdn.net/lofjixblkg/Ekhon-manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Youtube",Ekhone TV(Youtube)
 https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
@@ -704,6 +723,8 @@ https://api.bongohub.pw/api/bio.php?ac=colors-bangla
 http://176.119.29.52/live.ts?channelId=092&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BD",Colors Bangla HD(BD)
 http://51.159.13.107:8090/IN_ColorsBengali/index.m3u8?token=66c49a819b4a97aa9ca6cbc2f271a959
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BD",Colors Bangla HD(BD)
+http://testing.denver1769.in/51.php?id=10932
 
 
 
@@ -751,7 +772,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
 http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BD",Zee Bangla Cinema(BD)
-
+http://testing.denver1769.in/51.php?id=7842
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Bioscope",Colors Bangla Cinema(Bioscope)
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinem
@@ -791,17 +812,16 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=136
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
-
+http://103.120.172.74:5000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Sony LIV",Sony TV HD(Sony LIV)
-#https://fifaxbd.fun/SEXYxRANAPK/play.m3u8?id=dBdwOiGaQvy0TA1zOsjV6w
-https://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 https://api.bongohub.pw/api/bio.php?ac=sony-sd
 #https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=81
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Ayna",Sony TV HD(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=73
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
-http://38.96.178.201/live/SONY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV(BD)
 https://api.bongohub.pw/api/bio.php?ac=sony-hd-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="BD",Sony TV HD(BD)
@@ -2254,8 +2274,7 @@ https://ranapk.xyz/VOOT/play.m3u8?id=Colors_Oriya_voot_MOB
 
 
 #Aayna
-#EXTINF:-1 group-title="BDSAJIB-Ayna OTT" tvg-chno="" tvg-id="1" tvg-logo="https://tv.bongohub.pw/wp-content/uploads/2024/02/ONGOHUB.PW_.png", Playlist By BDSATV
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="BDSAJIB-Ayna OTT",BTV National
 https://api.bongohub.pw/playlist/aayna.php?id=1&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="BDSAJIB-Ayna OTT",BTV World
@@ -2708,8 +2727,7 @@ https://api.bongohub.pw/playlist/aayna.php?id=224&e=.m3u8|User-Agent=bdsajib
 https://api.bongohub.pw/playlist/aayna.php?id=225&e=.m3u8|User-Agent=bdsajib
 
 #Bioscope
-#EXTINF:-1 group-title="BDSAJIB-Bioscope" tvg-chno="" tvg-id="1" tvg-logo="https://tv.bongohub.pw/wp-content/uploads/2024/02/ONGOHUB.PW_.png", Playlist By BDSATV
-https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
+
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",Somoy TV
 https://api.bongohub.pw/playlist/bioscope.php?id=somoy-tv|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="2" tvg-name="Sony Sports Ten 1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" tvg-chno="1" group-title="BDSAJIB-Bioscope",Sony Sports Ten 1
