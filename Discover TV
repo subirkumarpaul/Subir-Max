@@ -309,8 +309,8 @@ http://bdixtv247.techpriyo.com/ch.php?id=f329b795-ec26-4721-85b6-8c569a9cbf2d
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV National(Ayna)
-https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
+https://freeiptv25.netlify.app/live/bdix/app/Btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bioscope",BTV National(Bioscope)
 https://bongohub.pw/bioscope.php?cc=btv-hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
@@ -323,7 +323,8 @@ https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=2
 http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV World(BD)
 http://38.96.178.201/live/BTVWorld/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Ayna",BTV Chattogram(Ayna)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/susubiAyogoaul
+ogo/main/BTV%20National.png"group-title="Ayna",BTV Chattogram(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV Chattogram(BD)
 http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
@@ -381,7 +382,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
-http://38.96.178.201/live/NTV/index.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD",NTV(BD)
 http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bioscope",NTV(Bioscope)
@@ -552,6 +553,8 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bongo",Somoy TV(Bongo)
 https://api.bongohub.pw/bongo.php?cc=somoy-tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="BD",Somoy TV(BD)
+https://freeiptv25.netlify.app/live/bdix/app/Somoytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Jagobd",Independent TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
