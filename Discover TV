@@ -148,8 +148,12 @@ https://msr-sagor02.000webhostapp.com/doing.php?ms=2756
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1106882&extension=ts&play_token=hlhJgch6QG
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Cric Life 1
 https://freeiptv25.netlify.app/live/stream_4.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Cric Life 1
+http://xtv.ooo:8080/564587696/474585694/371469
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Cric Life 2
+http://xtv.ooo:8080/564587696/474585694/371470
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports Sports Cric Life 3
+http://xtv.ooo:8080/564587696/474585694/371471
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports TNT Sports 1
 https://catowrap.live/mrgamingbtsport1.m3u8
@@ -305,22 +309,6 @@ http://103.99.249.139/zeetv/index.m3u8
 http://103.99.249.139/zeecinema/index.m3u8
 
 
-#EXTINF:-1,Sony ten 5
-
-http://bdixtv247.techpriyo.com/ch.php?id=8f386ce5-4d78-4043-8854-183d12f95fee
-
-#EXTINF:-1,Sony ten 3
-
-http://bdixtv247.techpriyo.com/ch.php?id=f24d452d-5fba-4339-8c21-d75d9c865696
-
-#EXTINF:-1,Sony ten 2
-
-http://bdixtv247.techpriyo.com/ch.php?id=e80ed2f4-dfc2-4cb2-943f-707e3770f0d1
-
-
-#EXTINF:-1,Sony ten 1
-
-http://bdixtv247.techpriyo.com/ch.php?id=f329b795-ec26-4721-85b6-8c569a9cbf2d
 
 
 
