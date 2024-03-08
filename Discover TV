@@ -314,8 +314,8 @@ http://103.99.249.139/zeetv/index.m3u8
 
 http://103.99.249.139/zeecinema/index.m3u8
 
-
-
+#EXTINF:-1,Movies Channel
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024826&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
