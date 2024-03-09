@@ -1,17 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, Football
-https://1rdk.short.gy/Sony-LIV/Saudi-Pro-League/hls/Himel-Op.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
 https://1rdk.short.gy/Fancode-Worldwide/Ban-Vs-SL/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
 https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=18359
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
+https://test.bongodrive.pw/bdix.m3u8?ac=1101
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
+https://bq32.short.gy/offline_vaathala?channelId=48010&uid=4944&deviceMac=00:1A:79:94:98:FE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
 https://api.bongohub.pw/mac/pak.m3u8?id=11892
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
 https://freeiptv25.netlify.app/live/stream_6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
-https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
 https://1rdk.short.gy/PSL(2024)-Francode-Worldwide/hls/Himel-Op.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports PSL LIVE
@@ -908,6 +909,44 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1  group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National(BD)
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
+
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 1
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 2
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024826&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 3
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024830&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 4
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024828&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 5
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024827&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 6
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019880&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 7
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019881&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 8
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019882&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 9
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019883&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 10
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019884&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 11
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019888&extension=ts
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="",Movies Channel 12
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019886&extension=ts
+
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 1 FHD 
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d460f583cc9388a9b926d45e4c7094f8ffcd3a7f64242/index.m3u8
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 2 FHD 
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d460f583cc9388a9b926d45e4c7094f8ffcd0a7f64242/index.m3u8
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 3 FHD
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5a75adeba6/index.m3u8
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 4 FHD
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5975adeba6/index.m3u8
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 5 FHD
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5875adeba6/index.m3u8
+#EXTINF:-1  group-title="Movies Channel" tvg-logo="", CineMania Goldmines Dubbed 6 FHD
+http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5f75adeba6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
 https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
