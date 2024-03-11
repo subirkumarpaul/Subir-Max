@@ -4,10 +4,11 @@
 https://bongohub.pw/bioscope.php?cc=btv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV World(BD)
-
+https://bongohub.pw/bioscope.php?cc=btv-world
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV Chattogram(BD)
-http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+https://bongohub.pw/bioscope.php?cc=btv-chattogram
+#http://cdn01.palki.tv:80/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV Sangsad(BD)
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
@@ -67,8 +68,8 @@ http://103.151.60.214:7444/1121/video.m3u8
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="BD",Asian TV(BD)
-https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
-#https://bongohub.pw/bioscope.php?cc=asian-tv-hd
+#https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
+https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Jagobd",Bangla TV(Jagobd)
 https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
