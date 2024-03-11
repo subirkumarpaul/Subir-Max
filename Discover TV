@@ -468,9 +468,9 @@ http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max(BD)
 https://api.bongohub.pw/api/bio.php?ac=sony-max-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="BD",Sony Max HD(BD)
-https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
+#https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
-#http://103.151.60.214:7444/1607/video.m3u8
+http://103.151.60.214:7444/1607/video.m3u8
 #http://103.120.172.74:1150
 
 
@@ -492,7 +492,7 @@ http://103.151.60.214:7444/1611/video.m3u8
 #http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="BD",Zee Action(BD)
-https://api.bongohub.pw/bongo.php?cc=zee-action
+https://api.bongohub.pw/api/bio.php?ac=zee-action
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="BD",Zee Classic(BD)
 
