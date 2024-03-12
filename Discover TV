@@ -43,7 +43,8 @@ http://test.bongodrive.pw/bdix.m3u8?ac=1122
 #https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
-https://ekusheyserver.com/etvlivesn.m3u8
+https://bongohub.pw/bioscope.php?cc=ekushey-tv
+#https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla",NTV
 https://bongohub.pw/bioscope.php?cc=ntv
