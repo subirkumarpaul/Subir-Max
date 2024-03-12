@@ -882,34 +882,27 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Toffee",Nat Geo English(Toffee)
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=ngc_sd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
-http://103.132.181.118:82/play/a006
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Multi Audio(BD)
 http://148.113.5.31:8106/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD Hindi(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=340
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155733&extension=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
 http://test.bongodrive.pw/bdix.m3u8?ac=1301
 #http://148.113.5.31:8106/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Sony LIV",Sony BBC Earth HD(Sony LIV)
-https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=BbcEarth
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Ayna",Sony BBC Earth HD(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=EarthHD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Bioscope",Sony BBC Earth HD(Bioscope)
-https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="BD",Sony BBC Earth HD(BD)
-https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
+http://test.bongodrive.pw/bdix.m3u8?ac=1806
+#https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Wild Earth(BD)
@@ -1098,47 +1091,34 @@ https://edge2.laotv.la/live/StarMovie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
+https://bongohub.pw/bioscope.php?cc=sony-pix-sd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Sony LIV",Sony Pix HD(Sony LIV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
 https://bongohub.pw/bioscope.php?cc=sony-pix-live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Ayna",Sony Pix HD(Ayna)
-https://bongohub.pw/bioscope.php?cc=sony-pix-hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Ayna",Sony Pix(Ayna)
+#http://test.bongodrive.pw/bdix.m3u8?ac=1603
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="BD",Sony Pix(BD)
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="Toffee",Tech Storm(Toffee)
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=tech_storm
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Toffee",Zee Cafe HD(Toffee)
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=zee_cafe_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Ayna",Zee Cafe(Ayna)
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=ZeeCafeHD
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe(BD)
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/zeecafemac.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="BD",Zee Cafe HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155730&extension=.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",Movies Now HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116477&extension=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",Movies Now HD(BD)
-https://tv.bongohub.pw/apix/bdix.php?ac=1604&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",Movies Now HD(BD)
-http://103.151.60.214:7444/1604/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1609
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",MN HD+(BD)
-http://103.132.181.118:82/play/a00t
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="BD",MN HD+(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116476&extension=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="BD",MNX HD(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=350
+
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Romedy Now HD(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155742&extension=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="BD3",Lotus Macau(BD3)
 http://anren.live/HK/BiIOU11uLA.m3u8
