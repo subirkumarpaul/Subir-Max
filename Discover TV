@@ -39,8 +39,8 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
-#http://103.151.60.214:7444/1122/video.m3u8
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1122
+#https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -60,27 +60,27 @@ https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
-https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#http://103.151.60.214:7444/1123/video.m3u8
+#https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1123
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
-#http://103.151.60.214:7444/1121/video.m3u8
-http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
+http://test.bongodrive.pw/bdix.m3u8?ac=1121
+#http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
-#http://103.151.60.214:7444/1132/video.m3u8
-https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1132
+#https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
 #https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
 https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
-#http://103.151.60.214:7444/1116/video.m3u8
-https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1116
+#https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
-http://103.151.60.214:7444/1117/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1117
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
@@ -99,9 +99,9 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #http://103.151.60.214:7444/1118/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
-#http://103.151.60.214:7444/1124/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1124
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/chunks.m3u8
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",Nexus TV HD
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
@@ -191,13 +191,13 @@ https://bongohub.pw/bioscope.php?cc=independent-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
 #http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
-https://8v1cc03lpt.gpcdn.net/gmggbdoikn/Ekattor_TV-manifest.m3u8
-#http://103.151.60.214:7444/1136/video.m3u8
+#https://8v1cc03lpt.gpcdn.net/gmggbdoikn/Ekattor_TV-manifest.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1136
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BD",ATN News(BD)
 #http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
-https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
-#http://103.151.60.214:7444/1134/video.m3u8
+#https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1134
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangla News",Jamuna TV
@@ -359,8 +359,8 @@ http://103.120.172.74:1120
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
 #http://xtv.ooo:8080/564587696/474585694/221252
-http://103.120.172.74:4300
-#http://103.151.60.214:7444/1709/video.m3u8
+#http://103.120.172.74:4300
+http://test.bongodrive.pw/bdix.m3u8?ac=1709
 #https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
@@ -373,8 +373,8 @@ http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors
-#http://103.151.60.214:7444/1707/video.m3u8
-http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://test.bongodrive.pw/bdix.m3u8?ac=1707
+#http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 http://103.120.172.74:1070
@@ -387,7 +387,7 @@ https://da.gd/clrsfreetv
 #https://livevoot.co.in/voot/master.m3u8?id=Colors_Rishtey_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-#http://103.151.60.214:7444/1706/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1706
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
@@ -448,9 +448,9 @@ http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 https://api.bongohub.pw/api/bio.php?ac=sony-max-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
-https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
+#https://api.bongohub.pw/api/bio.php?ac=sony-max-hd-live
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
-#http://103.151.60.214:7444/1607/video.m3u8
+#ttp://test.bongodrive.pw/bdix.m3u8?ac=1607
 #http://103.120.172.74:1150
 
 
@@ -466,8 +466,8 @@ https://api.bongohub.pw/api/bio.php?ac=sony-wah-live
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
-#http://103.151.60.214:7444/1611/video.m3u8
-https://api.bongohub.pw/api/bio.php?ac=zee-cinema-hd
+http://test.bongodrive.pw/bdix.m3u8?ac=1611
+#https://api.bongohub.pw/api/bio.php?ac=zee-cinema-hd
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #http://103.120.172.74:4100
 
@@ -514,7 +514,7 @@ http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1
 https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-#http://103.151.60.214:7444/1006/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
@@ -522,7 +522,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#http://103.151.60.214:7444/1007/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
@@ -537,7 +537,7 @@ http://103.120.172.74:1030
 https://freeiptv25.netlify.app/live/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-#http://103.151.60.214:7444/1004/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
@@ -549,19 +549,19 @@ https://api.bongohub.pw/api/bio.php?ac=sony-ten-1-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 #http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
-#http://103.151.60.214:7444/1021/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 https://api.bongohub.pw/api/bio.php?ac=sony-ten-2-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
 #http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
-#http://103.151.60.214:7444/1020/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1020
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
 https://api.bongohub.pw/api/bio.php?ac=sony-ten-3-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
-#http://103.151.60.214:7444/1012/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1012
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4 Hinde
@@ -569,12 +569,12 @@ https://api.bongohub.pw/api/bio.php?ac=sony-ten-3-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
 #http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
-#http://103.151.60.214:7444/1015/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 https://api.bongohub.pw/api/bio.php?ac=sony-ten-5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
-#http://103.151.60.214:7444/1028/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
