@@ -20,7 +20,7 @@ https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-https://test.bongodrive.pw/bdix.m3u8?ac=1101
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -40,7 +40,7 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
 #http://103.151.60.214:7444/1122/video.m3u8
-#https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -99,9 +99,9 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #http://103.151.60.214:7444/1118/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
-http://103.151.60.214:7444/1124/video.m3u8
+#http://103.151.60.214:7444/1124/video.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/chunks.m3u8
-#http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",Nexus TV HD
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
