@@ -904,7 +904,7 @@ http://test.bongodrive.pw/bdix.m3u8?ac=1301
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Sony LIV",Sony BBC Earth HD(Sony LIV)
 http://test.bongodrive.pw/bdix.m3u8?ac=1806
 #https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
-
+#https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
