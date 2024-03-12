@@ -174,8 +174,8 @@ http://176.119.29.52/live.ts?channelId=0118&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
 #http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#http://103.151.60.214:7444/1103/video.m3u8
-https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1103
+#https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
 
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
@@ -205,7 +205,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #https://bongohub.pw/bioscope.php?cc=jamuna-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News",Channel 24
-#http://103.151.60.214:7444/1119/video.m3u8
+#http://test.bongodrive.pw/bdix.m3u8?ac=1119
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=channel-24
 
@@ -236,9 +236,9 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
-#http://103.151.60.214:7444/1110/video.m3u8
+http://test.bongodrive.pw/bdix.m3u8?ac=1110
 #https://livess.jagobd.com.bd/gaanbangla-8-orgd.stream/playlist.m3u8
-http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
+#http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Bangla Music",ATN Music
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/chunks.m3u8
@@ -896,14 +896,9 @@ https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=339
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="BD",Nat Geo HD(BD)
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155733&extension=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Toffee",Nat Geo Wild(Toffee)
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=ngc_wild
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-http://148.113.5.31:8106/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="BD",Nat Geo Wild(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116479&extension=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
+http://test.bongodrive.pw/bdix.m3u8?ac=1301
+#http://148.113.5.31:8106/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Sony LIV",Sony BBC Earth HD(Sony LIV)
 https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
@@ -1040,32 +1035,18 @@ https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="BD",Sony Yay(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
 https://api.bongohub.pw/api/bio.php?ac=sony-yay-live
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="Sony LIV",Sony Yay(Sony LIV)
-https://cdn-tv.co.in/myweb/watch.php?id=1000001971&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick HD Plus(BD)
-#https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-https://api.bongohub.pw/api/bio.php?ac=nickelodeon
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick HD Plus(BD)
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116480&extension=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick(Bioscope)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 https://bongohub.pw/bioscope.php?cc=nickelodeon
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Toffee",Nick Bangla(Toffee)
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=nick
+#http://test.bongodrive.pw/bdix.m3u8?ac=1305
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Toffee",Nick JR(Toffee)
-#https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
-https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=nick_junior
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="BD",Nick JR(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick JR
 https://api.bongohub.pw/api/bio.php?ac=nick-junior
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Bioscope",Nick JR(Bioscope)
-https://bongohub.pw/bioscope.php?cc=nick-junior
+#https://bongohub.pw/bioscope.php?cc=nick-junior
 
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="BD",Sonic(BD)
-#https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
 https://api.bongohub.pw/api/bio.php?ac=sonic
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
@@ -1077,15 +1058,9 @@ https://bdtubelive.xyz/ulta-pulta.m3u8/?id=5952
 #EXTINF:-1 tvg-logo=""group-title="BD",Super Hungama TV(BD)
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112135&extension=ts&play_token=rb6TKKikOK
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
 https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
-http://103.186.77.21:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="BD",Pogo(BD)
+#https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 
 #EXTINF:-1,Disney Channel
