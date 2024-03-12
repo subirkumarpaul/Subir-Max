@@ -1048,6 +1048,7 @@ https://api.bongohub.pw/api/bio.php?ac=nick-junior
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
 https://api.bongohub.pw/api/bio.php?ac=sonic
+#http://test.bongodrive.pw/bdix.m3u8?ac=1303
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Hungama TV(BD)
 http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
@@ -1086,21 +1087,14 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Ayna",HBO(Ayna)
 https://nayeem-parvez.pw/api-s1/axyna/stream.m3u8?id=69
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
-http://103.151.60.214:7444/1605/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
-https://tv.bongohub.pw/apix/bdix.php?ac=1605&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
-http://148.113.5.31:8106/play/a00o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
-https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="BD",Star Movies HD(BD)
+#http://test.bongodrive.pw/bdix.m3u8?ac=1605
+#https://freeiptv25.netlify.app/live/bdix/app/Starmovies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD UK
+#http://148.113.5.31:8106/play/a00o/index.m3u8
 https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
-https://ssportstoday24.000webhostapp.com/Sportsmax.php?id=353
-#EXTINF:-1 tvg-logo=""group-title="BD",Star Movies Select(BD)
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World(Flixhub)
 
