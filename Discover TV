@@ -23,7 +23,8 @@ https://bongohub.pw/bioscope.php?cc=sangsad-tv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-https://test.bongodrive.pw/bdix.m3u8?ac=1101
+http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
+#httpshttps://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
@@ -645,7 +646,7 @@ https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay
 https://webudit.hlsjs.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
-
+http://xtv.ooo:8080/live/T4S00515/820172/167587.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
@@ -879,7 +880,7 @@ https://raw.githubuseasiatent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Subir",Investigation Discovery Multi Audio(Subir)
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="BD",Investigation Discovery Multi Audio(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="A ",Investigation Discovery Multi Audio(BD)
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Investigation_Discovery.m3u8
 
 
@@ -895,7 +896,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/TLC.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Multi Audio(BD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
+http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 http://148.113.5.31:8106/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
@@ -1015,7 +1017,7 @@ http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 https://fifabangladesh.xyz/API/KIDS3/RANAPK/play.m3u8?id=246770
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
-https://bdtubelive.xyz/ulta-pulta.m3u8/?id=5952
+https://bdtubelive.xyz/ulta-pulta.m3u8/?id=5952l
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=1112135&extension=ts&play_token=rb6TKKikOK
 
@@ -1063,7 +1065,7 @@ https://bongohub.pw/bioscope.php?cc=sony-pix-sd
 https://bongohub.pw/bioscope.php?cc=sony-pix-live
 #http://test.bongodrive.pw/bdix.m3u8?ac=1603
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Elglish  Movies",Zee Cafe
 
 
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
