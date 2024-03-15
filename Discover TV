@@ -1105,6 +1105,8 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 https://livevoot.co.in/voot/master.m3u8?id=Comedy_Central_HD_voot_MOB
 
+#EXTINF:-1 tvg-logo="" group-title="Music",24/7 Music
+https://s1.thenayeemparvez.xyz/api/cb21.m3u8?id=7382
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
