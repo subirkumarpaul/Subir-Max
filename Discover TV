@@ -48,7 +48,8 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
-https://skshwodjdh.000webhostapp.com/Bdix.m3u8?id=1122
+http://xtv.ooo:8080/live/T4S00515/820172/245904.ts
+#https://skshwodjdh.000webhostapp.com/Bdix.m3u8?id=1122
 #https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
