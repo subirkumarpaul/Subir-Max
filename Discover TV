@@ -412,7 +412,7 @@ https://api.bongohub.pw/bongo.php?cc=zee-anmol
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://api.bongohub.pw/bongo.php?cc=tv-hd
+http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
@@ -510,6 +510,7 @@ http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 #https://api.bongohub.pw/bongo.php?cc=pictures-hd
+http://xtv.ooo:8080/live/T4S00515/820172/66181.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies IN
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -519,6 +520,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Joo Music
 http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
+http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S1
@@ -919,7 +923,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://bongohub.pw/bioscope.php?cc=colors-infinity
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD English
-http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/109980.ts
 #http://95.111.193.211:8106/play/a025/index.m3u8
 
 
