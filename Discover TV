@@ -127,6 +127,7 @@ https://bongohub.pw/bioscope.php?cc=global-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangla",Green TV
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg"group-title="Bangla",CHANNEL S HD
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
@@ -205,8 +206,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://bongohub.pw/bioscope.php?cc=independent-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
-#http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
-https://8v1cc03lpt.gpcdn.net/gmggbdoikn/Ekattor_TV-manifest.m3u8
+http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+#https://8v1cc03lpt.gpcdn.net/gmggbdoikn/Ekattor_TV-manifest.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1136
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BD",ATN News(BD)
@@ -530,6 +531,8 @@ http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
 http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S1
 https://freeiptv25.netlify.app/live/stream_1.m3u8
@@ -551,8 +554,8 @@ https://freeiptv25.netlify.app/live/stream_8.m3u8
 https://freeiptv25.netlify.app/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S10
 https://freeiptv25.netlify.app/live/stream_10.m3u8
-
-
+#EXTINF:-1 tvg-logo=""group-title="Sports",Fancode
+https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
@@ -680,6 +683,17 @@ https://freeiptv25.netlify.app/live/stream_4.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
 https://catowrap.live/mrgamingtyc.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Sports",Amazon Prime Premier League
+https://mlb.mrgamingstreams.com/prem.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDTtqBsd/31682adb-c504-409d-b2ea-d43245491a9a-original.png" group-title="Sports", True Premier 1 [Thailand]
+https://edge1.laotv.la/live/TSport1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y7n7Cvs/ba4c4510-e966-11ed-896e-69ce273284a6-webp-original.png" group-title="Sports", True Premier 2 [Thailand]
+https://edge1.laotv.la/live/TSport2/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc3WJZ8Q/1e8bbb60-f973-11e9-91cd-2f79be09d2b3-original.png" group-title="Sports", True Sports 2 [Thailand]
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Sports TV 1(BD
 https://webudit.hlsjs.ru/lb/premium49/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
@@ -749,13 +763,15 @@ https://webudit.hlsjs.ru/lb/premium420/index.m3u8?|referer=https://olalivehdplay
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports",Bein Sports 1 English
 https://webudit.hlsjs.ru/lb/premium61/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports",Bein Sports 1
-https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://edge2.laotv.la/live/Bsport1/index.m3u8
+#https://webudit.hlsjs.ru/lb/premium62/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%201.jpeg"group-title="Sports",Bein Sports 1
 https://webudit.hlsjs.ru/lb/premium91/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports",Bein Sports 2 English
 https://webudit.hlsjs.ru/lb/premium90/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports",Bein Sports 2
-https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
+https://edge2.laotv.la/live/Bsport2/index.m3u8
+#https://webudit.hlsjs.ru/lb/premium63/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%202.jpeg"group-title="Sports",Bein Sports 2
 https://webudit.hlsjs.ru/lb/premium92/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bein%20Sports%203.jpeg"group-title="Sports",Bein Sports 3 English
@@ -920,6 +936,10 @@ https://bongohub.pw/bioscope.php?cc=bbc-earth-sd
 #http://test.bongodrive.pw/bdix.m3u8?ac=1806
 #https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
 https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cgtndoc.stream/live-orgin/cgtndoc.stream/chunks.m3u8
+#https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -1145,9 +1165,9 @@ https://bongohub.pw/bioscope.php?cc=mtv
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #https://bongohub.pw/bioscope.php?cc=mtv-beats
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats HD
 #http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats(BD)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="BD",MTV Beats
 
 
 
@@ -1187,7 +1207,8 @@ https://bongohub.pw/bioscope.php?cc=vh1
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="English News",Aljazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="BD",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -1197,6 +1218,15 @@ https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW
 https://livess.jagobd.com.bd/live-orgin/dwnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="English News",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png"group-title="English News",France 24
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg" group-title="English News", WION
+http://cdn01.palki.tv/live/WION-M/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Madina TV(Flixhub)
 
