@@ -556,6 +556,7 @@ https://freeiptv25.netlify.app/live/stream_8.m3u8
 https://freeiptv25.netlify.app/live/stream_9.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S10
 https://freeiptv25.netlify.app/live/stream_10.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Sports",Fancode
 https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 
@@ -563,7 +564,7 @@ https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 
-http://test.bongodrive.pw/bdix.m3u8?ac=1006
+#http://test.bongodrive.pw/bdix.m3u8?ac=1006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
