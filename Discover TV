@@ -67,14 +67,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangla",SATV
-http://103.151.60.214:7444/1133/video.m3u8
+https://bongohub.pw/bioscope.php?cc=sa-tv
+#http://103.151.60.214:7444/1133/video.m3u8
 #https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
-http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+#http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+https://bongohub.pw/bioscope.php?cc=mohona-tv
 #http://103.151.60.214:7444/1133/video.m3u8
 #https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
@@ -93,8 +95,9 @@ https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
-http://103.151.60.214:7444/1116/video.m3u8
-https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
+#http://103.151.60.214:7444/1116/video.m3u8
+#https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
+https://bongohub.pw/bioscope.php?cc=bangla-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
 https://bongohub.pw/bioscope.php?cc=ananda-tv
