@@ -579,7 +579,7 @@ https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
 http://103.120.172.74:4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
-
+http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
