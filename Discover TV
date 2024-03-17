@@ -30,7 +30,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://103.151.60.214:7444/1101/video.m3u8
+https://t.ly/mhsports.xyz/tsports/bdix/Apurbo/index.m3u8
+#http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://103.151.60.214:7444/1102/video.m3u8
@@ -621,6 +622,8 @@ http://test.bongodrive.pw/bdix.m3u8?ac=1012
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
 http://xtv.ooo:8080/live/T4S00515/820172/167595.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/167595.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
 #http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
@@ -673,7 +676,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/167587.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-
+https://ptvsports2.com/playlist.m3u8/?id=willowusa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
 https://catowrap.live/mrgamingwillow.m3u8
 #https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
