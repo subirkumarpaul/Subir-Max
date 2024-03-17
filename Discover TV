@@ -28,7 +28,8 @@ https://bongohub.pw/bioscope.php?cc=sangsad-tv
 http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-https://freeiptv25.netlify.app/live/stream_8.m3u8
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
+#https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 https://t.ly/mhsports.xyz/tsports/bdix/Apurbo/index.m3u8
 #http://103.151.60.214:7444/1101/video.m3u8
@@ -46,7 +47,7 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla UK
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla",Channel I
+#EXTINF:-1 tvg-logo="https://raw.httpsbusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla",Channel I
 https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
 
@@ -660,9 +661,9 @@ https://webudit.hlsjs.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
-http://ottbangla.shop/flashman2/stream.php?id=asportshd&e=.m3u8
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/219689.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=281100&extension=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
 https://webudit.hlsjs.ru/lb/premium269/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
