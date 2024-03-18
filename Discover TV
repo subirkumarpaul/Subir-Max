@@ -25,7 +25,7 @@ https://bongohub.pw/bioscope.php?cc=sangsad-tv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://xtv.ooo:8080/live/T4S00515/820172/167590.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
