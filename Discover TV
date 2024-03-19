@@ -31,13 +31,10 @@ http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
 #https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://pakin.satocean.uk:8080/bangla_tsports_hd/tracks-v1a1/mono.m3u8?token=e591f91e38c76bf2a13908151756cb09
 #http://103.151.60.214:7444/1101/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-https://fkn.thenayeemparvez.xyz/api/master.m3u8?id=19854
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://pakin.satocean.uk:8080/bangla_gazitv_hd/tracks-v1a1/mono.m3u8?token=a3a4dd5ad8e98a3fb1e8fb5602ea1c11
 #http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 https://freeiptv25.netlify.app/live/stream_6.m3u8
@@ -93,7 +90,8 @@ http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 #http://103.151.60.214:7444/1132/video.m3u8
-https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
+#https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
+https://bongohub.pw/bioscope.php?cc=my-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
 #https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
@@ -103,6 +101,9 @@ https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 #http://103.151.60.214:7444/1116/video.m3u8
 #https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=bangla-tv
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV Europe
+https://8v1cc03lpt.gpcdn.net/lyrnxmpshm/Bangla_TV_Euro-manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
 https://bongohub.pw/bioscope.php?cc=ananda-tv
@@ -130,7 +131,8 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",Nexus TV HD
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=nexus-television-hd
+#https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"group-title="Bangla",Global TV
@@ -390,8 +392,7 @@ http://103.120.172.74:1120
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
 #http://xtv.ooo:8080/564587696/474585694/221252
-http://pakin2.satocean.uk/ind2_star_plus_hd/tracks-a1/mono.m3u8?token=f722efdd1c1be8c06ca132fe0d368735
-#http://103.120.172.74:4300
+http://103.120.172.74:4300
 #http://test.bongodrive.pw/bdix.m3u8?ac=1709
 #http://103.151.60.214:7444/1709/video.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
@@ -407,7 +408,8 @@ http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors
 #http://test.bongodrive.pw/bdix.m3u8?ac=1707
-http://103.151.60.214:7444/1707/video.m3u8
+https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-asia
+#http://103.151.60.214:7444/1707/video.m3u8
 #http://195.26.87.217/live.ts?channelId=161&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
@@ -551,34 +553,13 @@ http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S1
-https://freeiptv25.netlify.app/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S2
-https://freeiptv25.netlify.app/live/stream_2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S3
-https://freeiptv25.netlify.app/live/stream_3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S4
-https://freeiptv25.netlify.app/live/stream_4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S5
-https://freeiptv25.netlify.app/live/stream_5.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S6
-https://freeiptv25.netlify.app/live/stream_6.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S7
-https://freeiptv25.netlify.app/live/stream_7.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S8
-https://freeiptv25.netlify.app/live/stream_8.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S9
-https://freeiptv25.netlify.app/live/stream_9.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Sports",Freeiptv25 S10
-https://freeiptv25.netlify.app/live/stream_10.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Fancode
 https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
+#https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://pakin.satocean.uk:8080/SK_STAR_SPORTS_1/tracks-a1/mono.m3u8?token=80522a63bebaa3a321d5e2632634aaa8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1006
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 http://103.120.172.74:4600
@@ -587,9 +568,9 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
-http://test.bongodrive.pw/bdix.m3u8?ac=1007
+#http://test.bongodrive.pw/bdix.m3u8?ac=1007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
-https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
+#https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 http://103.120.172.74:4
 
@@ -598,15 +579,15 @@ http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="BD",Star Sports Select 1
-https://freeiptv25.netlify.app/live/stream_1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
+#https://freeiptv25.netlify.app/live/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://test.bongodrive.pw/bdix.m3u8?ac=1004
+#http://test.bongodrive.pw/bdix.m3u8?ac=1004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://148.113.5.31:8106/play/a00g/index.m3u8
+#http://148.113.5.31:8106/play/a00g/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
@@ -614,19 +595,19 @@ https://bongohub.pw/bioscope.php?cc=sony-ten-1-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
 #http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports",Sony Sports Ten 1 HD
-http://test.bongodrive.pw/bdix.m3u8?ac=1021
+#http://test.bongodrive.pw/bdix.m3u8?ac=1021
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
 https://bongohub.pw/bioscope.php?cc=sony-ten-2-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2
 #http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports",Sony Sports Ten 2 HD
-http://test.bongodrive.pw/bdix.m3u8?ac=1020
+#http://test.bongodrive.pw/bdix.m3u8?ac=1020
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
 https://bongohub.pw/bioscope.php?cc=sony-ten-3-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports",Sony Sports Ten 3 HD
-http://test.bongodrive.pw/bdix.m3u8?ac=1012
+#http://test.bongodrive.pw/bdix.m3u8?ac=1012
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%204.png"group-title="Sports",Sony Sports Ten 4
@@ -637,12 +618,12 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/167595.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
 #http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
-http://test.bongodrive.pw/bdix.m3u8?ac=1015
+#http://test.bongodrive.pw/bdix.m3u8?ac=1015
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 https://bongohub.pw/bioscope.php?cc=sony-ten-5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
-http://test.bongodrive.pw/bdix.m3u8?ac=1028
+#http://test.bongodrive.pw/bdix.m3u8?ac=1028
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
@@ -920,8 +901,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Science.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png"group-title="Information",Discovery Turbo
-https://raw.githubuseasiatent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
-#https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8
+#https://raw.githubuseasiatent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
+https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8
 #https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png"group-title="Information",Investigation Discovery Multi Audio
@@ -943,12 +924,12 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Bangla
-https://fkn.thenayeemparvez.xyz/api/master.m3u8?id=19855
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 #http://148.113.5.31:8106/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Hindi
-http://pakin.satocean.uk:8080/hindi_nationalgeo_hd/index.m3u8?token=e511a4024048798ea23e2487d6920f02
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Information",Nat Geo Wild
@@ -974,7 +955,7 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://bongohub.pw/bioscope.php?cc=colors-infinity
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD Bangla
-https://fkn.thenayeemparvez.xyz/api/master.m3u8?id=19857
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD English
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66278.ts
 #http://xtv.ooo:8080/live/T4S00515/820172/109980.ts
@@ -991,7 +972,7 @@ https://bongohub.pw/bioscope.php?cc=history-tv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
-https://fkn.thenayeemparvez.xyz/api/master.m3u8?id=19856
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Information",Travel XP English NL
@@ -1056,14 +1037,12 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/153154.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="KIDS",Discovery Kids
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
 https://bongohub.pw/bioscope.php?cc=sony-yay-live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 https://bongohub.pw/bioscope.php?cc=nickelodeon
-http://103.151.60.214:7444/1305/video.m3u8
+#http://103.151.60.214:7444/1305/video.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1305
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
@@ -1139,7 +1118,7 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66287.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
-http://103.151.60.214:7444/1004/video.m3u8
+#http://103.151.60.214:7444/1004/video.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1609
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
