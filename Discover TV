@@ -322,6 +322,7 @@ http://176.119.29.52/live.ts?channelId=092&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/245906.ts
+#http://xtv.ooo:8080/adnankb2006/86057314/245906
 #http://103.151.60.214:7444/1403/video.m3u8
 #http://148.113.5.31:8106/play/a00z/index.m3u8
 
