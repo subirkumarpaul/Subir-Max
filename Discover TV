@@ -559,6 +559,7 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
+https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
 #https://freeiptv25.netlify.app/live/bdix/app/Starsports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 #http://test.bongodrive.pw/bdix.m3u8?ac=1006
@@ -571,6 +572,7 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
+https://liveb.streamready.in/starsports2/smil:common.smil/manifest.mpd
 #https://freeiptv25.netlify.app/live/bdix/app/Starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2
 http://103.120.172.74:4
@@ -581,9 +583,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/167577.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
+https://liveb.streamready.in/starsportsselect1/smil:common.smil/manifest.mpd
 #https://freeiptv25.netlify.app/live/stream_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
+https://liveb.streamready.in/starsportsselect2/smil:common.smil/manifest.mpd
 #http://test.bongodrive.pw/bdix.m3u8?ac=1004
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
 http://103.120.172.74:4700
