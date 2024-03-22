@@ -49,7 +49,8 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
 #https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
