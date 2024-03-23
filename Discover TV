@@ -95,7 +95,7 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
 http://xtv.ooo:8080/live/T4S00515/820172/245904.ts
-#http://103.151.60.214:7444/1122/video.m3u8
+#http://114.130.96.165:8080/1122/tracks-v1a1/index.m3u8
 #https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
@@ -113,7 +113,7 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangla",SATV
 https://bongohub.pw/bioscope.php?cc=sa-tv
-#http://103.151.60.214:7444/1133/video.m3u8
+#http://114.130.96.165:8080/1133/tracks-v1a1/index.m3u8
 #https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
@@ -127,12 +127,12 @@ https://bongohub.pw/bioscope.php?cc=mohona-tv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
-#http://103.151.60.214:7444/1121/video.m3u8
+#http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
 http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 #https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
-#http://103.151.60.214:7444/1132/video.m3u8
+#http://114.130.96.165:8080/1132/tracks-v1a1/index.m3u8
 #https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=my-tv
 
@@ -141,7 +141,7 @@ https://bongohub.pw/bioscope.php?cc=my-tv
 https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
-#http://103.151.60.214:7444/1116/video.m3u8
+#http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
 #https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=bangla-tv
 
@@ -159,7 +159,7 @@ http://startv365.com/9794783213/6955630461/400200127
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#http://103.151.60.214:7444/1129/video.m3u8
+#http://114.130.96.165:8080/1129/tracks-v1a1/index.m3u8
 https://bongohub.pw/bioscope.php?cc=bijoy-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla",Boishakhi TV
@@ -168,7 +168,7 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
-#http://103.151.60.214:7444/1124/video.m3u8
+#http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1124
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
@@ -245,7 +245,7 @@ https://web.nandansyst.com/hls/nandan.m3u8
 http://176.119.29.52/live.ts?channelId=0118&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
-#http://103.151.60.214:7444/1132/video.m3u8
+#http://114.130.96.165:8080/1103/tracks-v1a1/index.m3u8
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1103
 #https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
@@ -265,12 +265,12 @@ https://bongohub.pw/bioscope.php?cc=independent-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Bangla News",Ekattor TV
 http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 #https://8v1cc03lpt.gpcdn.net/gmggbdoikn/Ekattor_TV-manifest.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1136
+#http://114.130.96.165:8080/1136/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="BD",ATN News(BD)
 http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 #https://livess.jagobd.com.bd/live-orgin/atnws-sg.stream/chunks.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1134
+#http://114.130.96.165:8080/1136/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangla News",Jamuna TV
@@ -278,7 +278,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #https://bongohub.pw/bioscope.php?cc=jamuna-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News",Channel 24
-#http://test.bongodrive.pw/bdix.m3u8?ac=1119
+#http://114.130.96.165:8080/1119/tracks-v1a1/index.m3u8
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/chunks.m3u8
 https://bongohub.pw/bioscope.php?cc=channel-24
 
@@ -309,7 +309,7 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
-#http://103.151.60.214:7444/1110/video.m3u8
+#http://114.130.96.165:8080/1110/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1110
 #https://livess.jagobd.com.bd/gaanbangla-8-orgd.stream/playlist.m3u8
 http://176.119.29.52/live.ts?channelId=097&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -344,7 +344,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-#http://test.bongodrive.pw/bdix.m3u8?ac=1406
+#http://114.130.96.165:8080/1406/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
@@ -358,7 +358,7 @@ http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 https://bongohub.pw/bioscope.php?cc=colors-bangla
-#http://test.bongodrive.pw/bdix.m3u8?ac=1411
+#http://114.130.96.165:8080/1411/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
@@ -385,12 +385,12 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #http://176.119.29.52/live.ts?channelId=0117&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
-#http://test.bongodrive.pw/bdix.m3u8?ac=1401
+#http://114.130.96.165:8080/1401/tracks-v1a1/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-#http://103.151.60.214:7444/1404/video.m3u8
+#http://114.130.96.165:8080/1404/tracks-v1a1/index.m3u8
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
