@@ -27,6 +27,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_ipl_s1_m1220324/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Jio Cinema
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Jio Cinema
+https://1rdk.short.gy/Jio-Cinema/ipl-2024-eng/Himel-Op.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
@@ -332,6 +334,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#https://himeop-pro.000webhostapp.com/cdn.ts?channelId=44150
 https://bongohub.pw/bioscope.php?cc=sony-aath-live
 
 
@@ -545,6 +548,8 @@ https://bongohub.pw/bioscope.php?cc=sony-wah-live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
+#https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=8658
+#https://himeop-pro.000webhostapp.com/cdn.ts?channelId=213
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #http://103.120.172.74:4100
 
@@ -567,11 +572,14 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
 http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
+https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
+https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
 #https://bongohub.pw/bioscope.php?cc=pictures-hd
@@ -989,6 +997,7 @@ https://bongohub.pw/bioscope.php?cc=bbc-earth-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
 #http://test.bongodrive.pw/bdix.m3u8?ac=1806
 #https://api.bongohub.pw/api/bio.php?ac=bbc-earth-hd-live
+#https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10601
 https://bongohub.pw/bioscope.php?cc=bbc-earth-hd-live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
