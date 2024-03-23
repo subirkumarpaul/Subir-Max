@@ -342,9 +342,9 @@ https://bongohub.pw/bioscope.php?cc=sony-aath-live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-#http://114.130.96.165:8080/1406/tracks-v1a1/index.m3u8
+http://114.130.96.165:8080/1406/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
@@ -436,11 +436,11 @@ https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
 http://103.120.172.74:1120
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/109949.ts
+#http://opplex.tv:8080/live/03155515900TG/03155515900TG/109949.ts
 #http://xtv.ooo:8080/564587696/474585694/221252
 #http://103.120.172.74:4300
 #http://test.bongodrive.pw/bdix.m3u8?ac=1709
-#http://103.151.60.214:7444/1709/video.m3u8
+http://114.130.96.165:8080/1703/tracks-v1a1/index.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
@@ -560,7 +560,8 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66191.ts
 https://bongohub.pw/bioscope.php?cc=zee-bollywood
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+http://114.130.96.165:8080/1601/tracks-v1a1/index.m3u8
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Stargold.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
@@ -1060,12 +1061,13 @@ http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Network English
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Network
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
@@ -1117,11 +1119,11 @@ https://bongohub.pw/bioscope.php?cc=sonic
 #http://test.bongodrive.pw/bdix.m3u8?ac=1303
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/150480.ts
+
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
-
+http://opplex.tv:8080/live/03155515900TG/03155515900TG/150480.ts
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
 
 
