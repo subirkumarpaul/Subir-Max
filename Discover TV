@@ -1293,7 +1293,232 @@ http://cdn01.palki.tv/live/WION-M/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
 
+https://1rdk.short.gy/Himel-OP-Premium/Hoichoi24.m3u
+#EXTM3U
+#EXTINF:-1,BTV
+http://himelop-hoichoi24.myddns.me:8080/1114/index.fmp4.m3u8
+http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ananda TV
+http://himelop-hoichoi24.myddns.me:8080/1117/index.fmp4.m3u8
+http://114.130.96.165:8080/1117/tracks-v1a1/index.m3u8
+#EXTINF:-1,ATN Bangla
+http://himelop-hoichoi24.myddns.me:8080/1126/index.fmp4.m3u8
+http://114.130.96.165:8080/1126/tracks-v1a1/index.m3u8
+#EXTINF:-1,ATN News
+http://himelop-hoichoi24.myddns.me:8080/1134/index.fmp4.m3u8
+http://114.130.96.165:8080/1134/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bangla TV
+http://himelop-hoichoi24.myddns.me:8080/1116/index.fmp4.m3u8
+http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bangla TV
+http://himelop-hoichoi24.myddns.me:8080/1125/index.fmp4.m3u8
+http://114.130.96.165:8080/1125/tracks-v1a1/index.m3u8
+#EXTINF:-1,Bijoy TV
+http://himelop-hoichoi24.myddns.me:8080/1129/index.fmp4.m3u8
+http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
+#EXTINF:-1,Boishaki TV
+http://himelop-hoichoi24.myddns.me:8080/1118/index.fmp4.m3u8
+http://114.130.96.165:8080/1118/tracks-v1a1/index.m3u8
+#EXTINF:-1,Channel 9
+http://himelop-hoichoi24.myddns.me:8080/1124/index.fmp4.m3u8
+http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
+#EXTINF:-1,Channel 24
+http://himelop-hoichoi24.myddns.me:8080/1119/index.fmp4.m3u8
+http://114.130.96.165:8080/1119/tracks-v1a1/index.m3u8
+#EXTINF:-1,Deepto TV
+http://himelop-hoichoi24.myddns.me:8080/1105/index.fmp4.m3u8
+http://114.130.96.165:8080/1105/tracks-v1a1/index.m3u8
+#EXTINF:-1,Desh TV
+http://himelop-hoichoi24.myddns.me:8080/1121/index.fmp4.m3u8
+http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
+#EXTINF:-1,Duronto TV
+http://himelop-hoichoi24.myddns.me:8080/1103/index.fmp4.m3u8
+http://114.130.96.165:8080/1103/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ekattor TV
+http://himelop-hoichoi24.myddns.me:8080/1136/index.fmp4.m3u8
+http://114.130.96.165:8080/1136/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ekushey TV
+http://himelop-hoichoi24.myddns.me:8080/1137/index.fmp4.m3u8
+http://114.130.96.165:8080/1137/tracks-v1a1/index.m3u8
+#EXTINF:-1,Gazi TV
+http://himelop-hoichoi24.myddns.me:8080/1102/index.fmp4.m3u8
+http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+#EXTINF:-1,Independent TV
+http://himelop-hoichoi24.myddns.me:8080/1107/index.fmp4.m3u8
+http://114.130.96.165:8080/1107/tracks-v1a1/index.m3u8
+#EXTINF:-1,Jamuna TV
+http://himelop-hoichoi24.myddns.me:8080/1106/index.fmp4.m3u8
+http://114.130.96.165:8080/1106/tracks-v1a1/index.m3u8
+#EXTINF:-1,Maasranga HD
+http://himelop-hoichoi24.myddns.me:8080/1122/index.fmp4.m3u8
+http://114.130.96.165:8080/1122/tracks-v1a1/index.m3u8
+#EXTINF:-1,DW
+http://himelop-hoichoi24.myddns.me:8080/1805/index.fmp4.m3u8
+http://114.130.96.165:8080/1805/tracks-v1a1/index.m3u8
+#EXTINF:-1,Movie Bangla
+http://himelop-hoichoi24.myddns.me:8080/1138/index.fmp4.m3u8
+http://114.130.96.165:8080/1138/tracks-v1a1/index.m3u8
+#EXTINF:-1,MyTV
+http://himelop-hoichoi24.myddns.me:8080/1132/index.fmp4.m3u8
+http://114.130.96.165:8080/1132/tracks-v1a1/index.m3u8
+#EXTINF:-1,Nagorik TV
+http://himelop-hoichoi24.myddns.me:8080/1113/index.fmp4.m3u8
+http://114.130.96.165:8080/1113/tracks-v1a1/index.m3u8
+#EXTINF:-1,NTV
+http://himelop-hoichoi24.myddns.me:8080/1135/index.fmp4.m3u8
+http://114.130.96.165:8080/1135/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTV
+http://himelop-hoichoi24.myddns.me:8080/1128/index.fmp4.m3u8
+http://114.130.96.165:8080/1128/tracks-v1a1/index.m3u8
+#EXTINF:-1,SATV
+http://himelop-hoichoi24.myddns.me:8080/1133/index.fmp4.m3u8
+http://114.130.96.165:8080/1133/tracks-v1a1/index.m3u8
+#EXTINF:-1,Somoy TV
+http://himelop-hoichoi24.myddns.me:8080/1111/index.fmp4.m3u8
+http://114.130.96.165:8080/1111/tracks-v1a1/index.m3u8
+#EXTINF:-1,Colors Bangla
+http://himelop-hoichoi24.myddns.me:8080/1612/index.fmp4.m3u8
+http://114.130.96.165:8080/1612/tracks-v1a1/index.m3u8
+#EXTINF:-1,Colors Bangla
+http://himelop-hoichoi24.myddns.me:8080/1411/index.fmp4.m3u8
+http://114.130.96.165:8080/1411/tracks-v1a1/index.m3u8
+#EXTINF:-1,Colors Bangla Cinema
+http://himelop-hoichoi24.myddns.me:8080/1404/index.fmp4.m3u8
+http://114.130.96.165:8080/1404/tracks-v1a1/index.m3u8
+#EXTINF:-1,Enterr10 Bangla
+http://himelop-hoichoi24.myddns.me:8080/1402/index.fmp4.m3u8
+http://114.130.96.165:8080/1402/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Aath
+http://himelop-hoichoi24.myddns.me:8080/1409/index.fmp4.m3u8
+http://114.130.96.165:8080/1402/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://himelop-hoichoi24.myddns.me:8080/1406/index.fmp4.m3u8
+http://114.130.96.165:8080/1406/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://himelop-hoichoi24.myddns.me:8080/2001/index.fmp4.m3u8
+http://114.130.96.165:8080/2001/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://himelop-hoichoi24.myddns.me:8080/1405/index.fmp4.m3u8
+http://114.130.96.165:8080/1405/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://himelop-hoichoi24.myddns.me:8080/2000/index.fmp4.m3u8
+http://114.130.96.165:8080/2000/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://himelop-hoichoi24.myddns.me:8080/1401/index.fmp4.m3u8
+http://114.130.96.165:8080/1401/tracks-v1a1/index.m3u8
+#EXTINF:-1,Colors
+http://himelop-hoichoi24.myddns.me:8080/1707/index.fmp4.m3u8
+http://114.130.96.165:8080/1707/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony TV HD
+http://himelop-hoichoi24.myddns.me:8080/1703/index.fmp4.m3u8
+http://114.130.96.165:8080/1703/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Max HD
+http://himelop-hoichoi24.myddns.me:8080/1607/index.fmp4.m3u8
+http://114.130.96.165:8080/1607/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Sab HD
+http://himelop-hoichoi24.myddns.me:8080/1701/index.fmp4.m3u8
+http://114.130.96.165:8080/1701/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Wah
+http://himelop-hoichoi24.myddns.me:8080/1306/index.fmp4.m3u8
+http://114.130.96.165:8080/1306/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Plus HD
+http://himelop-hoichoi24.myddns.me:8080/1709/index.fmp4.m3u8
+http://114.130.96.165:8080/1709/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee TV HD
+http://himelop-hoichoi24.myddns.me:8080/1706/index.fmp4.m3u8
+http://114.130.96.165:8080/1706/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://himelop-hoichoi24.myddns.me:8080/1611/index.fmp4.m3u8
+http://114.130.96.165:8080/1611/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ary Digital
+http://himelop-hoichoi24.myddns.me:8080/1710/index.fmp4.m3u8
+http://114.130.96.165:8080/1710/tracks-v1a1/index.m3u8
+#EXTINF:-1,Al Jazeera
+http://himelop-hoichoi24.myddns.me:8080/1802/index.fmp4.m3u8
+http://114.130.96.165:8080/1802/tracks-v1a1/index.m3u8
+#EXTINF:-1,Lotus Macau
+http://himelop-hoichoi24.myddns.me:8080/1906/index.fmp4.m3u8
+http://114.130.96.165:8080/1906/tracks-v1a1/index.m3u8
+#EXTINF:-1,Movies Now
+http://himelop-hoichoi24.myddns.me:8080/1604/index.fmp4.m3u8
+http://114.130.96.165:8080/1604/tracks-v1a1/index.m3u8
+#EXTINF:-1,MN+ HD
+http://himelop-hoichoi24.myddns.me:8080/1606/index.fmp4.m3u8
+http://114.130.96.165:8080/1606/tracks-v1a1/index.m3u8
+#EXTINF:-1,MN+ HD
+http://himelop-hoichoi24.myddns.me:8080/1609/index.fmp4.m3u8
+http://114.130.96.165:8080/1609/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Pix HD
+http://himelop-hoichoi24.myddns.me:8080/1603/index.fmp4.m3u8
+http://114.130.96.165:8080/1603/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://himelop-hoichoi24.myddns.me:8080/1605/index.fmp4.m3u8
+http://114.130.96.165:8080/1605/tracks-v1a1/index.m3u8
+#EXTINF:-1,Nick
+http://himelop-hoichoi24.myddns.me:8080/1305/index.fmp4.m3u8
+http://114.130.96.165:8080/1305/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sonic
+http://himelop-hoichoi24.myddns.me:8080/1303/index.fmp4.m3u8
+http://114.130.96.165:8080/1303/tracks-v1a1/index.m3u8
+#EXTINF:-1,MTV Beats
+http://himelop-hoichoi24.myddns.me:8080/1503/index.fmp4.m3u8
+http://114.130.96.165:8080/1503/tracks-v1a1/index.m3u8
+#EXTINF:-1,Gaan Bangla
+http://himelop-hoichoi24.myddns.me:8080/1110/index.fmp4.m3u8
+http://114.130.96.165:8080/1110/tracks-v1a1/index.m3u8
+#EXTINF:-1,PTV Sports HD
+http://himelop-hoichoi24.myddns.me:8080/1018/index.fmp4.m3u8
+http://114.130.96.165:8080/1018/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://himelop-hoichoi24.myddns.me:8080/1021/index.fmp4.m3u8
+http://114.130.96.165:8080/1021/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://himelop-hoichoi24.myddns.me:8080/1020/index.fmp4.m3u8
+http://114.130.96.165:8080/1020/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://himelop-hoichoi24.myddns.me:8080/1012/index.fmp4.m3u8
+http://114.130.96.165:8080/1012/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD
+http://himelop-hoichoi24.myddns.me:8080/1015/index.fmp4.m3u8
+http://114.130.96.165:8080/1015/tracks-v1a1/index.m3u8
+#EXTINF:-1,Dubai Sports 2
+http://himelop-hoichoi24.myddns.me:8080/1030/index.fmp4.m3u8
+http://114.130.96.165:8080/1030/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sports18 1 HD
+http://himelop-hoichoi24.myddns.me:8080/1028/index.fmp4.m3u8
+http://114.130.96.165:8080/1028/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://himelop-hoichoi24.myddns.me:8080/1006/index.fmp4.m3u8
+http://114.130.96.165:8080/1006/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://himelop-hoichoi24.myddns.me:8080/1014/index.fmp4.m3u8
+http://114.130.96.165:8080/1014/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://himelop-hoichoi24.myddns.me:8080/1007/index.fmp4.m3u8
+http://114.130.96.165:8080/1007/tracks-v1a1/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://himelop-hoichoi24.myddns.me:8080/1017/index.fmp4.m3u8
+http://114.130.96.165:8080/1017/tracks-v1a1/index.m3u8
+#EXTINF:-1,T Sports
+http://himelop-hoichoi24.myddns.me:8080/1101/index.fmp4.m3u8
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+#EXTINF:-1,T Sports
+http://himelop-hoichoi24.myddns.me:8080/1000/index.fmp4.m3u8
+http://114.130.96.165:8080/1000/tracks-v1a1/index.m3u8
+#EXTINF:-1,National Geographic
+http://himelop-hoichoi24.myddns.me:8080/1902/index.fmp4.m3u8
+http://114.130.96.165:8080/1902/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony BBC Earth HD
+http://himelop-hoichoi24.myddns.me:8080/1806/index.fmp4.m3u8
+http://114.130.96.165:8080/1806/tracks-v1a1/index.m3u8
+#EXTINF:-1,PTV Sports
+http://himelop-hoichoi24.myddns.me:8080/1507/index.fmp4.m3u8
+http://114.130.96.165:8080/1507/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV
+http://himelop-hoichoi24.myddns.me:8080/1905/index.fmp4.m3u8
+http://114.130.96.165:8080/1905/tracks-v1a1/index.m3u8
 
+https://1rdk.short.gy/Himel-OP-Premium/Hoichoi24.m3u
 
 
 
