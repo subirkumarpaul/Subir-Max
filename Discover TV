@@ -1157,7 +1157,7 @@ https://bongohub.pw/bioscope.php?cc=sony-pix-live
 #http://114.130.96.165:8080/1603/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1603
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Elglish  Movies",Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English  Movies",Zee Cafe HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66287.ts
 
 #EXTINF:-1 tvg-logo=""group-title="BD",HBO(BD)
