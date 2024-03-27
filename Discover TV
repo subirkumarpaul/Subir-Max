@@ -384,10 +384,11 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/245906.ts
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Dd%20Bangla.png" group-title="Kolkata Bangla",DD Bangla
-
+https://s1.bongohub.pw/mac/e4u.m3u8?id=24506
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
@@ -598,7 +599,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/66181.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
-#http://pakin.satocean.uk:8080/motive_andpictures_hd/tracks-a1/mono.m3u8?token=813027ae97715a11cb4ba4b16c9cab52
+#https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies IN
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
