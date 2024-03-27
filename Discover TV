@@ -585,8 +585,10 @@ https://pos.bongohub.pw/mac.m3u8?id=10968
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
-http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+https:\\pos.bongohub.pw\mac.m3u8?id=7542
+#http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
+http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
@@ -1130,7 +1132,7 @@ https://bongohub.pw/bioscope.php?cc=sonic
 #http://test.bongodrive.pw/bdix.m3u8?ac=1303
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
-
+http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Hungama TV
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Super Hungama TV
@@ -1165,7 +1167,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies HD
-http://114.130.96.165:8080/1605/tracks-v1a1/index.m3u8
+https://s1.bongohub.pw/hoichoi.m3u8?id=1605
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #http://103.151.60.214:7444/1004/video.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1605
