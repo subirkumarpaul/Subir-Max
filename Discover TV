@@ -493,7 +493,8 @@ https://bongohub.pw/bioscope.php?cc=zee-anmol
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
+https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=tv-hd
+#http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
@@ -576,7 +577,8 @@ http://114.130.96.165:8080/1601/tracks-v1a1/index.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Stargold.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
+https://pos.bongohub.pw/mac.m3u8?id=10968
+#http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
@@ -611,14 +613,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://195.26.87.217/live.ts?channelId=30298&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
-http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
+https://pos.bongohub.pw/mac.m3u8?id=11064
+#http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="Sports",Fancode
-https://mls3.fancode.com/9437e4c8-ba94-42c6-9ba8-0114c93f9cc1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
 https://liveb.streamready.in/starsports1/smil:common.smil/manifest.mpd
