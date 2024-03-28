@@ -547,6 +547,9 @@ http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3c
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 6 FHD
 http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5f75adeba6/index.m3u8
 
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 https://bongohub.pw/bioscope.php?cc=sony-max-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
@@ -587,19 +590,26 @@ http://114.130.96.165:8080/1601/tracks-v1a1/index.m3u8
 https://pos.bongohub.pw/mac.m3u8?id=10968
 #http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
+http://xtv.ooo:8080/T4S00515/820172/221258
+#http://mag.trexlive.me:80/Michael88/Michael88/155996
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
+http://mag.trexlive.me:80/Michael88/Michael88/156033
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+http://xtv.ooo:8080/T4S00515/820172/109960
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
-https:\\pos.bongohub.pw\mac.m3u8?id=7542
+https://pos.bongohub.pw\mac.m3u8?id=7542
 #http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
-
+http://xtv.ooo:8080/T4S00515/820172/112983
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
 https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
@@ -611,6 +621,9 @@ http://xtv.ooo:8080/live/T4S00515/820172/66181.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 #https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
+http://xtv.ooo:8080/T4S00515/820172/66241
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies IN
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -751,7 +764,7 @@ https://catowrap.live/mrgamingwillow.m3u8
 #https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #https://webudit.vipboxtv.stream/lb/premium346/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-
+http://xtv.ooo:8080/T4S00515/820172/220064
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Xtra
 https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
@@ -759,7 +772,12 @@ https://webudit.hlsjs.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay
 https://webudit.hlsjs.ru/lb/premium451/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 1
-https://freeiptv25.netlify.app/live/stream_4.m3u8
+http://xtv.ooo:8080/T4S00515/820172/371469
+#EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 2
+http://xtv.ooo:8080/T4S00515/820172/371470
+#EXTINF:-1 tvg-logo=""group-title="Sports",Cric Life 3
+http://xtv.ooo:8080/T4S00515/820172/371471
+
 
 #EXTINF:-1 tvg-logo=""group-title="Sports",TYC Sports
 https://catowrap.live/mrgamingtyc.m3u8
@@ -1152,7 +1170,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
-
+http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
@@ -1183,8 +1201,17 @@ https://s1.bongohub.pw/hoichoi.m3u8?id=1605
 #http://148.113.5.31:8106/play/a00o/index.m3u8
 https://edge2.laotv.la/live/StarMovie/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies",Star Movies Select HD
+http://xtv.ooo:8080/T4S00515/820172/66315
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="English Movies",Star World
+
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO HD
+https://edge1.laotv.la/live/HBO/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO 1
+https://da.gd/hbo1freetv
+#EXTINF:-1 tvg-logo=""group-title="English Movies",HBO Signature
+https://da.gd/hbsifreetv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
 https://bongohub.pw/bioscope.php?cc=sony-pix-sd
@@ -1205,10 +1232,12 @@ http://114.130.96.165:8080/1604/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1609
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
-http://114.130.96.165:8080/1609/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/T4S00515/820172/109965
+#http://114.130.96.165:8080/1609/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-http://114.130.96.165:8080/1606/tracks-v1a1/index.m3u8
+http://xtv.ooo:8080/T4S00515/820172/66266
+#http://114.130.96.165:8080/1606/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="BD",Romedy Now HD(BD)
 
@@ -1225,6 +1254,8 @@ http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="English Movies",Cinemax ActionMax
+https://da.gd/cma1freetv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="English Movies",AXN
 
@@ -1238,6 +1269,9 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",24/7 Music
 https://s1.thenayeemparvez.xyz/api/cb21.m3u8?id=7382
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
@@ -1268,15 +1302,15 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Mastii Music(Ayna)
-
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Mastii Music
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24(Ayna)
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24(BD)
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",I Love U Music(BD)
 
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama(BD)
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM(BD)
 
@@ -1313,6 +1347,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+#https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW
 https://livess.jagobd.com.bd/live-orgin/dwnews.stream/chunks.m3u8
