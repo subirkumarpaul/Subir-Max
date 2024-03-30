@@ -1367,25 +1367,33 @@ http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
 
 https://1rdk.short.gy/Himel-OP-Premium/Hoichoi24.m3u
+
+
 #EXTM3U
 #EXTINF:-1,BTV
-http://himelop-hoichoi24.myddns.me:8080/1114/index.fmp4.m3u8
-http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1114/index.fmp4.m3u8
+#http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1114/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ananda TV
-http://himelop-hoichoi24.myddns.me:8080/1117/index.fmp4.m3u8
-http://114.130.96.165:8080/1117/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1117/index.fmp4.m3u8
+#http://114.130.96.165:8080/1117/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1117/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN Bangla
-http://himelop-hoichoi24.myddns.me:8080/1126/index.fmp4.m3u8
-http://114.130.96.165:8080/1126/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1126/index.fmp4.m3u8
+#http://114.130.96.165:8080/1126/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1126/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN News
-http://himelop-hoichoi24.myddns.me:8080/1134/index.fmp4.m3u8
-http://114.130.96.165:8080/1134/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1134/index.fmp4.m3u8
+#http://114.130.96.165:8080/1134/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1134/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bangla TV
-http://himelop-hoichoi24.myddns.me:8080/1116/index.fmp4.m3u8
-http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1116/index.fmp4.m3u8
+#http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1116/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bangla TV
-http://himelop-hoichoi24.myddns.me:8080/1125/index.fmp4.m3u8
-http://114.130.96.165:8080/1125/tracks-v1a1/index.m3u8
+#http://himelop-hoichoi24.myddns.me:8080/1125/index.fmp4.m3u8
+#http://114.130.96.165:8080/1125/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1125/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Bijoy TV
 http://himelop-hoichoi24.myddns.me:8080/1129/index.fmp4.m3u8
 http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
