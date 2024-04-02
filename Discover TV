@@ -31,7 +31,7 @@ http://103.109.56.116/live/skyfeed1005/index.m3u8
 http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+#http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
@@ -94,14 +94,14 @@ http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
 #https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #https://api.bongohub.pw/mac/pak.m3u8?id=11892
@@ -178,7 +178,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
 #http://startv365.com/9794783213/6955630461/400200127
-http://114.130.96.165:8080/1113/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
@@ -367,7 +367,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-http://114.130.96.165:8080/1406/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
@@ -464,7 +464,7 @@ http://103.120.172.74:1120
 #http://xtv.ooo:8080/564587696/474585694/221252
 #http://103.120.172.74:4300
 #http://test.bongodrive.pw/bdix.m3u8?ac=1709
-http://114.130.96.165:8080/1703/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1703/tracks-v1a1/mono.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
@@ -588,7 +588,7 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66191.ts
 https://bongohub.pw/bioscope.php?cc=zee-bollywood
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
-http://114.130.96.165:8080/1601/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1601/tracks-v1a1/mono.m3u8
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Stargold.m3u8
 
@@ -1028,7 +1028,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Bangla
-http://114.130.96.165:8080/1902/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 #http://148.113.5.31:8106/play/a00p/index.m3u8
@@ -1235,7 +1235,7 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66287.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",Movies Now HD
-http://114.130.96.165:8080/1604/tracks-v1a1/index.m3u8
+https://tv5.hoichoi24.com/1604/tracks-v1a1/mono.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1609
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="English Movies",MN HD+
