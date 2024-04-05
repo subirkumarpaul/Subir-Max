@@ -734,6 +734,8 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/167595.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 https://bongohub.pw/bioscope.php?cc=sony-ten-5
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Sports18_1_SD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
 https://cdn.nayeemparvez.workers.dev/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1028
