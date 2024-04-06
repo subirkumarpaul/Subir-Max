@@ -377,9 +377,9 @@ https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #http://test.bongodrive.pw/bdix.m3u8?ac=1405
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
+#http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-#https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 #https://bongohub.pw/bioscope.php?cc=colors-bangla
@@ -503,15 +503,18 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66188.ts
 #https://livevoot.co.in/voot/master.m3u8?id=Colors_Rishtey_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-http://103.120.172.74:1140
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
+#http://103.120.172.74:1140
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
 #https://bongohub.pw/bioscope.php?cc=zee-tv-hd
-https://tv5.hoichoi24.com/1706/tracks-v1a1/mono.m3u8
+#https://tv5.hoichoi24.com/1706/tracks-v1a1/mono.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee Anmol
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
 #https://bongohub.pw/bioscope.php?cc=zee-anmol
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
@@ -586,13 +589,16 @@ https://tv5.hoichoi24.com/1306/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 #https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
-#https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=8658
-#https://himeop-pro.000webhostapp.com/cdn.ts?channelId=213
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-http://103.120.172.74:4100
+#http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/66191.ts
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
+#http://opplex.tv:8080/live/03155515900TG/03155515900TG/66191.ts
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",Zee Anmol Cinema
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
 #https://bongohub.pw/bioscope.php?cc=zee-bollywood
@@ -618,20 +624,22 @@ http://xtv.ooo:8080/T4S00515/820172/109960
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
-#https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #https://pos.bongohub.pw\mac.m3u8?id=7542
-http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+#http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
-http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
+#http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
-#https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
-http://xtv.ooo:8080/T4S00515/820172/112983
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#http://xtv.ooo:8080/T4S00515/820172/112983
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Superhit
-https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
 #https://bongohub.pw/bioscope.php?cc=pictures-hd
@@ -1073,8 +1081,11 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_SD_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity HD
-https://bongohub.pw/bioscope.php?cc=colors-infinity
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+#https://bongohub.pw/bioscope.php?cc=colors-infinity
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD Bangla
 
@@ -1169,10 +1180,12 @@ https://bongohub.pw/bioscope.php?cc=nickelodeon
 #http://test.bongodrive.pw/bdix.m3u8?ac=1305
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/76722.ts
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+#http://opplex.tv:8080/live/03155515900TG/03155515900TG/76722.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick JR
-https://bongohub.pw/bioscope.php?cc=nick-junior
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#https://bongohub.pw/bioscope.php?cc=nick-junior
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic
@@ -1283,15 +1296,17 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Cinemax ActionMax
 https://da.gd/cma1freetv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="English Movies",AXN
-
+#EXTINF:-1 tvg-logo=""group-title="English Movies",Zee Cafe HD
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Romedy Now HD
 
-
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
-#https://livevoot.co.in/voot/master.m3u8?id=Comedy_Central_HD_voot_MOB
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_SD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg" group-title="English Movies",Comedy Central HD
+#https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",24/7 Music
 https://s1.thenayeemparvez.xyz/api/cb21.m3u8?id=7382
@@ -1314,10 +1329,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Hindi Music",MTV
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
-https://bongohub.pw/bioscope.php?cc=mtv
+https://cdn.nayeemparvez.workers.dev/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#https://bongohub.pw/bioscope.php?cc=mtv
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Hindi Music",MTV Beats HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
-#https://livevoot.co.in/voot/master.m3u8?id=MTV_Beats_HD_voot_MOB
+https://cdn.nayeemparvez.workers.dev/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Hindi Music",MTV Beats
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
