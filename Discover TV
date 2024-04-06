@@ -519,10 +519,14 @@ https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
 #https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=tv-hd
-http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
+#http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
@@ -643,10 +647,12 @@ https://cdn.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/i
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
 #https://bongohub.pw/bioscope.php?cc=pictures-hd
-http://xtv.ooo:8080/live/T4S00515/820172/66181.ts
+#http://xtv.ooo:8080/live/T4S00515/820172/66181.ts
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
+#http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 #https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
