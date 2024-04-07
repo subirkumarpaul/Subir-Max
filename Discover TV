@@ -1291,10 +1291,12 @@ http://xtv.ooo:8080/T4S00515/820172/66266
 https://bongohub.pw/bioscope.php?cc=lotus-macau-live
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
-http://89.187.177.137:8081/&FLIX/index.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+#http://89.187.177.137:8081/&FLIX/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
-http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
+https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
+#http://89.187.177.137:8081/&PRIVE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
