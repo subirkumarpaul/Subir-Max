@@ -7,10 +7,12 @@ https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #https://s1.bongohub.pw/hoichoi.m3u8?id=1101
 #http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-https://live-cdn.tsports.com/live-01/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
@@ -28,7 +30,6 @@ https://s1.bongohub.pw/hoichoi.m3u8?id=1014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/109987.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
 https://webhdrus.onlinehdhls.ru/lb/premium267/index.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
