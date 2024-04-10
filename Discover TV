@@ -52,11 +52,11 @@ http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
-https://tv5.hoichoi24.com/1114/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #https://bongohub.pw/bioscope.php?cc=btv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-#https://bongohub.pw/bioscope.php?cc=btv-world
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #https://bongohub.pw/bioscope.php?cc=btv-chattogram
@@ -71,15 +71,15 @@ http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/167590.ts
+https://live-cdn.tsports.com/live-01/index.m3u8
 #https://freeiptv25.netlify.app/live/stream_8.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-http://103.109.56.116/live/skyfeed1006/index.m3u8
+https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
