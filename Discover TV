@@ -92,7 +92,8 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.httpsbusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Bangla",Channel I
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw
+#https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
@@ -140,12 +141,14 @@ https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=my-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
-https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
 #https://bongohub.pw/bioscope.php?cc=asian-tv-hd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
 #http://114.130.96.165:8080/1116/tracks-v1a1/index.m3u8
-https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=bangla-tv
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV Europe
@@ -171,13 +174,14 @@ https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
+#EXTINF:-1 tvg-logo="https://raw.githuhttpscontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Bangla",Channel 9
 #http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1124
 #https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/chunks.m3u8
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Bangla",Nexus TV HD
+#https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0
 #https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=nexus-television-hd
 #https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
@@ -304,6 +308,7 @@ https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News",Ekhone TV
 #https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-v1a1/mono.m3u8
+#https://himel-op.top/api/ytop.m3u8?id=KRg6skX01so
 #https://8v1cc03lpt.gpcdn.net/lofjixblkg/Ekhon-manifest.m3u8
 #https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
 
