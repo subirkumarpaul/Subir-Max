@@ -285,8 +285,8 @@ http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg"group-title="Bangla News",Jamuna TV
-https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
-#https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=jamuna-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Bangla News",Channel 24
