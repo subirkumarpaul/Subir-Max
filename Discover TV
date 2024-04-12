@@ -568,8 +568,10 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 #https://bongohub.pw/bioscope.php?cc=sony-max-hd-live
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
-https://tv5.hoichoi24.com/1607/tracks-v1a1/mono.m3u8
+#https://tv5.hoichoi24.com/1607/tracks-v1a1/mono.m3u8
 #http://103.120.172.74:1150
+http://xtv.ooo:8080/live/T4S00515/820172/109957.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
 #https://bongohub.pw/bioscope.php?cc=max-2
@@ -580,12 +582,16 @@ http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://tv5.hoichoi24.com/1306/tracks-v1a1/mono.m3u8
 #https://bongohub.pw/bioscope.php?cc=sony-wah-live
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
+http://xtv.ooo:8080/live/T4S00515/820172/206271.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 #https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #http://103.120.172.74:4100
+http://xtv.ooo:8080/live/T4S00515/820172/109958.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
@@ -603,8 +609,8 @@ https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.
 http://xtv.ooo:8080/live/T4S00515/820172/66177.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-https://pos.bongohub.pw/mac.m3u8?id=10968
-#http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
+#https://pos.bongohub.pw/mac.m3u8?id=10968
+http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 http://xtv.ooo:8080/T4S00515/820172/221258
@@ -618,14 +624,14 @@ http://xtv.ooo:8080/T4S00515/820172/109960
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #https://pos.bongohub.pw\mac.m3u8?id=7542
-#http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 #http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
 #https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
-
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/206315.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex Bollywood
 https://cdn.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
