@@ -358,8 +358,8 @@ https://himeop-pro.000webhostapp.com/cdn.ts?channelId=44150
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-#http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
-https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
+http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
+#https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
@@ -368,9 +368,10 @@ https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #http://test.bongodrive.pw/bdix.m3u8?ac=1405
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
+http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
 #https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
+#http://xtv.ooo:8080/live/T4S00515/820172/355816.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 #https://bongohub.pw/bioscope.php?cc=colors-bangla
@@ -459,9 +460,9 @@ http://103.120.172.74:1120
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
 #http://opplex.tv:8080/live/03155515900TG/03155515900TG/109949.ts
 #http://xtv.ooo:8080/564587696/474585694/221252
-#http://103.120.172.74:4300
+http://103.120.172.74:4300
 #http://test.bongodrive.pw/bdix.m3u8?ac=1709
-https://tv5.hoichoi24.com/1703/tracks-v1a1/mono.m3u8
+#https://tv5.hoichoi24.com/1703/tracks-v1a1/mono.m3u8
 #https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
