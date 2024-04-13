@@ -1306,10 +1306,10 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM(BD)
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
 
 
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Show Box(BD)
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
@@ -1336,7 +1336,7 @@ https://bongohub.pw/bioscope.php?cc=vh1
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="BD",BBC World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="English News",BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
