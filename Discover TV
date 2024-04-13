@@ -379,7 +379,7 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/245921.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
-
+http://103.120.172.74:1110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 http://103.120.172.74:5000
 #https://bongohub.pw/bioscope.php?cc=sony-hd-live
@@ -390,7 +390,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sab.jpeg"group-title="Hindi",Sony Sab
 #https://bongohub.pw/bioscope.php?cc=sony-sab-tv-live
-https://tv5.hoichoi24.com/1701/tracks-v1a1/mono.m3u8
+http://103.120.172.74:4400
+#https://tv5.hoichoi24.com/1701/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
@@ -431,12 +432,13 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/66188.ts
 #https://livevoot.co.in/voot/master.m3u8?id=Colors_Rishtey_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
-#http://103.120.172.74:1140
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
+http://103.120.172.74:1140
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
-https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
+http://103.120.172.74:4000
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
 #https://bongohub.pw/bioscope.php?cc=zee-tv-hd
 #https://tv5.hoichoi24.com/1706/tracks-v1a1/mono.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
@@ -507,8 +509,8 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #https://bongohub.pw/bioscope.php?cc=sony-max-hd-live
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
 #https://tv5.hoichoi24.com/1607/tracks-v1a1/mono.m3u8
-#http://103.120.172.74:1150
-http://xtv.ooo:8080/live/T4S00515/820172/109957.ts
+http://103.120.172.74:1150
+#http://xtv.ooo:8080/live/T4S00515/820172/109957.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
@@ -527,8 +529,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/206271.ts
 #https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
 #https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#http://103.120.172.74:4100
-http://xtv.ooo:8080/live/T4S00515/820172/109958.ts
+http://103.120.172.74:4100
+#http://xtv.ooo:8080/live/T4S00515/820172/109958.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
