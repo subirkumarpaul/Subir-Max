@@ -455,13 +455,14 @@ https://cdn.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV
-https://cdn.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
 #https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=tv-hd
-#http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
+http://xtv.ooo:8080/live/T4S00515/820172/66172.ts
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png"group-title="Hindi",And TV HD
+http://watchindia.net:8880/live/62448/92037/782.ts
 https://cdn.nayeemparvez.workers.dev/bpk-tv/And_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1  group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
@@ -1205,10 +1206,11 @@ https://da.gd/hbo1freetv
 https://da.gd/hbsifreetv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix
-https://bongohub.pw/bioscope.php?cc=sony-pix-sd
+http://watchindia.net:8880/live/62448/92037/2101.ts
+#https://bongohub.pw/bioscope.php?cc=sony-pix-sd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-https://bongohub.pw/bioscope.php?cc=sony-pix-live
+#https://bongohub.pw/bioscope.php?cc=sony-pix-live
 #http://114.130.96.165:8080/1603/tracks-v1a1/index.m3u8
 #http://test.bongodrive.pw/bdix.m3u8?ac=1603
 
