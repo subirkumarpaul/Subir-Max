@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
+http://watchindia.net:8880/live/62448/92037/2492.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #https://s1.bongohub.pw/hoichoi.m3u8?id=1101
@@ -28,11 +30,15 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
 https://webhdrus.onlinehdhls.ru/lb/premium267/index.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Sky Sports Cricket 
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+http://watchindia.net:8880/live/62448/92037/2174.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Astro Cricket
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
+https//watchindia.net:8880/live/62448/92037/1067.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Super Sports Cricket
 https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Willow HD
+http://watchindia.net:8880/live/62448/92037/1067.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
@@ -290,7 +296,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-
+http://watchindia.net:8880/live/62448/92037/2286.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
@@ -587,7 +593,8 @@ https://cdn.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/i
 https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
-https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
+http://watchindia.net:8880/live/62448/92037/783.ts
+#https://cdn.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
 #http://opplex.tv:8080/live/03155515900TG/03155515900TG/66183.ts
 #https://bongohub.pw/api/bdsajib/bongo.m3u8?ac=pictures-hd
 
