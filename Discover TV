@@ -121,10 +121,10 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
-#http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #https://bongohub.pw/bioscope.php?cc=mohona-tv
 #http://103.151.60.214:7444/1133/video.m3u8
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
