@@ -3,17 +3,18 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
+http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+#https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-01/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-#http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=gazi_tv_hd
 #http://176.119.29.52/live/00:1A:79:42:01:16/ADC5836E18B09/98.m3u8
@@ -26,14 +27,14 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1 Hindi
 https://webhdrus.onlinehdhls.ru/lb/premium267/index.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Sky Sports Cricket 
-https//watchindia.net:8880/live/62448/92037/1067.ts
+http://xtv.ooo:8080/live/shahz18/18usman/167594.ts
 #https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Astro Cricket
-http://watchindia.net:8880/live/62448/92037/2174.ts
-https//watchindia.net:8880/live/62448/92037/1067.ts
+http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
 #https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Super Sports Cricket
-https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
+http://xtv.ooo:8080/live/shahz18/18usman/238475.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Willow HD
 http://watchindia.net:8880/live/62448/92037/1067.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 ATN National
