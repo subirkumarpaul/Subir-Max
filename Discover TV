@@ -94,11 +94,7 @@ https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
 #http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Bangla",Maasranga TV
-http://xtv.ooo:8080/live/T4S00515/820172/245904.ts
-#http://114.130.96.165:8080/1122/tracks-v1a1/index.m3u8
-#https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
+http://xtv.ooo:8080/live/shahz18/18usman/245904.tshttpsTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
 #https://bongohub.pw/bioscope.php?cc=ekushey-tv
 https://ekusheyserver.com/etvlivesn.m3u8
 
@@ -113,9 +109,8 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangla",SATV
-#https://bongohub.pw/bioscope.php?cc=sa-tv
-#http://114.130.96.165:8080/1133/tracks-v1a1/index.m3u8
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
+#https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
