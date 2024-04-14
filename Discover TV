@@ -128,8 +128,8 @@ http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 #https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
-#http://114.130.96.165:8080/1132/tracks-v1a1/index.m3u8
-https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
+#https://livess.ncare.live/live-orgin/mytv-up-off.stream/chunks.m3u8
 #https://bongohub.pw/bioscope.php?cc=my-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
@@ -144,21 +144,23 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #https://bongohub.pw/bioscope.php?cc=bangla-tv
 
 #EXTINF:-1 tvg-logo=""group-title="Bangla",Bangla TV Europe
-https://8v1cc03lpt.gpcdn.net/lyrnxmpshm/Bangla_TV_Euro-manifest.m3u8
+#https://8v1cc03lpt.gpcdn.net/lyrnxmpshm/Bangla_TV_Euro/manifest.m3u8
+https://byphdgllyk.gpcdn.net/hls/Bangla_TV_Euro/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
 #https://bongohub.pw/bioscope.php?cc=ananda-tv
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla",Banglavision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla",Nagorik TV
 #http://startv365.com/9794783213/6955630461/400200127
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/245939.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
-https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
-#http://114.130.96.165:8080/1129/tracks-v1a1/index.m3u8
+#https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/245946.ts
 #https://bongohub.pw/bioscope.php?cc=bijoy-tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla",Boishakhi TV
