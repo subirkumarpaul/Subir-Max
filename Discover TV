@@ -599,6 +599,13 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
 http://xtv.ooo:8080/T4S00515/820172/66241
 
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Cinema HD
+http://103.107.79.87:8080/CH8109SD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi Movies",UTV Movies HD
+http://103.107.79.87:8080/CH8109SD05/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies IN
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
@@ -1007,7 +1014,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD Bangla
-https://tv5.hoichoi24.com/1902/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8110SD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://xtv.ooo:8080/live/T4S00515/820172/109977.ts
 #http://148.113.5.31:8106/play/a00p/index.m3u8
