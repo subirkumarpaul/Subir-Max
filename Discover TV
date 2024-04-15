@@ -292,7 +292,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-http://watchindia.net:8880/live/62448/92037/2286.m3u8
+http://103.107.79.87:8080/CH8110SD06/tracks-v1a1/mono.m3u8
+#http://watchindia.net:8880/live/62448/92037/2286.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
@@ -1384,7 +1385,7 @@ http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1,10SD05
 http://103.107.79.87:8080/CH8110SD05/tracks-v1a1/mono.m3u8
-#EXTINF:-1,10SD06
+#EXTINF:-1,Sony Aath
 http://103.107.79.87:8080/CH8110SD06/tracks-v1a1/mono.m3u8
 #EXTINF:-1,10SD07
 http://103.107.79.87:8080/CH8110SD07/tracks-v1a1/mono.m3u8
