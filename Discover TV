@@ -349,10 +349,10 @@ https://s1.bongohub.pw/mac/e4u.m3u8?id=24506
 http://176.119.29.52/live.ts?channelId=0117&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
-http://103.107.79.87:8080/1401/tracks-v1a1/mono.m3u8
+http://103.107.79.87:8080/CH8109SD04/tracks-v1a1/mono.m3u8
 #http://114.130.96.165:8080/1401/tracks-v1a1/index.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
-http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
+httpps://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#http://176.119.29.52/live.ts?channelId=0119&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
 http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
