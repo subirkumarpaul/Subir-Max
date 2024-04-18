@@ -1156,12 +1156,11 @@ http://opplex.tv:8080/live/03155515900TG/03155515900TG/153154.ts
 https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Yay.png"group-title="KIDS",Sony Yay
-https://bongohub.pw/bioscope.php?cc=sony-yay-live
+http://xtv.ooo:8080/live/shahz18/18usman/26187.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
-https://bongohub.pw/bioscope.php?cc=nickelodeon
-#http://103.151.60.214:7444/1305/video.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1305
+http://xtv.ooo:8080/live/shahz18/18usman/150482.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
@@ -1191,7 +1190,7 @@ https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
 #https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Disney Channel
-http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
+http://xtv.ooo:8080/live/shahz18/18usman/167551.ts
 
 EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/3RxSzVbd/image.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
