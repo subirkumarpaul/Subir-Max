@@ -539,18 +539,17 @@ http://103.120.172.74:1150
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
-https://tv5.hoichoi24.com/1306/tracks-v1a1/mono.m3u8
-#https://bongohub.pw/bioscope.php?cc=sony-wah-live
+http://103.107.79.87:8080/1306/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/112979.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
 http://xtv.ooo:8080/live/T4S00515/820172/206271.ts
 http://103.120.172.74:4100
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
-#https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Cinema_HD_MOB/Fallback/index.m3u8
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#http://xtv.ooo:8080/live/T4S00515/820172/109958.ts
+http://xtv.ooo:8080/live/T4S00515/820172/109958.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema UK
 http://170.254.18.107/ZEECINEMA/index.m3u8
@@ -564,21 +563,25 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg"group-title="Hindi Movies",Zee Bollywood
-#https://bongohub.pw/bioscope.php?cc=zee-bollywood
+http://xtv.ooo:8080/live/shahz18/18usman/207200.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold
 http://103.107.79.87:8080/1601/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/109959.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 http://xtv.ooo:8080/live/T4S00515/820172/66177.ts
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 #https://pos.bongohub.pw/mac.m3u8?id=10968
 http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
+http://xtv.ooo:8080/live/shahz18/18usman/106133.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 http://xtv.ooo:8080/T4S00515/820172/221258
+http://xtv.ooo:8080/live/shahz18/18usman/221258.ts
 #http://mag.trexlive.me:80/Michael88/Michael88/155996
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
@@ -592,9 +595,9 @@ http://xtv.ooo:8080/T4S00515/820172/109960
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #https://pos.bongohub.pw\mac.m3u8?id=7542
 #http://tv.cloudcdn.me/live.ts?channelId=156&uid=9592&deviceMac=00:1A:79:82:85:F0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex HD
 #http://tv.cloudcdn.me/live.ts?channelId=470&uid=9592&deviceMac=00:1A:79:82:85:F0
-#https://himeop-pro.000webhostapp.com/cdn.ts?channelId=470
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 #http://xtv.ooo:8080/live/T4S00515/820172/206315.ts
 
@@ -1072,9 +1075,8 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallba
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD Bangla
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Information",Fox Life HD English
-http://opplex.tv:8080/live/03155515900TG/03155515900TG/66278.ts
 #http://xtv.ooo:8080/live/T4S00515/820172/109980.ts
-#http://95.111.193.211:8106/play/a025/index.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/109980.ts
 
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Information",History TV 18
@@ -1240,9 +1242,8 @@ http://watchindia.net:8880/live/62448/92037/2101.ts
 #https://bongohub.pw/bioscope.php?cc=sony-pix-sd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-#https://bongohub.pw/bioscope.php?cc=sony-pix-live
 #http://114.130.96.165:8080/1603/tracks-v1a1/index.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1603
+http://xtv.ooo:8080/live/shahz18/18usman/109966.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English  Movies",Zee Cafe HD
 http://opplex.tv:8080/live/03155515900TG/03155515900TG/66287.ts
