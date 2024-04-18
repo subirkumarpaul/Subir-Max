@@ -42,14 +42,6 @@ http://watchindia.net:8880/live/62448/92037/1067.ts
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
-http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports BD VS SL LIVE
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV National
 http://cdn01.palki.tv:80/live/BTV-M/tracks-v1a1/mono.m3u8
 #https://bongohub.pw/bioscope.php?cc=btv-hd
@@ -414,12 +406,11 @@ http://103.120.172.74:4400
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
 http://103.120.172.74:1120
+http://xtv.ooo:8080/live/shahz18/18usman/66166.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
-#http://opplex.tv:8080/live/03155515900TG/03155515900TG/109949.ts
-http://xtv.ooo:8080/564587696/474585694/221252
 http://103.120.172.74:4300
-#https://freeiptv25.netlify.app/live/bdix/app/Starplus.m3u8
+http://xtv.ooo:8080/live/shahz18/18usman/66208.ts
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_010398001681373944.png"group-title="Hindi",Star Bharat HD
