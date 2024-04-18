@@ -4,8 +4,10 @@
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live Hindi
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live
 https://jiocinema.himel-op.top/your-abbu/ipl-english-4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+https://sagor@edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=PRdpHHgJGoNrvIc0Tjk0oA&expires=1713584855&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
@@ -15,6 +17,8 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
+https://sagor@edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=G8PUgmxUCZpOxvHt1PxN_w&expires=1713584269&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
