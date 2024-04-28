@@ -291,14 +291,15 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-http://103.107.79.87:8080/CH8110SD06/tracks-v1a1/mono.m3u8
-#vhttps://himel-op.top/portal/ditto.m3u8?id=753
+#http://103.107.79.87:8080/CH8110SD06/tracks-v1a1/mono.m3u8
+#http://xtv.ooo:8080/live/shahz18/18usman/245989.ts
+https://himel-op.top/portal/ditto.m3u8?id=753
 #http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#http://watchindia.net:8880/live/62448/92037/2286.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+https://himel-op.top/portal/ditto.m3u8?id=747
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
@@ -307,6 +308,7 @@ http://176.119.29.52/live.ts?channelId=0116&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+https://himel-op.top/portal/ditto.m3u8?id=750
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
@@ -318,13 +320,13 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
 #https://bongohub.pw/bioscope.php?cc=colors-bangla
 http://103.107.79.87:8080/CH8110SD05/tracks-v1a1/mono.m3u8
-
+https://himel-op.top/portal/ditto.m3u8?id=745
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla HD
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 #http://176.119.29.52/live.ts?channelId=092&uid=3319&deviceMac=00:1A:79:50:31:74
 #http://103.107.79.87:8080/CH8110SD05/tracks-v1a1/mono.m3u8
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
-
+https://himel-op.top/portal/ditto.m3u8?id=746
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Kolkata Bangla",Sun Bangla
 #http://xtv.ooo:8080/T4S00515/820172/245906
@@ -345,7 +347,7 @@ https://s1.bongohub.pw/mac/e4u.m3u8?id=24506
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #http://103.99.249.139/jalshamovies/index.m3u8
-#http://176.119.29.52/live.ts?channelId=0117&uid=3319&deviceMac=00:1A:79:50:31:74
+http://176.119.29.52/live.ts?channelId=0117&uid=3319&deviceMac=00:1A:79:50:31:74
 http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Kolkata Bangla Movies",Zee Bangla Cinema
@@ -386,7 +388,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Music",Dhoom Music
-http://xtv.ooo:8080/live/T4S00515/820172/245921.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
 http://103.120.172.74:1110
