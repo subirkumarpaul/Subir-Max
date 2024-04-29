@@ -10,7 +10,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=CzTg3BHgF76BfxdAR5Z9VA&expires=1714343033&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
@@ -33,7 +33,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
 http://xtv.ooo:8080/live/shahz18/18usman/238475.ts
 #https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Willow HD
-http://watchindia.net:8880/live/62448/92037/1067.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Live English
@@ -58,8 +58,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
-http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
-#https://test.bongodrive.pw/bdix.m3u8?ac=1101
+http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
 https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports
@@ -110,8 +109,8 @@ https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Bangla",SATV
 #http://xtv.ooo:8080/live/shahz18/18usman/245945.ts
-#https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-http://cdn01.palki.tv/live/SATV-M/index.m3u8
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+#http://cdn01.palki.tv/live/SATV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
@@ -119,8 +118,6 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Bangla",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
-#https://bongohub.pw/bioscope.php?cc=mohona-tv
-#http://103.151.60.214:7444/1133/video.m3u8
 #https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 
