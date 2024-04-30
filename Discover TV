@@ -383,7 +383,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV
-http://103.120.172.74:1110
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png"group-title="Hindi",Sony TV HD
 http://103.120.172.74:5000
 #https://bongohub.pw/bioscope.php?cc=sony-hd-live
@@ -492,35 +492,22 @@ http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019888&
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Movies Channel 12
 http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019886&extension=ts
 
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 1 FHD 
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d460f583cc9388a9b926d45e4c7094f8ffcd3a7f64242/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 2 FHD 
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d460f583cc9388a9b926d45e4c7094f8ffcd0a7f64242/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 3 FHD
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5a75adeba6/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 4 FHD
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5975adeba6/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 5 FHD
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5875adeba6/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="", CineMania Goldmines Dubbed 6 FHD
-http://78.40.140.168:8978/8be1228d28529b5dbcb9b93e21d34733717a9e50b70c0d49095a3ccd0ea08b835064f5fa5f75adeba6/index.m3u8
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
-http://103.107.79.87:8080/1607/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/66179.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
-#https://bongohub.pw/bioscope.php?cc=sony-max-hd-live
 #http://89.187.177.137:8081/SONYMAX/index.m3u8
 http://103.120.172.74:1150
-#http://xtv.ooo:8080/live/T4S00515/820172/109957.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Set%20Max%202.jpeg"group-title="Hindi Movies",Sony Max 2
-#https://bongohub.pw/bioscope.php?cc=max-2
+http://xtv.ooo:8080/live/RiyazMPT/433833/66189.ts
 #http://208.86.19.13:81/7300.stream/index.m3u8
-http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Wah.jpeg"group-title="Hindi Movies",Sony Wah
 http://103.107.79.87:8080/1306/tracks-v1a1/mono.m3u8
@@ -565,13 +552,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/66177.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
 #https://pos.bongohub.pw/mac.m3u8?id=10968
-http://xtv.ooo:8080/live/T4S00515/820172/106133.ts
 http://xtv.ooo:8080/live/shahz18/18usman/106133.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Thrills
 http://xtv.ooo:8080/live/RiyazMPT/433833/221258.ts
-http://xtv.ooo:8080/live/shahz18/18usman/221258.ts
-#http://mag.trexlive.me:80/Michael88/Michael88/155996
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
@@ -709,7 +694,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/167595.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5 HD
 #http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
-
+http://103.120.172.74:1110
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports",Sony Sports Ten 5
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 SD
