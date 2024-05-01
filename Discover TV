@@ -124,8 +124,8 @@ http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
 #http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
-http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
-#https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
+#http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
+https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 https://myflixbd.com/0.m3u8
@@ -147,8 +147,6 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangla",Anando TV
-#https://bongohub.pw/bioscope.php?cc=ananda-tv
-#https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla",Banglavision
