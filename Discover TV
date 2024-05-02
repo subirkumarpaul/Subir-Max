@@ -305,9 +305,9 @@ http://xtv.ooo:8080/live/shahz18/18usman/245898.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
-https://himel-op.top/portal/ditto.m3u8?id=750
-https://jio.sadman0.workers.dev/1977/master/index.m3u8
-#http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
+https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=zee_bangla
+#https://himel-op.top/portal/ditto.m3u8?id=750
+#https://jio.sadman0.workers.dev/1977/master/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Kolkata Bangla",Zee Bangla HD
 #https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
 #http://176.119.29.52/live.ts?channelId=0120&uid=3319&deviceMac=00:1A:79:50:31:74
