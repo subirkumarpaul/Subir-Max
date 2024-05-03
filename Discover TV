@@ -5,7 +5,7 @@ https://1rdk.short.gy/Fancode-Worldwide/Ban-vs-Zim/Manik-Chora-Duchi/Join-TG-@Hi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
-https://nayeemparvez.my.id/aptv/stream.php?id=29
+http://103.151.60.214:7444/1101/video.m3u8
 #http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
@@ -1426,12 +1426,13 @@ http://103.107.79.87:8080/CH8106SD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1,06SD08
 http://103.107.79.87:8080/CH8106SD08/tracks-v1a1/mono.m3u8
 
-
-
+http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
+http://103.151.60.214:7444/1402/video.m3u8
 #EXTM3U
 #EXTINF:-1,BTV
 #http://himelop-hoichoi24.myddns.me:8080/1114/index.fmp4.m3u8
-#http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
+#http://103.151.60.214:7444/1114/tracks-v1a1/index.m3u8
+http://103.151.60.214:7444
 https://tv5.hoichoi24.com/1114/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ananda TV
 #http://himelop-hoichoi24.myddns.me:8080/1117/index.fmp4.m3u8
