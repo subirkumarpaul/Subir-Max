@@ -734,7 +734,7 @@ http://121.91.61.106:8000/play/a04h/index.m3u8
 https://webhdrus.onlinehdhls.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten-Cricket.png"group-title="Sports",Ten Cricket
-http://xtv.ooo:8080/live/shahz18/18usman/167587.ts
+http://xtv.ooo:8080/live/RiyazMPT/433833/167587.ts
 
 #EXTINF:-1,Fast Sports
 http://121.91.61.106:8000/play/a042/index.m3u8
