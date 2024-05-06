@@ -561,7 +561,10 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 http://xtv.ooo:8080/live/RiyazMPT/433833/66176.ts
+http://xtv.ooo:8080/adnankb2006/86057314/221257
 
+#EXTINF:-1,Star Ustav Movies
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=1112131&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies",Colors Cineplex
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
@@ -582,7 +585,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback
 #https://himeop-pro.000webhostapp.com/cooltvop.m3u8?id=10345
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures
-#https://bongohub.pw/bioscope.php?cc=pictures-hd
+http://xtv.ooo:8080/live/415663775/826262627/221260.ts
 #http://xtv.ooo:8080/live/RiyazMPT/433833/66186.ts
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
 
