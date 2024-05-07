@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Ban Vs Zim
-http://opplex.tv:8080/live/223322/223322/346373.ts
+http://opplex.tv:8080/live/223322/223322/346373.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
