@@ -4,8 +4,6 @@
 https://a2uy.short.gy/BAN-V-ZIM(Worldwide)/Join-TG@HimelOP_Official/Zubayer-Op.m3u8
 #EXTINF:-1,Ban Vs Zim
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-3&hls=master_1300.m3u8
-#EXTINF:-1,Ban Vs Zim
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Toffee Live
 https://its-nayeemparvez.xyz/toffee/stream.php?id=match-1&hls=master_1300.m3u8
@@ -18,9 +16,10 @@ https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://103.151.60.214:7444/1101/video.m3u8
-http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
+#http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=t_sports
 http://xtv.ooo:8080/live/shahz18/18usman/167590.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 T Sports
 http://103.151.60.214:7444/1101/video.m3u8
@@ -29,7 +28,7 @@ https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 http://103.151.60.214:7444/1102/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Gazi TV
-
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
 http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL 2024 Star Sports 1
@@ -81,7 +80,7 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
-
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="Bangla",Gazi TV
@@ -135,11 +134,11 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
 #https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png"group-title="Bangla",Desh TV
 #http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
 #http://176.119.29.52/live.ts?channelId=093&uid=3319&deviceMac=00:1A:79:50:31:74
 https://freeiptv25.netlify.app/live/bdix/app/DeshTv.m3u8
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=desh_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangla",MY TV
 https://myflixbd.com/0.m3u8
@@ -171,7 +170,7 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #http://startv365.com/9794783213/6955630461/400200127
 #http://xtv.ooo:8080/live/shahz18/18usman/245939.ts
 #http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=nagorik_tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Bangla",Bijoy TV
 #https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
@@ -1236,7 +1235,7 @@ http://xtv.ooo:8080/live/shahz18/18usman/66266.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
-
+https://bdixtv247.techpriyo.com/api/jadootv/jadolist.php?id=macau_lotus
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Flix
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
