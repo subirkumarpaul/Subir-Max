@@ -445,16 +445,14 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/i
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
-#http://103.120.172.74:1140
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+http://ku.satocean.uk:8080/uk_ztvuk/index.m3u8?token=1a75090f7c7326dc158903d7110afa8b
+http://103.120.172.74:1140
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee TV HD
-#http://103.120.172.74:4000
+http://103.120.172.74:4000
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_TV_HD_MOB/Fallback/index.m3u8
-#https://bongohub.pw/bioscope.php?cc=zee-tv-hd
-#https://tv5.hoichoi24.com/1706/tracks-v1a1/mono.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+http://ku.satocean.uk:8080/uk_ztvuk/index.m3u8?token=1a75090f7c7326dc158903d7110afa8b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Hindi",Zee Anmol
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Anmol_MOB/Fallback/index.m3u8
